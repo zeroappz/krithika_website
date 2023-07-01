@@ -26,7 +26,7 @@
 <body>
 
 	<!-- Header Start -->
-	<?php include 'header.php'; ?>
+	<?php include 'header.php';?>
 
 	<!-- Header End -->
 
@@ -537,7 +537,7 @@
 	<!--=== End Subscribe Section ===-->
 
 	<!-- Footer Start -->
-	<?php include 'Footer.php'; ?>
+	<?php include 'Footer.php';?>
 
 	<!-- Footer End -->
 	<!--=== Start Copy Right Section ===-->
