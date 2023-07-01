@@ -173,15 +173,16 @@
 						</li>
 					</ul>
 					<!--
-											<div class="nav-right-options">
-												<ul>
-													<li>
-														<a href="https://admin.kirthikadentalcare.in/appointment" class="main-btn">
-															<span>Appointment</span>
-														</a>
-													</li>
-												</ul>
-											</div> -->
+						<div class="nav-right-options">
+							<ul>
+								<li>
+									<a target="_blank" href="https://admin.kirthikadentalcare.in/appointment" class="main-btn">
+										<span>Appointment</span>
+									</a>
+								</li>
+							</ul>
+						</div> 
+					-->
 					<div class="main">
 
 						<!-- Actual search box -->
