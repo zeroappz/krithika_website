@@ -1,12 +1,12 @@
 <!doctype html>
 <html lang="zxx">
-    
+
 <head>
 		<!--=== Required meta tags ===-->
 		<meta charset="utf-8">
 		<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
-		<!--=== CSS Link ===--> 
+		<!--=== CSS Link ===-->
 		<link rel="stylesheet" href="assets/css/bootstrap.min.css">
 		<link rel="stylesheet" href="assets/css/owl.theme.default.min.css">
 		<link rel="stylesheet" href="assets/css/owl.carousel.min.css">
@@ -16,7 +16,7 @@
 		<link rel="stylesheet" href="assets/css/magnific-popup.min.css">
 		<link rel="stylesheet" href="assets/css/style.css">
 		<link rel="stylesheet" href="assets/css/responsive.css">
-		
+
 		<!--=== Favicon ===-->
 		<link rel="icon" type="image/png" href="assets/images/favicon.png">
 		<!--=== Title ===-->
@@ -207,18 +207,18 @@
 							<h4>Introduction</h4>
 							<h3>Oral and Maxillofacial</h3>
 							<p><b>What is the meaning of maxillofacial?</b><br></p>
-											
+
 							<p>Maxillofacial means jaws and face, which combines with mouth becomes the domain/area of specialization of oral and
 							maxillofacial surgeon.</p>
-							
+
 							<p><b>What is oral treatment/surgery?</b><br></p>
-							
+
 							<Third>This is a branch of dentistry which deals in diagnosing and surgically treating injuries, diseases, defects of jaws,
 							mouth, face etc. This also includes dental implants, removing decayed teeth, biopsy and taking of cysts as well as
 							tumors of jaw and mouth, treating facial trauma and jaw reconstruction.
-							
+
 							<p><b>What treatment/procedures are followed by oral and maxillofacial surgeon?</b><br></p>
-							
+
 							<p>Oral and maxillofacial surgeons perform the following procedures/treatments:</p>
 							<ul>
 								<li>
@@ -258,25 +258,25 @@
 								includes upper and lower fractures of the jaws and orbit.
 										</li>
 											<li>
-								
-							
+
+
 							</ul>
 							<h4>Watch The Sealants Image</h4>
 
 							<div class="services-img-1">
 								<img src="assets/images/services/oral-and-maxillofacial-surgery-section-2.png" alt="Image">
-								
+
 							</div>
 
 							<h3>How important is it to be board certified in oral and maxillofacial surgery?</h3>
 							<p>One should graduate from accredited school of dentistry and completed program of oral and maxillofacial surgery which is
 							passed by ADA. It requires 13 years of training and education .ADA recognizes a board for oral and maxillofacial surgery
 							which has the responsibility to review all the applicants that need board certification.</p>
-							
+
 							<p>The board also administers examinations for the certification process. There is written as well as oral examination ,and
 							when one clears both then only he is certified as diplomate by the board. Diplomates are motivated to continue education
 							to improve their skills</p>
-							
+
 							<!-- <p>Third is the retention phase in which the patient is required to wear a retainer so that teeth retain their new
 							place/position.</p> -->
 
@@ -301,7 +301,7 @@
 									which the eruption and formation of the teeth are monitored. Then in phase II when the child turns 12-13 full braces can
 									be put if the teeth are still not in the right shape.
 								</li>
-							
+
 							</ul>
 
 							<h4>Do adults go for this treatment?</h4>
@@ -309,13 +309,13 @@
 							braces.</p>
 
 							<p><b>What types of braces are available?</b><br></p>
-							
+
 							<p>There are 3 type of braces i.e. metallic, ceramic and invisalign. Metal braces are conventional and most commonly used.
 							Ceramic are very popular with adults as they look good and match with the teeth color. Invisalign are invisible and can
 							also be removed. They are very comfortable as there is no use of metal brackets and wires.</p>
 
 							<p><b>How much time is required for the treatment?</b><br></p>
-							
+
 							<p>On an average 22 months time is required but the time depends on individual need and problem.</p> -->
 
 						</div>
@@ -335,7 +335,7 @@
 							<h2>Subscribe To Get The Latest News</h2>
 						</div>
 					</div>
-					
+
 					<div class="col-lg-6">
 						<form class="form-floating form-group subscribe-form wow fadeInUp delay-0-4s">
 							<input type="email" class="form-control" id="yourEmails" placeholder="Your Email" value="" required="">
@@ -395,7 +395,7 @@
 		</ul> -->
 
         <!--=== JS Link ===-->
-        <script src="assets/js/jquery.min.js"></script> 
+        <script src="assets/js/jquery.min.js"></script>
         <script src="assets/js/bootstrap.bundle.min.js"></script>
 		<script src="assets/js/jquery.meanmenu.js"></script>
 		<script src="assets/js/owl.carousel.min.js"></script>

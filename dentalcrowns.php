@@ -1,12 +1,12 @@
 <!doctype html>
 <html lang="zxx">
-    
+
 <head>
 		<!--=== Required meta tags ===-->
 		<meta charset="utf-8">
 		<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
-		<!--=== CSS Link ===--> 
+		<!--=== CSS Link ===-->
 		<link rel="stylesheet" href="assets/css/bootstrap.min.css">
 		<link rel="stylesheet" href="assets/css/owl.theme.default.min.css">
 		<link rel="stylesheet" href="assets/css/owl.carousel.min.css">
@@ -16,7 +16,7 @@
 		<link rel="stylesheet" href="assets/css/magnific-popup.min.css">
 		<link rel="stylesheet" href="assets/css/style.css">
 		<link rel="stylesheet" href="assets/css/responsive.css">
-		
+
 		<!--=== Favicon ===-->
 		<link rel="icon" type="image/png" href="assets/images/favicon.png">
 		<!--=== Title ===-->
@@ -182,23 +182,23 @@
 							<h4>Introduction</h4>
 							<h3>Dental Crown</h3>
 							<p><b>Made to match the color of your natural teeth.</b><br></p>
-											
+
 							<p>Over time, teeth can be damaged, cracked or weakened by decay. Dentists use a crown to entirely cover or “cap” a damaged tooth. Crowns are made to match the color of your natural teeth, and besides strengthening an impaired tooth, these can be used to improve your teeth’s appearance, shape or alignment. Dental crowns can be fashioned from stainless steel, ceramic, acrylic, gold and metal alloys. Unlike removable devices such as dentures, crowns are cemented onto existing teeth or implants, and can only be removed by your dentist. Crowns are made to match the color of your natural teeth, and besides strengthening an impaired tooth, these can be used to improve your teeth’s appearance, shape or alignment.</p>
-							
+
 							<!-- <p><b>Who are the candidates of orthodontic treatment?</b><br></p>
-							
+
 							<Third>One who has got misaligned teeth, crowded teeth, buck teeth, overlapping of teeth and gap between the teeth are the
 							candidates of orthodontic treatment.
-							
+
 							<p><b>What does the orthodontist do?</b><br></p>
-							
+
 							<p>Normally the irregularity of the teeth is corrected by putting braces.</p>
 
 							<h4>Watch The Sealants Image</h4> -->
 
 							<div class="services-img-1">
 								<img src="assets\images\services\dental-crowns-section-2.png" alt="Image">
-								
+
 							</div>
 
 							<h3>Our dental experts may recommend a crown to:</h3>
@@ -238,8 +238,8 @@
 											<span class="bulletPoints"></span>
 											Cover a tooth that has had root canal treatment.
 										</li>
-											
-							
+
+
 							</ul>
 
 
@@ -262,7 +262,7 @@
 									which the eruption and formation of the teeth are monitored. Then in phase II when the child turns 12-13 full braces can
 									be put if the teeth are still not in the right shape.
 								</li>
-							
+
 							</ul>
 
 							<h4>Do adults go for this treatment?</h4>
@@ -270,13 +270,13 @@
 							braces.</p>
 
 							<p><b>What types of braces are available?</b><br></p>
-							
+
 							<p>There are 3 type of braces i.e. metallic, ceramic and invisalign. Metal braces are conventional and most commonly used.
 							Ceramic are very popular with adults as they look good and match with the teeth color. Invisalign are invisible and can
 							also be removed. They are very comfortable as there is no use of metal brackets and wires.</p>
 
 							<p><b>How much time is required for the treatment?</b><br></p>
-							
+
 							<p>On an average 22 months time is required but the time depends on individual need and problem.</p> -->
 
 						</div>
@@ -296,7 +296,7 @@
 							<h2>Subscribe To Get The Latest News</h2>
 						</div>
 					</div>
-					
+
 					<div class="col-lg-6">
 						<form class="form-floating form-group subscribe-form wow fadeInUp delay-0-4s">
 							<input type="email" class="form-control" id="yourEmails" placeholder="Your Email" value="" required="">
@@ -345,7 +345,7 @@
 			<!--=== End Back To Top Section ===-->
 		</div>
 		<!--=== End Copy Right Section ===-->
-<!-- 
+<!--
 		<ul class="rtl-buy">
 			<li>
 				<a href="https://croptheme.com/Krithika Dental Care/Krithika Dental Care-rtl/">RTL</a>
@@ -356,7 +356,7 @@
 		</ul> -->
 
         <!--=== JS Link ===-->
-        <script src="assets/js/jquery.min.js"></script> 
+        <script src="assets/js/jquery.min.js"></script>
         <script src="assets/js/bootstrap.bundle.min.js"></script>
 		<script src="assets/js/jquery.meanmenu.js"></script>
 		<script src="assets/js/owl.carousel.min.js"></script>

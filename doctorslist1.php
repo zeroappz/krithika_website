@@ -25,7 +25,7 @@
 
 <body>
     <!-- Header Start -->
-    <?php include 'header.php'; ?>
+    <?php include 'header.php';?>
 
     <!-- Header End -->
     <!--=== Start Doctors Section ===-->
@@ -210,7 +210,7 @@
                             <span>MDS (Orthodontics)</span>
                         </div>
                     </div>
-                </div> 
+                </div>
 
                 <div class="col-lg-4 col-sm-6">
                     <div class="main-doctors-item hover-style wow fadeInUp delay-0-6s">
@@ -315,7 +315,7 @@
 
 
     <!-- Footer Start -->
-    <?php include 'Footer.php'; ?>
+    <?php include 'Footer.php';?>
 
     <!-- Footer End -->
 

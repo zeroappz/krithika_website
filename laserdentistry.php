@@ -1,12 +1,12 @@
 <!doctype html>
 <html lang="zxx">
-    
+
 <head>
 		<!--=== Required meta tags ===-->
 		<meta charset="utf-8">
 		<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
-		<!--=== CSS Link ===--> 
+		<!--=== CSS Link ===-->
 		<link rel="stylesheet" href="assets/css/bootstrap.min.css">
 		<link rel="stylesheet" href="assets/css/owl.theme.default.min.css">
 		<link rel="stylesheet" href="assets/css/owl.carousel.min.css">
@@ -16,7 +16,7 @@
 		<link rel="stylesheet" href="assets/css/magnific-popup.min.css">
 		<link rel="stylesheet" href="assets/css/style.css">
 		<link rel="stylesheet" href="assets/css/responsive.css">
-		
+
 		<!--=== Favicon ===-->
 		<link rel="icon" type="image/png" href="assets/images/favicon.png">
 		<!--=== Title ===-->
@@ -207,31 +207,31 @@
 							<h4>Introduction</h4>
 							<h3>Laser Dentistry</h3>
 							<p><b>What is laser dentistry?</b><br></p>
-											
+
 							<p>Laser dentistry is an effective and precise way of performing various dental procedures .Laser dentistry has the
 							potential to improve various dental procedures, but all depends on the personnel skill of the dentist i.e. his ability
 							and skill to control the exposure of laser on the gum as well as the teeth surface, and control over power output.
 							Special care is required as the laser should not damage the surrounding tissues.</p>
-							
+
 							<!-- <p><b>Who are the candidates of orthodontic treatment?</b><br></p>
-							
+
 							<Third>One who has got misaligned teeth, crowded teeth, buck teeth, overlapping of teeth and gap between the teeth are the
 							candidates of orthodontic treatment.
-							
+
 							<p><b>What does the orthodontist do?</b><br></p>
-							
+
 							<p>Normally the irregularity of the teeth is corrected by putting braces.</p> -->
 
 							<h4>Watch The Laser Dentistry Image</h4>
 
 							<div class="services-img-1">
 								<img src="assets/images/services/laser-dentistry-section-2.png" alt="Image">
-								
+
 							</div>
 
 							<h3>What are the benefits of laser dentistry?</h3>
 							<p>Some benefits of laser dentistry are:-</p>
-							
+
 							<ul>
 								<li>
 									<!-- <p><b>Why teeth become irregular?</b><br></p> -->
@@ -264,8 +264,8 @@
 									Wounds heal up faster and there is regeneration of tissues.
 								</li>
 								<li>
-							
-							
+
+
 							</ul>
 
 
@@ -283,18 +283,18 @@
 									is very much better than the traditional procedures that cut the tissues using scalpels. Laser is used to vaporize only
 									diseased tissues which leave the tissues healthy and free of diseases.
 								<!-- </li> -->
-							
-							
+
+
 							</ul>
-							<p>        
-								
-							
-							
-							
+							<p>
+
+
+
+
 							</p>
 								<div class="services-img-1">
 									<img src="assets/images/services/laser-dentistry-section-3.png" alt="Image">
-								
+
 								</div>
 							<h4>How much recovery time is required after laser gum treatment?</h4>
 							<p>Laser automatically forms clots/it seals the blood vessels as well the nerve ending. One can return back to work
@@ -302,14 +302,14 @@
 							as there is no recovery time.</p>
 
 							<p><b>Is laser used for all dental procedures?</b><br></p>
-							
+
 							<p>Lasers reflect light with the help of a mirror hence it gets difficult /impossible to remove the silver filling i.e.
 							amalgam filling as there are chances of fracture of mirror. The conventional drill removes the amalgam filling in first
 							instance. Then laser is used to remove decay and the cavity that allows the placement of tooth color filling.
 							Combination of conventional drill and laser is used for extensive works such as preparation of crown.</p>
 
 							<!-- <p><b>Is laser used for all dental procedures?</b><br></p>
-							
+
 							<p>On an average 22 months time is required but the time depends on individual need and problem.</p> -->
 									</div>
 									<h4>How costly is the laser therapy?</h4>
@@ -334,7 +334,7 @@
 							<h2>Subscribe To Get The Latest News</h2>
 						</div>
 					</div>
-					
+
 					<div class="col-lg-6">
 						<form class="form-floating form-group subscribe-form wow fadeInUp delay-0-4s">
 							<input type="email" class="form-control" id="yourEmails" placeholder="Your Email" value="" required="">
@@ -383,7 +383,7 @@
 			<!--=== End Back To Top Section ===-->
 		</div>
 		<!--=== End Copy Right Section ===-->
-<!-- 
+<!--
 		<ul class="rtl-buy">
 			<li>
 				<a href="https://croptheme.com/Krithika Dental Care/Krithika Dental Care-rtl/">RTL</a>
@@ -394,7 +394,7 @@
 		</ul> -->
 
         <!--=== JS Link ===-->
-        <script src="assets/js/jquery.min.js"></script> 
+        <script src="assets/js/jquery.min.js"></script>
         <script src="assets/js/bootstrap.bundle.min.js"></script>
 		<script src="assets/js/jquery.meanmenu.js"></script>
 		<script src="assets/js/owl.carousel.min.js"></script>

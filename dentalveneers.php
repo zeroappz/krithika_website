@@ -1,12 +1,12 @@
 <!doctype html>
 <html lang="zxx">
-    
+
 <head>
 		<!--=== Required meta tags ===-->
 		<meta charset="utf-8">
 		<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
-		<!--=== CSS Link ===--> 
+		<!--=== CSS Link ===-->
 		<link rel="stylesheet" href="assets/css/bootstrap.min.css">
 		<link rel="stylesheet" href="assets/css/owl.theme.default.min.css">
 		<link rel="stylesheet" href="assets/css/owl.carousel.min.css">
@@ -16,7 +16,7 @@
 		<link rel="stylesheet" href="assets/css/magnific-popup.min.css">
 		<link rel="stylesheet" href="assets/css/style.css">
 		<link rel="stylesheet" href="assets/css/responsive.css">
-		
+
 		<!--=== Favicon ===-->
 		<link rel="icon" type="image/png" href="assets/images/favicon.png">
 		<!--=== Title ===-->
@@ -207,35 +207,35 @@
 							<h4>Introduction</h4>
 							<h3>Dental Veneers</h3>
 							<!-- <p><b>What is the meaning of orthodontics?</b><br></p> -->
-											
+
 							<p>Veneers are laminates made up of ceramic, porcelain, composite bonding materials. They ate very thin like a wafer and are bonded over the visible portion of the teeth to enhance the appearance. Dentist use it to correct misaligned teeth, discolored teeth and worn out enamel. Veneers are suitable for people who like to improve aesthetics of teeth</p>
-							
+
 							<p><b>What are the advantages of veneers?</b><br></p>
-							
+
 							<Third>Veneers last for a long time and moreover they require very little tooth preparation. They look very natural and healthy.
-							
+
 							<p><b>How long can veneers last?</b><br></p>
-							
+
 							<p>Dental veneers can last for say 10 to 15 years (or even more), after that they need replacement. Veneers need proper care and maintenance, only then they will continue to give an attractive smile for years.</p>
 
 
 							<div class="services-img-1">
 								<img src="assets\images\services\dental-veneers-section-2.png" alt="Image">
-								
+
 							</div>
 
 							<h3>What kind of tooth preparation is involved?</h3>
 							<p>For a strong bond between the teeth and the veneer the enamel has to be reduced. The dentist reduces the enamel and takes the impression of the teeth, and then it is sent to the lab where the veneer is made. The thickness of the veneer is same as the amount of veneer reduced. Hence the veneer looks very natural, as its color is made identical to the surrounding teeth.</p>
-							
+
                             <p><b>Is the process of attaching veneer painful?</b></p>
 							<p>Patient does not experience any pain, but there is some amount of discomfort when the enamel is reduced .The dentist gives an anesthesia before filing and reshaping the teeth, but there is no pain when the veneer is attached. Sensitivity to cold/ hot can be felt after the veneer is fitted.</p>
-							
+
 							<!-- <p>Third is the retention phase in which the patient is required to wear a retainer so that teeth retain their new
 							place/position.</p> -->
 
                             <div class="services-img-1">
 								<img src="assets\images\services\dental-veneers-section-3.png" alt="Image">
-								
+
 							</div>
 
 							<h3>What are the alternatives to veneers?</h3>
@@ -263,7 +263,7 @@
 									which the eruption and formation of the teeth are monitored. Then in phase II when the child turns 12-13 full braces can
 									be put if the teeth are still not in the right shape.
 								</li>
-							
+
 							</ul>
 
 							<h4>Do adults go for this treatment?</h4>
@@ -271,13 +271,13 @@
 							braces.</p>
 
 							<p><b>What types of braces are available?</b><br></p>
-							
+
 							<p>There are 3 type of braces i.e. metallic, ceramic and invisalign. Metal braces are conventional and most commonly used.
 							Ceramic are very popular with adults as they look good and match with the teeth color. Invisalign are invisible and can
 							also be removed. They are very comfortable as there is no use of metal brackets and wires.</p>
 
 							<p><b>How much time is required for the treatment?</b><br></p>
-							
+
 							<p>On an average 22 months time is required but the time depends on individual need and problem.</p> -->
 
 						</div>
@@ -297,7 +297,7 @@
 							<h2>Subscribe To Get The Latest News</h2>
 						</div>
 					</div>
-					
+
 					<div class="col-lg-6">
 						<form class="form-floating form-group subscribe-form wow fadeInUp delay-0-4s">
 							<input type="email" class="form-control" id="yourEmails" placeholder="Your Email" value="" required="">
@@ -346,7 +346,7 @@
 			<!--=== End Back To Top Section ===-->
 		</div>
 		<!--=== End Copy Right Section ===-->
-<!-- 
+<!--
 		<ul class="rtl-buy">
 			<li>
 				<a href="https://croptheme.com/Krithika Dental Care/Krithika Dental Care-rtl/">RTL</a>
@@ -357,7 +357,7 @@
 		</ul> -->
 
         <!--=== JS Link ===-->
-        <script src="assets/js/jquery.min.js"></script> 
+        <script src="assets/js/jquery.min.js"></script>
         <script src="assets/js/bootstrap.bundle.min.js"></script>
 		<script src="assets/js/jquery.meanmenu.js"></script>
 		<script src="assets/js/owl.carousel.min.js"></script>

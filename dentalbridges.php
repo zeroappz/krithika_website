@@ -1,12 +1,12 @@
 <!doctype html>
 <html lang="zxx">
-    
+
 <head>
 		<!--=== Required meta tags ===-->
 		<meta charset="utf-8">
 		<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
-		<!--=== CSS Link ===--> 
+		<!--=== CSS Link ===-->
 		<link rel="stylesheet" href="assets/css/bootstrap.min.css">
 		<link rel="stylesheet" href="assets/css/owl.theme.default.min.css">
 		<link rel="stylesheet" href="assets/css/owl.carousel.min.css">
@@ -16,7 +16,7 @@
 		<link rel="stylesheet" href="assets/css/magnific-popup.min.css">
 		<link rel="stylesheet" href="assets/css/style.css">
 		<link rel="stylesheet" href="assets/css/responsive.css">
-		
+
 		<!--=== Favicon ===-->
 		<link rel="icon" type="image/png" href="assets/images/favicon.png">
 		<!--=== Title ===-->
@@ -206,54 +206,54 @@
 							<h4>Introduction</h4>
 							<h3>Dental Bridges</h3>
 							<p><b>What are dental bridges & when are they used?</b><br></p>
-											
+
 							<p>Dental bridges are used in case of a missing tooth ,they are false teeth also called as pontics .Dental bridges fills up the gap created by a missing teeth which helps in reducing dental problems , tooth drift and gum diseases. Traditionally removable dentures were used, which were not permanent, but dental bridges are permanent as they are anchored to the teeth with the help of metal bands held by Cement or resin.</p>
-							
+
 							<p><b>What type of material is used for dental bridges?</b><br></p>
-							
+
 							<Third>Materials used include porcelain, gold fused with the metal, or in many situations only porcelain is used. The type and amount of teeth reduction depends on the type of materials used.
-							
+
 							<!-- <p><b>What does the orthodontist do?</b><br></p>
-							
+
 							<p>Normally the irregularity of the teeth is corrected by putting braces.</p>
 
 							<h4>Watch The Sealants Image</h4> -->
 
 							<div class="services-img-1">
 								<img src="assets\images\services\dental-bridges-section-2.png" alt="Image">
-								
+
 							</div>
 
 							<h3>What are the types of bridges used?</h3>
 							<p>Three types of bridges are used fixed, cantilever and resin bonded bridges. Two main factors decide the type of bridge to be used i.e. the positioning of the gap as well as the teeth situated on either sides of the gap.</p>
-							
+
 							<p><b>Fixed Bridges</b><br></p>
 							<p>These bridges fill up the gap anywhere in the mouth. In this a false tooth is anchored to a new crown which is attached to the teeth situated at the either side of the gap. Crowns are made of porcelain and the new teeth are made up of porcelain or ceramic.</p>
-							
+
 							<p><b>Cantilever Bridges</b><br></p>
 							<p>These dental bridges are used when there is only one healthy tooth at one side of the gap. This bridge is anchored to one or more than one teeth, on one side only. Such bridges are suitable for front teeth i.e. low stress bridges.</p>
 
 							<div class="services-img-1">
 								<img src="assets\images\services\dental-bridges-section-3.png" alt="Image">
-								
+
 							</div>
 
 							<h3>Resin Bonded Bridges?</h3>
 							<p>These bridges do not require crowning of the adjacent teeth, hence are appropriate where there is little or no damage..The new tooth is made up of plastic which is attached with the help of metal bands to adjacent teeth through resin. Such bridges are well suited for less stress teeth such as front teeth where the bonding can be done behind the teeth which make the bridge out of view.</p>
-							
+
 							<p><b>How can the bridge be fitted?</b><br></p>
 							<p>Bridges require at least 2/3 visits to the dentist .In the first visit space is made for the new crown. This preparatory work is done for fixed bridge. The dentist takes a mould of the teeth with the help of which the bridge is made. In the second visit the bridge is fitted and it is adjusted to get a correct bite. Once the patient is comfortable with the bridge it is permanently fixed..</p>
 
 							<h3>What type of care is required after the bridge is fitted?</h3>
 							<p>These bridges do not require crowning of the adjacent teeth, hence are appropriate where there is little or no damage..The new tooth is made up of plastic which is attached with the help of metal bands to adjacent teeth through resin. Such bridges are well suited for less stress teeth such as front teeth where the bonding can be done behind the teeth which make the bridge out of view.</p>
-							
+
 							<p><b>What is the cost involved?</b><br></p>
 							<p>It is expensive & the cost depends on the type of material used & number of visits.</p>
 
 							<p><b>Alternative to bridges is dentures/ implants.</b><br></p>
 							<p>Alternative to bridges is dentures/ implants.</p>
-							
-						
+
+
 							<!-- <h4>What are the advantages of orthodontics?</h4>
 							<p>Orthodontics can change the teeth as well as the whole facial structure. BY aligning teeth one gets the correct
 							functioning of the jaw and a n attractive smile. Teeth can be cleaned easily and the chances of gum diseases are reduced
@@ -275,7 +275,7 @@
 									which the eruption and formation of the teeth are monitored. Then in phase II when the child turns 12-13 full braces can
 									be put if the teeth are still not in the right shape.
 								</li>
-							
+
 							</ul> -->
 
 							<!-- <h4>Do adults go for this treatment?</h4>
@@ -283,13 +283,13 @@
 							braces.</p>
 
 							<p><b>What types of braces are available?</b><br></p>
-							
+
 							<p>There are 3 type of braces i.e. metallic, ceramic and invisalign. Metal braces are conventional and most commonly used.
 							Ceramic are very popular with adults as they look good and match with the teeth color. Invisalign are invisible and can
 							also be removed. They are very comfortable as there is no use of metal brackets and wires.</p>
 
 							<p><b>How much time is required for the treatment?</b><br></p>
-							
+
 							<p>On an average 22 months time is required but the time depends on individual need and problem.</p> -->
 
 						</div>
@@ -309,7 +309,7 @@
 							<h2>Subscribe To Get The Latest News</h2>
 						</div>
 					</div>
-					
+
 					<div class="col-lg-6">
 						<form class="form-floating form-group subscribe-form wow fadeInUp delay-0-4s">
 							<input type="email" class="form-control" id="yourEmails" placeholder="Your Email" value="" required="">
@@ -358,7 +358,7 @@
 			<!--=== End Back To Top Section ===-->
 		</div>
 		<!--=== End Copy Right Section ===-->
-<!-- 
+<!--
 		<ul class="rtl-buy">
 			<li>
 				<a href="https://croptheme.com/Krithika Dental Care/Krithika Dental Care-rtl/">RTL</a>
@@ -369,7 +369,7 @@
 		</ul> -->
 
         <!--=== JS Link ===-->
-        <script src="assets/js/jquery.min.js"></script> 
+        <script src="assets/js/jquery.min.js"></script>
         <script src="assets/js/bootstrap.bundle.min.js"></script>
 		<script src="assets/js/jquery.meanmenu.js"></script>
 		<script src="assets/js/owl.carousel.min.js"></script>

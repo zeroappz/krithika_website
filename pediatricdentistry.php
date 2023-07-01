@@ -1,12 +1,12 @@
 <!doctype html>
 <html lang="zxx">
-    
+
 <head>
 		<!--=== Required meta tags ===-->
 		<meta charset="utf-8">
 		<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
-		<!--=== CSS Link ===--> 
+		<!--=== CSS Link ===-->
 		<link rel="stylesheet" href="assets/css/bootstrap.min.css">
 		<link rel="stylesheet" href="assets/css/owl.theme.default.min.css">
 		<link rel="stylesheet" href="assets/css/owl.carousel.min.css">
@@ -16,7 +16,7 @@
 		<link rel="stylesheet" href="assets/css/magnific-popup.min.css">
 		<link rel="stylesheet" href="assets/css/style.css">
 		<link rel="stylesheet" href="assets/css/responsive.css">
-		
+
 		<!--=== Favicon ===-->
 		<link rel="icon" type="image/png" href="assets/images/favicon.png">
 		<!--=== Title ===-->
@@ -207,27 +207,27 @@
 							<h4>Introduction</h4>
 							<h3>Pediatric Dentistry</h3>
 							<p><b>What is the meaning of pediatric dentistry?</b><br></p>
-											
+
 							<p>Pediatric dentistry specializes in/takes care of the oral health of infant, children and adolescent. This dentistry also
 							treats children with special needs, who are physically and mentally challenged. Pediatric dentistry involves additional
 							study of 3 years (i.e. after 4 years of dental training).This branch of dentistry studies child growth, psychology and
 							development. Such dentists take care of wide variety of dental problems of children e.g. cavity, tooth decay,
 							malocclusion, emergency care, crooked teeth etc.</p>
-							
+
 							<!-- <p><b>Who are the candidates of orthodontic treatment?</b><br></p>
-							
+
 							<Third>One who has got misaligned teeth, crowded teeth, buck teeth, overlapping of teeth and gap between the teeth are the
 							candidates of orthodontic treatment.
-							
+
 							<p><b>What does the orthodontist do?</b><br></p>
-							
+
 							<p>Normally the irregularity of the teeth is corrected by putting braces.</p> -->
 
 							<h4>Watch The Pediatric Dentistry Image</h4>
 
 							<div class="services-img-1">
 								<img src="assets/images/services/pediatricdentistry_sec_2.png" alt="Image">
-								
+
 							</div>
 
 							<h3>When should a child first visit the dentist?</h3>
@@ -249,7 +249,7 @@
 	tooth brush can be used.</p>
 	<div class="services-img-1">
 		<img src="assets/images/services/pediatric-dentistry-section-3.png" alt="Image">
-	
+
 	</div>
 							<!-- <ul>
 								<li>
@@ -267,7 +267,7 @@
 									which the eruption and formation of the teeth are monitored. Then in phase II when the child turns 12-13 full braces can
 									be put if the teeth are still not in the right shape.
 								</li>
-							
+
 							</ul> -->
 
 							<h3>What is the right time to use a tooth paste?</h3>
@@ -277,13 +277,13 @@
 							their mouth thou rally after brushing.</p>
 
 							<p><b>What is a cavity?</b><br></p>
-							
+
 							<p>There care bacteria present in the mouth, when they come in contact with sweet food left in the mouth, they form acids.
 							These acids attack the enamel and create a hole in the teeth which results in severe pain. Children eat sweets,
 							chocolates and do not clean their teeth properly which results in cavity formation.</p>
 
 							<p><b>Does sucking thumb cause any problem in the teeth?</b><br></p>
-							
+
 							<p>The child should stop sucking thumb before the eruption of permanent teeth. If this habit continues there will be
 							problems such as buckteeth/open bite.</p>
 
@@ -304,7 +304,7 @@
 							<h2>Subscribe To Get The Latest News</h2>
 						</div>
 					</div>
-					
+
 					<div class="col-lg-6">
 						<form class="form-floating form-group subscribe-form wow fadeInUp delay-0-4s">
 							<input type="email" class="form-control" id="yourEmails" placeholder="Your Email" value="" required="">
@@ -353,7 +353,7 @@
 			<!--=== End Back To Top Section ===-->
 		</div>
 		<!--=== End Copy Right Section ===-->
-<!-- 
+<!--
 		<ul class="rtl-buy">
 			<li>
 				<a href="https://croptheme.com/Krithika Dental Care/Krithika Dental Care-rtl/">RTL</a>
@@ -364,7 +364,7 @@
 		</ul> -->
 
         <!--=== JS Link ===-->
-        <script src="assets/js/jquery.min.js"></script> 
+        <script src="assets/js/jquery.min.js"></script>
         <script src="assets/js/bootstrap.bundle.min.js"></script>
 		<script src="assets/js/jquery.meanmenu.js"></script>
 		<script src="assets/js/owl.carousel.min.js"></script>

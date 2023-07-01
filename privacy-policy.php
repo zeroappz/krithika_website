@@ -1,13 +1,13 @@
 <!doctype html>
 <html lang="zxx">
-    
-<!-- Mirrored from croptheme.com/Krithika Dental Care/Krithika Dental Care-ltr/privacy-policy.html by HTTrack Website Copier/3.x [XR&CO'2014], Wed, 28 Jun 2023 12:59:29 GMT -->
+
+
 <head>
 		<!--=== Required meta tags ===-->
 		<meta charset="utf-8">
 		<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
-		<!--=== CSS Link ===--> 
+		<!--=== CSS Link ===-->
 		<link rel="stylesheet" href="assets/css/bootstrap.min.css">
 		<link rel="stylesheet" href="assets/css/owl.theme.default.min.css">
 		<link rel="stylesheet" href="assets/css/owl.carousel.min.css">
@@ -17,7 +17,7 @@
 		<link rel="stylesheet" href="assets/css/magnific-popup.min.css">
 		<link rel="stylesheet" href="assets/css/style.css">
 		<link rel="stylesheet" href="assets/css/responsive.css">
-		
+
 		<!--=== Favicon ===-->
 		<link rel="icon" type="image/png" href="assets/images/favicon.png">
 		<!--=== Title ===-->
@@ -68,7 +68,7 @@
 							<a class="nav-link" href="#signup">6. Sign Up</a>
 						</div>
 					</div>
-	
+
 					<div class="col-lg-8">
 						<div class="ms-15">
 							<div data-bs-spy="scroll" data-bs-target="#list-example" data-bs-offset="0" data-bs-smooth-scroll="true" class="scrollspy-example" tabindex="0">
@@ -76,7 +76,7 @@
 									<div class="privacy-and-conditions-item">
 										<h3>1. Privacy Policy</h3>
 										<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugiat dolores eum tenetur odio. Debitis, quis et? Quasi sapiente labore, quisquam ad, molestias delectus nostrum impedit eligendi temporibus soluta numquam placeat? Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequatur magni officiis repellendus amet sed velit quisquam inventore voluptate consectetur doloribus nobis libero impedit repudiandae error id, tempore <a href="contact-us.php">Contact Us</a></p>
-	
+
 										<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolor, natus! Earum mollitia porro expedita perspiciatis voluptatum dolorum voluptates deleniti dolores possimus aliquam totam voluptas, delectus, rerum ducimus nemo et natus. Lorem ipsum dolor sit amet consectetur adipisicing elit. Rerum saepe veniam quod aperiam? Nesciunt sed nostrum incidunt repudiandae nulla ad atque nihil hic quod ab quam a, assumenda dolore quibusdam.</p>
 
 										<ul>
@@ -101,9 +101,9 @@
 												Dolor sit amet consectetur adipisicing elit. Fugiat dolores
 											</li>
 										</ul>
-	
+
 										<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugiat dolores eum tenetur odio. Debitis, quis et? Quasi sapiente labore, quisquam ad, molestias delectus nostrum impedit eligendi temporibus soluta numquam placeat? Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequatur magni officiis repellendus amet sed velit quisquam inventore voluptate consectetur doloribus nobis libero impedit repudiandae error id, tempore temporibus</p>
-	
+
 										<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolor, natus! Earum mollitia porro expedita perspiciatis voluptatum dolorum voluptates deleniti dolores possimus aliquam totam voluptas, delectus, rerum ducimus nemo et natus. Lorem ipsum dolor sit amet consectetur adipisicing elit. Rerum saepe veniam quod aperiam? Nesciunt sed nostrum incidunt repudiandae nulla ad atque nihil hic quod ab quam a, assumenda dolore quibusdam.</p>
 									</div>
 								</div>
@@ -112,11 +112,11 @@
 									<div class="privacy-and-conditions-item" >
 										<h3>2. User Policy</h3>
 										<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugiat dolores eum tenetur odio. Debitis, quis et? Quasi sapiente labore, quisquam ad, molestias delectus nostrum impedit eligendi temporibus soluta numquam placeat? Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequatur magni officiis repellendus amet sed velit quisquam inventore voluptate consectetur doloribus nobis libero impedit repudiandae error id, tempore <a href="contact-us.php">Contact Us</a></p>
-	
+
 										<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolor, natus! Earum mollitia porro expedita perspiciatis voluptatum dolorum voluptates deleniti dolores possimus aliquam totam voluptas, delectus, rerum ducimus nemo et natus. Lorem ipsum dolor sit amet consectetur adipisicing elit. Rerum saepe veniam quod aperiam? Nesciunt sed nostrum incidunt repudiandae nulla ad atque nihil hic quod ab quam a, assumenda dolore quibusdam.</p>
-	
+
 										<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugiat dolores eum tenetur odio. Debitis, quis et? Quasi sapiente labore, quisquam ad, molestias delectus nostrum impedit eligendi temporibus soluta numquam placeat? Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequatur magni officiis repellendus amet sed velit quisquam inventore voluptate consectetur doloribus nobis libero impedit repudiandae error id, tempore temporibus</p>
-	
+
 										<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolor, natus! Earum mollitia porro expedita perspiciatis voluptatum dolorum voluptates deleniti dolores possimus aliquam totam voluptas, delectus, rerum ducimus nemo et natus. Lorem ipsum dolor sit amet consectetur adipisicing elit. Rerum saepe veniam quod aperiam? Nesciunt sed nostrum incidunt repudiandae nulla ad atque nihil hic quod ab quam a, assumenda dolore quibusdam.</p>
 									</div>
 								</div>
@@ -125,11 +125,11 @@
 									<div class="privacy-and-conditions-item" >
 										<h3>3. Copyrights</h3>
 										<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugiat dolores eum tenetur odio. Debitis, quis et? Quasi sapiente labore, quisquam ad, molestias delectus nostrum impedit eligendi temporibus soluta numquam placeat? Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequatur magni officiis repellendus amet sed velit quisquam inventore voluptate consectetur doloribus nobis libero impedit repudiandae error id, tempore temporibus</p>
-	
+
 										<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolor, natus! Earum mollitia porro expedita perspiciatis voluptatum dolorum voluptates deleniti dolores possimus aliquam totam voluptas, delectus, rerum ducimus nemo et natus. Lorem ipsum dolor sit amet consectetur adipisicing elit. Rerum saepe veniam quod aperiam? Nesciunt sed nostrum incidunt repudiandae nulla ad atque nihil hic quod ab quam a, assumenda dolore quibusdam.</p>
-	
+
 										<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugiat dolores eum tenetur odio. Debitis, quis et? Quasi sapiente labore, quisquam ad, molestias delectus nostrum impedit eligendi temporibus soluta numquam placeat? Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequatur magni officiis repellendus amet sed velit quisquam inventore voluptate consectetur doloribus nobis libero impedit repudiandae error id, tempore temporibus</p>
-	
+
 										<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolor, natus! Earum mollitia porro expedita perspiciatis voluptatum dolorum voluptates deleniti dolores possimus aliquam totam voluptas, delectus, rerum ducimus nemo et natus. Lorem ipsum dolor sit amet consectetur adipisicing elit. Rerum saepe veniam quod aperiam? Nesciunt sed nostrum incidunt repudiandae nulla ad atque nihil hic quod ab quam a, assumenda dolore quibusdam.</p>
 									</div>
 								</div>
@@ -138,11 +138,11 @@
 									<div class="privacy-and-conditions-item" >
 										<h3>4. Cookies</h3>
 										<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugiat dolores eum tenetur odio. Debitis, quis et? Quasi sapiente labore, quisquam ad, molestias delectus nostrum impedit eligendi temporibus soluta numquam placeat? Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequatur magni officiis repellendus amet sed velit quisquam inventore voluptate consectetur doloribus nobis libero impedit repudiandae error id, tempore temporibus</p>
-	
+
 										<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolor, natus! Earum mollitia porro expedita perspiciatis voluptatum dolorum voluptates deleniti dolores possimus aliquam totam voluptas, delectus, rerum ducimus nemo et natus. Lorem ipsum dolor sit amet consectetur adipisicing elit. Rerum saepe veniam quod aperiam? Nesciunt sed nostrum incidunt repudiandae nulla ad atque nihil hic quod ab quam a, assumenda dolore quibusdam.</p>
-	
+
 										<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugiat dolores eum tenetur odio. Debitis, quis et? Quasi sapiente labore, quisquam ad, molestias delectus nostrum impedit eligendi temporibus soluta numquam placeat? Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequatur magni officiis repellendus amet sed velit quisquam inventore voluptate consectetur doloribus nobis libero impedit repudiandae error id, tempore temporibus</p>
-	
+
 										<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolor, natus! Earum mollitia porro expedita perspiciatis voluptatum dolorum voluptates deleniti dolores possimus aliquam totam voluptas, delectus, rerum ducimus nemo et natus. Lorem ipsum dolor sit amet consectetur adipisicing elit. Rerum saepe veniam quod aperiam? Nesciunt sed nostrum incidunt repudiandae nulla ad atque nihil hic quod ab quam a, assumenda dolore quibusdam.</p>
 									</div>
 								</div>
@@ -151,11 +151,11 @@
 									<div class="privacy-and-conditions-item" >
 										<h3>5. Account & Billing</h3>
 										<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugiat dolores eum tenetur odio. Debitis, quis et? Quasi sapiente labore, quisquam ad, molestias delectus nostrum impedit eligendi temporibus soluta numquam placeat? Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequatur magni officiis repellendus amet sed velit quisquam inventore voluptate consectetur doloribus nobis libero impedit repudiandae error id, tempore temporibus</p>
-	
+
 										<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolor, natus! Earum mollitia porro expedita perspiciatis voluptatum dolorum voluptates deleniti dolores possimus aliquam totam voluptas, delectus, rerum ducimus nemo et natus. Lorem ipsum dolor sit amet consectetur adipisicing elit. Rerum saepe veniam quod aperiam? Nesciunt sed nostrum incidunt repudiandae nulla ad atque nihil hic quod ab quam a, assumenda dolore quibusdam.</p>
-	
+
 										<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugiat dolores eum tenetur odio. Debitis, quis et? Quasi sapiente labore, quisquam ad, molestias delectus nostrum impedit eligendi temporibus soluta numquam placeat? Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequatur magni officiis repellendus amet sed velit quisquam inventore voluptate consectetur doloribus nobis libero impedit repudiandae error id, tempore temporibus</p>
-	
+
 										<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolor, natus! Earum mollitia porro expedita perspiciatis voluptatum dolorum voluptates deleniti dolores possimus aliquam totam voluptas, delectus, rerum ducimus nemo et natus. Lorem ipsum dolor sit amet consectetur adipisicing elit. Rerum saepe veniam quod aperiam? Nesciunt sed nostrum incidunt repudiandae nulla ad atque nihil hic quod ab quam a, assumenda dolore quibusdam.</p>
 									</div>
 								</div>
@@ -164,11 +164,11 @@
 									<div class="privacy-and-conditions-item" >
 										<h3>6. Sign Up</h3>
 										<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugiat dolores eum tenetur odio. Debitis, quis et? Quasi sapiente labore, quisquam ad, molestias delectus nostrum impedit eligendi temporibus soluta numquam placeat? Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequatur magni officiis repellendus amet sed velit quisquam inventore voluptate consectetur doloribus nobis libero impedit repudiandae error id, tempore temporibus</p>
-	
+
 										<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolor, natus! Earum mollitia porro expedita perspiciatis voluptatum dolorum voluptates deleniti dolores possimus aliquam totam voluptas, delectus, rerum ducimus nemo et natus. Lorem ipsum dolor sit amet consectetur adipisicing elit. Rerum saepe veniam quod aperiam? Nesciunt sed nostrum incidunt repudiandae nulla ad atque nihil hic quod ab quam a, assumenda dolore quibusdam.</p>
-	
+
 										<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugiat dolores eum tenetur odio. Debitis, quis et? Quasi sapiente labore, quisquam ad, molestias delectus nostrum impedit eligendi temporibus soluta numquam placeat? Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequatur magni officiis repellendus amet sed velit quisquam inventore voluptate consectetur doloribus nobis libero impedit repudiandae error id, tempore temporibus</p>
-	
+
 										<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolor, natus! Earum mollitia porro expedita perspiciatis voluptatum dolorum voluptates deleniti dolores possimus aliquam totam voluptas, delectus, rerum ducimus nemo et natus. Lorem ipsum dolor sit amet consectetur adipisicing elit. Rerum saepe veniam quod aperiam? Nesciunt sed nostrum incidunt repudiandae nulla ad atque nihil hic quod ab quam a, assumenda dolore quibusdam.</p>
 									</div>
 								</div>
@@ -189,7 +189,7 @@
 							<h2>Subscribe To Get The Latest News</h2>
 						</div>
 					</div>
-					
+
 					<div class="col-lg-6">
 						<form class="form-floating form-group subscribe-form wow fadeInUp delay-0-4s">
 							<input type="email" class="form-control" id="yourEmails" placeholder="Your Email" value="" required="">
@@ -249,7 +249,7 @@
 		</ul> -->
 
         <!--=== JS Link ===-->
-        <script src="assets/js/jquery.min.js"></script> 
+        <script src="assets/js/jquery.min.js"></script>
         <script src="assets/js/bootstrap.bundle.min.js"></script>
 		<script src="assets/js/jquery.meanmenu.js"></script>
 		<script src="assets/js/owl.carousel.min.js"></script>
@@ -261,5 +261,5 @@
 		<script src="assets/js/custom.js"></script>
     </body>
 
-<!-- Mirrored from croptheme.com/Krithika Dental Care/Krithika Dental Care-ltr/privacy-policy.html by HTTrack Website Copier/3.x [XR&CO'2014], Wed, 28 Jun 2023 12:59:29 GMT -->
+
 </html>

@@ -172,11 +172,11 @@
 							</ul>
 						</li>
 					</ul>
-					<!-- 
+					<!--
 											<div class="nav-right-options">
 												<ul>
 													<li>
-														<a href="appointment.php" class="main-btn">
+														<a href="https://admin.kirthikadentalcare.in/appointment" class="main-btn">
 															<span>Appointment</span>
 														</a>
 													</li>

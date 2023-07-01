@@ -1,12 +1,12 @@
 <!doctype html>
 <html lang="zxx">
-    
+
 <head>
 		<!--=== Required meta tags ===-->
 		<meta charset="utf-8">
 		<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
-		<!--=== CSS Link ===--> 
+		<!--=== CSS Link ===-->
 		<link rel="stylesheet" href="assets/css/bootstrap.min.css">
 		<link rel="stylesheet" href="assets/css/owl.theme.default.min.css">
 		<link rel="stylesheet" href="assets/css/owl.carousel.min.css">
@@ -16,7 +16,7 @@
 		<link rel="stylesheet" href="assets/css/magnific-popup.min.css">
 		<link rel="stylesheet" href="assets/css/style.css">
 		<link rel="stylesheet" href="assets/css/responsive.css">
-		
+
 		<!--=== Favicon ===-->
 		<link rel="icon" type="image/png" href="assets/images/favicon.png">
 		<!--=== Title ===-->
@@ -207,29 +207,29 @@
 							<h4>Introduction</h4>
 							<h3>Dental Implants</h3>
 							<p><b>What is the meaning of dental implant?</b><br></p>
-											
+
 							<p>A dental implant is manmade replacement in place of the natural teeth which enables a person to have fixed teeth. Dental
 							implants are different from transplants taken from others. What category of dental transplant is suitable for a patient
 							depends on the individual need and condition of the teeth. An x-ray is required to check the number of bones remaining;
 							space available in the mouth .The dentist does a examination before finalizing which type of implant should be done.</p>
-							
+
 							<p><b>Who are the candidates for dental implant?</b><br></p>
-							
+
 							<Third>People who are missing teeth may it be one or all are candidates for an implant. If a person is missing 1 or few teeth
 							then dental implants along with a crown /bridge can be used to replace the missing teeth and these manmade teeth
 							function as good as natural teeth and there is no further loss of bones and decay .If a person is missing all teeth then
 							implant is used to anchor loose denture. In some cases when bones are lost; bones can be regenerated with the technique
 							of bone expansion which further helps in implants.
-							
+
 							<!-- <p><b>What does the orthodontist do?</b><br></p>
-							
+
 							<p>Normally the irregularity of the teeth is corrected by putting braces.</p> -->
 
 							<h4>Watch The Sealants Image</h4>
 
 							<div class="services-img-1">
 								<img src="assets/images/services/dental-implants-section-2.png" alt="Image">
-								
+
 							</div>
 
 							<h3>Dental Implants: Your Smile Savers</h3>
@@ -239,13 +239,13 @@
 							partial dentures. They can also serve as an anchor for other dental prostheses like crowns, bridges and dentures. With
 							dental implants, you will be able to eat, speak, smile and laugh confidently. You will never have to worry about your
 							teeth all while enjoying your everyday life.</p>
-							
+
 							<p>We used to give provision for higher education and training for fellow young dentist in the field of Dental Implantology
 							to uplift their skills in post graduate level. Nucleoss from Turkey did many clinical workshops on basic dental implant
 							placement on patients for young dentists and Ostem from Korea did Advance clinical training courses like “Sinus Lift
 							Surgery” for Implant patients in our venue by the under the supervision from many international experts in the field of
 							Dental Implantology.</p>
-							
+
 							<!-- <p>Third is the retention phase in which the patient is required to wear a retainer so that teeth retain their new
 							place/position.</p> -->
 
@@ -273,7 +273,7 @@
 									which the eruption and formation of the teeth are monitored. Then in phase II when the child turns 12-13 full braces can
 									be put if the teeth are still not in the right shape.
 								</li> -->
-							
+
 							</ul>
 
 							<h4>What side effects one has to face without a dental implant?</h4>
@@ -314,8 +314,8 @@
 									Bone loss makes the adjacent bones weak which causes falling of nearby teeth.
 								</li>
 								<li>
-							
-							
+
+
 							</ul>
 
 						</div>
@@ -335,7 +335,7 @@
 							<h2>Subscribe To Get The Latest News</h2>
 						</div>
 					</div>
-					
+
 					<div class="col-lg-6">
 						<form class="form-floating form-group subscribe-form wow fadeInUp delay-0-4s">
 							<input type="email" class="form-control" id="yourEmails" placeholder="Your Email" value="" required="">
@@ -384,7 +384,7 @@
 			<!--=== End Back To Top Section ===-->
 		</div>
 		<!--=== End Copy Right Section ===-->
-<!-- 
+<!--
 		<ul class="rtl-buy">
 			<li>
 				<a href="https://croptheme.com/Krithika Dental Care/Krithika Dental Care-rtl/">RTL</a>
@@ -395,7 +395,7 @@
 		</ul> -->
 
         <!--=== JS Link ===-->
-        <script src="assets/js/jquery.min.js"></script> 
+        <script src="assets/js/jquery.min.js"></script>
         <script src="assets/js/bootstrap.bundle.min.js"></script>
 		<script src="assets/js/jquery.meanmenu.js"></script>
 		<script src="assets/js/owl.carousel.min.js"></script>

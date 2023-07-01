@@ -1,7 +1,7 @@
 <!doctype html>
 <html lang="zxx">
 
-<!-- Mirrored from croptheme.com/Krithika Dental Care/Krithika Dental Care-ltr/contact-us.html by HTTrack Website Copier/3.x [XR&CO'2014], Wed, 28 Jun 2023 12:59:27 GMT -->
+
 
 <head>
 	<!--=== Required meta tags ===-->
@@ -27,7 +27,7 @@
 
 <body>
 	<!-- Header Start -->
-	<?php include 'header.php'; ?>
+	<?php include 'header.php';?>
 
 	<!-- Header End -->
 
@@ -147,7 +147,7 @@
 				<!-- <form class="contact-form me-15 wow fadeInUp delay-0-2s">
 							<div class="contact-title">
 								<h3>Leave Us a Message</h3>
-								
+
 							</div>
 
 							<div class="row">
@@ -218,7 +218,7 @@
 							<h2>Subscribe To Get The Latest News</h2>
 						</div>
 					</div>
-					
+
 					<div class="col-lg-6">
 						<form class="form-floating form-group subscribe-form wow fadeInUp delay-0-4s">
 							<input type="email" class="form-control" id="yourEmails" placeholder="Your Email" value="" required="">
@@ -237,7 +237,7 @@
 
 
 	<!-- Footer Start -->
-	<?php include 'Footer.php'; ?>
+	<?php include 'Footer.php';?>
 
 	<!-- Footer End -->
 

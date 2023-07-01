@@ -1,12 +1,12 @@
 <!doctype html>
 <html lang="zxx">
-    
+
 <head>
 		<!--=== Required meta tags ===-->
 		<meta charset="utf-8">
 		<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
-		<!--=== CSS Link ===--> 
+		<!--=== CSS Link ===-->
 		<link rel="stylesheet" href="assets/css/bootstrap.min.css">
 		<link rel="stylesheet" href="assets/css/owl.theme.default.min.css">
 		<link rel="stylesheet" href="assets/css/owl.carousel.min.css">
@@ -16,7 +16,7 @@
 		<link rel="stylesheet" href="assets/css/magnific-popup.min.css">
 		<link rel="stylesheet" href="assets/css/style.css">
 		<link rel="stylesheet" href="assets/css/responsive.css">
-		
+
 		<!--=== Favicon ===-->
 		<link rel="icon" type="image/png" href="assets/images/favicon.png">
 		<!--=== Title ===-->
@@ -207,15 +207,15 @@
 							<h4>Introduction</h4>
 							<h3>Teeth Scaling</h3>
 							<p><b>What is teeth scaling and why is it required?</b><br></p>
-											
+
 							<p>Scaling is a treatment which cleans teeth by removing food particles (which are present in the teeth as well as the gums), tartar, external strains which are difficult to remove while brushing. Scaling is a regular procedure and it does not affect ones teeth, in fact it cleans teeth and maintains dental hygiene .No anesthesia is required in this process. Calculus/tarter gets deposited between the teeth and the gums which causes tooth fall and unhealthy gums over a period of time. Hence scaling helps to maintain healthy teeth.</p>
-							
+
 							<h3>What is calculus/tarter?</h3>
-							
+
 							<Third>Plaque is sticky, soft, colorless deposit of food particles and bacteria on the teeth. Such bacteria multiply very fast and lead to gum infection and bleeding of gums. Bacteria can be removed by brushing of teeth, but after11-14 hours of brushing these bacteria forms calculus .Calculus cannot be removed by brushing and requires teeth scaling.
-							
+
 							<p><b>What are the myths about teeth scaling?</b><br></p>
-							
+
 							<p><b>People have some doubts/ negative view about scaling .There is certain myths such:-</b></p>
 
 							<ul>
@@ -239,7 +239,7 @@
 
 							<div class="services-img-1">
 								<img src="assets/images/services/teeth-scaling-section-2.png" alt="Image">
-								
+
 							</div>
 							<p><b>There are a few scientific reasons that go against these myths:-</b><br></p>
 
@@ -259,15 +259,15 @@
 							<h4>What instruments are used for scaling?</h4>
 
 							<p>There are 2 types of instruments used i.e. hand held and ultrasonic instruments. Some dentists rely on personnel touch to identify tarter, plaque and rough spot, they use curette/dental scales to remove the plaque manually.</p>
-							
+
 							<p>Ultrasonic instruments have a metal tip that vibrates and chips off tarter, along with a water spray to wash away the tarter and keep the metal tip cool.</p>
-							
+
 
 
 							<h4>What procedure is adopted for scaling?</h4>
 							<p>Scaling removes tarter/calculus that get accumulated on the teeth by cleaning the teeth below and above the gum line .Various instruments are used for this purpose but mostly ultrasonic machine is used. It vibrates and has a fine tip which removes tarter from the surface of the teeth. This machine is completely safe and does not affect the tooth surface. After scaling the dentist will call you to see the improvement in the teeth. Dentist recommends cleaning of teeth after every 6 months.</p>
 
-							
+
 
 							<p><b>How often is scaling required?</b><br></p>
 							<p>One should visit the dentist after every six months; he can check the teeth and advise you if scaling is required or not. People who have dental plaque should go for scaling after every 6 months.</p>
@@ -289,7 +289,7 @@
 							<h2>Subscribe To Get The Latest News</h2>
 						</div>
 					</div>
-					
+
 					<div class="col-lg-6">
 						<form class="form-floating form-group subscribe-form wow fadeInUp delay-0-4s">
 							<input type="email" class="form-control" id="yourEmails" placeholder="Your Email" value="" required="">
@@ -338,7 +338,7 @@
 			<!--=== End Back To Top Section ===-->
 		</div>
 		<!--=== End Copy Right Section ===-->
-<!-- 
+<!--
 		<ul class="rtl-buy">
 			<li>
 				<a href="https://croptheme.com/Krithika Dental Care/Krithika Dental Care-rtl/">RTL</a>
@@ -349,7 +349,7 @@
 		</ul> -->
 
         <!--=== JS Link ===-->
-        <script src="assets/js/jquery.min.js"></script> 
+        <script src="assets/js/jquery.min.js"></script>
         <script src="assets/js/bootstrap.bundle.min.js"></script>
 		<script src="assets/js/jquery.meanmenu.js"></script>
 		<script src="assets/js/owl.carousel.min.js"></script>
