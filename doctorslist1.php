@@ -315,7 +315,7 @@
 
 
     <!-- Footer Start -->
-    <?php include 'Footer.php';?>
+    <?php include 'footer.php';?>
 
     <!-- Footer End -->
 
