@@ -26,7 +26,7 @@
 								<a href="services.php">Services</a>
 							</li>
 							<li>
-								<a target="_blank" href="https://admin.kirthikadentalcare.in/appointment">Appointment</a>
+								<a target="_blank" href="#">Appointment</a>
 							</li>
 						</ul>
 					</div>
