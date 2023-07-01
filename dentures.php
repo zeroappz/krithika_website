@@ -1,12 +1,12 @@
 <!doctype html>
 <html lang="zxx">
-    
+
 <head>
 		<!--=== Required meta tags ===-->
 		<meta charset="utf-8">
 		<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
-		<!--=== CSS Link ===--> 
+		<!--=== CSS Link ===-->
 		<link rel="stylesheet" href="assets/css/bootstrap.min.css">
 		<link rel="stylesheet" href="assets/css/owl.theme.default.min.css">
 		<link rel="stylesheet" href="assets/css/owl.carousel.min.css">
@@ -16,7 +16,7 @@
 		<link rel="stylesheet" href="assets/css/magnific-popup.min.css">
 		<link rel="stylesheet" href="assets/css/style.css">
 		<link rel="stylesheet" href="assets/css/responsive.css">
-		
+
 		<!--=== Favicon ===-->
 		<link rel="icon" type="image/png" href="assets/images/favicon.png">
 		<!--=== Title ===-->
@@ -206,17 +206,17 @@
 							<h4>Introduction</h4>
 							<h3>Dentures</h3>
 							<p><b>What are dentures?</b><br></p>
-											
+
 							<p>Dentures are constructed by the dentist to replace the missing teeth. They are also called false teeth and get support from the surrounding hard/soft tissues of oral cavity. Dentures used earlier were removable, but now dentures are available in different designs .Dentures are of 2 types i.e. dentures replacing missing teeth on maxillary/mandibular arch.</p>
-							
+
 							<p><b>What are the advantages of dentures?</b><br></p>
-							
+
 							<Third>Dentures help people in many ways such as<br>
 								Dentures replace teeth in edentulous areas which help one to chew food easily.<br>
 								Dentures makes one feel better about his/ her appearance, which in turn increases self esteem and self confidence.<br>
 								Dentures improves facial appearance by giving support to cheeks and lips<br>
 								People are able to speak better as the missing teeth have been replaced and the gap has been filled.<br>
-							
+
 							<h4>What are the different types of dentures available?</h4>
 							<p>There are 2 types of dentures i.e. complete dentures and removable partial dentures. Complete dentures are used by patients who do not have any teeth in a single arch (upper or maxillary / lower or mandibular arch)</p>
 							<p>Patients that have some missing teeth in an arch use removable partial dentures. Bridges and crowns are referred to as fixed partial dentures. Bridges are more stable and expensive .Crowns is mounted on to the remaining teeth which replaces the missing teeth and fills up the gap.</p>
@@ -227,12 +227,12 @@
 
 							<div class="services-img-1">
 								<img src="assets/images/services/dentures-section-2.png" alt="Image">
-								
+
 							</div>
 
 							<h3>How to take care of the denture?</h3>
 							<p>Dentures should be cleaned regularly as tarter/plaque can get accumulated on false teeth. One should brush the denture after every meal. Bleaching agents should be avoided as they may discolor the acrylic of the gum line.</p>
-		
+
 
 							<h4>Is denture adhesive a solution to old/loose denture?</h4>
 							<p>Denture adhesive are used for extra retention and support to a well fitted denture. Loose dentures should be replaced or realigned immediately because loose dentures can cause irritation and develop sores. One should consult the dentist immediately. Denture adhesive should never be used for loose teeth.</p>
@@ -242,10 +242,10 @@
 							<p>Dentures can last for say 5 to 10 years. Gums and teeth continue to change shape (when there are no teeth) for the whole life. Dentures are constructed and are artificial and so their shape does not change with the mouth, as a result they need to be adjusted or replaced after a few years. Continuous visits to the dentist are recommended so that there is no major problem which cannot be identified by the patient.</p>
 
 							<p><b>What factors determines the cost of the denture?</b><br></p>
-							
+
 							<p>The cost depends on the personnel skill of the dentist, type of denture to be constructed, location of the dental clinic etc. Dentures are in high demand and have become main stream that one can find the best price for the denture.</p>
 
-							
+
 
 						</div>
 					</div>
@@ -264,7 +264,7 @@
 							<h2>Subscribe To Get The Latest News</h2>
 						</div>
 					</div>
-					
+
 					<div class="col-lg-6">
 						<form class="form-floating form-group subscribe-form wow fadeInUp delay-0-4s">
 							<input type="email" class="form-control" id="yourEmails" placeholder="Your Email" value="" required="">
@@ -313,7 +313,7 @@
 			<!--=== End Back To Top Section ===-->
 		</div>
 		<!--=== End Copy Right Section ===-->
-<!-- 
+<!--
 		<ul class="rtl-buy">
 			<li>
 				<a href="https://croptheme.com/Krithika Dental Care/Krithika Dental Care-rtl/">RTL</a>
@@ -324,7 +324,7 @@
 		</ul> -->
 
         <!--=== JS Link ===-->
-        <script src="assets/js/jquery.min.js"></script> 
+        <script src="assets/js/jquery.min.js"></script>
         <script src="assets/js/bootstrap.bundle.min.js"></script>
 		<script src="assets/js/jquery.meanmenu.js"></script>
 		<script src="assets/js/owl.carousel.min.js"></script>

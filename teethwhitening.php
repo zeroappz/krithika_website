@@ -1,12 +1,12 @@
 <!doctype html>
 <html lang="zxx">
-    
+
 <head>
 		<!--=== Required meta tags ===-->
 		<meta charset="utf-8">
 		<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
-		<!--=== CSS Link ===--> 
+		<!--=== CSS Link ===-->
 		<link rel="stylesheet" href="assets/css/bootstrap.min.css">
 		<link rel="stylesheet" href="assets/css/owl.theme.default.min.css">
 		<link rel="stylesheet" href="assets/css/owl.carousel.min.css">
@@ -16,7 +16,7 @@
 		<link rel="stylesheet" href="assets/css/magnific-popup.min.css">
 		<link rel="stylesheet" href="assets/css/style.css">
 		<link rel="stylesheet" href="assets/css/responsive.css">
-		
+
 		<!--=== Favicon ===-->
 		<link rel="icon" type="image/png" href="assets/images/favicon.png">
 		<!--=== Title ===-->
@@ -207,11 +207,11 @@
 							<h4>Introduction</h4>
 							<h3>Teeth Whitening</h3>
 							<p><b>What is teeth whitening?</b><br></p>
-											
+
 							<p>Teeth whitening is a process of removing stains that stick on to the enamel, it is bleaching process used to get rid of the discoloration of the teeth. There are different ways of teeth whitening, some people go for bleaching sessions at the dental clinic, some buy over –the –counter products and very few people go for cosmetic treatment. Teeth whitening treatment is not permanent, though the results are effective and noticeable. It requires a lot of care and oral hygiene.</p>
-							
+
 							<p><b>What are tooth stains?</b><br></p>
-							
+
 							<p>
 								There are 2 types of staining of teeth: extrinsic and intrinsic staining.<br>
 
@@ -219,10 +219,10 @@
 
 								Intrinsic stains appear inside the teeth. Such stains result from aging, trauma, exposure to minerals at the time of tooth formation /excessive intake of fluoride through injection. Earlier it was believed that intrinsic stains could not be removed by bleaching, but now cosmetic dentistry has changed this thinking and doctors believe that deep stains in the teeth can also be removed with the help of take home teeth whitening and regular supervision of the dentist.
 							</p>
-							
-							
+
+
 							<p><b>What results in stains?</b><br></p>
-							
+
 							<p>Various factors cause stains such as:-</p>
 							<ul>
 								<li>
@@ -256,14 +256,14 @@
 
 							<div class="services-img-1">
 								<img src="assets/images/services/teeth-whitening-section-2.png" alt="Image">
-								
+
 							</div>
 
 							<h3>What are the teeth whitening options available?</h3>
 							<p>There are 3 main whitening options:-</p>
-							
+
 							<p><b>In-Office</b></p>
-							
+
 							<p>Such type of whitening gives significant results in very less time. High concentration of peroxide gel is used on teeth after the gums are protected with applying paint on a rubber dam. Stubborn stains may require one more session.</p>
 							<p><b>Take-Home Whitening Kits</b></p>
 
@@ -310,7 +310,7 @@
 							<h2>Subscribe To Get The Latest News</h2>
 						</div>
 					</div>
-					
+
 					<div class="col-lg-6">
 						<form class="form-floating form-group subscribe-form wow fadeInUp delay-0-4s">
 							<input type="email" class="form-control" id="yourEmails" placeholder="Your Email" value="" required="">
@@ -359,7 +359,7 @@
 			<!--=== End Back To Top Section ===-->
 		</div>
 		<!--=== End Copy Right Section ===-->
-<!-- 
+<!--
 		<ul class="rtl-buy">
 			<li>
 				<a href="https://croptheme.com/Krithika Dental Care/Krithika Dental Care-rtl/">RTL</a>
@@ -370,7 +370,7 @@
 		</ul> -->
 
         <!--=== JS Link ===-->
-        <script src="assets/js/jquery.min.js"></script> 
+        <script src="assets/js/jquery.min.js"></script>
         <script src="assets/js/bootstrap.bundle.min.js"></script>
 		<script src="assets/js/jquery.meanmenu.js"></script>
 		<script src="assets/js/owl.carousel.min.js"></script>

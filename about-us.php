@@ -1,13 +1,13 @@
 <!doctype html>
 <html lang="zxx">
-    
-<!-- Mirrored from croptheme.com/Krithika Dental Care/Krithika Dental Care-ltr/about-us.html by HTTrack Website Copier/3.x [XR&CO'2014], Wed, 28 Jun 2023 12:59:18 GMT -->
+
+
 <head>
 		<!--=== Required meta tags ===-->
 		<meta charset="utf-8">
 		<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
-		<!--=== CSS Link ===--> 
+		<!--=== CSS Link ===-->
 		<link rel="stylesheet" href="assets/css/bootstrap.min.css">
 		<link rel="stylesheet" href="assets/css/owl.theme.default.min.css">
 		<link rel="stylesheet" href="assets/css/owl.carousel.min.css">
@@ -17,7 +17,7 @@
 		<link rel="stylesheet" href="assets/css/magnific-popup.min.css">
 		<link rel="stylesheet" href="assets/css/style.css">
 		<link rel="stylesheet" href="assets/css/responsive.css">
-		
+
 		<!--=== Favicon ===-->
 		<link rel="icon" type="image/png" href="assets/images/favicon.png">
 		<!--=== Title ===-->
@@ -71,7 +71,7 @@
 								<li class="hover-style wow fadeInUp delay-0-2s">
 									<div class="inner-border">
 										<i class="icofont-shield-alt"></i>
-										Tooth decay that has caused a cavity 
+										Tooth decay that has caused a cavity
 									</div>
 								</li>
 								<li class="hover-style wow fadeInUp delay-0-4s">
@@ -158,7 +158,7 @@
 					</div>
 				</div>
 			</div>
-			
+
 			<img src="assets/images/quality-shape-1.png" class="shape shape-1" alt="Image">
 			<img src="assets/images/quality-shape-2.png" class="shape shape-2" alt="Image">
 		</section>
@@ -254,7 +254,7 @@
 							<div class="inner-border">
 								<div class="doctor-img">
 									<img src="assets/images/doctors/doctor-1.jpg" alt="Image">
-	
+
 									<ul>
 										<li>
 											<a href="https://www.facebook.com/" target="_blank">
@@ -289,7 +289,7 @@
 							<div class="inner-border">
 								<div class="doctor-img">
 									<img src="assets/images/doctors/doctor-2.jpg" alt="Image">
-	
+
 									<ul>
 										<li>
 											<a href="https://www.facebook.com/" target="_blank">
@@ -324,7 +324,7 @@
 							<div class="inner-border">
 								<div class="doctor-img">
 									<img src="assets/images/doctors/doctor-3.jpg" alt="Image">
-	
+
 									<ul>
 										<li>
 											<a href="https://www.facebook.com/" target="_blank">
@@ -409,7 +409,7 @@
 					<div class="main-testimonials hover-style wow fadeInUp delay-0-2s">
 						<div class="inner-border">
 							<img src="assets/images/testimonials/testimonials-1.jpg" alt="Image">
-						
+
 							<div class="testimonials-content">
 								<h3>Zeck Smith</h3>
 								<span>App Developer</span>
@@ -438,7 +438,7 @@
 					<div class="main-testimonials hover-style wow fadeInUp delay-0-4s">
 						<div class="inner-border">
 							<img src="assets/images/testimonials/testimonials-2.jpg" alt="Image">
-						
+
 							<div class="testimonials-content">
 								<h3>Juhon Smith</h3>
 								<span>Web Designer</span>
@@ -467,7 +467,7 @@
 					<div class="main-testimonials hover-style wow fadeInUp delay-0-6s">
 						<div class="inner-border">
 							<img src="assets/images/testimonials/testimonials-3.jpg" alt="Image">
-						
+
 							<div class="testimonials-content">
 								<h3>Steven Dew</h3>
 								<span>UI/UX Designer</span>
@@ -496,7 +496,7 @@
 					<div class="main-testimonials hover-style wow fadeInUp delay-0-8s">
 						<div class="inner-border">
 							<img src="assets/images/testimonials/testimonials-4.jpg" alt="Image">
-						
+
 							<div class="testimonials-content">
 								<h3>Anne Kew</h3>
 								<span>Web Developer</span>
@@ -537,7 +537,7 @@
 							<h2>Subscribe To Get The Latest News</h2>
 						</div>
 					</div>
-					
+
 					<div class="col-lg-6">
 						<form class="form-floating form-group subscribe-form wow fadeInUp delay-0-4s">
 							<input type="email" class="form-control" id="yourEmails" placeholder="Your Email" value="" required="">
@@ -597,7 +597,7 @@
 		</ul> -->
 
         <!--=== JS Link ===-->
-        <script src="assets/js/jquery.min.js"></script> 
+        <script src="assets/js/jquery.min.js"></script>
         <script src="assets/js/bootstrap.bundle.min.js"></script>
 		<script src="assets/js/jquery.meanmenu.js"></script>
 		<script src="assets/js/owl.carousel.min.js"></script>
@@ -609,5 +609,5 @@
 		<script src="assets/js/custom.js"></script>
     </body>
 
-<!-- Mirrored from croptheme.com/Krithika Dental Care/Krithika Dental Care-ltr/about-us.html by HTTrack Website Copier/3.x [XR&CO'2014], Wed, 28 Jun 2023 12:59:20 GMT -->
+
 </html>

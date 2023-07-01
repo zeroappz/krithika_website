@@ -1,12 +1,12 @@
 <!doctype html>
 <html lang="zxx">
-    
+
 <head>
 		<!--=== Required meta tags ===-->
 		<meta charset="utf-8">
 		<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
-		<!--=== CSS Link ===--> 
+		<!--=== CSS Link ===-->
 		<link rel="stylesheet" href="assets/css/bootstrap.min.css">
 		<link rel="stylesheet" href="assets/css/owl.theme.default.min.css">
 		<link rel="stylesheet" href="assets/css/owl.carousel.min.css">
@@ -16,7 +16,7 @@
 		<link rel="stylesheet" href="assets/css/magnific-popup.min.css">
 		<link rel="stylesheet" href="assets/css/style.css">
 		<link rel="stylesheet" href="assets/css/responsive.css">
-		
+
 		<!--=== Favicon ===-->
 		<link rel="icon" type="image/png" href="assets/images/favicon.png">
 		<!--=== Title ===-->
@@ -206,31 +206,31 @@
 							<h4>Introduction</h4>
 							<h3>Smile Makeover</h3>
 							<p><b>What is a smile makeover?</b><br></p>
-											
+
 							<p>Smile makeover is a part of cosmetic dentistry and varies from person to person. Smile makeover consists of many individual procedures such as teeth whitening, straightening of teeth, repairing as well as replacement of teeth, dental bonding, and porcelain veneers etc. This makeover is quite often called extreme makeover as the results are so dramatic.</p>
-							
+
 							<p><b>Who are the candidates?</b><br></p>
-							
+
 							<Third>People who are extremely conscious of their appearance go for such makeovers.
-							
+
 							<!-- <p><b>What does the orthodontist do?</b><br></p>
-							
+
 							<p>Normally the irregularity of the teeth is corrected by putting braces.</p>
 
 							<h4>Watch The Sealants Image</h4> -->
 
 							<div class="services-img-1">
 								<img src="assets\images\services\smile-makeover-section-2.png" alt="Image">
-								
+
 							</div>
 
 							<h3>How important is smile makeover for people?</h3>
 							<p>It is generally seen that more than 75 % of the people avoid smiling when a photo is being clicked. A smile makeover helps in increasing the confidence of an individual. A good smile influences people psychologically, and also helps to judge people. An attractive smile also has a positive impact on ones romantic life.</p>
-							
+
 							<!-- <p>Second step is to plan the treatment. This varies acc. to individual patients requirement. Then appliances which are to
 							be used are put in place, this is an active phase. These appliances are periodically adjusted just to make sure that the
 							teeth are moving in right direction.</p>
-							
+
 							<p>Third is the retention phase in which the patient is required to wear a retainer so that teeth retain their new
 							place/position.</p> -->
 
@@ -240,7 +240,7 @@
 
                             <div class="services-img-1">
 								<img src="assets\images\services\smile-makeover-section-3.png" alt="Image">
-								
+
 							</div>
 
 							<h3>Our dental experts may recommend a crown to:</h3>
@@ -287,11 +287,11 @@
 
 
 
-	
+
 </p>
                             <div class="services-img-1">
 								<img src="assets\images\services\smile-makeover-section-4.png" alt="Image">
-								
+
 							</div>
 
 							<h3>What is the cost of a smile makeover?</h3>
@@ -317,7 +317,7 @@
 									which the eruption and formation of the teeth are monitored. Then in phase II when the child turns 12-13 full braces can
 									be put if the teeth are still not in the right shape.
 								</li>
-							
+
 							</ul> -->
 
 							<!-- <h4>Do adults go for this treatment?</h4>
@@ -325,13 +325,13 @@
 							braces.</p>
 
 							<p><b>What types of braces are available?</b><br></p>
-							
+
 							<p>There are 3 type of braces i.e. metallic, ceramic and invisalign. Metal braces are conventional and most commonly used.
 							Ceramic are very popular with adults as they look good and match with the teeth color. Invisalign are invisible and can
 							also be removed. They are very comfortable as there is no use of metal brackets and wires.</p>
 
 							<p><b>How much time is required for the treatment?</b><br></p>
-							
+
 							<p>On an average 22 months time is required but the time depends on individual need and problem.</p> -->
 
 						</div>
@@ -351,7 +351,7 @@
 							<h2>Subscribe To Get The Latest News</h2>
 						</div>
 					</div>
-					
+
 					<div class="col-lg-6">
 						<form class="form-floating form-group subscribe-form wow fadeInUp delay-0-4s">
 							<input type="email" class="form-control" id="yourEmails" placeholder="Your Email" value="" required="">
@@ -400,7 +400,7 @@
 			<!--=== End Back To Top Section ===-->
 		</div>
 		<!--=== End Copy Right Section ===-->
-<!-- 
+<!--
 		<ul class="rtl-buy">
 			<li>
 				<a href="https://croptheme.com/Krithika Dental Care/Krithika Dental Care-rtl/">RTL</a>
@@ -411,7 +411,7 @@
 		</ul> -->
 
         <!--=== JS Link ===-->
-        <script src="assets/js/jquery.min.js"></script> 
+        <script src="assets/js/jquery.min.js"></script>
         <script src="assets/js/bootstrap.bundle.min.js"></script>
 		<script src="assets/js/jquery.meanmenu.js"></script>
 		<script src="assets/js/owl.carousel.min.js"></script>
