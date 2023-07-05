@@ -165,7 +165,7 @@
 		<!--=== End Our Quality Section ===-->
 
 		<!--=== Start Appointment Section ===-->
-		<section class="appointment-section pb-100">
+		<!-- <section class="appointment-section pb-100">
 			<div class="container-fluid">
 				<div class="row align-items-center">
 					<div class="col-lg-6">
@@ -237,11 +237,11 @@
 					</div>
 				</div>
 			</div>
-		</section>
+		</section> -->
 		<!--=== End Appointment Section ===-->
 
 		<!--=== Start Doctors Section ===-->
-		<section class="our-doctors-section pb-70">
+		<section class="our-doctors-section ptb-100">
 			<div class="container">
 				<div class="main-section-title wow fadeInUp delay-0-2s">
 					<span class="up-title">Our Doctors</span>
@@ -253,7 +253,7 @@
 						<div class="main-doctors-item hover-style wow fadeInUp delay-0-2s">
 							<div class="inner-border">
 								<div class="doctor-img">
-									<img src="assets/images/doctors/doctor-1.jpg" alt="Image">
+									<img src="assets/images/doctors/rajkumar.jpeg" alt="Image">
 
 									<ul>
 										<li>
@@ -278,8 +278,8 @@
 										</li>
 									</ul>
 								</div>
-								<h3>Jhun Dew</h3>
-								<span>Registered Nurse</span>
+								<h3>Dr Rajkumar</h3>
+								<span>MDS (Periodontics)</span>
 							</div>
 						</div>
 					</div>
@@ -313,8 +313,8 @@
 										</li>
 									</ul>
 								</div>
-								<h3>Chel Smith</h3>
-								<span>Physical Therapist</span>
+								<h3>Dr Kamaraj</h3>
+								<span>MDS (Oral surgery)</span>
 							</div>
 						</div>
 					</div>
@@ -323,7 +323,7 @@
 						<div class="main-doctors-item hover-style wow fadeInUp delay-0-6s">
 							<div class="inner-border">
 								<div class="doctor-img">
-									<img src="assets/images/doctors/doctor-3.jpg" alt="Image">
+									<img src="assets/images/doctors/gugan.jpeg" alt="Image">
 
 									<ul>
 										<li>
@@ -348,20 +348,254 @@
 										</li>
 									</ul>
 								</div>
-								<h3>Zeck Stret</h3>
-								<span>Pharmacist</span>
+								<h3>Dr Guhan</h3>
+								<span>MDS (Pedodontics)</span>
 							</div>
 						</div>
 					</div>
+
+					<div class="col-lg-4 col-sm-6">
+						<div class="main-doctors-item hover-style wow fadeInUp delay-0-2s">
+							<div class="inner-border">
+								<div class="doctor-img">
+									<img src="assets/images/doctors/doctor-4.jpg" alt="Image">
+
+									<ul>
+										<li>
+											<a href="https://www.facebook.com/" target="_blank">
+												<i class="icofont-facebook"></i>
+											</a>
+										</li>
+										<li>
+											<a href="https://www.twitter.com/" target="_blank">
+												<i class="icofont-twitter"></i>
+											</a>
+										</li>
+										<li>
+											<a href="https://www.linkedin.com/" target="_blank">
+												<i class="icofont-linkedin"></i>
+											</a>
+										</li>
+										<li>
+											<a href="https://www.instagram.com/" target="_blank">
+												<i class="icofont-instagram"></i>
+											</a>
+										</li>
+									</ul>
+								</div>
+								<h3>Dr Bindu</h3>
+								<span>MDS (Prosthodontics)</span>
+							</div>
+						</div>
+					</div>
+			<div class="col-lg-4 col-sm-6">
+						<div class="main-doctors-item hover-style wow fadeInUp delay-0-6s">
+							<div class="inner-border">
+								<div class="doctor-img">
+									<img src="assets/images/doctors/vasanthan.jpeg" alt="Image">
+
+									<ul>
+										<li>
+											<a href="https://www.facebook.com/" target="_blank">
+												<i class="icofont-facebook"></i>
+											</a>
+										</li>
+										<li>
+											<a href="https://www.twitter.com/" target="_blank">
+												<i class="icofont-twitter"></i>
+											</a>
+										</li>
+										<li>
+											<a href="https://www.linkedin.com/" target="_blank">
+												<i class="icofont-linkedin"></i>
+											</a>
+										</li>
+										<li>
+											<a href="https://www.instagram.com/" target="_blank">
+												<i class="icofont-instagram"></i>
+											</a>
+										</li>
+									</ul>
+								</div>
+								<h3>Dr Vasanthan</h3>
+								<span>MDS (Orthodontics)</span>
+							</div>
+						</div>
+					</div>
+					<div class="col-lg-4 col-sm-6">
+						<div class="main-doctors-item hover-style wow fadeInUp delay-0-6s">
+							<div class="inner-border">
+								<div class="doctor-img">
+									<img src="assets/images/doctors/doctor-1.jpg" alt="Image">
+
+									<ul>
+										<li>
+											<a href="https://www.facebook.com/" target="_blank">
+												<i class="icofont-facebook"></i>
+											</a>
+										</li>
+										<li>
+											<a href="https://www.twitter.com/" target="_blank">
+												<i class="icofont-twitter"></i>
+											</a>
+										</li>
+										<li>
+											<a href="https://www.linkedin.com/" target="_blank">
+												<i class="icofont-linkedin"></i>
+											</a>
+										</li>
+										<li>
+											<a href="https://www.instagram.com/" target="_blank">
+												<i class="icofont-instagram"></i>
+											</a>
+										</li>
+									</ul>
+								</div>
+								<h3>Dr Arun selva</h3>
+								<span>MDS (Conservative and endodontics)</span>
+							</div>
+						</div>
+					</div>
+					<div class="col-lg-4 col-sm-6">
+						<div class="main-doctors-item hover-style wow fadeInUp delay-0-6s">
+							<div class="inner-border">
+								<div class="doctor-img">
+									<img src="assets/images/doctors/ayyadurai.jpeg" alt="Image">
+
+									<ul>
+										<li>
+											<a href="https://www.facebook.com/" target="_blank">
+												<i class="icofont-facebook"></i>
+											</a>
+										</li>
+										<li>
+											<a href="https://www.twitter.com/" target="_blank">
+												<i class="icofont-twitter"></i>
+											</a>
+										</li>
+										<li>
+											<a href="https://www.linkedin.com/" target="_blank">
+												<i class="icofont-linkedin"></i>
+											</a>
+										</li>
+										<li>
+											<a href="https://www.instagram.com/" target="_blank">
+												<i class="icofont-instagram"></i>
+											</a>
+										</li>
+									</ul>
+								</div>
+								<h3>Dr Ayyadurai</h3>
+								<span>MDS (Oral and maxillofacial pathologist)</span>
+							</div>
+						</div>
+					</div>
+					<div class="col-lg-4 col-sm-6">
+						<!-- <div class="main-doctors-item hover-style wow fadeInUp delay-0-4s"> -->
+							<!-- <div class="inner-border">
+								<div class="doctor-img">
+									<img src="assets/images/doctors/doctor-7.png" alt="Image"style="width:329px; height:293px;">
+
+									<ul>
+										<li>
+											<a href="https://www.facebook.com/" target="_blank">
+												<i class="icofont-facebook"></i>
+											</a>
+										</li>
+										<li>
+											<a href="https://www.twitter.com/" target="_blank">
+												<i class="icofont-twitter"></i>
+											</a>
+										</li>
+										<li>
+											<a href="https://www.linkedin.com/" target="_blank">
+												<i class="icofont-linkedin"></i>
+											</a>
+										</li>
+										<li>
+											<a href="https://www.instagram.com/" target="_blank">
+												<i class="icofont-instagram"></i>
+											</a>
+										</li>
+									</ul>
+								</div>
+								<h3>Dr Vasanthan</h3>
+								<span>MDS (Orthodontics)</span>
+							</div> -->
+						<!-- </div> -->
+					</div>
+
+					<div class="col-lg-4 col-sm-6">
+						<!-- <div class="main-doctors-item hover-style wow fadeInUp delay-0-6s"> -->
+							<!-- <div class="inner-border"> -->
+								<!-- <div class="doctor-img">
+									<img src="assets/images/doctors/doctor-8.png" alt="Image"style="width:329px; height:293px;">
+
+									<ul>
+										<li>
+											<a href="https://www.facebook.com/" target="_blank">
+												<i class="icofont-facebook"></i>
+											</a>
+										</li>
+										<li>
+											<a href="https://www.twitter.com/" target="_blank">
+												<i class="icofont-twitter"></i>
+											</a>
+										</li>
+										<li>
+											<a href="https://www.linkedin.com/" target="_blank">
+												<i class="icofont-linkedin"></i>
+											</a>
+										</li>
+										<li>
+											<a href="https://www.instagram.com/" target="_blank">
+												<i class="icofont-instagram"></i>
+											</a>
+										</li>
+									</ul>
+								</div>
+								<h3>Dr Arun selva</h3>
+								<span>MDS (Conservative and endodontics)</span> -->
+							<!-- </div> -->
+						<!-- </div> -->
+					</div>
+
+					<!-- <div class="col-lg-12">
+						<div class="pagination">
+							<a href="#" class="next page-count hover-style">
+								<div class="inner-border">
+									<i class="icofont-simple-left"></i>
+								</div>
+							</a>
+							<a href="#" class="page-count current hover-style" aria-current="page">
+								<div class="inner-border">1</div>
+							</a>
+							<a href="#" class="page-count hover-style">
+								<div class="inner-border">2</div>
+							</a>
+							<a href="#" class="page-count hover-style">
+								<div class="inner-border">3</div>
+							</a>
+							<a href="#" class="page-count hover-style">
+								<div class="inner-border">4</div>
+							</a>
+
+							<a href="#" class="next page-count hover-style">
+								<div class="inner-border">
+									<i class="icofont-simple-right"></i>
+								</div>
+							</a>
+						</div>
+					</div> -->
 				</div>
 			</div>
 
-			<img src="assets/images/doctor-shape.png" class="doctor-shape shape" alt="Image">
+			<!-- <img src="assets/images/doctor-shape.png" class="doctor-shape shape" alt="Image"> -->
 		</section>
 		<!--=== End Doctors Section ===-->
 
 		<!--=== Start Counter Section ===-->
-		<section class="counter-section bg-color-ebeef5 pt-100 pb-70">
+		<!-- <section class="counter-section bg-color-ebeef5 pt-100 pb-70">
 			<div class="container">
 				<div class="row justify-content-center">
 					<div class="col-lg-3 col-sm-6">
@@ -394,11 +628,11 @@
 					</div>
 				</div>
 			</div>
-		</section>
+		</section> -->
 		<!--=== End Counter Section ===-->
 
 		<!--=== Start Testimonials Section ===-->
-		<section class="testimonials-section ptb-100">
+		<!-- <section class="testimonials-section ptb-100">
 			<div class="container">
 				<div class="main-section-title wow fadeInUp delay-0-2s">
 					<span class="up-title">Our Testimonials</span>
@@ -525,7 +759,7 @@
 			</div>
 
 			<img src="assets/images/testimonials/testimonials-shape.png" class="shape shape" alt="Image">
-		</section>
+		</section> -->
 		<!--=== End Testimonials Section ===-->
 
 		<!--=== Start Subscribe Section ===-->

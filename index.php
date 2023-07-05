@@ -97,7 +97,7 @@
 
 				<div class="col-lg-6 p-0">
 					<div class="banner-img wow fadeInUp delay-0-2s">
-						<img src="assets/images/banner/Cosmetic-Dentistry.jpg" alt="Image">
+						<img src="assets/images/banner/dentist-with-smile.png" alt="Image">
 					</div>
 				</div>
 			</div>
@@ -107,7 +107,50 @@
 		</div> -->
 	</section>
 	<!--=== End Banner Section ===-->
+	<section class="services-section pt-100 pb-70">
+		<div class="container">
+			<div class="main-section-title wow fadeInUp delay-0-2s">
+				<h2 class="up-title">Appointment Details</h2>
+				<span>Here, we mentioned our Appointment process.</span>
+			</div>
 
+			<div class="row d-flex justify-content-center">
+				<div class="col-lg-3 col-sm-6">
+					<div class="main-services-box hover-style wow fadeInUp delay-0-2s">
+						<div class="inner-border">
+							<div class="icon">
+								<img src="assets/images/icon/icon-1.svg" alt="Image">
+							</div>
+							<h3>
+								<a href="#">Appointment</a>
+							</h3>
+							<p>You can book your personalized appointments for comfortable time to visit the dentist on your registered login page.</p>
+						</div>
+					</div>
+				</div>
+
+				<div class="col-lg-3 col-sm-6">
+					<div class="main-services-box hover-style wow fadeInUp delay-0-4s">
+						<div class="inner-border">
+							<div class="icon">
+								<img src="assets/images/icon/icon-2.svg" alt="Image">
+							</div>
+							<h3>
+								<a href="#">Appointment cancellation</a>
+							</h3>
+							Please give us at least 12-hour notice if you are unable to attend so that others may be offered your appointment.</p>
+
+						</div>
+					</div>
+				</div>
+
+				
+
+				
+
+			</div>
+		</div>
+	</section>
 	<!--=== Start Services Section ===-->
 	<section class="services-section pt-100 pb-70">
 		<div class="container">
@@ -162,15 +205,12 @@
 							<h3>
 								<a href="#">Preventive <br> Cleaning</a>
 							</h3>
-							<p>Leave our office with the smile you've always wanted. Whether it's procedures like
-								veneers, contouring,
-								or dental
-								bonding, our cosmetic experts have you covered.</p>
+							<p>preventive cleaning is an essential part of maintaining optimal oral health. Regular visits to your dentist or dental hygienist, along with consistent oral hygiene practices at home.</p>
 						</div>
 					</div>
 				</div>
 
-				<div class="col-lg-3 col-sm-6">
+				<div class="col-lg-3 col-sm-6" >
 					<div class="main-services-box hover-style wow fadeInUp delay-0-6s">
 						<div class="inner-border">
 							<div class="icon">
@@ -179,10 +219,7 @@
 							<h3>
 								<a href="#">Children <br>Dentistry</a>
 							</h3>
-							<p>Leave our office with the smile you've always wanted. Whether it's procedures like
-								veneers, contouring,
-								or dental
-								bonding, our cosmetic experts have you covered.<br><br></p>
+							<p>Children's dentistry plays a vital role in promoting lifelong oral health and establishing positive dental experiences for children. Regular dental visits and early intervention can help prevent dental problems.<br><br></p>
 						</div>
 					</div>
 				</div>
@@ -290,8 +327,7 @@
 							<p>Maybe you’re not sure if you have a dental emergency — sometimes patients think their
 								symptoms are normal. We recommend
 								you seek professional help whenever you feel uncomfortable or if you experience an
-								unusual sensation in your mouth, such
-								as: Toothache, Bleeding Gums, Sore Jaw, Dental Abscess.</p>
+								unusual sensation in your mouth.</p>
 
 						</div>
 					</div>
@@ -309,9 +345,7 @@
 							</h3>
 							<p>Rebuilding and replacing all your teeth sounds intimidating, right? Well, it doesn't have
 								to be! That's where full mouth
-								reconstruction comes in. This process gives you the ultimate smile makeover, with expert
-								attention paid to aesthetics
-								and function combined for all-around dental health.</p>
+								reconstruction comes in. This process gives you the ultimate smile makeover.</p>
 
 						</div>
 					</div>

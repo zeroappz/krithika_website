@@ -45,24 +45,24 @@
 						</li>
 
 						<li class="nav-item">
-							<a href="#about_us" class="nav-link">About Us</a>
+							<a href="about-us.php" class="nav-link">About Us</a>
 						</li>
 
 						<li class="nav-item">
 							<a href="#" class="nav-link dropdown-toggle">
 								Specialities
 							</a>
-
+ 
 							<ul class="dropdown-menu">
 								<li class="nav-item">
-									<a href="#sedationdentistry.php" class="nav-link">oral medicine and pathology </a>
+									<a href="oralmedicineandpathology.php" class="nav-link">Oral Medicine and Pathology </a>
 								</li>
 								<li class="nav-item">
-									<a href="#brushingtechniques.php" class="nav-link">Restorative dentistry</a>
+									<a href="restorativedentistry.php" class="nav-link">Restorative Dentistry</a>
 								</li>
 
 								<li class="nav-item">
-									<a href="#sedationdentistry.php" class="nav-link">Endodontics</a>
+									<a href="endodontics.php" class="nav-link">Endodontics</a>
 								</li>
 								<!-- <li class="nav-item">
 									<a href="brushingtechniques.php" class="nav-link">Brushing Techniques</a>
@@ -109,7 +109,7 @@
 									</ul>
 								</li>
 								<li class="nav-item">
-									<a href="oralandmaxillofacial.php" class="nav-link">Oral And Maxillofacial</a>
+									<a href="oralandmaxillofacial.php" class="nav-link">Oral and Maxillofacial</a>
 								</li>
 								<li class="nav-item">
 									<a href="dentalcrowns.php" class="nav-link dropdown-toggle">
@@ -132,7 +132,7 @@
 									<a href="orthodontics.php" class="nav-link">Orthodontics</a>
 								</li>
 								<li class="nav-item">
-									<a href="dentalimplants.php" class="nav-link">Dental Implants</a>
+									<a href="dentalimplants.php" class="nav-link">Implant Dentistry</a>
 								</li>
 								<li class="nav-item">
 									<a href="laserdentistry.php" class="nav-link">Laser Dentistry</a>
@@ -151,7 +151,7 @@
 						</a> -->
 
 						<li class="nav-item">
-							<a href="doctorslist.php" class="nav-link">Doctors</a>
+							<a href="doctors.php" class="nav-link">Doctors</a>
 						</li>
 
 						<li class="nav-item">
@@ -167,7 +167,7 @@
 									<a href="#orthodontics.php" class="nav-link">Staff login</a>
 								</li>
 								<li class="nav-item">
-									<a href="p_login.php" class="nav-link">Patient login</a>
+									<a href="https://admin.kirthikadentalcare.in/" class="nav-link">Patient login</a>
 								</li>
 							</ul>
 						</li>
@@ -188,7 +188,7 @@
 						<!-- Actual search box -->
 						<div class="form-group has-search">
 							<span class="fa fa-search form-control-feedback"></span>
-							<input type="text" class="form-control" placeholder="Search">
+							<input type="text" class="form-control" placeholder="Search" style="width:600px">
 						</div>
 
 

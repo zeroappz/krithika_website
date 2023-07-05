@@ -47,10 +47,10 @@
 			</div>
 		</div>
 		<div class="page-banner-shape-1 shape">
-			<img src="assets/images/banner/banner-shape-1.png" alt="Image">
+			<!-- <img src="assets/images/banner/banner-shape-1.png" alt="Image"> -->
 		</div>
 		<div class="page-banner-shape-2 shape">
-			<img src="assets/images/banner/banner-shape-1.png" alt="Image">
+			<!-- <img src="assets/images/banner/banner-shape-1.png" alt="Image"> -->
 		</div>
 	</section>
 	<!--=== End Page Banner Section ===-->
@@ -134,8 +134,8 @@
 			</div>
 		</div>
 
-		<img src="assets/images/blog/blog-shape-1.png" class="shape shape-1" alt="Image">
-		<img src="assets/images/blog/blog-shape-2.png" class="shape shape-2" alt="Image">
+		<!-- <img src="assets/images/blog/blog-shape-1.png" class="shape shape-1" alt="Image">
+		<img src="assets/images/blog/blog-shape-2.png" class="shape shape-2" alt="Image"> -->
 	</section>
 	<!--=== End Contact Us Section ===-->
 

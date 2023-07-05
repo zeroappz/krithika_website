@@ -735,7 +735,7 @@ textarea.form-control {
 <<<<======================================================>>>>*/
 .navbar-section-btm {
   position: relative;
-  background-color: grey;
+  background-color: #808080;
   box-shadow: 0 0 20px 3px rgba(0, 0, 0, 0.05);
   padding-top: 10px;
   padding-bottom: 10px;

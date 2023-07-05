@@ -45,10 +45,10 @@
 				</div>
 			</div>
 			<div class="page-banner-shape-1 shape">
-				<img src="assets/images/banner/banner-shape-1.png" alt="Image">
+				<!-- <img src="assets/images/banner/banner-shape-1.png" alt="Image"> -->
 			</div>
 			<div class="page-banner-shape-2 shape">
-				<img src="assets/images/banner/banner-shape-1.png" alt="Image">
+				<!-- <img src="assets/images/banner/banner-shape-1.png" alt="Image"> -->
 			</div>
 		</section>
 		<!--=== End Page Banner Section ===-->
@@ -66,7 +66,7 @@
 						<div class="main-doctors-item hover-style wow fadeInUp delay-0-2s">
 							<div class="inner-border">
 								<div class="doctor-img">
-									<img src="assets/images/doctors/doctor-1.jpg" alt="Image">
+									<img src="assets/images/doctors/rajkumar.jpeg" alt="Image">
 
 									<ul>
 										<li>
@@ -136,7 +136,7 @@
 						<div class="main-doctors-item hover-style wow fadeInUp delay-0-6s">
 							<div class="inner-border">
 								<div class="doctor-img">
-									<img src="assets/images/doctors/doctor-3.jpg" alt="Image">
+									<img src="assets/images/doctors/gugan.jpeg" alt="Image">
 
 									<ul>
 										<li>
@@ -201,12 +201,11 @@
 							</div>
 						</div>
 					</div>
-
-					<div class="col-lg-4 col-sm-6">
-						<div class="main-doctors-item hover-style wow fadeInUp delay-0-4s">
+			<div class="col-lg-4 col-sm-6">
+						<div class="main-doctors-item hover-style wow fadeInUp delay-0-6s">
 							<div class="inner-border">
 								<div class="doctor-img">
-									<img src="assets/images/doctors/doctor-7.png" alt="Image"style="width:329px; height:293px;">
+									<img src="assets/images/doctors/vasanthan.jpeg" alt="Image">
 
 									<ul>
 										<li>
@@ -236,12 +235,11 @@
 							</div>
 						</div>
 					</div>
-
 					<div class="col-lg-4 col-sm-6">
 						<div class="main-doctors-item hover-style wow fadeInUp delay-0-6s">
 							<div class="inner-border">
 								<div class="doctor-img">
-									<img src="assets/images/doctors/doctor-8.png" alt="Image"style="width:329px; height:293px;">
+									<img src="assets/images/doctors/doctor-1.jpg" alt="Image">
 
 									<ul>
 										<li>
@@ -271,8 +269,111 @@
 							</div>
 						</div>
 					</div>
+					<div class="col-lg-4 col-sm-6">
+						<div class="main-doctors-item hover-style wow fadeInUp delay-0-6s">
+							<div class="inner-border">
+								<div class="doctor-img">
+									<img src="assets/images/doctors/ayyadurai.jpeg" alt="Image">
 
-					<div class="col-lg-12">
+									<ul>
+										<li>
+											<a href="https://www.facebook.com/" target="_blank">
+												<i class="icofont-facebook"></i>
+											</a>
+										</li>
+										<li>
+											<a href="https://www.twitter.com/" target="_blank">
+												<i class="icofont-twitter"></i>
+											</a>
+										</li>
+										<li>
+											<a href="https://www.linkedin.com/" target="_blank">
+												<i class="icofont-linkedin"></i>
+											</a>
+										</li>
+										<li>
+											<a href="https://www.instagram.com/" target="_blank">
+												<i class="icofont-instagram"></i>
+											</a>
+										</li>
+									</ul>
+								</div>
+								<h3>Dr Ayyadurai</h3>
+								<span>MDS (Oral and maxillofacial pathologist)</span>
+							</div>
+						</div>
+					</div>
+					<div class="col-lg-4 col-sm-6">
+						<!-- <div class="main-doctors-item hover-style wow fadeInUp delay-0-4s"> -->
+							<!-- <div class="inner-border">
+								<div class="doctor-img">
+									<img src="assets/images/doctors/doctor-7.png" alt="Image"style="width:329px; height:293px;">
+
+									<ul>
+										<li>
+											<a href="https://www.facebook.com/" target="_blank">
+												<i class="icofont-facebook"></i>
+											</a>
+										</li>
+										<li>
+											<a href="https://www.twitter.com/" target="_blank">
+												<i class="icofont-twitter"></i>
+											</a>
+										</li>
+										<li>
+											<a href="https://www.linkedin.com/" target="_blank">
+												<i class="icofont-linkedin"></i>
+											</a>
+										</li>
+										<li>
+											<a href="https://www.instagram.com/" target="_blank">
+												<i class="icofont-instagram"></i>
+											</a>
+										</li>
+									</ul>
+								</div>
+								<h3>Dr Vasanthan</h3>
+								<span>MDS (Orthodontics)</span>
+							</div> -->
+						<!-- </div> -->
+					</div>
+
+					<div class="col-lg-4 col-sm-6">
+						<!-- <div class="main-doctors-item hover-style wow fadeInUp delay-0-6s"> -->
+							<!-- <div class="inner-border"> -->
+								<!-- <div class="doctor-img">
+									<img src="assets/images/doctors/doctor-8.png" alt="Image"style="width:329px; height:293px;">
+
+									<ul>
+										<li>
+											<a href="https://www.facebook.com/" target="_blank">
+												<i class="icofont-facebook"></i>
+											</a>
+										</li>
+										<li>
+											<a href="https://www.twitter.com/" target="_blank">
+												<i class="icofont-twitter"></i>
+											</a>
+										</li>
+										<li>
+											<a href="https://www.linkedin.com/" target="_blank">
+												<i class="icofont-linkedin"></i>
+											</a>
+										</li>
+										<li>
+											<a href="https://www.instagram.com/" target="_blank">
+												<i class="icofont-instagram"></i>
+											</a>
+										</li>
+									</ul>
+								</div>
+								<h3>Dr Arun selva</h3>
+								<span>MDS (Conservative and endodontics)</span> -->
+							<!-- </div> -->
+						<!-- </div> -->
+					</div>
+
+					<!-- <div class="col-lg-12">
 						<div class="pagination">
 							<a href="#" class="next page-count hover-style">
 								<div class="inner-border">
@@ -298,11 +399,11 @@
 								</div>
 							</a>
 						</div>
-					</div>
+					</div> -->
 				</div>
 			</div>
 
-			<img src="assets/images/doctor-shape.png" class="doctor-shape shape" alt="Image">
+			<!-- <img src="assets/images/doctor-shape.png" class="doctor-shape shape" alt="Image"> -->
 		</section>
 		<!--=== End Doctors Section ===-->
 

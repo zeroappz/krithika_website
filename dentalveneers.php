@@ -64,20 +64,26 @@
 
 								<ul>
 									<li>
-										<a href="orthodontics.php">
-											Orthodontics
+										<a href="oralmedicineandpathology.php">
+										Oral Medicine and Pathology
 											<i class="icofont-simple-right"></i>
 										</a>
 									</li>
 									<li>
-										<a href="oralandmaxillofacial.php">
-											Oral And Maxillofacial
+										<a href="restorativedentistry.php">
+										Restorative Dentistry
 											<i class="icofont-simple-right"></i>
 										</a>
 									</li>
 									<li>
-										<a href="services.php">
-											Conservative Dentistry
+										<a href="endodontics.php">
+										Endodontics
+											<i class="icofont-simple-right"></i>
+										</a>
+									</li>
+									<li>
+										<a href="teethscaling.php">
+										Periodontics
 											<i class="icofont-simple-right"></i>
 										</a>
 									</li>
@@ -88,14 +94,32 @@
 										</a>
 									</li>
 									<li>
-										<a href="dentalimplants.php">
-											Dental Implants
+										<a href="dentalcrowns.php">
+										Dental Crowns
 											<i class="icofont-simple-right"></i>
 										</a>
 									</li>
 									<li>
-										<a href="teethscaling.php">
-											Periodontics
+										<a href="dentalbridges.php">
+										Dental Bridges
+											<i class="icofont-simple-right"></i>
+										</a>
+									</li>
+									<li>
+										<a href="dentures.php">
+										Dentures
+											<i class="icofont-simple-right"></i>
+										</a>
+									</li>
+									<li>
+										<a href="orthodontics.php">
+										Orthodontics
+											<i class="icofont-simple-right"></i>
+										</a>
+									</li>
+									<li>
+										<a href="dentalimplants.php">
+										Implant Dentistry
 											<i class="icofont-simple-right"></i>
 										</a>
 									</li>
@@ -108,18 +132,6 @@
 									<li>
 										<a href="pediatricdentistry.php">
 										Pediatric Dentistry
-											<i class="icofont-simple-right"></i>
-										</a>
-									</li>
-									<li>
-										<a href="     dentistry.php">
-											Sedation Dentistry
-											<i class="icofont-simple-right"></i>
-										</a>
-									</li>
-									<li>
-										<a href="brushingtechniques.php">
-											Brushing Techniques
 											<i class="icofont-simple-right"></i>
 										</a>
 									</li>
