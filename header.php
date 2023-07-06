@@ -157,10 +157,13 @@
 						<li class="nav-item">
 							<a href="contact-us.php" class="nav-link">Contact Us</a>
 						</li>
-						<!-- <li class="nav-item">
-								<a href="#register.php" class="nav-link">Register</a>
-							</li> -->
 						<li class="nav-item">
+								<a href=" https://admin.kirthikadentalcare.in/register" class="nav-link">Register</a>
+							</li>
+							<li class="nav-item">
+								<a href="https://admin.kirthikadentalcare.in/login" class="nav-link">Login</a>
+							</li>
+						<!-- <li class="nav-item">
 							<a href="#" class="nav-link dropdown-toggle">Login</a>
 							<ul class="dropdown-menu">
 								<li class="nav-item">
@@ -170,7 +173,7 @@
 									<a href="https://admin.kirthikadentalcare.in/" class="nav-link">Patient login</a>
 								</li>
 							</ul>
-						</li>
+						</li> -->
 					</ul>
 					<!--
 						<div class="nav-right-options">
@@ -188,7 +191,7 @@
 						<!-- Actual search box -->
 						<div class="form-group has-search">
 							<span class="fa fa-search form-control-feedback"></span>
-							<input type="text" class="form-control" placeholder="Search" style="width:600px">
+							<input type="text" class="form-control" placeholder="Search" style="width:500px">
 						</div>
 
 

@@ -20,7 +20,7 @@
 		<!--=== Favicon ===-->
 		<link rel="icon" type="image/png" href="assets/images/favicon.png">
 		<!--=== Title ===-->
-		<title>Krithika Dental Care</title>
+		<title>Kirthika Dental Care</title>
     </head>
 
     <body>
@@ -45,10 +45,10 @@
 				</div>
 			</div>
 			<div class="page-banner-shape-1 shape">
-				<img src="assets/images/banner/banner-shape-1.png" alt="Image">
+				<!-- <img src="assets/images/banner/banner-shape-1.png" alt="Image"> -->
 			</div>
 			<div class="page-banner-shape-2 shape">
-				<img src="assets/images/banner/banner-shape-1.png" alt="Image">
+				<!-- <img src="assets/images/banner/banner-shape-1.png" alt="Image"> -->
 			</div>
 		</section>
 		<!--=== End Page Banner Section ===-->
@@ -237,7 +237,7 @@
 
 							<p>Normally the irregularity of the teeth is corrected by putting braces.</p> -->
 
-							<h4>Watch The Sealants Image</h4>
+							<!-- <h4>Watch The Sealants Image</h4> -->
 
 							<div class="services-img-1">
 								<img src="assets/images/services/dental-implants-section-2.png" alt="Image">
@@ -374,7 +374,7 @@
 			<div class="container">
 				<div class="row">
 					<div class="col-lg-8 col-md-7">
-						<p>Copyright © <span>Krithika Dental Care</span> Is Proudly Owned by <a href="https://croptheme.com/" target="_blank">Macincode</a></p>
+						<p>Copyright © <span>Kirthika Dental Care</span> Is Proudly Owned by <a href="https://croptheme.com/" target="_blank">Macincode</a></p>
 					</div>
 					<div class="col-lg-4 col-md-5">
 						<ul>

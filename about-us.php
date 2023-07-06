@@ -21,7 +21,7 @@
 		<!--=== Favicon ===-->
 		<link rel="icon" type="image/png" href="assets/images/favicon.png">
 		<!--=== Title ===-->
-		<title>Krithika Dental Care</title>
+		<title>Kirthika Dental Care</title>
     </head>
 
     <!-- Header Start -->
@@ -44,10 +44,10 @@
 				</div>
 			</div>
 			<div class="page-banner-shape-1 shape">
-				<img src="assets/images/banner/banner-shape-1.png" alt="Image">
+				<!-- <img src="assets/images/banner/banner-shape-1.png" alt="Image"> -->
 			</div>
 			<div class="page-banner-shape-2 shape">
-				<img src="assets/images/banner/banner-shape-1.png" alt="Image">
+				<!-- <img src="assets/images/banner/banner-shape-1.png" alt="Image"> -->
 			</div>
 		</section>
 		<!--=== End Page Banner Section ===-->
@@ -63,8 +63,8 @@
 					</div>
 					<div class="col-lg-6">
 						<div class="about-content ms-15">
-							<span class="up-title wow fadeInUp delay-0-2s">About Krithika Dental Care</span>
-							<h2 class="wow fadeInUp delay-0-4s">Why You Come To Our Krithika Dental Care Dental Center</h2>
+							<span class="up-title wow fadeInUp delay-0-2s">About Kirthika Dental Care</span>
+							<h2 class="wow fadeInUp delay-0-4s">Why You Come To Our Kirthika Dental Care Dental Center</h2>
 							<p class="wow fadeInUp delay-0-6s">A sealant is a liquid solution that is painted on to the biting surface of a clean tooth, and which sets as a durable plastic material It forms a physical barrier that stops food and other bacteria from collecting in the fissures liquid solution that is painted on to the biting.</p>
 
 							<ul>
@@ -798,7 +798,7 @@
 			<div class="container">
 				<div class="row">
 					<div class="col-lg-8 col-md-7">
-						<p>Copyright © <span>Krithika Dental Care</span> Is Proudly Owned by <a href="https://croptheme.com/" target="_blank">Crop Theme</a></p>
+						<p>Copyright © <span>Kirthika Dental Care</span> Is Proudly Owned by <a href="https://croptheme.com/" target="_blank">Crop Theme</a></p>
 					</div>
 					<div class="col-lg-4 col-md-5">
 						<ul>
@@ -823,7 +823,7 @@
 
 		<!-- <ul class="rtl-buy">
 			<li>
-				<a href="https://croptheme.com/Krithika Dental Care/Krithika Dental Care-rtl/">RTL</a>
+				<a href="https://croptheme.com/Kirthika Dental Care/Kirthika Dental Care-rtl/">RTL</a>
 			</li>
 			<li>
 				<a href="https://themeforest.net/item/blad-ai-blood-donation-activism-campaign-html-template/41923002" target="_blank" class="bg-color">BUY</a>

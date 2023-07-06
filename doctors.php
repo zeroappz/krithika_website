@@ -21,7 +21,7 @@
 		<!--=== Favicon ===-->
 		<link rel="icon" type="image/png" href="assets/images/favicon.png">
 		<!--=== Title ===-->
-		<title>Krithika Dental Care</title>
+		<title>Kirthika Dental Care</title>
     </head>
 
     <body>
@@ -443,7 +443,7 @@
 			<div class="container">
 				<div class="row">
 					<div class="col-lg-8 col-md-7">
-						<p>Copyright © <span>Krithika Dental Care</span> Is Proudly Owned by <a href="https://croptheme.com/" target="_blank">Macincode</a></p>
+						<p>Copyright © <span>Kirthika Dental Care</span> Is Proudly Owned by <a href="https://croptheme.com/" target="_blank">Macincode</a></p>
 					</div>
 					<div class="col-lg-4 col-md-5">
 						<ul>

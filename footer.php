@@ -26,7 +26,7 @@
 								<a href="services.php">Services</a>
 							</li>
 							<li>
-								<a target="_blank" href="#">Appointment</a>
+								<a target="_blank" href="https://admin.kirthikadentalcare.in/appointment">Appointment</a>
 							</li>
 						</ul>
 					</div>
@@ -60,7 +60,7 @@
 							</li>
 							<li>
 								<i class="icofont-envelope"></i>
-								<a href="mailto:Krithikadentalcare@gmail.com">Krithikadentalcare@gmail.com</a>
+								<a href="mailto:Kirthikadentalcare@gmail.com">Kirthikadentalcare@gmail.com</a>
 							</li>
 							<li>
 								<i class="icofont-ui-call"></i>

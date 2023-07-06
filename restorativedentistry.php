@@ -20,7 +20,7 @@
 		<!--=== Favicon ===-->
 		<link rel="icon" type="image/png" href="assets/images/favicon.png">
 		<!--=== Title ===-->
-		<title>Krithika Dental Care</title>
+		<title>Kirthika Dental Care</title>
     </head>
 
     <body>
@@ -44,13 +44,13 @@
 					</ul>
 				</div>
 			</div>
-			<div class="page-banner-shape-1 shape">
+			<!-- <div class="page-banner-shape-1 shape">
 				<img src="assets/images/banner/banner-shape-1.png" alt="Image">
 			</div>
 			<div class="page-banner-shape-2 shape">
 				<img src="assets/images/banner/banner-shape-1.png" alt="Image">
 			</div>
-		</section>
+ -->		</section>
 		<!--=== End Page Banner Section ===-->
 
 		<!--=== Start Services Details Section ===-->
@@ -214,69 +214,119 @@
 					<div class="col-lg-8">
 						<div class="services-details-content ms-15">
 							<div class="services-img-1">
-								<img src="assets/images/services/services-1.png" alt="Image">
+								<img src="assets/images/services/Restorative-dentistry.png" alt="Image">
 							</div>
 							<h4>Introduction</h4>
-							<h3>Orthodontics</h3>
-							<p><b>What is the meaning of orthodontics?</b><br></p>
+							<h3>Restorativedentistry</h3>
+							<p><b>What is the meaning of Restorativedentistry?</b><br></p>
 
-							<p>It is a specialized branch of dentistry that focuses on prevention as well as treatment of misalignment of teeth and
-							facial irregularities/abnormalities.</p>
+							<p>Restorative dentistry is a branch of dentistry that focuses on restoring the function, appearance, and integrity of teeth and oral structures affected by various dental conditions or injuries. It involves the diagnosis, prevention, and treatment of oral diseases and disorders, with the goal of improving oral health and enhancing the patient's quality of life.</p>
 
-							<p><b>Who are the candidates of orthodontic treatment?</b><br></p>
+							<p><b>Who are the candidates of Restorative dentistry treatment?</b><br></p>
 
-							<Third>One who has got misaligned teeth, crowded teeth, buck teeth, overlapping of teeth and gap between the teeth are the
-							candidates of orthodontic treatment.
+							<Third>Restorative dentistry treatment are individuals who require dental procedures to repair or replace damaged or missing teeth. 
 
-							<p><b>What does the orthodontist do?</b><br></p>
+							<p><b>What does the Restorative dentistry do?</b><br></p>
 
-							<p>Normally the irregularity of the teeth is corrected by putting braces.</p>
+							<p>Restorative dentistry is a branch of dentistry focused on restoring the function and appearance of damaged or missing teeth. It involves various treatments and procedures to repair teeth affected by decay, trauma, wear, or other dental issues. Restorative dentistry aims to improve oral health, restore natural tooth structure, and enhance the overall aesthetics of the smile. Common restorative procedures include dental fillings, crowns, bridges, implants, and dentures.</p>
 
-							<h4>Watch The Sealants Image</h4>
+							<!-- <h4>Watch The Sealants Image</h4> -->
 
 							<div class="services-img-1">
-								<img src="assets/images/services/services-2.png" alt="Image">
+								<img src="assets/images/services/restorativedentistry.png" alt="Image">
 
 							</div>
 
-							<h3>What steps are followed in orthodontic treatment?</h3>
-							<p>Firstly a record is made before the treatment starts, which serves as a tool for the orthodontist. This includes medical
-							history, plaster models of the teeth are studied, clinical examination, photos of teeth as well as x-rays of head and
-							mouth.</p>
+							<h3>What steps are followed in Restorative dentistry treatment?</h3>
+							<p><b>In restorative dentistry treatment, the following steps are typically followed:</b><br></p>
+							<ul>
+								<li>
+									<p><b>Examination and Diagnosis: </b><br></p>
+									<span>1</span>
+									The dentist examines the patient's teeth and oral health to assess the extent of damage or decay. X-rays and other diagnostic tools may be used to aid in the assessment.
+								</li>
+								<li>
+									<p><b>Treatment Planning: </b><br></p>
+									<span>2</span>
+									Based on the examination, the dentist develops a treatment plan that outlines the specific restorative procedures required to address the dental issues.
+								</li>
+								<li>
+									<p><b>Tooth Preparation:</b><br></p>
+									<span>3</span>
+									If necessary, the damaged or decayed part of the tooth is removed, creating a clean surface for the restoration.
+								</li>
+								<li>
+									<p><b>Restoration Placement:</b><br></p>
+									<span>4</span>
+									The chosen restorative material (e.g., dental fillings, crowns, bridges) is applied to the prepared tooth structure to restore its function and appearance.
+								</li>
+								<li>
+									<p><b>Bite Adjustment: </b><br></p>
+									<span>5</span>
+									 The dentist ensures that the restoration fits correctly with the patient's bite and makes any necessary adjustments for comfort and functionality.
+								</li>
+								<li>
+									<p><b>Final Polishing: </b><br></p>
+									<span>6</span>
+									 The restoration is polished to achieve a smooth and natural appearance, blending in with the surrounding teeth.
+								</li>
+								<li>
+									<p><b>Follow-Up: </b><br></p>
+									<span>7</span>
+									 After the restorative treatment, the dentist may schedule follow-up appointments to monitor the success of the restoration and address any concerns or issues that may arise.
+								</li>
+							</ul>
 
-							<p>Second step is to plan the treatment. This varies acc. to individual patients requirement. Then appliances which are to
-							be used are put in place, this is an active phase. These appliances are periodically adjusted just to make sure that the
-							teeth are moving in right direction.</p>
 
-							<p>Third is the retention phase in which the patient is required to wear a retainer so that teeth retain their new
-							place/position.</p>
-
-
-							<h4>What are the advantages of orthodontics?</h4>
+							<h4>What are the advantages of Restorative dentistry?</h4>
 							<p>Orthodontics can change the teeth as well as the whole facial structure. BY aligning teeth one gets the correct
 							functioning of the jaw and a n attractive smile. Teeth can be cleaned easily and the chances of gum diseases are reduced
 							moreover orthodontic treatment enhances the self confidence of an individual.</p>
-
 							<ul>
-								<li>
-									<p><b>Why teeth become irregular?</b><br></p>
-									<span>1</span>
-									There is misalignment of teeth because of thumb sucking, small jaw, incompetent lips, bad tongue and lip habits, nail
-									biting, injury etc.
+								<li class="hover-style wow fadeInUp delay-0-2s">
+									<span class="bulletPoints"></span>
+										<p><b>Improved oral function:</b><br></p>
+										 Restorative dentistry procedures such as dental fillings, crowns, and bridges help restore damaged or missing teeth, improving chewing and speaking abilities.
 								</li>
-								<li>
-									<p><b>At what age one can go for orthodontic treatment?</b><br></p>
-									<span>2</span>
-									Acc to experts a child at the age of 7 should be brought to an orthodontist because this is the time when the new teeth
-									erupt and after evaluating the teeth necessary treatment can be done(i.e. to prevent any severe problem in future).This
-									is referred to as phase I treatment. The phase I treatment is for 12-21months .After this dentist gives a rest period in
-									which the eruption and formation of the teeth are monitored. Then in phase II when the child turns 12-13 full braces can
-									be put if the teeth are still not in the right shape.
-								</li>
+								<li class="hover-style wow fadeInUp delay-0-4s">
+									<div class="inner-border">
+										<span class="bulletPoints"></span>
+										 Treatments like dental veneers and tooth-colored fillings can improve the appearance of teeth, enhancing your smile and boosting self-confidence.
 
+								</li>
+								<li class="hover-style wow fadeInUp delay-0-6s">
+									<span class="bulletPoints"></span>
+										<p><b>Preservation of natural teeth: </b><br></p>
+										 Restorative procedures aim to preserve as much of the natural tooth structure as possible, preventing the need for tooth extraction.
+								</li>
+								<li class="hover-style wow fadeInUp delay-0-8s">
+									<span class="bulletPoints"></span>
+										<p><b>Pain relief: </b><br></p>
+										 Restoring decayed or damaged teeth can alleviate tooth pain and sensitivity, improving overall oral comfort.
+								</li>
+								<li class="hover-style wow fadeInUp delay-0-8s">
+									<span class="bulletPoints"></span>
+										<p><b>Long-term durability: </b><br></p>
+										 Modern restorative materials, such as ceramic and composite resins, are durable and can last for many years with proper care.
+								</li>
+								<li class="hover-style wow fadeInUp delay-0-8s">
+									<span class="bulletPoints"></span>
+										<p><b>Preventing further dental problems: </b><br></p>
+										 Restorative dentistry addresses dental issues promptly, preventing them from escalating into more complex and expensive problems later on.
+								</li>
+								<li class="hover-style wow fadeInUp delay-0-8s">
+									<span class="bulletPoints"></span>
+										<p><b>Restoring bite alignment: </b><br></p>
+										 Restorative treatments can help correct bite issues and improve the alignment of teeth, contributing to better overall oral health.
+								</li>
+								<li class="hover-style wow fadeInUp delay-0-8s">
+									<span class="bulletPoints"></span>
+										<p><b>Customized solutions: </b><br></p>
+										 Restorative dentistry offers personalized treatments tailored to each patient's specific needs, ensuring optimal results.
+								</li>
 							</ul>
 
-							<h4>Do adults go for this treatment?</h4>
+							<!-- <h4>Do adults go for this treatment?</h4>
 							<p>In fact mostly the adults go for it because they want to look good and confident. There is no age bar for putting on
 							braces.</p>
 
@@ -288,7 +338,7 @@
 
 							<p><b>How much time is required for the treatment?</b><br></p>
 
-							<p>On an average 22 months time is required but the time depends on individual need and problem.</p>
+							<p>On an average 22 months time is required but the time depends on individual need and problem.</p> -->
 
 						</div>
 					</div>

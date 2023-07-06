@@ -20,7 +20,7 @@
     <!--=== Favicon ===-->
     <link rel="icon" type="image/png" href="assets/images/krithika.png" style="width:80px; height:107px !important;">
     <!--=== Title ===-->
-    <title>Krithika Dental Care</title>
+    <title>Kirthika Dental Care</title>
 </head>
 
 <body>
