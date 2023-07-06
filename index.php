@@ -18,37 +18,16 @@
 	<link rel="stylesheet" href="assets/css/responsive.css">
 
 	<!--=== Favicon ===-->
-	<link rel="icon" type="image/png" href="assets/images/krithika.png" style="width:80px; height:107px !important;">
+	<link rel="icon" type="image/png" href="assets/images/kirthika.png" style="width:80px; height:107px !important;">
 	<!--=== Title ===-->
-	<title>Krithika Dental Care</title>
+	<title>Kirthika Dental Care</title>
 </head>
 <section class="banner-section">
 		<div class="container-fluid">
 			<div class="row">
-				<div class="col-lg-6">
-					<!--=== Start Navbar Section ===-->
-					<!-- <div class="navbar-section-btm"> -->
-						<!--=== Start Main Navbar Section ===-->
-						<div class="main-nav">
-							<div class="container">
-								<nav class="navbar navbar-expand-md navbar-light">
-
-
-									<a class="navbar-brand" href="#">
-									
-										<img src="assets/images/krithika.png" alt="Logo" class="log2" style="width:100%; height:100%;margin-right:20px">
-									</a>
-
-							</div>
-							</nav>
-						</div>
-				</div>
-					<!--=== End Main Navbar Section ===-->
-					
-
-					<div class="col-lg-6 p-0">
-					<div class="banner-img wow fadeInUp delay-0-2s">
-						<img src="assets/images/banner/dentist-with-smile.png" alt="Image">
+				<div class="col-lg-12 p-0">
+					<div class="banner-img wow fadeInUp delay-0-2s" style="visibility: visible; animation-name: fadeInUp;">
+						<img src="assets/images/kirthika_header.png" alt="Image">
 					</div>
 				</div>
 			</div>
@@ -208,7 +187,7 @@
 						</li>
 
 						<!-- <a class="navbar-brand" href="index.php">
-							<img src="assets/images/krithika.png" alt="Logo" class="log2" style="width:200px; height:90px;     margin-left: 85px;
+							<img src="assets/images/kirthika.png" alt="Logo" class="log2" style="width:200px; height:90px;     margin-left: 85px;
 												margin-right: 73px;">
 						</a> -->
 
@@ -268,7 +247,7 @@
 			<div class="mobile-menu">
 				<div class="logo">
 					<a href="index.php">
-						<img src="assets/images/krithika.png" alt="Logo" style="width:120px; height:70px !important;">
+						<img src="assets/images/kirthika.png" alt="Logo" style="width:120px; height:70px !important;">
 					</a>
 				</div>
 			</div>
@@ -287,7 +266,7 @@
 
 
 				<a class="navbar-brand" href="#">
-					<img src="assets/images/krithika.png" alt="Logo" class="log2" style="width:240px; height:144px;     margin-left: 505px;
+					<img src="assets/images/kirthika.png" alt="Logo" class="log2" style="width:240px; height:144px;     margin-left: 505px;
 												margin-right: 73px;">
 				</a>
 
@@ -309,7 +288,7 @@
 			<div class="row">
 				<div class="col-lg-12">
 					<div class=" pt-100" >
-						<h1 class="wow fadeInUp delay-0-2s" style="text-align:center;">WELCOME TO KRITHIKA DENTAL CARE</h1>
+						<h1 class="wow fadeInUp delay-0-2s" style="text-align:center;">WELCOME TO KIRTHIKA DENTAL CARE</h1>
 						<br><br>
 						<p class="wow fadeInUp delay-0-4s"  style=  "margin-left:20%;margin-right:20%; text-align:center;">We are committed to providing our patients best-in-class
 							treatment using advance dental materials and instruments with
@@ -640,7 +619,7 @@
 				</div>
 				<div class="col-lg-6">
 					<div class="about-content ms-15">
-						<span class="up-title wow fadeInUp delay-0-2s">About Krithika Dental Care</span>
+						<span class="up-title wow fadeInUp delay-0-2s">About Kirthika Dental Care</span>
 						<h2 class="wow fadeInUp delay-0-4s">Why Choose US?</h2>
 						<p class="wow fadeInUp delay-0-6s">A sealant is a liquid solution that is painted on to the
 							biting surface of a clean tooth, and which sets as a durable
@@ -852,7 +831,7 @@
 		<div class="container">
 			<div class="row">
 				<div class="col-lg-8 col-md-7">
-					<p>Copyright © <span>Krithika Dental Care</span> All RIghts Reserved <a href="https://macincode.com/" target="_blank">Macincode</a></p>
+					<p>Copyright © <span>Kirthika Dental Care</span> All RIghts Reserved <a href="https://macincode.com/" target="_blank">Macincode</a></p>
 				</div>
 				<div class="col-lg-4 col-md-5">
 					<ul>

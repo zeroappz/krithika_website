@@ -18,7 +18,7 @@
     <link rel="stylesheet" href="assets/css/responsive.css">
 
     <!--=== Favicon ===-->
-    <link rel="icon" type="image/png" href="assets/images/krithika.png" style="width:80px; height:107px !important;">
+    <link rel="icon" type="image/png" href="assets/images/kirthika.png" style="width:80px; height:107px !important;">
     <!--=== Title ===-->
     <title>Kirthika Dental Care</title>
 </head>
@@ -129,7 +129,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-lg-8 col-md-7">
-                    <p>Copyright © <span>Krithika Dental Care</span> All RIghts Reserved <a href="https://macincode.com/" target="_blank">Macincode</a></p>
+                    <p>Copyright © <span>Kirthika Dental Care</span> All RIghts Reserved <a href="https://macincode.com/" target="_blank">Macincode</a></p>
                 </div>
                 <div class="col-lg-4 col-md-5">
                     <ul>

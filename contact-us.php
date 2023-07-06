@@ -124,7 +124,7 @@
 							<h3>Email Address</h3>
 							<ul>
 								<li>
-									<a href="mailto:Krithikadentalcare@gmail.com">Krithikadentalcare@gmail.com</a>
+									<a href="mailto:kirthikadentalcare@gmail.com">kirthikadentalcare@gmail.com</a>
 								</li>
 
 							</ul>
@@ -246,7 +246,7 @@
 		<div class="container">
 			<div class="row">
 				<div class="col-lg-8 col-md-7">
-					<p>Copyright © <span>Krithika Dental Care</span> All RIghts Reserved <a href="https://macincode.com/" target="_blank">Macincode</a></p>
+					<p>Copyright © <span>Kirthika Dental Care</span> All RIghts Reserved <a href="https://macincode.com/" target="_blank">Macincode</a></p>
 				</div>
 				<div class="col-lg-4 col-md-5">
 					<ul>

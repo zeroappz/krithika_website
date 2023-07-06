@@ -146,7 +146,7 @@
 						</li>
 
 						<!-- <a class="navbar-brand" href="index.php">
-							<img src="assets/images/krithika.png" alt="Logo" class="log2" style="width:200px; height:90px;     margin-left: 85px;
+							<img src="assets/images/kirthika.png" alt="Logo" class="log2" style="width:200px; height:90px;     margin-left: 85px;
 												margin-right: 73px;">
 						</a> -->
 
@@ -206,7 +206,7 @@
 			<div class="mobile-menu">
 				<div class="logo">
 					<a href="index.php">
-						<img src="assets/images/krithika.png" alt="Logo" style="width:120px; height:70px !important;">
+						<img src="assets/images/kirthika.png" alt="Logo" style="width:120px; height:70px !important;">
 					</a>
 				</div>
 			</div>
@@ -225,7 +225,7 @@
 
 
 				<a class="navbar-brand" href="#">
-					<img src="assets/images/krithika.png" alt="Logo" class="log2" style="width:240px; height:144px;     margin-left: 505px;
+					<img src="assets/images/kirthika.png" alt="Logo" class="log2" style="width:240px; height:144px;     margin-left: 505px;
 												margin-right: 73px;">
 				</a>
 
