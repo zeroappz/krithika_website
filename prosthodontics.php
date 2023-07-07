@@ -33,13 +33,13 @@
 		<section class="page-banner-section bg-color-ebeef5 ptb-100">
 			<div class="container">
 				<div class="page-banner-content">
-					<h2>Oral Medicine and Pathology</h2>
+					<h2>Prosthodontics</h2>
 					<ul>
 						<li>
 							<a href="index.php">Home</a>
 						</li>
 						<li>
-							<span class="active">Oral Medicine and Pathology</span>
+							<span class="active">Prosthodontics</span>
 						</li>
 					</ul>
 				</div>
@@ -220,138 +220,128 @@
 					<div class="col-lg-8">
 						<div class="services-details-content ms-15">
 							<div class="services-img-1">
-								<img src="assets/images/services/istockphoto.png" alt="Image">
+								<img src="assets/images/services/prosthodontics_sec_1.png" alt="Image">
 							</div>
 							<h4>Introduction</h4>
-							<h3>Oral Medicine and Pathology</h3>
-							<p><b>Who are the candidates of Oral Medicine and Pathology treatment?</b><br></p>
+							<h3>prosthodontics</h3>
+							<p><b>What is meaning by prosthodontics?</b><br></p>
 
-							<p>Oral pathology / oral medicine is a specialty area of dentistry that is concerned with the health of the mouth and the diagnosis and management of diseases of the oral region.</p>
+							<p>Prosthodontics is a specialized branch of dentistry dedicated to making dental prosthetics (artificial teeth) for damaged or missing teeth. The word “prosthodontics” comes from the words “prostho,” meaning replacement, and “dontist,” meaning teeth.</p>
 
-							<p><b>Who are the candidates of Oral Medicine and Pathology treatment?</b><br></p>
+							<p><b>Who needs prosthodontics?</b><br></p>
 
-							<Third>Oral Medicine and Pathology is a specialized field of dentistry that focuses on the diagnosis and treatment of oral diseases, including oral cancer, infections, autoimmune disorders, and other oral conditions. 
+							<p><Third>Prosthodontics can treat a wide range of issues. Your general dentist might refer you to a prosthodontist if you have:</p>
 
-							<p><b>What does the Oral Medicine and Pathology do?</b><br></p>
+						
 
-							<p>Oral Medicine and Pathology is a specialized field of dentistry that focuses on the diagnosis and management of various oral diseases and conditions. It deals with the study of oral and maxillofacial disorders, including those affecting the mouth, jaws, salivary glands, and surrounding structures.</p>
+							<ul>
+								<li>
+									<!-- <p><b>Why teeth become irregular?</b><br></p> -->
+									<span class="bulletPoints"></span>
+									<b> Missing teeth.</b>
+								</li>
+								<li>
+									<!-- <p><b>At what age one can go for orthodontic treatment?</b><br></p> -->
+									<span class="bulletPoints"></span>
+									<b> Severely damaged teeth.</b> 
+								</li>
+								<li>
+									<!-- <p><b>At what age one can go for orthodontic treatment?</b><br></p> -->
+									<span class="bulletPoints"></span>
+									<b> TMJ pain or dysfunction.</b>
+								</li>
+								<li>
+									<!-- <p><b>At what age one can go for orthodontic treatment?</b><br></p> -->
+									<span class="bulletPoints"></span>
+									<b>Mouth or facial pain.</b>
+								</li>
+								<li>
+									<!-- <p><b>At what age one can go for orthodontic treatment?</b><br></p> -->
+									<span class="bulletPoints"></span>
+									<b>Cosmetic concerns.</b>
+								</li>
+								<li>
+									<!-- <p><b>At what age one can go for orthodontic treatment?</b><br></p> -->
+									<span class="bulletPoints"></span>
+									<b>Obstructive sleep apnea.</b>
+								</li>
+								<li>
+							</ul>
 
 							<!-- <h4>Watch The Sealants Image</h4> -->
 
 							<div class="services-img-1">
-								<img src="assets/images/services/oral-pathology.png" alt="Image">
+								<img src="assets/images/services/prosthodontics_sec_2.png" alt="Image">
 
 							</div>
 
-							<h3>What steps are followed in Oral Medicine and Pathology treatment?</h3>
-							<p>In Oral Medicine and Pathology treatment, the following steps are typically followed:</p>
+							<h3>What Does a Prosthodontist Do?</h3>
+					
+							<p>Unlike general dentists, prosthodontists specialize in repairing natural teeth and replacing missing teeth. Missing and extracted (removed) teeth are replaced with artificial teeth (dentures), dental implants, caps, or crowns.. Specially trained prosthodontists also work with people with head and neck deformities, replacing missing parts of the jaw and face.</p>
 
+							<h4>Reasons to See a Prosthodontist</h4>
+							<p>There are various reasons why you would visit a prosthodontist. It could be due to an accident involving the mouth, a congenital (birth-related) condition, or simply cosmetic reasons. Although many traditional dentists can provide these services as well, prosthodontists are extensively trained in state-of-the-art techniques and procedures for treating complex dental conditions.</p>
+							<h4>Here are some common procedures and treatments that fall within the scope of prosthodontics:</h4>
 							<ul>
 								<li>
-									<p><b>Medical History and Examination:</b><br></p>
-									<span>1</span>
-									The first step involves taking a detailed medical history and conducting a thorough oral examination. This includes assessing the patient's general health, previous medical conditions, and any medications they are taking.
+									<!-- <p><b>Why teeth become irregular?</b><br></p> -->
+									<span class="bulletPoints"></span>
+									<b>Dentures:</b> Prosthodontists are skilled in creating complete dentures for patients who have lost all their teeth. These dentures are custom-made to fit the patient's mouth and restore their ability to eat, speak, and smile.
 								</li>
 								<li>
-									<p><b>Diagnostic Tests: </b><br></p>
-									<span>2</span>
-									Depending on the symptoms and findings from the examination, the oral medicine specialist may order specific diagnostic tests such as biopsies, imaging studies (X-rays, CT scans), or blood tests to aid in the diagnosis.
+									<!-- <p><b>At what age one can go for orthodontic treatment?</b><br></p> -->
+									<span class="bulletPoints"></span>
+									<b>Dental Implants:</b> Prosthodontists are involved in the surgical placement and restoration of dental implants. Implants are artificial tooth roots that are surgically inserted into the jawbone to support dental crowns, bridges, or dentures. Prosthodontists work closely with oral surgeons and periodontists to ensure the proper placement and aesthetic outcome of dental implants.
 								</li>
 								<li>
-									<p><b>Diagnosis: </b><br></p>
-									<span>3</span>
-									Based on the patient's medical history, clinical examination, and diagnostic test results, a definitive diagnosis is made. This is crucial for determining the appropriate treatment plan.
+									<!-- <p><b>At what age one can go for orthodontic treatment?</b><br></p> -->
+									<span class="bulletPoints"></span>
+									<b> Dental Crowns and Bridges: </b> Prosthodontists design and fabricate dental crowns, which are tooth-shaped caps placed over damaged or decayed teeth to restore their strength, shape, and appearance. They also create dental bridges, which are used to replace one or more missing teeth by anchoring them to adjacent teeth or dental implants.
 								</li>
 								<li>
-									<p><b>Treatment Planning: </b><br></p>
-									<span>4</span>
-									The oral medicine specialist devises a treatment plan tailored to the patient's condition. This may involve managing systemic conditions that affect the oral cavity or addressing specific oral diseases.
+									<!-- <p><b>At what age one can go for orthodontic treatment?</b><br></p> -->
+									<span class="bulletPoints"></span>
+									<b> Veneers: </b>Prosthodontists can apply veneers, which are thin shells made of porcelain or composite resin, to the front surfaces of teeth. Veneers improve the appearance of stained, chipped, or misaligned teeth by creating a natural-looking, uniform smile.
 								</li>
 								<li>
-									<p><b>Non-surgical Management:</b><br></p>
-									<span>5</span>
-									 In many cases, oral medicine treatment involves non-surgical management, such as prescribing medications, mouthwashes, or topical agents to alleviate symptoms or control oral diseases.
+									<!-- <p><b>At what age one can go for orthodontic treatment?</b><br></p> -->
+									<span class="bulletPoints"></span>
+									<b> Temporomandibular Joint (TMJ) Disorders:</b>  Prosthodontists diagnose and treat conditions affecting the temporomandibular joint, which connects the jawbone to the skull. They may provide oral appliances or prosthetic solutions to alleviate symptoms such as jaw pain, headaches, and difficulty in jaw movement.
 								</li>
 								<li>
-									<p><b>Patient Education: </b><br></p>
-									<span>6</span>
-									The specialist educates the patient about their condition, the treatment plan, and preventive measures they can take to maintain oral health.
-								</li>
-								<li>
-									<p><b>Follow-up and Monitoring: </b><br></p>
-									<span>7</span>
-									Regular follow-up appointments are scheduled to assess the patient's response to treatment and make any necessary adjustments.
-								</li>
-								<li>
-									<p><b>Referral:</b><br></p>
-									<span>8</span>
-									If the oral medicine specialist identifies conditions that require more specialized care or surgical intervention, they may refer the patient to an appropriate specialist, such as an oral surgeon or periodontist.
-								</li>
-								<li>
-									<p><b>Oral Cancer Screening:</b><br></p>
-									<span>9</span>
-									Routine oral cancer screenings are often conducted, especially for patients at higher risk, to detect any signs of oral cancer early on.
-								</li>
-								<li>
-									<p><b>Oral Health Maintenance: </b><br></p>
-									<span>10</span>
-									After treatment, patients are encouraged to maintain good oral hygiene practices and regular dental check-ups to prevent future oral health issues.
-								</li>
-
-
 							</ul>
 
 
-							<h4>What are the advantages of Oral Medicine and Pathology?</h4>
-							<p>Oral Medicine and Pathology treatment offer several advantages for patients. Here are some key benefits:</p>
+							<h4>What are the advantages of prosthodontics?</h4>
+							<p>
+Prosthodontics is a branch of dentistry that focuses on the design, creation, and fitting of artificial teeth, dental implants, and other dental prostheses. The field of prosthodontics offers several advantages for patients who require dental restorations or replacements. Here are some of the advantages of prosthodontics:</p>
 
 							<ul>
 								<li>
-									<p><b>Comprehensive Diagnosis: </b><br></p>
-									<span>1</span>
-									Oral Medicine and Pathology specialists are trained to provide a thorough and accurate diagnosis of oral diseases and conditions. They have in-depth knowledge of various oral pathologies and can identify the underlying causes of oral symptoms, such as ulcers, lumps, or abnormal tissue changes.
+									<!-- <p><b>Why teeth become irregular?</b><br></p> -->
+									<span class="bulletPoints"></span>
+									<b>Improved aesthetics: </b>  Prosthodontic treatments can greatly enhance the appearance of a patient's smile. Whether it's dental crowns, bridges, dentures, or dental implants, prosthodontic solutions are designed to closely resemble natural teeth, resulting in a more pleasing and natural-looking smile.
 								</li>
 								<li>
-									<p><b>Multidisciplinary Approach: </b><br></p>
-									<span>2</span>
-									Oral Medicine and Pathology practitioners often collaborate with other dental and medical specialists, including oral surgeons, periodontists, and oncologists. This multidisciplinary approach ensures that patients receive well-rounded care and appropriate treatment plans tailored to their specific needs.
+									<!-- <p><b>At what age one can go for orthodontic treatment?</b><br></p> -->
+									<span class="bulletPoints"></span>
+									<b>Restored oral function: </b>Missing or damaged teeth can significantly impact a person's ability to chew, speak, and bite properly. Prosthodontic treatments restore oral function by replacing missing teeth or correcting dental abnormalities, enabling patients to eat, speak, and smile with confidence.
 								</li>
 								<li>
-									<p><b>Management of Oral Lesions:</b><br></p>
-									<span>3</span>
-									 Oral Medicine and Pathology experts are skilled in managing a wide range of oral lesions, including oral ulcers, mucosal diseases, oral manifestations of systemic diseases, and potentially malignant disorders. They can provide effective treatment options, including topical medications, systemic therapies, or referrals for surgical intervention when necessary.
+									<!-- <p><b>At what age one can go for orthodontic treatment?</b><br></p> -->
+									<span class="bulletPoints"></span>
+									<b>Enhanced comfort: </b> Prosthodontic appliances are customized to fit the individual patient's mouth, ensuring optimal comfort and a secure fit. Dentures, bridges, and implants are made to feel as natural as possible, reducing discomfort and improving overall oral comfort.
 								</li>
 								<li>
-									<p><b>Oral Cancer Detection: </b><br></p>
-									<span>4</span>
-									Early detection is crucial for the successful treatment of oral cancer. Oral Medicine and Pathology specialists are trained to recognize the signs and symptoms of oral cancer and can perform thorough oral cancer screenings. Regular screenings can lead to early detection and improved outcomes.
+									<!-- <p><b>At what age one can go for orthodontic treatment?</b><br></p> -->
+									<span class="bulletPoints"></span>
+									<b>Preservation of oral health: </b>Prosthodontics not only replaces missing teeth but can also help preserve the overall health of the mouth. By filling gaps left by missing teeth, prosthodontic treatments prevent neighboring teeth from shifting, maintain proper jaw alignment, and minimize the risk of dental complications that may arise due to tooth loss.
 								</li>
+								
 								<li>
-									<p><b>Patient Education: </b><br></p>
-									<span>5</span>
-									Oral Medicine and Pathology practitioners play an essential role in educating patients about oral health, disease prevention, and self-examination techniques. They can provide guidance on maintaining proper oral hygiene, recognizing oral abnormalities, and making lifestyle changes to reduce the risk of oral diseases.
-								</li>
-								<li>
-									<p><b>Research and Advancements: </b><br></p>
-									<span>6</span>
-									Oral Medicine and Pathology is a field that actively contributes to scientific research and advancements in oral healthcare. Specialists in this field are often involved in clinical trials, studies, and publications, leading to improved diagnostic techniques, treatment modalities, and better patient care overall.
-								</li>
-
 							</ul>
 
-							<!-- <h4>Do adults go for this treatment?</h4>
-							<p>In fact mostly the adults go for it because they want to look good and confident. There is no age bar for putting on
-							braces.</p>
-
-							<p><b>What types of braces are available?</b><br></p>
-
-							<p>There are 3 type of braces i.e. metallic, ceramic and invisalign. Metal braces are conventional and most commonly used.
-							Ceramic are very popular with adults as they look good and match with the teeth color. Invisalign are invisible and can
-							also be removed. They are very comfortable as there is no use of metal brackets and wires.</p>
-
-							<p><b>How much time is required for the treatment?</b><br></p>
-
-							<p>On an average 22 months time is required but the time depends on individual need and problem.</p> -->
+						
 
 						</div>
 					</div>

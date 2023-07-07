@@ -82,19 +82,25 @@
 										</a>
 									</li>
 									<li>
-										<a href="teethscaling.php">
+										<a href="periodontics.php">
 										Periodontics
 											<i class="icofont-simple-right"></i>
 										</a>
 									</li>
 									<li>
-										<a href="dentalcrowns.php">
-										Prosthodontics
+										<a href="oralandmaxillofacial.php">
+										Oral and Maxillofacial
 											<i class="icofont-simple-right"></i>
 										</a>
 									</li>
 									<li>
-										<a href="dentalcrowns.php">
+										<a href="prosthodontics.php">
+										Prosthodontics
+											<i class="icofont-simple-right"></i>
+										</a>
+									</li>
+									<!-- <li>
+										<a href="prosthodontics.php">
 										Dental Crowns
 											<i class="icofont-simple-right"></i>
 										</a>
@@ -110,7 +116,7 @@
 										Dentures
 											<i class="icofont-simple-right"></i>
 										</a>
-									</li>
+									</li> -->
 									<li>
 										<a href="orthodontics.php">
 										Orthodontics

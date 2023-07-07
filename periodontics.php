@@ -33,13 +33,13 @@
 		<section class="page-banner-section bg-color-ebeef5 ptb-100">
 			<div class="container">
 				<div class="page-banner-content">
-					<h2>Oral Medicine and Pathology</h2>
+					<h2>Periodontics</h2>
 					<ul>
 						<li>
 							<a href="index.php">Home</a>
 						</li>
 						<li>
-							<span class="active">Oral Medicine and Pathology</span>
+							<span class="active">Periodontics</span>
 						</li>
 					</ul>
 				</div>
@@ -220,138 +220,138 @@
 					<div class="col-lg-8">
 						<div class="services-details-content ms-15">
 							<div class="services-img-1">
-								<img src="assets/images/services/istockphoto.png" alt="Image">
+								<img src="assets/images/services/periodontics_sec_1.png" alt="Image">
 							</div>
 							<h4>Introduction</h4>
-							<h3>Oral Medicine and Pathology</h3>
-							<p><b>Who are the candidates of Oral Medicine and Pathology treatment?</b><br></p>
+							<h3>Periodontics</h3>
+							<p><b>What is meaning by Periodontics?</b><br></p>
 
-							<p>Oral pathology / oral medicine is a specialty area of dentistry that is concerned with the health of the mouth and the diagnosis and management of diseases of the oral region.</p>
+							<p>Periodontics is a specialized field of dentistry that focuses on the prevention, diagnosis, and treatment of diseases that affect the gums and supporting structures of the teeth. The word "periodontics" is derived from the Greek words "peri" meaning around and "odous" meaning tooth.</p>
 
-							<p><b>Who are the candidates of Oral Medicine and Pathology treatment?</b><br></p>
+							<p><b>Why would you see a periodontist?</b><br></p>
 
-							<Third>Oral Medicine and Pathology is a specialized field of dentistry that focuses on the diagnosis and treatment of oral diseases, including oral cancer, infections, autoimmune disorders, and other oral conditions. 
+							<p><Third>There are several reasons why someone would need to see a periodontist. Some people only need to see a periodontist temporarily. In other words, they may need to undergo treatment that’s outside the scope of practice for a general dentist. For example, maybe you need a gum graft, bone graft or frenectomy. A periodontist can perform your surgical treatment, then refer you back to your general dentist when your recovery is complete.</p>
 
-							<p><b>What does the Oral Medicine and Pathology do?</b><br></p>
+							<p><b>What exactly does a periodontist do?</b><br></p>
 
-							<p>Oral Medicine and Pathology is a specialized field of dentistry that focuses on the diagnosis and management of various oral diseases and conditions. It deals with the study of oral and maxillofacial disorders, including those affecting the mouth, jaws, salivary glands, and surrounding structures.</p>
+							<p>A periodontist treats oral health issues that affect your periodontium (the tissues around your teeth). This includes your:</p>
+
+							<ul>
+								<li>
+									<!-- <p><b>Why teeth become irregular?</b><br></p> -->
+									<span class="bulletPoints"></span>
+									<b> Gingiva:</b>  Your gums.
+								</li>
+								<li>
+									<!-- <p><b>At what age one can go for orthodontic treatment?</b><br></p> -->
+									<span class="bulletPoints"></span>
+									<b> Periodontal ligament:</b>  A group of connective tissue fibers that attach your teeth to your jawbone.
+								</li>
+								<li>
+									<!-- <p><b>At what age one can go for orthodontic treatment?</b><br></p> -->
+									<span class="bulletPoints"></span>
+									<b> Cementum:</b>  A hard layer of calcified tissue that covers your teeth roots.
+								</li>
+								<li>
+									<!-- <p><b>At what age one can go for orthodontic treatment?</b><br></p> -->
+									<span class="bulletPoints"></span>
+									<b>Alveolar bone:</b> The part of your jawbone that has tooth sockets.
+								</li>
+								<li>
+							</ul>
 
 							<!-- <h4>Watch The Sealants Image</h4> -->
 
 							<div class="services-img-1">
-								<img src="assets/images/services/oral-pathology.png" alt="Image">
+								<img src="assets/images/services/periodontics_sec_2.png" alt="Image">
 
 							</div>
 
-							<h3>What steps are followed in Oral Medicine and Pathology treatment?</h3>
-							<p>In Oral Medicine and Pathology treatment, the following steps are typically followed:</p>
+							<h3>What steps are followed in periodontics treatment?</h3>
+							<h4>Nonsurgical treatments</h4>
+							<p>If periodontitis isn't advanced, treatment may involve less invasive procedures, including:</p>
 
 							<ul>
 								<li>
-									<p><b>Medical History and Examination:</b><br></p>
-									<span>1</span>
-									The first step involves taking a detailed medical history and conducting a thorough oral examination. This includes assessing the patient's general health, previous medical conditions, and any medications they are taking.
+									<!-- <p><b>Why teeth become irregular?</b><br></p> -->
+									<span class="bulletPoints"></span>
+									<b> Scaling:</b> Scaling removes tartar and bacteria from your tooth surfaces and below your gumline. It may be done using instruments, a laser or an ultrasonic device.
 								</li>
 								<li>
-									<p><b>Diagnostic Tests: </b><br></p>
-									<span>2</span>
-									Depending on the symptoms and findings from the examination, the oral medicine specialist may order specific diagnostic tests such as biopsies, imaging studies (X-rays, CT scans), or blood tests to aid in the diagnosis.
+									<!-- <p><b>At what age one can go for orthodontic treatment?</b><br></p> -->
+									<span class="bulletPoints"></span>
+									<b> Root planing:</b>  Root planing smooths the root surfaces. This helps prevent further buildup of tartar and bacteria. It also helps your gums attach to your teeth again.
 								</li>
 								<li>
-									<p><b>Diagnosis: </b><br></p>
-									<span>3</span>
-									Based on the patient's medical history, clinical examination, and diagnostic test results, a definitive diagnosis is made. This is crucial for determining the appropriate treatment plan.
+									<!-- <p><b>At what age one can go for orthodontic treatment?</b><br></p> -->
+									<span class="bulletPoints"></span>
+									<b> Antibiotics:</b>  Topical or oral antibiotics can help control bacterial infection. Topical antibiotics can include antibiotic mouth rinses or putting gel containing an antibiotic into gum pockets. Sometimes oral antibiotics are needed to get of bacteria that cause infections.
 								</li>
 								<li>
-									<p><b>Treatment Planning: </b><br></p>
-									<span>4</span>
-									The oral medicine specialist devises a treatment plan tailored to the patient's condition. This may involve managing systemic conditions that affect the oral cavity or addressing specific oral diseases.
-								</li>
-								<li>
-									<p><b>Non-surgical Management:</b><br></p>
-									<span>5</span>
-									 In many cases, oral medicine treatment involves non-surgical management, such as prescribing medications, mouthwashes, or topical agents to alleviate symptoms or control oral diseases.
-								</li>
-								<li>
-									<p><b>Patient Education: </b><br></p>
-									<span>6</span>
-									The specialist educates the patient about their condition, the treatment plan, and preventive measures they can take to maintain oral health.
-								</li>
-								<li>
-									<p><b>Follow-up and Monitoring: </b><br></p>
-									<span>7</span>
-									Regular follow-up appointments are scheduled to assess the patient's response to treatment and make any necessary adjustments.
-								</li>
-								<li>
-									<p><b>Referral:</b><br></p>
-									<span>8</span>
-									If the oral medicine specialist identifies conditions that require more specialized care or surgical intervention, they may refer the patient to an appropriate specialist, such as an oral surgeon or periodontist.
-								</li>
-								<li>
-									<p><b>Oral Cancer Screening:</b><br></p>
-									<span>9</span>
-									Routine oral cancer screenings are often conducted, especially for patients at higher risk, to detect any signs of oral cancer early on.
-								</li>
-								<li>
-									<p><b>Oral Health Maintenance: </b><br></p>
-									<span>10</span>
-									After treatment, patients are encouraged to maintain good oral hygiene practices and regular dental check-ups to prevent future oral health issues.
-								</li>
-
-
 							</ul>
 
-
-							<h4>What are the advantages of Oral Medicine and Pathology?</h4>
-							<p>Oral Medicine and Pathology treatment offer several advantages for patients. Here are some key benefits:</p>
+							<h4>Surgical treatments</h4>
+							<p>If you have advanced periodontitis, you may need dental surgery, such as:</p>
 
 							<ul>
 								<li>
-									<p><b>Comprehensive Diagnosis: </b><br></p>
-									<span>1</span>
-									Oral Medicine and Pathology specialists are trained to provide a thorough and accurate diagnosis of oral diseases and conditions. They have in-depth knowledge of various oral pathologies and can identify the underlying causes of oral symptoms, such as ulcers, lumps, or abnormal tissue changes.
+									<!-- <p><b>Why teeth become irregular?</b><br></p> -->
+									<span class="bulletPoints"></span>
+									<b> Flap surgery, also called pocket reduction surgery:</b>Your periodontist makes cuts in your gums to carefully fold back the tissue. This exposes the tooth roots for more effective scaling and root planing. Because periodontitis often causes bone loss, the underlying bone may be reshaped before the gum tissue is stitched back in place. After you heal, it's easier to clean the areas around your teeth and maintain healthy gum tissue.
 								</li>
 								<li>
-									<p><b>Multidisciplinary Approach: </b><br></p>
-									<span>2</span>
-									Oral Medicine and Pathology practitioners often collaborate with other dental and medical specialists, including oral surgeons, periodontists, and oncologists. This multidisciplinary approach ensures that patients receive well-rounded care and appropriate treatment plans tailored to their specific needs.
+									<!-- <p><b>At what age one can go for orthodontic treatment?</b><br></p> -->
+									<span class="bulletPoints"></span>
+									<b>Soft tissue grafts:</b> When you lose gum tissue, your gumline gets lower, exposing some of your tooth roots. You may need to have some of the damaged tissue reinforced. This is usually done by removing a small amount of tissue from the roof of your mouth or using tissue from another donor source and attaching it to the affected site. This can help reduce further gum loss, cover exposed roots and give your teeth a better appearance.
 								</li>
 								<li>
-									<p><b>Management of Oral Lesions:</b><br></p>
-									<span>3</span>
-									 Oral Medicine and Pathology experts are skilled in managing a wide range of oral lesions, including oral ulcers, mucosal diseases, oral manifestations of systemic diseases, and potentially malignant disorders. They can provide effective treatment options, including topical medications, systemic therapies, or referrals for surgical intervention when necessary.
+									<!-- <p><b>At what age one can go for orthodontic treatment?</b><br></p> -->
+									<span class="bulletPoints"></span>
+									<b> Bone grafting:</b> This procedure is performed when periodontitis destroys the bone around your tooth root. The graft may be made from small bits of your own bone, or the bone may be made of artificial material or donated. The bone graft helps prevent tooth loss by holding your tooth in place. It also serves as a platform for the regrowth of natural bone.
 								</li>
 								<li>
-									<p><b>Oral Cancer Detection: </b><br></p>
-									<span>4</span>
-									Early detection is crucial for the successful treatment of oral cancer. Oral Medicine and Pathology specialists are trained to recognize the signs and symptoms of oral cancer and can perform thorough oral cancer screenings. Regular screenings can lead to early detection and improved outcomes.
+									<!-- <p><b>At what age one can go for orthodontic treatment?</b><br></p> -->
+									<span class="bulletPoints"></span>
+									<b> Guided tissue regeneration:</b> This allows the regrowth of bone that was destroyed by bacteria. In one approach, your dentist places a special type of fabric between existing bone and your tooth. The material prevents unwanted tissue from growing into the healing area, allowing bone to grow back instead.
 								</li>
 								<li>
-									<p><b>Patient Education: </b><br></p>
-									<span>5</span>
-									Oral Medicine and Pathology practitioners play an essential role in educating patients about oral health, disease prevention, and self-examination techniques. They can provide guidance on maintaining proper oral hygiene, recognizing oral abnormalities, and making lifestyle changes to reduce the risk of oral diseases.
+									<!-- <p><b>At what age one can go for orthodontic treatment?</b><br></p> -->
+									<span class="bulletPoints"></span>
+									<b> Tissue-stimulating proteins:</b> Another approach involves applying a special gel to a diseased tooth root. This gel contains the same proteins found in developing tooth enamel and stimulates the growth of healthy bone and tissue.
 								</li>
 								<li>
-									<p><b>Research and Advancements: </b><br></p>
-									<span>6</span>
-									Oral Medicine and Pathology is a field that actively contributes to scientific research and advancements in oral healthcare. Specialists in this field are often involved in clinical trials, studies, and publications, leading to improved diagnostic techniques, treatment modalities, and better patient care overall.
-								</li>
-
 							</ul>
 
-							<!-- <h4>Do adults go for this treatment?</h4>
-							<p>In fact mostly the adults go for it because they want to look good and confident. There is no age bar for putting on
-							braces.</p>
 
-							<p><b>What types of braces are available?</b><br></p>
+							<h4>What are the advantages of periodontics?</h4>
+							<p>There are many advantages to choosing periodontal therapy, your health and wellness being the most important. However, there are other benefits to consider:</p>
 
-							<p>There are 3 type of braces i.e. metallic, ceramic and invisalign. Metal braces are conventional and most commonly used.
-							Ceramic are very popular with adults as they look good and match with the teeth color. Invisalign are invisible and can
-							also be removed. They are very comfortable as there is no use of metal brackets and wires.</p>
+							<ul>
+								<li>
+									<!-- <p><b>Why teeth become irregular?</b><br></p> -->
+									<span class="bulletPoints"></span>
+									<b>A healthy, beautiful smile - </b> Your gums play an imperative role in the health and appearance of your teeth.
+								</li>
+								<li>
+									<!-- <p><b>At what age one can go for orthodontic treatment?</b><br></p> -->
+									<span class="bulletPoints"></span>
+									<b>Fresher breath - </b> a common symptom of periodontal disease is halitosis, or bad breath, due to the plaque and bacteria that can build up along inadequately cared for gum lines
+								</li>
+								<li>
+									<!-- <p><b>At what age one can go for orthodontic treatment?</b><br></p> -->
+									<span class="bulletPoints"></span>
+									<b>Removing tartar - </b> Tartar is a hard deposit that can build up above and below your gum lines when they aren’t properly cared for and if not treated can lead to serious gum disease.
+								</li>
+								<li>
+									<!-- <p><b>At what age one can go for orthodontic treatment?</b><br></p> -->
+									<span class="bulletPoints"></span>
+									<b>Early detection - </b> A visit with your trusted provider of periodontal therapy in Charleston, WV can help determine if you have other oral health issues, and if caught early will likely require less serious treatment.
+								</li>
+								
+								<li>
+							</ul>
 
-							<p><b>How much time is required for the treatment?</b><br></p>
-
-							<p>On an average 22 months time is required but the time depends on individual need and problem.</p> -->
+						
 
 						</div>
 					</div>

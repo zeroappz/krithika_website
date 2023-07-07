@@ -63,7 +63,7 @@
 								<h3>Our Specialities</h3>
 
 								<ul>
-									<li>
+								<li>
 										<a href="oralmedicineandpathology.php">
 										Oral Medicine and Pathology
 											<i class="icofont-simple-right"></i>
@@ -82,19 +82,25 @@
 										</a>
 									</li>
 									<li>
-										<a href="teethscaling.php">
+										<a href="periodontics.php">
 										Periodontics
 											<i class="icofont-simple-right"></i>
 										</a>
 									</li>
 									<li>
-										<a href="dentalcrowns.php">
-										Prosthodontics
+										<a href="oralandmaxillofacial.php">
+										Oral and Maxillofacial
 											<i class="icofont-simple-right"></i>
 										</a>
 									</li>
 									<li>
-										<a href="dentalcrowns.php">
+										<a href="prosthodontics.php">
+										Prosthodontics
+											<i class="icofont-simple-right"></i>
+										</a>
+									</li>
+									s<!-- <li>
+										<a href="prosthodontics.php">
 										Dental Crowns
 											<i class="icofont-simple-right"></i>
 										</a>
@@ -110,7 +116,7 @@
 										Dentures
 											<i class="icofont-simple-right"></i>
 										</a>
-									</li>
+									</li> -->
 									<li>
 										<a href="orthodontics.php">
 										Orthodontics
@@ -217,8 +223,8 @@
 								<img src="assets/images/services/Restorative-dentistry.png" alt="Image">
 							</div>
 							<h4>Introduction</h4>
-							<h3>Restorativedentistry</h3>
-							<p><b>What is the meaning of Restorativedentistry?</b><br></p>
+							<h3>Restorative dentistry</h3>
+							<p><b>What is the meaning of Restorative dentistry?</b><br></p>
 
 							<p>Restorative dentistry is a branch of dentistry that focuses on restoring the function, appearance, and integrity of teeth and oral structures affected by various dental conditions or injuries. It involves the diagnosis, prevention, and treatment of oral diseases and disorders, with the goal of improving oral health and enhancing the patient's quality of life.</p>
 
@@ -279,21 +285,19 @@
 
 
 							<h4>What are the advantages of Restorative dentistry?</h4>
-							<p>Orthodontics can change the teeth as well as the whole facial structure. BY aligning teeth one gets the correct
-							functioning of the jaw and a n attractive smile. Teeth can be cleaned easily and the chances of gum diseases are reduced
-							moreover orthodontic treatment enhances the self confidence of an individual.</p>
+							
 							<ul>
 								<li class="hover-style wow fadeInUp delay-0-2s">
 									<span class="bulletPoints"></span>
 										<p><b>Improved oral function:</b><br></p>
 										 Restorative dentistry procedures such as dental fillings, crowns, and bridges help restore damaged or missing teeth, improving chewing and speaking abilities.
 								</li>
-								<li class="hover-style wow fadeInUp delay-0-4s">
+								<!-- <li class="hover-style wow fadeInUp delay-0-4s">
 									<div class="inner-border">
 										<span class="bulletPoints"></span>
 										 Treatments like dental veneers and tooth-colored fillings can improve the appearance of teeth, enhancing your smile and boosting self-confidence.
 
-								</li>
+								</li> -->
 								<li class="hover-style wow fadeInUp delay-0-6s">
 									<span class="bulletPoints"></span>
 										<p><b>Preservation of natural teeth: </b><br></p>

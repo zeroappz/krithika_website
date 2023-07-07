@@ -91,8 +91,9 @@
 										</li>
 									</ul>
 								</div>
-								<h3>Dr Rajkumar</h3>
-								<span>MDS (Periodontics)</span>
+								<h3>Dr. G. Rajkumar </h3>
+								<span>M.D.S., (Perio), MFDS RCPS., (Glasgow)</span><br>
+								<span>Periodontics and Oral Implantology</span>
 							</div>
 						</div>
 					</div>
@@ -126,8 +127,9 @@
 										</li>
 									</ul>
 								</div>
-								<h3>Dr Kamaraj</h3>
-								<span>MDS (Oral surgery)</span>
+								<h3>Prof, Dr. L. Kamaraj</h3>
+								<span>M.D.S., (OMFS) FDS RCPS., (Glasgow) P.hD (OMFS), FIBOMFS,</span><br>
+								<span>Oral and maxillofacial surgery and Oral Implantology.</span>
 							</div>
 						</div>
 					</div>
@@ -162,6 +164,7 @@
 									</ul>
 								</div>
 								<h3>Dr Guhan</h3>
+								<span>MDS (Pedodontics)</span><br>
 								<span>MDS (Pedodontics)</span>
 							</div>
 						</div>
@@ -196,8 +199,9 @@
 										</li>
 									</ul>
 								</div>
-								<h3>Dr Bindu</h3>
-								<span>MDS (Prosthodontics)</span>
+								<h3>Dr. Bindu </h3>
+								<span>M.D.S., (Prostho ), MFDS RCPS., (Glasgow)</span0><br>
+								<span>Prosthodontics and Oral Implantology.</span>
 							</div>
 						</div>
 					</div>
@@ -230,8 +234,9 @@
 										</li>
 									</ul>
 								</div>
-								<h3>Dr Vasanthan</h3>
-								<span>MDS (Orthodontics)</span>
+								<h3>Prof. Dr. Vasanthan</h3>
+								<span>M.D.S.,(Ortho),P.hD,(Ortho)</span><br>
+								<span>Orthodontics & Dentofacial Orthopaedics</span>
 							</div>
 						</div>
 					</div>
@@ -264,8 +269,9 @@
 										</li>
 									</ul>
 								</div>
-								<h3>Dr Arun selva</h3>
-								<span>MDS (Conservative and endodontics)</span>
+								<h3>Dr. S. Arun  </h3>
+								<span>M.D.S.,</span><br>
+								<span>Endodontics and conservative dentistry</span>
 							</div>
 						</div>
 					</div>
@@ -298,8 +304,9 @@
 										</li>
 									</ul>
 								</div>
-								<h3>Dr Ayyadurai</h3>
-								<span>MDS (Oral and maxillofacial pathologist)</span>
+								<h3>DR. C. AYYADURAI, </h3>
+								<span>M.D.S., </span><br>
+								<span>Oral and Maxillofacial Pathology.</span>
 							</div>
 						</div>
 					</div>

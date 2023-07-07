@@ -96,27 +96,27 @@
 
 								<!-- join the specialities -->
 								<li class="nav-item">
-									<a href="teethscaling.php" class="nav-link dropdown-toggle">
+									<a href="periodontics.php" class="nav-link dropdown-toggle">
 										Periodontics
-										<i class="icofont-rounded-down"></i>
+										<!-- <i class="icofont-rounded-down"></i> -->
 									</a>
-									<ul class="dropdown-menu">
+									<!-- <ul class="dropdown-menu">
 
 										<li class="nav-item">
 											<a href="teethscaling.php" class="nav-link">Teeth Scaling</a>
 										</li>
 
-									</ul>
+									</ul> -->
 								</li>
 								<li class="nav-item">
 									<a href="oralandmaxillofacial.php" class="nav-link">Oral and Maxillofacial</a>
 								</li>
 								<li class="nav-item">
-									<a href="dentalcrowns.php" class="nav-link dropdown-toggle">
+									<a href="prosthodontics.php" class="nav-link dropdown-toggle">
 										Prosthodontics
-										<i class="icofont-rounded-down"></i>
+										<!-- <i class="icofont-rounded-down"></i> -->
 									</a>
-									<ul class="dropdown-menu">
+									<!-- <ul class="dropdown-menu">
 										<li class="nav-item">
 											<a href="dentalcrowns.php" class="nav-link">Dental Crowns</a>
 										</li>
@@ -126,7 +126,7 @@
 										<li class="nav-item">
 											<a href="dentures.php" class="nav-link">Dentures</a>
 										</li>
-									</ul>
+									</ul> -->
 								</li>
 								<li class="nav-item">
 									<a href="orthodontics.php" class="nav-link">Orthodontics</a>
@@ -189,10 +189,10 @@
 					<div class="main">
 
 						<!-- Actual search box -->
-						<div class="form-group has-search">
+						<!-- <div class="form-group has-search">
 							<span class="fa fa-search form-control-feedback"></span>
 							<input type="text" class="form-control" placeholder="Search" style="width:500px">
-						</div>
+						</div> -->
 
 
 					</div>

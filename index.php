@@ -70,7 +70,7 @@
 				</div>
 			</div>
 		</div> -->
-<div class="navbar-section">
+<div class="navbar-section" style="background-color: #808080;">
 	<!--=== Start Main Navbar Section ===-->
 	<div class="main-nav">
 		<div class="container">
@@ -80,17 +80,17 @@
 				<div class="collapse navbar-collapse for-mobile-menu" id="navbarSupportedContent">
 					<ul class="navbar-nav m-auto">
 						<li class="nav-item">
-							<a href="index.php" class="nav-link active">
+							<a href="index.php" class="nav-link active ">
 								Home
 							</a>
 						</li>
 
 						<li class="nav-item">
-							<a href="about-us.php" class="nav-link">About Us</a>
+							<a href="about-us.php" class="nav-link ff " >About Us</a>
 						</li>
 
 						<li class="nav-item">
-							<a href="#" class="nav-link dropdown-toggle">
+							<a href="#" class="nav-link dropdown-toggle ff">
 								Specialities
 							</a>
  
@@ -137,27 +137,27 @@
 
 								<!-- join the specialities -->
 								<li class="nav-item">
-									<a href="teethscaling.php" class="nav-link dropdown-toggle">
+									<a href="periodontics.php" class="nav-link dropdown-toggle">
 										Periodontics
-										<i class="icofont-rounded-down"></i>
+										<!-- <i class="icofont-rounded-down"></i> -->
 									</a>
-									<ul class="dropdown-menu">
+									<!-- <ul class="dropdown-menu">
 
 										<li class="nav-item">
 											<a href="teethscaling.php" class="nav-link">Teeth Scaling</a>
 										</li>
 
-									</ul>
+									</ul> -->
 								</li>
 								<li class="nav-item">
 									<a href="oralandmaxillofacial.php" class="nav-link">Oral and Maxillofacial</a>
 								</li>
 								<li class="nav-item">
-									<a href="dentalcrowns.php" class="nav-link dropdown-toggle">
+									<a href="prosthodontics.php" class="nav-link dropdown-toggle">
 										Prosthodontics
-										<i class="icofont-rounded-down"></i>
+										<!-- <i class="icofont-rounded-down"></i> -->
 									</a>
-									<ul class="dropdown-menu">
+									<!-- <ul class="dropdown-menu">
 										<li class="nav-item">
 											<a href="dentalcrowns.php" class="nav-link">Dental Crowns</a>
 										</li>
@@ -167,7 +167,7 @@
 										<li class="nav-item">
 											<a href="dentures.php" class="nav-link">Dentures</a>
 										</li>
-									</ul>
+									</ul> -->
 								</li>
 								<li class="nav-item">
 									<a href="orthodontics.php" class="nav-link">Orthodontics</a>
@@ -192,17 +192,17 @@
 						</a> -->
 
 						<li class="nav-item">
-							<a href="doctors.php" class="nav-link">Doctors</a>
+							<a href="doctors.php" class="nav-link ff">Doctors</a>
 						</li>
 
 						<li class="nav-item">
-							<a href="contact-us.php" class="nav-link">Contact Us</a>
+							<a href="contact-us.php" class="nav-link ff">Contact Us</a>
 						</li>
 						<li class="nav-item">
-								<a href=" https://admin.kirthikadentalcare.in/register" class="nav-link">Register</a>
+								<a href=" https://admin.kirthikadentalcare.in/register" class="nav-link ff">Register</a>
 							</li>
 							<li class="nav-item">
-								<a href="https://admin.kirthikadentalcare.in/login" class="nav-link">Login</a>
+								<a href="https://admin.kirthikadentalcare.in/login" class="nav-link ff">Login</a>
 							</li>
 						<!-- <li class="nav-item">
 							<a href="#" class="nav-link dropdown-toggle">Login</a>
@@ -230,10 +230,10 @@
 					<div class="main">
 
 						<!-- Actual search box -->
-						<div class="form-group has-search">
+						<!-- <div class="form-group has-search">
 							<span class="fa fa-search form-control-feedback"></span>
 							<input type="text" class="form-control" placeholder="Search" style="width:500px">
-						</div>
+						</div> -->
 
 
 					</div>

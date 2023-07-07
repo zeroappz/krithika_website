@@ -101,7 +101,7 @@
 		<!--=== End About Us Section ===-->
 
 		<!--=== Start Our Quality Section ===-->
-		<section class="our-quality-area pb-70">
+		<!-- <section class="our-quality-area pb-70">
 			<div class="container">
 				<div class="main-section-title wow fadeInUp delay-0-2s">
 					<span class="up-title">Our Quality</span>
@@ -161,7 +161,7 @@
 
 			<img src="assets/images/quality-shape-1.png" class="shape shape-1" alt="Image">
 			<img src="assets/images/quality-shape-2.png" class="shape shape-2" alt="Image">
-		</section>
+		</section> -->
 		<!--=== End Our Quality Section ===-->
 
 		<!--=== Start Appointment Section ===-->
@@ -278,8 +278,9 @@
 										</li>
 									</ul>
 								</div>
-								<h3>Dr Rajkumar</h3>
-								<span>MDS (Periodontics)</span>
+								<h3>Dr. G. Rajkumar </h3>
+								<span>M.D.S., (Perio), MFDS RCPS., (Glasgow)</span><br>
+								<span>Periodontics and Oral Implantology</span>
 							</div>
 						</div>
 					</div>
@@ -313,8 +314,9 @@
 										</li>
 									</ul>
 								</div>
-								<h3>Dr Kamaraj</h3>
-								<span>MDS (Oral surgery)</span>
+								<h3>Prof, Dr. L. Kamaraj</h3>
+								<span>M.D.S., (OMFS) FDS RCPS., (Glasgow) P.hD (OMFS), FIBOMFS,</span><br>
+								<span>Oral and maxillofacial surgery and Oral Implantology.</span>
 							</div>
 						</div>
 					</div>
@@ -349,6 +351,7 @@
 									</ul>
 								</div>
 								<h3>Dr Guhan</h3>
+								<span>MDS (Pedodontics)</span><br>
 								<span>MDS (Pedodontics)</span>
 							</div>
 						</div>
@@ -383,8 +386,9 @@
 										</li>
 									</ul>
 								</div>
-								<h3>Dr Bindu</h3>
-								<span>MDS (Prosthodontics)</span>
+								<h3>Dr. Bindu </h3>
+								<span>M.D.S., (Prostho ), MFDS RCPS., (Glasgow)</span0><br>
+								<span>Prosthodontics and Oral Implantology.</span>
 							</div>
 						</div>
 					</div>
@@ -417,8 +421,9 @@
 										</li>
 									</ul>
 								</div>
-								<h3>Dr Vasanthan</h3>
-								<span>MDS (Orthodontics)</span>
+								<h3>Prof. Dr. Vasanthan</h3>
+								<span>M.D.S.,(Ortho),P.hD,(Ortho)</span><br>
+								<span>Orthodontics & Dentofacial Orthopaedics</span>
 							</div>
 						</div>
 					</div>
@@ -451,8 +456,9 @@
 										</li>
 									</ul>
 								</div>
-								<h3>Dr Arun selva</h3>
-								<span>MDS (Conservative and endodontics)</span>
+								<h3>Dr. S. Arun  </h3>
+								<span>M.D.S.,</span><br>
+								<span>Endodontics and conservative dentistry</span>
 							</div>
 						</div>
 					</div>
@@ -485,8 +491,9 @@
 										</li>
 									</ul>
 								</div>
-								<h3>Dr Ayyadurai</h3>
-								<span>MDS (Oral and maxillofacial pathologist)</span>
+								<h3>DR. C. AYYADURAI, </h3>
+								<span>M.D.S., </span><br>
+								<span>Oral and Maxillofacial Pathology.</span>
 							</div>
 						</div>
 					</div>
