@@ -1,7 +1,7 @@
 /*============================================
 <=={Master Stylesheet}==>
 
-Project Name: Krithika Dental Care
+Project Name: Kirthika Dental Care
 Primary use: CropTheme HTML Template
 Version: 1.0
 
@@ -735,7 +735,7 @@ textarea.form-control {
 <<<<======================================================>>>>*/
 .navbar-section-btm {
   position: relative;
-  background-color: grey;
+  background-color: #808080;
   box-shadow: 0 0 20px 3px rgba(0, 0, 0, 0.05);
   padding-top: 10px;
   padding-bottom: 10px;
@@ -755,7 +755,7 @@ textarea.form-control {
   position: sticky;
   animation: 500ms ease-in-out 0s normal none 1 running fadeInDown;
   box-shadow: 0 0 20px 3px rgba(0, 0, 0, 0.05);
-  background-color: #808080;
+  background-color: white;
 }
 .navbar-section .navbar-brand {
   margin-right: 0;
@@ -807,6 +807,13 @@ textarea.form-control {
   padding: 0;
   margin-left: 15px;
   margin-right: 15px;
+}
+.ff {
+  color: white !important;
+  
+}
+.ff:hover{
+  color: #D4AF37 !important;
 }
 .main-nav .navbar .navbar-nav .nav-item .nav-link.dropdown-toggle {
   padding-right: 20px;

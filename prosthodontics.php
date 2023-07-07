@@ -33,13 +33,13 @@
 		<section class="page-banner-section bg-color-ebeef5 ptb-100">
 			<div class="container">
 				<div class="page-banner-content">
-					<h2>Pediatric Dentistry</h2>
+					<h2>Prosthodontics</h2>
 					<ul>
 						<li>
 							<a href="index.php">Home</a>
 						</li>
 						<li>
-							<span class="active">Pediatric Dentistry</span>
+							<span class="active">Prosthodontics</span>
 						</li>
 					</ul>
 				</div>
@@ -220,90 +220,128 @@
 					<div class="col-lg-8">
 						<div class="services-details-content ms-15">
 							<div class="services-img-1">
-								<img src="assets/images/services/pediatricdentistry_sec_1.png" alt="Image">
+								<img src="assets/images/services/prosthodontics_sec_1.png" alt="Image">
 							</div>
 							<h4>Introduction</h4>
-							<h3>Pediatric Dentistry</h3>
-							<p><b>What is the meaning of pediatric dentistry?</b><br></p>
+							<h3>prosthodontics</h3>
+							<p><b>What is meaning by prosthodontics?</b><br></p>
 
-							<p>Pediatric dentistry specializes in/takes care of the oral health of infant, children and adolescent. This dentistry also
-							treats children with special needs, who are physically and mentally challenged. Pediatric dentistry involves additional
-							study of 3 years (i.e. after 4 years of dental training).This branch of dentistry studies child growth, psychology and
-							development. Such dentists take care of wide variety of dental problems of children e.g. cavity, tooth decay,
-							malocclusion, emergency care, crooked teeth etc.</p>
+							<p>Prosthodontics is a specialized branch of dentistry dedicated to making dental prosthetics (artificial teeth) for damaged or missing teeth. The word “prosthodontics” comes from the words “prostho,” meaning replacement, and “dontist,” meaning teeth.</p>
 
-							<!-- <p><b>Who are the candidates of orthodontic treatment?</b><br></p>
+							<p><b>Who needs prosthodontics?</b><br></p>
 
-							<Third>One who has got misaligned teeth, crowded teeth, buck teeth, overlapping of teeth and gap between the teeth are the
-							candidates of orthodontic treatment.
+							<p><Third>Prosthodontics can treat a wide range of issues. Your general dentist might refer you to a prosthodontist if you have:</p>
 
-							<p><b>What does the orthodontist do?</b><br></p>
+						
 
-							<p>Normally the irregularity of the teeth is corrected by putting braces.</p> -->
+							<ul>
+								<li>
+									<!-- <p><b>Why teeth become irregular?</b><br></p> -->
+									<span class="bulletPoints"></span>
+									<b> Missing teeth.</b>
+								</li>
+								<li>
+									<!-- <p><b>At what age one can go for orthodontic treatment?</b><br></p> -->
+									<span class="bulletPoints"></span>
+									<b> Severely damaged teeth.</b> 
+								</li>
+								<li>
+									<!-- <p><b>At what age one can go for orthodontic treatment?</b><br></p> -->
+									<span class="bulletPoints"></span>
+									<b> TMJ pain or dysfunction.</b>
+								</li>
+								<li>
+									<!-- <p><b>At what age one can go for orthodontic treatment?</b><br></p> -->
+									<span class="bulletPoints"></span>
+									<b>Mouth or facial pain.</b>
+								</li>
+								<li>
+									<!-- <p><b>At what age one can go for orthodontic treatment?</b><br></p> -->
+									<span class="bulletPoints"></span>
+									<b>Cosmetic concerns.</b>
+								</li>
+								<li>
+									<!-- <p><b>At what age one can go for orthodontic treatment?</b><br></p> -->
+									<span class="bulletPoints"></span>
+									<b>Obstructive sleep apnea.</b>
+								</li>
+								<li>
+							</ul>
 
-							<!-- <h4>Watch The Pediatric Dentistry Image</h4> -->
+							<!-- <h4>Watch The Sealants Image</h4> -->
 
 							<div class="services-img-1">
-								<img src="assets/images/services/pediatricdentistry_sec_2.png" alt="Image">
+								<img src="assets/images/services/prosthodontics_sec_2.png" alt="Image">
 
 							</div>
 
-							<h3>When should a child first visit the dentist?</h3>
-							<p>According to American Academy of Pediatric Dentistry the child should be brought to the dentist when he turns 1 year old
-							.By that time the first teeth comes and the dentist can discuss ways of keeping oral hygiene. A dentist can guide the
-							parents about diet, tooth eruption, finger habits, fluoride etc.</p>
+							<h3>What Does a Prosthodontist Do?</h3>
+					
+							<p>Unlike general dentists, prosthodontists specialize in repairing natural teeth and replacing missing teeth. Missing and extracted (removed) teeth are replaced with artificial teeth (dentures), dental implants, caps, or crowns.. Specially trained prosthodontists also work with people with head and neck deformities, replacing missing parts of the jaw and face.</p>
 
-
-
-							<h4>How many visits are recommended?</h4>
-							<p>According to American Academy of Pediatric Dentistry the child should be brought twice a year to the dental clinic .The
-							visits may vary if the child has tooth decay, bad oral hygiene, and unusual teeth growth.</p>
-	<h3>How important are baby teeth?</h3>
-	<p>Baby teeth are not permanent but they are very important. They help the child to crew food, smile properly and speak
-	clearly. Baby teeth hold the space for permanent teeth. If child looses teeth at an early age because of decay/ damage
-	the nearby teeth can encroach that free space which can result in misplaced/crooked permanent teeth.</p>
-	<h4>How to clean baby teeth?</h4>
-	<p>For an infant a soft cloth should be used to clean his/her gums after every feed. Once the child has one tooth a soft
-	tooth brush can be used.</p>
-	<div class="services-img-1">
-		<img src="assets/images/services/pediatric-dentistry-section-3.png" alt="Image">
-
-	</div>
-							<!-- <ul>
+							<h4>Reasons to See a Prosthodontist</h4>
+							<p>There are various reasons why you would visit a prosthodontist. It could be due to an accident involving the mouth, a congenital (birth-related) condition, or simply cosmetic reasons. Although many traditional dentists can provide these services as well, prosthodontists are extensively trained in state-of-the-art techniques and procedures for treating complex dental conditions.</p>
+							<h4>Here are some common procedures and treatments that fall within the scope of prosthodontics:</h4>
+							<ul>
 								<li>
-									<p><b>Why teeth become irregular?</b><br></p>
-									<span>1</span>
-									There is misalignment of teeth because of thumb sucking, small jaw, incompetent lips, bad tongue and lip habits, nail
-									biting, injury etc.
+									<!-- <p><b>Why teeth become irregular?</b><br></p> -->
+									<span class="bulletPoints"></span>
+									<b>Dentures:</b> Prosthodontists are skilled in creating complete dentures for patients who have lost all their teeth. These dentures are custom-made to fit the patient's mouth and restore their ability to eat, speak, and smile.
 								</li>
 								<li>
-									<p><b>At what age one can go for orthodontic treatment?</b><br></p>
-									<span>2</span>
-									Acc to experts a child at the age of 7 should be brought to an orthodontist because this is the time when the new teeth
-									erupt and after evaluating the teeth necessary treatment can be done(i.e. to prevent any severe problem in future).This
-									is referred to as phase I treatment. The phase I treatment is for 12-21months .After this dentist gives a rest period in
-									which the eruption and formation of the teeth are monitored. Then in phase II when the child turns 12-13 full braces can
-									be put if the teeth are still not in the right shape.
+									<!-- <p><b>At what age one can go for orthodontic treatment?</b><br></p> -->
+									<span class="bulletPoints"></span>
+									<b>Dental Implants:</b> Prosthodontists are involved in the surgical placement and restoration of dental implants. Implants are artificial tooth roots that are surgically inserted into the jawbone to support dental crowns, bridges, or dentures. Prosthodontists work closely with oral surgeons and periodontists to ensure the proper placement and aesthetic outcome of dental implants.
 								</li>
+								<li>
+									<!-- <p><b>At what age one can go for orthodontic treatment?</b><br></p> -->
+									<span class="bulletPoints"></span>
+									<b> Dental Crowns and Bridges: </b> Prosthodontists design and fabricate dental crowns, which are tooth-shaped caps placed over damaged or decayed teeth to restore their strength, shape, and appearance. They also create dental bridges, which are used to replace one or more missing teeth by anchoring them to adjacent teeth or dental implants.
+								</li>
+								<li>
+									<!-- <p><b>At what age one can go for orthodontic treatment?</b><br></p> -->
+									<span class="bulletPoints"></span>
+									<b> Veneers: </b>Prosthodontists can apply veneers, which are thin shells made of porcelain or composite resin, to the front surfaces of teeth. Veneers improve the appearance of stained, chipped, or misaligned teeth by creating a natural-looking, uniform smile.
+								</li>
+								<li>
+									<!-- <p><b>At what age one can go for orthodontic treatment?</b><br></p> -->
+									<span class="bulletPoints"></span>
+									<b> Temporomandibular Joint (TMJ) Disorders:</b>  Prosthodontists diagnose and treat conditions affecting the temporomandibular joint, which connects the jawbone to the skull. They may provide oral appliances or prosthetic solutions to alleviate symptoms such as jaw pain, headaches, and difficulty in jaw movement.
+								</li>
+								<li>
+							</ul>
 
-							</ul> -->
 
-							<h3>What is the right time to use a tooth paste?</h3>
-							<p>Once the child develops a few teeth, tooth paste can be used. Tooth paste with fluoride is not recommended for children
-							below 2 years because children have a habit of swallowing paste and taking in excess of fluoride can cause staining of
-							teeth .Parents should brush the teeth of their children till the time they do that independently. Children should rinse
-							their mouth thou rally after brushing.</p>
+							<h4>What are the advantages of prosthodontics?</h4>
+							<p>
+Prosthodontics is a branch of dentistry that focuses on the design, creation, and fitting of artificial teeth, dental implants, and other dental prostheses. The field of prosthodontics offers several advantages for patients who require dental restorations or replacements. Here are some of the advantages of prosthodontics:</p>
 
-							<p><b>What is a cavity?</b><br></p>
+							<ul>
+								<li>
+									<!-- <p><b>Why teeth become irregular?</b><br></p> -->
+									<span class="bulletPoints"></span>
+									<b>Improved aesthetics: </b>  Prosthodontic treatments can greatly enhance the appearance of a patient's smile. Whether it's dental crowns, bridges, dentures, or dental implants, prosthodontic solutions are designed to closely resemble natural teeth, resulting in a more pleasing and natural-looking smile.
+								</li>
+								<li>
+									<!-- <p><b>At what age one can go for orthodontic treatment?</b><br></p> -->
+									<span class="bulletPoints"></span>
+									<b>Restored oral function: </b>Missing or damaged teeth can significantly impact a person's ability to chew, speak, and bite properly. Prosthodontic treatments restore oral function by replacing missing teeth or correcting dental abnormalities, enabling patients to eat, speak, and smile with confidence.
+								</li>
+								<li>
+									<!-- <p><b>At what age one can go for orthodontic treatment?</b><br></p> -->
+									<span class="bulletPoints"></span>
+									<b>Enhanced comfort: </b> Prosthodontic appliances are customized to fit the individual patient's mouth, ensuring optimal comfort and a secure fit. Dentures, bridges, and implants are made to feel as natural as possible, reducing discomfort and improving overall oral comfort.
+								</li>
+								<li>
+									<!-- <p><b>At what age one can go for orthodontic treatment?</b><br></p> -->
+									<span class="bulletPoints"></span>
+									<b>Preservation of oral health: </b>Prosthodontics not only replaces missing teeth but can also help preserve the overall health of the mouth. By filling gaps left by missing teeth, prosthodontic treatments prevent neighboring teeth from shifting, maintain proper jaw alignment, and minimize the risk of dental complications that may arise due to tooth loss.
+								</li>
+								
+								<li>
+							</ul>
 
-							<p>There care bacteria present in the mouth, when they come in contact with sweet food left in the mouth, they form acids.
-							These acids attack the enamel and create a hole in the teeth which results in severe pain. Children eat sweets,
-							chocolates and do not clean their teeth properly which results in cavity formation.</p>
-
-							<p><b>Does sucking thumb cause any problem in the teeth?</b><br></p>
-
-							<p>The child should stop sucking thumb before the eruption of permanent teeth. If this habit continues there will be
-							problems such as buckteeth/open bite.</p>
+						
 
 						</div>
 					</div>

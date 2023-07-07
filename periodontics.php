@@ -33,13 +33,13 @@
 		<section class="page-banner-section bg-color-ebeef5 ptb-100">
 			<div class="container">
 				<div class="page-banner-content">
-					<h2>Pediatric Dentistry</h2>
+					<h2>Periodontics</h2>
 					<ul>
 						<li>
 							<a href="index.php">Home</a>
 						</li>
 						<li>
-							<span class="active">Pediatric Dentistry</span>
+							<span class="active">Periodontics</span>
 						</li>
 					</ul>
 				</div>
@@ -220,90 +220,138 @@
 					<div class="col-lg-8">
 						<div class="services-details-content ms-15">
 							<div class="services-img-1">
-								<img src="assets/images/services/pediatricdentistry_sec_1.png" alt="Image">
+								<img src="assets/images/services/periodontics_sec_1.png" alt="Image">
 							</div>
 							<h4>Introduction</h4>
-							<h3>Pediatric Dentistry</h3>
-							<p><b>What is the meaning of pediatric dentistry?</b><br></p>
+							<h3>Periodontics</h3>
+							<p><b>What is meaning by Periodontics?</b><br></p>
 
-							<p>Pediatric dentistry specializes in/takes care of the oral health of infant, children and adolescent. This dentistry also
-							treats children with special needs, who are physically and mentally challenged. Pediatric dentistry involves additional
-							study of 3 years (i.e. after 4 years of dental training).This branch of dentistry studies child growth, psychology and
-							development. Such dentists take care of wide variety of dental problems of children e.g. cavity, tooth decay,
-							malocclusion, emergency care, crooked teeth etc.</p>
+							<p>Periodontics is a specialized field of dentistry that focuses on the prevention, diagnosis, and treatment of diseases that affect the gums and supporting structures of the teeth. The word "periodontics" is derived from the Greek words "peri" meaning around and "odous" meaning tooth.</p>
 
-							<!-- <p><b>Who are the candidates of orthodontic treatment?</b><br></p>
+							<p><b>Why would you see a periodontist?</b><br></p>
 
-							<Third>One who has got misaligned teeth, crowded teeth, buck teeth, overlapping of teeth and gap between the teeth are the
-							candidates of orthodontic treatment.
+							<p><Third>There are several reasons why someone would need to see a periodontist. Some people only need to see a periodontist temporarily. In other words, they may need to undergo treatment that’s outside the scope of practice for a general dentist. For example, maybe you need a gum graft, bone graft or frenectomy. A periodontist can perform your surgical treatment, then refer you back to your general dentist when your recovery is complete.</p>
 
-							<p><b>What does the orthodontist do?</b><br></p>
+							<p><b>What exactly does a periodontist do?</b><br></p>
 
-							<p>Normally the irregularity of the teeth is corrected by putting braces.</p> -->
+							<p>A periodontist treats oral health issues that affect your periodontium (the tissues around your teeth). This includes your:</p>
 
-							<!-- <h4>Watch The Pediatric Dentistry Image</h4> -->
+							<ul>
+								<li>
+									<!-- <p><b>Why teeth become irregular?</b><br></p> -->
+									<span class="bulletPoints"></span>
+									<b> Gingiva:</b>  Your gums.
+								</li>
+								<li>
+									<!-- <p><b>At what age one can go for orthodontic treatment?</b><br></p> -->
+									<span class="bulletPoints"></span>
+									<b> Periodontal ligament:</b>  A group of connective tissue fibers that attach your teeth to your jawbone.
+								</li>
+								<li>
+									<!-- <p><b>At what age one can go for orthodontic treatment?</b><br></p> -->
+									<span class="bulletPoints"></span>
+									<b> Cementum:</b>  A hard layer of calcified tissue that covers your teeth roots.
+								</li>
+								<li>
+									<!-- <p><b>At what age one can go for orthodontic treatment?</b><br></p> -->
+									<span class="bulletPoints"></span>
+									<b>Alveolar bone:</b> The part of your jawbone that has tooth sockets.
+								</li>
+								<li>
+							</ul>
+
+							<!-- <h4>Watch The Sealants Image</h4> -->
 
 							<div class="services-img-1">
-								<img src="assets/images/services/pediatricdentistry_sec_2.png" alt="Image">
+								<img src="assets/images/services/periodontics_sec_2.png" alt="Image">
 
 							</div>
 
-							<h3>When should a child first visit the dentist?</h3>
-							<p>According to American Academy of Pediatric Dentistry the child should be brought to the dentist when he turns 1 year old
-							.By that time the first teeth comes and the dentist can discuss ways of keeping oral hygiene. A dentist can guide the
-							parents about diet, tooth eruption, finger habits, fluoride etc.</p>
+							<h3>What steps are followed in periodontics treatment?</h3>
+							<h4>Nonsurgical treatments</h4>
+							<p>If periodontitis isn't advanced, treatment may involve less invasive procedures, including:</p>
 
-
-
-							<h4>How many visits are recommended?</h4>
-							<p>According to American Academy of Pediatric Dentistry the child should be brought twice a year to the dental clinic .The
-							visits may vary if the child has tooth decay, bad oral hygiene, and unusual teeth growth.</p>
-	<h3>How important are baby teeth?</h3>
-	<p>Baby teeth are not permanent but they are very important. They help the child to crew food, smile properly and speak
-	clearly. Baby teeth hold the space for permanent teeth. If child looses teeth at an early age because of decay/ damage
-	the nearby teeth can encroach that free space which can result in misplaced/crooked permanent teeth.</p>
-	<h4>How to clean baby teeth?</h4>
-	<p>For an infant a soft cloth should be used to clean his/her gums after every feed. Once the child has one tooth a soft
-	tooth brush can be used.</p>
-	<div class="services-img-1">
-		<img src="assets/images/services/pediatric-dentistry-section-3.png" alt="Image">
-
-	</div>
-							<!-- <ul>
+							<ul>
 								<li>
-									<p><b>Why teeth become irregular?</b><br></p>
-									<span>1</span>
-									There is misalignment of teeth because of thumb sucking, small jaw, incompetent lips, bad tongue and lip habits, nail
-									biting, injury etc.
+									<!-- <p><b>Why teeth become irregular?</b><br></p> -->
+									<span class="bulletPoints"></span>
+									<b> Scaling:</b> Scaling removes tartar and bacteria from your tooth surfaces and below your gumline. It may be done using instruments, a laser or an ultrasonic device.
 								</li>
 								<li>
-									<p><b>At what age one can go for orthodontic treatment?</b><br></p>
-									<span>2</span>
-									Acc to experts a child at the age of 7 should be brought to an orthodontist because this is the time when the new teeth
-									erupt and after evaluating the teeth necessary treatment can be done(i.e. to prevent any severe problem in future).This
-									is referred to as phase I treatment. The phase I treatment is for 12-21months .After this dentist gives a rest period in
-									which the eruption and formation of the teeth are monitored. Then in phase II when the child turns 12-13 full braces can
-									be put if the teeth are still not in the right shape.
+									<!-- <p><b>At what age one can go for orthodontic treatment?</b><br></p> -->
+									<span class="bulletPoints"></span>
+									<b> Root planing:</b>  Root planing smooths the root surfaces. This helps prevent further buildup of tartar and bacteria. It also helps your gums attach to your teeth again.
 								</li>
+								<li>
+									<!-- <p><b>At what age one can go for orthodontic treatment?</b><br></p> -->
+									<span class="bulletPoints"></span>
+									<b> Antibiotics:</b>  Topical or oral antibiotics can help control bacterial infection. Topical antibiotics can include antibiotic mouth rinses or putting gel containing an antibiotic into gum pockets. Sometimes oral antibiotics are needed to get of bacteria that cause infections.
+								</li>
+								<li>
+							</ul>
 
-							</ul> -->
+							<h4>Surgical treatments</h4>
+							<p>If you have advanced periodontitis, you may need dental surgery, such as:</p>
 
-							<h3>What is the right time to use a tooth paste?</h3>
-							<p>Once the child develops a few teeth, tooth paste can be used. Tooth paste with fluoride is not recommended for children
-							below 2 years because children have a habit of swallowing paste and taking in excess of fluoride can cause staining of
-							teeth .Parents should brush the teeth of their children till the time they do that independently. Children should rinse
-							their mouth thou rally after brushing.</p>
+							<ul>
+								<li>
+									<!-- <p><b>Why teeth become irregular?</b><br></p> -->
+									<span class="bulletPoints"></span>
+									<b> Flap surgery, also called pocket reduction surgery:</b>Your periodontist makes cuts in your gums to carefully fold back the tissue. This exposes the tooth roots for more effective scaling and root planing. Because periodontitis often causes bone loss, the underlying bone may be reshaped before the gum tissue is stitched back in place. After you heal, it's easier to clean the areas around your teeth and maintain healthy gum tissue.
+								</li>
+								<li>
+									<!-- <p><b>At what age one can go for orthodontic treatment?</b><br></p> -->
+									<span class="bulletPoints"></span>
+									<b>Soft tissue grafts:</b> When you lose gum tissue, your gumline gets lower, exposing some of your tooth roots. You may need to have some of the damaged tissue reinforced. This is usually done by removing a small amount of tissue from the roof of your mouth or using tissue from another donor source and attaching it to the affected site. This can help reduce further gum loss, cover exposed roots and give your teeth a better appearance.
+								</li>
+								<li>
+									<!-- <p><b>At what age one can go for orthodontic treatment?</b><br></p> -->
+									<span class="bulletPoints"></span>
+									<b> Bone grafting:</b> This procedure is performed when periodontitis destroys the bone around your tooth root. The graft may be made from small bits of your own bone, or the bone may be made of artificial material or donated. The bone graft helps prevent tooth loss by holding your tooth in place. It also serves as a platform for the regrowth of natural bone.
+								</li>
+								<li>
+									<!-- <p><b>At what age one can go for orthodontic treatment?</b><br></p> -->
+									<span class="bulletPoints"></span>
+									<b> Guided tissue regeneration:</b> This allows the regrowth of bone that was destroyed by bacteria. In one approach, your dentist places a special type of fabric between existing bone and your tooth. The material prevents unwanted tissue from growing into the healing area, allowing bone to grow back instead.
+								</li>
+								<li>
+									<!-- <p><b>At what age one can go for orthodontic treatment?</b><br></p> -->
+									<span class="bulletPoints"></span>
+									<b> Tissue-stimulating proteins:</b> Another approach involves applying a special gel to a diseased tooth root. This gel contains the same proteins found in developing tooth enamel and stimulates the growth of healthy bone and tissue.
+								</li>
+								<li>
+							</ul>
 
-							<p><b>What is a cavity?</b><br></p>
 
-							<p>There care bacteria present in the mouth, when they come in contact with sweet food left in the mouth, they form acids.
-							These acids attack the enamel and create a hole in the teeth which results in severe pain. Children eat sweets,
-							chocolates and do not clean their teeth properly which results in cavity formation.</p>
+							<h4>What are the advantages of periodontics?</h4>
+							<p>There are many advantages to choosing periodontal therapy, your health and wellness being the most important. However, there are other benefits to consider:</p>
 
-							<p><b>Does sucking thumb cause any problem in the teeth?</b><br></p>
+							<ul>
+								<li>
+									<!-- <p><b>Why teeth become irregular?</b><br></p> -->
+									<span class="bulletPoints"></span>
+									<b>A healthy, beautiful smile - </b> Your gums play an imperative role in the health and appearance of your teeth.
+								</li>
+								<li>
+									<!-- <p><b>At what age one can go for orthodontic treatment?</b><br></p> -->
+									<span class="bulletPoints"></span>
+									<b>Fresher breath - </b> a common symptom of periodontal disease is halitosis, or bad breath, due to the plaque and bacteria that can build up along inadequately cared for gum lines
+								</li>
+								<li>
+									<!-- <p><b>At what age one can go for orthodontic treatment?</b><br></p> -->
+									<span class="bulletPoints"></span>
+									<b>Removing tartar - </b> Tartar is a hard deposit that can build up above and below your gum lines when they aren’t properly cared for and if not treated can lead to serious gum disease.
+								</li>
+								<li>
+									<!-- <p><b>At what age one can go for orthodontic treatment?</b><br></p> -->
+									<span class="bulletPoints"></span>
+									<b>Early detection - </b> A visit with your trusted provider of periodontal therapy in Charleston, WV can help determine if you have other oral health issues, and if caught early will likely require less serious treatment.
+								</li>
+								
+								<li>
+							</ul>
 
-							<p>The child should stop sucking thumb before the eruption of permanent teeth. If this habit continues there will be
-							problems such as buckteeth/open bite.</p>
+						
 
 						</div>
 					</div>

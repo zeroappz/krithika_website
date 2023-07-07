@@ -21,7 +21,7 @@
 		<!--=== Favicon ===-->
 		<link rel="icon" type="image/png" href="assets/images/favicon.png">
 		<!--=== Title ===-->
-		<title>Krithika Dental Care</title>
+		<title>Kirthika Dental Care</title>
     </head>
 
     <body>
@@ -45,10 +45,10 @@
 				</div>
 			</div>
 			<div class="page-banner-shape-1 shape">
-				<img src="assets/images/banner/banner-shape-1.png" alt="Image">
+				<!-- <img src="assets/images/banner/banner-shape-1.png" alt="Image"> -->
 			</div>
 			<div class="page-banner-shape-2 shape">
-				<img src="assets/images/banner/banner-shape-1.png" alt="Image">
+				<!-- <img src="assets/images/banner/banner-shape-1.png" alt="Image"> -->
 			</div>
 		</section>
 		<!--=== End Page Banner Section ===-->
@@ -66,7 +66,7 @@
 						<div class="main-doctors-item hover-style wow fadeInUp delay-0-2s">
 							<div class="inner-border">
 								<div class="doctor-img">
-									<img src="assets/images/doctors/doctor-1.jpg" alt="Image">
+									<img src="assets/images/doctors/rajkumar.jpeg" alt="Image">
 
 									<ul>
 										<li>
@@ -91,8 +91,9 @@
 										</li>
 									</ul>
 								</div>
-								<h3>Dr Rajkumar</h3>
-								<span>MDS (Periodontics)</span>
+								<h3>Dr. G. Rajkumar </h3>
+								<span>M.D.S., (Perio), MFDS RCPS., (Glasgow)</span><br>
+								<span>Periodontics and Oral Implantology</span>
 							</div>
 						</div>
 					</div>
@@ -126,8 +127,9 @@
 										</li>
 									</ul>
 								</div>
-								<h3>Dr Kamaraj</h3>
-								<span>MDS (Oral surgery)</span>
+								<h3>Prof, Dr. L. Kamaraj</h3>
+								<span>M.D.S., (OMFS) FDS RCPS., (Glasgow) P.hD (OMFS), FIBOMFS,</span><br>
+								<span>Oral and maxillofacial surgery and Oral Implantology.</span>
 							</div>
 						</div>
 					</div>
@@ -136,7 +138,7 @@
 						<div class="main-doctors-item hover-style wow fadeInUp delay-0-6s">
 							<div class="inner-border">
 								<div class="doctor-img">
-									<img src="assets/images/doctors/doctor-3.jpg" alt="Image">
+									<img src="assets/images/doctors/gugan.jpeg" alt="Image">
 
 									<ul>
 										<li>
@@ -162,6 +164,7 @@
 									</ul>
 								</div>
 								<h3>Dr Guhan</h3>
+								<span>MDS (Pedodontics)</span><br>
 								<span>MDS (Pedodontics)</span>
 							</div>
 						</div>
@@ -196,15 +199,120 @@
 										</li>
 									</ul>
 								</div>
-								<h3>Dr Bindu</h3>
-								<span>MDS (Prosthodontics)</span>
+								<h3>Dr. Bindu </h3>
+								<span>M.D.S., (Prostho ), MFDS RCPS., (Glasgow)</span0><br>
+								<span>Prosthodontics and Oral Implantology.</span>
 							</div>
 						</div>
 					</div>
-
-					<div class="col-lg-4 col-sm-6">
-						<div class="main-doctors-item hover-style wow fadeInUp delay-0-4s">
+			<div class="col-lg-4 col-sm-6">
+						<div class="main-doctors-item hover-style wow fadeInUp delay-0-6s">
 							<div class="inner-border">
+								<div class="doctor-img">
+									<img src="assets/images/doctors/vasanthan.jpeg" alt="Image">
+
+									<ul>
+										<li>
+											<a href="https://www.facebook.com/" target="_blank">
+												<i class="icofont-facebook"></i>
+											</a>
+										</li>
+										<li>
+											<a href="https://www.twitter.com/" target="_blank">
+												<i class="icofont-twitter"></i>
+											</a>
+										</li>
+										<li>
+											<a href="https://www.linkedin.com/" target="_blank">
+												<i class="icofont-linkedin"></i>
+											</a>
+										</li>
+										<li>
+											<a href="https://www.instagram.com/" target="_blank">
+												<i class="icofont-instagram"></i>
+											</a>
+										</li>
+									</ul>
+								</div>
+								<h3>Prof. Dr. Vasanthan</h3>
+								<span>M.D.S.,(Ortho),P.hD,(Ortho)</span><br>
+								<span>Orthodontics & Dentofacial Orthopaedics</span>
+							</div>
+						</div>
+					</div>
+					<div class="col-lg-4 col-sm-6">
+						<div class="main-doctors-item hover-style wow fadeInUp delay-0-6s">
+							<div class="inner-border">
+								<div class="doctor-img">
+									<img src="assets/images/doctors/doctor-1.jpg" alt="Image">
+
+									<ul>
+										<li>
+											<a href="https://www.facebook.com/" target="_blank">
+												<i class="icofont-facebook"></i>
+											</a>
+										</li>
+										<li>
+											<a href="https://www.twitter.com/" target="_blank">
+												<i class="icofont-twitter"></i>
+											</a>
+										</li>
+										<li>
+											<a href="https://www.linkedin.com/" target="_blank">
+												<i class="icofont-linkedin"></i>
+											</a>
+										</li>
+										<li>
+											<a href="https://www.instagram.com/" target="_blank">
+												<i class="icofont-instagram"></i>
+											</a>
+										</li>
+									</ul>
+								</div>
+								<h3>Dr. S. Arun  </h3>
+								<span>M.D.S.,</span><br>
+								<span>Endodontics and conservative dentistry</span>
+							</div>
+						</div>
+					</div>
+					<div class="col-lg-4 col-sm-6">
+						<div class="main-doctors-item hover-style wow fadeInUp delay-0-6s">
+							<div class="inner-border">
+								<div class="doctor-img">
+									<img src="assets/images/doctors/ayyadurai.jpeg" alt="Image">
+
+									<ul>
+										<li>
+											<a href="https://www.facebook.com/" target="_blank">
+												<i class="icofont-facebook"></i>
+											</a>
+										</li>
+										<li>
+											<a href="https://www.twitter.com/" target="_blank">
+												<i class="icofont-twitter"></i>
+											</a>
+										</li>
+										<li>
+											<a href="https://www.linkedin.com/" target="_blank">
+												<i class="icofont-linkedin"></i>
+											</a>
+										</li>
+										<li>
+											<a href="https://www.instagram.com/" target="_blank">
+												<i class="icofont-instagram"></i>
+											</a>
+										</li>
+									</ul>
+								</div>
+								<h3>DR. C. AYYADURAI, </h3>
+								<span>M.D.S., </span><br>
+								<span>Oral and Maxillofacial Pathology.</span>
+							</div>
+						</div>
+					</div>
+					<div class="col-lg-4 col-sm-6">
+						<!-- <div class="main-doctors-item hover-style wow fadeInUp delay-0-4s"> -->
+							<!-- <div class="inner-border">
 								<div class="doctor-img">
 									<img src="assets/images/doctors/doctor-7.png" alt="Image"style="width:329px; height:293px;">
 
@@ -233,14 +341,14 @@
 								</div>
 								<h3>Dr Vasanthan</h3>
 								<span>MDS (Orthodontics)</span>
-							</div>
-						</div>
+							</div> -->
+						<!-- </div> -->
 					</div>
 
 					<div class="col-lg-4 col-sm-6">
-						<div class="main-doctors-item hover-style wow fadeInUp delay-0-6s">
-							<div class="inner-border">
-								<div class="doctor-img">
+						<!-- <div class="main-doctors-item hover-style wow fadeInUp delay-0-6s"> -->
+							<!-- <div class="inner-border"> -->
+								<!-- <div class="doctor-img">
 									<img src="assets/images/doctors/doctor-8.png" alt="Image"style="width:329px; height:293px;">
 
 									<ul>
@@ -267,12 +375,12 @@
 									</ul>
 								</div>
 								<h3>Dr Arun selva</h3>
-								<span>MDS (Conservative and endodontics)</span>
-							</div>
-						</div>
+								<span>MDS (Conservative and endodontics)</span> -->
+							<!-- </div> -->
+						<!-- </div> -->
 					</div>
 
-					<div class="col-lg-12">
+					<!-- <div class="col-lg-12">
 						<div class="pagination">
 							<a href="#" class="next page-count hover-style">
 								<div class="inner-border">
@@ -298,11 +406,11 @@
 								</div>
 							</a>
 						</div>
-					</div>
+					</div> -->
 				</div>
 			</div>
 
-			<img src="assets/images/doctor-shape.png" class="doctor-shape shape" alt="Image">
+			<!-- <img src="assets/images/doctor-shape.png" class="doctor-shape shape" alt="Image"> -->
 		</section>
 		<!--=== End Doctors Section ===-->
 
@@ -333,7 +441,7 @@
 		<!--=== End Subscribe Section ===-->
 
 		<!-- Footer Start -->
-<?php include 'Footer.php';?>
+<?php include 'footer.php';?>
 
 <!-- Footer End -->
 
@@ -342,7 +450,7 @@
 			<div class="container">
 				<div class="row">
 					<div class="col-lg-8 col-md-7">
-						<p>Copyright © <span>Krithika Dental Care</span> Is Proudly Owned by <a href="https://croptheme.com/" target="_blank">Macincode</a></p>
+						<p>Copyright © <span>Kirthika Dental Care</span> Is Proudly Owned by <a href="https://croptheme.com/" target="_blank">Macincode</a></p>
 					</div>
 					<div class="col-lg-4 col-md-5">
 						<ul>
@@ -367,7 +475,7 @@
 
 		<!-- <ul class="rtl-buy">
 			<li>
-				<a href="https://croptheme.com/Krithika Dental Care/Krithika Dental Care-rtl/">RTL</a>
+				<a href="https://croptheme.com/Kirthika Dental Care/Kirthika Dental Care-rtl/">RTL</a>
 			</li>
 			<li>
 				<a href="https://themeforest.net/item/blad-ai-blood-donation-activism-campaign-html-template/41923002" target="_blank" class="bg-color">BUY</a>

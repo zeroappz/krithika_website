@@ -22,7 +22,7 @@
 	<!--=== Favicon ===-->
 	<link rel="icon" type="image/png" href="assets/images/favicon.png">
 	<!--=== Title ===-->
-	<title>Krithika Dental Care</title>
+	<title>Kirthika Dental Care</title>
 </head>
 
 <body>
@@ -47,10 +47,10 @@
 			</div>
 		</div>
 		<div class="page-banner-shape-1 shape">
-			<img src="assets/images/banner/banner-shape-1.png" alt="Image">
+			<!-- <img src="assets/images/banner/banner-shape-1.png" alt="Image"> -->
 		</div>
 		<div class="page-banner-shape-2 shape">
-			<img src="assets/images/banner/banner-shape-1.png" alt="Image">
+			<!-- <img src="assets/images/banner/banner-shape-1.png" alt="Image"> -->
 		</div>
 	</section>
 	<!--=== End Page Banner Section ===-->
@@ -124,7 +124,7 @@
 							<h3>Email Address</h3>
 							<ul>
 								<li>
-									<a href="mailto:Krithikadentalcare@gmail.com">Krithikadentalcare@gmail.com</a>
+									<a href="mailto:kirthikadentalcare@gmail.com">kirthikadentalcare@gmail.com</a>
 								</li>
 
 							</ul>
@@ -134,8 +134,8 @@
 			</div>
 		</div>
 
-		<img src="assets/images/blog/blog-shape-1.png" class="shape shape-1" alt="Image">
-		<img src="assets/images/blog/blog-shape-2.png" class="shape shape-2" alt="Image">
+		<!-- <img src="assets/images/blog/blog-shape-1.png" class="shape shape-1" alt="Image">
+		<img src="assets/images/blog/blog-shape-2.png" class="shape shape-2" alt="Image"> -->
 	</section>
 	<!--=== End Contact Us Section ===-->
 
@@ -237,7 +237,7 @@
 
 
 	<!-- Footer Start -->
-	<?php include 'Footer.php';?>
+	<?php include 'footer.php';?>
 
 	<!-- Footer End -->
 
@@ -246,7 +246,7 @@
 		<div class="container">
 			<div class="row">
 				<div class="col-lg-8 col-md-7">
-					<p>Copyright © <span>Krithika Dental Care</span> All RIghts Reserved <a href="https://macincode.com/" target="_blank">Macincode</a></p>
+					<p>Copyright © <span>Kirthika Dental Care</span> All RIghts Reserved <a href="https://macincode.com/" target="_blank">Macincode</a></p>
 				</div>
 				<div class="col-lg-4 col-md-5">
 					<ul>

@@ -20,7 +20,7 @@
 		<!--=== Favicon ===-->
 		<link rel="icon" type="image/png" href="assets/images/favicon.png">
 		<!--=== Title ===-->
-		<title>Krithika Dental Care</title>
+		<title>Kirthika Dental Care</title>
     </head>
 
     <body>
@@ -45,10 +45,10 @@
 				</div>
 			</div>
 			<div class="page-banner-shape-1 shape">
-				<img src="assets/images/banner/banner-shape-1.png" alt="Image">
+				<!-- <img src="assets/images/banner/banner-shape-1.png" alt="Image"> -->
 			</div>
 			<div class="page-banner-shape-2 shape">
-				<img src="assets/images/banner/banner-shape-1.png" alt="Image">
+				<!-- <img src="assets/images/banner/banner-shape-1.png" alt="Image"> -->
 			</div>
 		</section>
 		<!--=== End Page Banner Section ===-->
@@ -63,39 +63,69 @@
 								<h3>Our Specialities</h3>
 
 								<ul>
+								<li>
+										<a href="oralmedicineandpathology.php">
+										Oral Medicine and Pathology
+											<i class="icofont-simple-right"></i>
+										</a>
+									</li>
 									<li>
-										<a href="orthodontics.php">
-											Orthodontics
+										<a href="restorativedentistry.php">
+										Restorative Dentistry
+											<i class="icofont-simple-right"></i>
+										</a>
+									</li>
+									<li>
+										<a href="endodontics.php">
+										Endodontics
+											<i class="icofont-simple-right"></i>
+										</a>
+									</li>
+									<li>
+										<a href="periodontics.php">
+										Periodontics
 											<i class="icofont-simple-right"></i>
 										</a>
 									</li>
 									<li>
 										<a href="oralandmaxillofacial.php">
-											Oral And Maxillofacial
+										Oral and Maxillofacial
 											<i class="icofont-simple-right"></i>
 										</a>
 									</li>
 									<li>
-										<a href="services.php">
-											Conservative Dentistry
-											<i class="icofont-simple-right"></i>
-										</a>
-									</li>
-									<li>
-										<a href="dentalcrowns.php">
+										<a href="prosthodontics.php">
 										Prosthodontics
+											<i class="icofont-simple-right"></i>
+										</a>
+									</li>
+									<!-- <li>
+										<a href="prosthodontics.php">
+										Dental Crowns
+											<i class="icofont-simple-right"></i>
+										</a>
+									</li>
+									<li>
+										<a href="dentalbridges.php">
+										Dental Bridges
+											<i class="icofont-simple-right"></i>
+										</a>
+									</li>
+									<li>
+										<a href="dentures.php">
+										Dentures
+											<i class="icofont-simple-right"></i>
+										</a>
+									</li> -->
+									<li>
+										<a href="orthodontics.php">
+										Orthodontics
 											<i class="icofont-simple-right"></i>
 										</a>
 									</li>
 									<li>
 										<a href="dentalimplants.php">
-											Dental Implants
-											<i class="icofont-simple-right"></i>
-										</a>
-									</li>
-									<li>
-										<a href="teethscaling.php">
-											Periodontics
+										Implant Dentistry
 											<i class="icofont-simple-right"></i>
 										</a>
 									</li>
@@ -108,18 +138,6 @@
 									<li>
 										<a href="pediatricdentistry.php">
 										Pediatric Dentistry
-											<i class="icofont-simple-right"></i>
-										</a>
-									</li>
-									<li>
-										<a href="     dentistry.php">
-											Sedation Dentistry
-											<i class="icofont-simple-right"></i>
-										</a>
-									</li>
-									<li>
-										<a href="brushingtechniques.php">
-											Brushing Techniques
 											<i class="icofont-simple-right"></i>
 										</a>
 									</li>
@@ -235,7 +253,7 @@
 									Teeth become sensitive
 								</li>
 							</ul>
-							<h4>Watch The Sealants Image</h4>
+							<!-- <h4>Watch The Sealants Image</h4> -->
 
 							<div class="services-img-1">
 								<img src="assets/images/services/teeth-scaling-section-2.png" alt="Image">
@@ -307,7 +325,7 @@
 		<!--=== End Subscribe Section ===-->
 
 		<!-- Footer Start -->
-<?php include 'Footer.php';?>
+<?php include 'footer.php';?>
 
 <!-- Footer End -->
 
@@ -316,7 +334,7 @@
 			<div class="container">
 				<div class="row">
 					<div class="col-lg-8 col-md-7">
-						<p>Copyright © <span>Krithika Dental Care</span> Is Proudly Owned by <a href="https://croptheme.com/" target="_blank">Macincode</a></p>
+						<p>Copyright © <span>Kirthika Dental Care</span> Is Proudly Owned by <a href="https://croptheme.com/" target="_blank">Macincode</a></p>
 					</div>
 					<div class="col-lg-4 col-md-5">
 						<ul>
@@ -341,7 +359,7 @@
 <!--
 		<ul class="rtl-buy">
 			<li>
-				<a href="https://croptheme.com/Krithika Dental Care/Krithika Dental Care-rtl/">RTL</a>
+				<a href="https://croptheme.com/Kirthika Dental Care/Kirthika Dental Care-rtl/">RTL</a>
 			</li>
 			<li>
 				<a href="https://themeforest.net/item/blad-ai-blood-donation-activism-campaign-html-template/41923002" target="_blank" class="bg-color">BUY</a>

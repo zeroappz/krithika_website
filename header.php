@@ -45,24 +45,24 @@
 						</li>
 
 						<li class="nav-item">
-							<a href="#about_us" class="nav-link">About Us</a>
+							<a href="about-us.php" class="nav-link">About Us</a>
 						</li>
 
 						<li class="nav-item">
 							<a href="#" class="nav-link dropdown-toggle">
 								Specialities
 							</a>
-
+ 
 							<ul class="dropdown-menu">
 								<li class="nav-item">
-									<a href="#sedationdentistry.php" class="nav-link">oral medicine and pathology </a>
+									<a href="oralmedicineandpathology.php" class="nav-link">Oral Medicine and Pathology </a>
 								</li>
 								<li class="nav-item">
-									<a href="#brushingtechniques.php" class="nav-link">Restorative dentistry</a>
+									<a href="restorativedentistry.php" class="nav-link">Restorative Dentistry</a>
 								</li>
 
 								<li class="nav-item">
-									<a href="#sedationdentistry.php" class="nav-link">Endodontics</a>
+									<a href="endodontics.php" class="nav-link">Endodontics</a>
 								</li>
 								<!-- <li class="nav-item">
 									<a href="brushingtechniques.php" class="nav-link">Brushing Techniques</a>
@@ -96,27 +96,27 @@
 
 								<!-- join the specialities -->
 								<li class="nav-item">
-									<a href="teethscaling.php" class="nav-link dropdown-toggle">
+									<a href="periodontics.php" class="nav-link dropdown-toggle">
 										Periodontics
-										<i class="icofont-rounded-down"></i>
+										<!-- <i class="icofont-rounded-down"></i> -->
 									</a>
-									<ul class="dropdown-menu">
+									<!-- <ul class="dropdown-menu">
 
 										<li class="nav-item">
 											<a href="teethscaling.php" class="nav-link">Teeth Scaling</a>
 										</li>
 
-									</ul>
+									</ul> -->
 								</li>
 								<li class="nav-item">
-									<a href="oralandmaxillofacial.php" class="nav-link">Oral And Maxillofacial</a>
+									<a href="oralandmaxillofacial.php" class="nav-link">Oral and Maxillofacial</a>
 								</li>
 								<li class="nav-item">
-									<a href="dentalcrowns.php" class="nav-link dropdown-toggle">
+									<a href="prosthodontics.php" class="nav-link dropdown-toggle">
 										Prosthodontics
-										<i class="icofont-rounded-down"></i>
+										<!-- <i class="icofont-rounded-down"></i> -->
 									</a>
-									<ul class="dropdown-menu">
+									<!-- <ul class="dropdown-menu">
 										<li class="nav-item">
 											<a href="dentalcrowns.php" class="nav-link">Dental Crowns</a>
 										</li>
@@ -126,13 +126,13 @@
 										<li class="nav-item">
 											<a href="dentures.php" class="nav-link">Dentures</a>
 										</li>
-									</ul>
+									</ul> -->
 								</li>
 								<li class="nav-item">
 									<a href="orthodontics.php" class="nav-link">Orthodontics</a>
 								</li>
 								<li class="nav-item">
-									<a href="dentalimplants.php" class="nav-link">Dental Implants</a>
+									<a href="dentalimplants.php" class="nav-link">Implant Dentistry</a>
 								</li>
 								<li class="nav-item">
 									<a href="laserdentistry.php" class="nav-link">Laser Dentistry</a>
@@ -146,31 +146,34 @@
 						</li>
 
 						<!-- <a class="navbar-brand" href="index.php">
-							<img src="assets/images/krithika.png" alt="Logo" class="log2" style="width:200px; height:90px;     margin-left: 85px;
+							<img src="assets/images/kirthika.png" alt="Logo" class="log2" style="width:200px; height:90px;     margin-left: 85px;
 												margin-right: 73px;">
 						</a> -->
 
 						<li class="nav-item">
-							<a href="doctorslist.php" class="nav-link">Doctors</a>
+							<a href="doctors.php" class="nav-link">Doctors</a>
 						</li>
 
 						<li class="nav-item">
 							<a href="contact-us.php" class="nav-link">Contact Us</a>
 						</li>
-						<!-- <li class="nav-item">
-								<a href="#register.php" class="nav-link">Register</a>
-							</li> -->
 						<li class="nav-item">
+								<a href=" https://admin.kirthikadentalcare.in/register" class="nav-link">Register</a>
+							</li>
+							<li class="nav-item">
+								<a href="https://admin.kirthikadentalcare.in/login" class="nav-link">Login</a>
+							</li>
+						<!-- <li class="nav-item">
 							<a href="#" class="nav-link dropdown-toggle">Login</a>
 							<ul class="dropdown-menu">
 								<li class="nav-item">
 									<a href="#orthodontics.php" class="nav-link">Staff login</a>
 								</li>
 								<li class="nav-item">
-									<a href="p_login.php" class="nav-link">Patient login</a>
+									<a href="https://admin.kirthikadentalcare.in/" class="nav-link">Patient login</a>
 								</li>
 							</ul>
-						</li>
+						</li> -->
 					</ul>
 					<!--
 						<div class="nav-right-options">
@@ -186,10 +189,10 @@
 					<div class="main">
 
 						<!-- Actual search box -->
-						<div class="form-group has-search">
+						<!-- <div class="form-group has-search">
 							<span class="fa fa-search form-control-feedback"></span>
-							<input type="text" class="form-control" placeholder="Search">
-						</div>
+							<input type="text" class="form-control" placeholder="Search" style="width:500px">
+						</div> -->
 
 
 					</div>
@@ -203,7 +206,7 @@
 			<div class="mobile-menu">
 				<div class="logo">
 					<a href="index.php">
-						<img src="assets/images/krithika.png" alt="Logo" style="width:120px; height:70px !important;">
+						<img src="assets/images/kirthika.png" alt="Logo" style="width:120px; height:70px !important;">
 					</a>
 				</div>
 			</div>
@@ -222,7 +225,7 @@
 
 
 				<a class="navbar-brand" href="#">
-					<img src="assets/images/krithika.png" alt="Logo" class="log2" style="width:240px; height:144px;     margin-left: 505px;
+					<img src="assets/images/kirthika.png" alt="Logo" class="log2" style="width:240px; height:144px;     margin-left: 505px;
 												margin-right: 73px;">
 				</a>
 

@@ -5,7 +5,7 @@
 				<div class="col-lg-3 col-sm-6">
 					<div class="main-footer-item wow fadeInUp delay-0-2s">
 						<a href="index.php" class="footer-logo">
-							<img src="assets/images/krithika.png" alt="Image"
+							<img src="assets/images/kirthika.png" alt="Image"
 								style="width:200px; height:90px !important;">
 						</a>
 						<!-- <p>We are committed to providing our patients best-in-class treatment using advance dental materials and instruments with
@@ -60,7 +60,7 @@
 							</li>
 							<li>
 								<i class="icofont-envelope"></i>
-								<a href="mailto:Krithikadentalcare@gmail.com">Krithikadentalcare@gmail.com</a>
+								<a href="mailto:Kirthikadentalcare@gmail.com">Kirthikadentalcare@gmail.com</a>
 							</li>
 							<li>
 								<i class="icofont-ui-call"></i>
