@@ -20,7 +20,7 @@
 
 						<ul class="useful-link">
 							<li>
-								<a href="about-us.php">About Us</a>
+								<a href="#">About Us</a>
 							</li>
 							<li>
 								<a href="services.php">Services</a>
