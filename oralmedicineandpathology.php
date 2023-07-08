@@ -89,7 +89,7 @@
 									</li>
 									<li>
 										<a href="oralandmaxillofacial.php">
-										Oral and Maxillofacial
+										Oral and maxilla facial surgery
 											<i class="icofont-simple-right"></i>
 										</a>
 									</li>
@@ -234,7 +234,7 @@
 
 							<p><b>What does the Oral Medicine and Pathology do?</b><br></p>
 
-							<p>Oral Medicine and Pathology is a specialized field of dentistry that focuses on the diagnosis and management of various oral diseases and conditions. It deals with the study of oral and maxillofacial disorders, including those affecting the mouth, jaws, salivary glands, and surrounding structures.</p>
+							<p>Oral Medicine and Pathology is a specialized field of dentistry that focuses on the diagnosis and management of various oral diseases and conditions. It deals with the study of Oral and maxilla facial surgery disorders, including those affecting the mouth, jaws, salivary glands, and surrounding structures.</p>
 
 							<!-- <h4>Watch The Sealants Image</h4> -->
 

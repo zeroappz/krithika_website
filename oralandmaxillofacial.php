@@ -33,13 +33,13 @@
 		<section class="page-banner-section bg-color-ebeef5 ptb-100">
 			<div class="container">
 				<div class="page-banner-content">
-					<h2>Oral and Maxillofacial</h2>
+					<h2>Oral and maxilla facial surgery</h2>
 					<ul>
 						<li>
 							<a href="index.php">Home</a>
 						</li>
 						<li>
-							<span class="active">Oral and Maxillofacial</span>
+							<span class="active">Oral and maxilla facial surgery</span>
 						</li>
 					</ul>
 				</div>
@@ -89,7 +89,7 @@
 									</li>
 									<li>
 										<a href="oralandmaxillofacial.php">
-										Oral and Maxillofacial
+										Oral and maxilla facial surgery
 											<i class="icofont-simple-right"></i>
 										</a>
 									</li>
@@ -223,7 +223,7 @@
 								<img src="assets/images/services/oral-and-maxillofacial-surgery-section-1.png" alt="Image">
 							</div>
 							<h4>Introduction</h4>
-							<h3>Oral and Maxillofacial</h3>
+							<h3>Oral and maxilla facial surgery</h3>
 							<p><b>What is the meaning of maxillofacial?</b><br></p>
 
 							<p>Maxillofacial means jaws and face, which combines with mouth becomes the domain/area of specialization of oral and
@@ -235,9 +235,9 @@
 							mouth, face etc. This also includes dental implants, removing decayed teeth, biopsy and taking of cysts as well as
 							tumors of jaw and mouth, treating facial trauma and jaw reconstruction.
 
-							<p><b>What treatment/procedures are followed by oral and maxillofacial surgeon?</b><br></p>
+							<p><b>What treatment/procedures are followed by Oral and maxilla facial surgery surgeon?</b><br></p>
 
-							<p>Oral and maxillofacial surgeons perform the following procedures/treatments:</p>
+							<p>Oral and maxilla facial surgery surgeons perform the following procedures/treatments:</p>
 							<ul>
 								<li>
 									<!-- <p><b>Why teeth become irregular?</b><br></p> -->
@@ -286,9 +286,9 @@
 
 							</div>
 
-							<h3>How important is it to be board certified in oral and maxillofacial surgery?</h3>
-							<p>One should graduate from accredited school of dentistry and completed program of oral and maxillofacial surgery which is
-							passed by ADA. It requires 13 years of training and education .ADA recognizes a board for oral and maxillofacial surgery
+							<h3>How important is it to be board certified in Oral and maxilla facial surgery surgery?</h3>
+							<p>One should graduate from accredited school of dentistry and completed program of Oral and maxilla facial surgery surgery which is
+							passed by ADA. It requires 13 years of training and education .ADA recognizes a board for Oral and maxilla facial surgery surgery
 							which has the responsibility to review all the applicants that need board certification.</p>
 
 							<p>The board also administers examinations for the certification process. There is written as well as oral examination ,and

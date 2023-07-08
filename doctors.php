@@ -129,7 +129,7 @@
 								</div>
 								<h3>Prof, Dr. L. Kamaraj</h3>
 								<span>M.D.S., (OMFS) FDS RCPS., (Glasgow) P.hD (OMFS), FIBOMFS,</span><br>
-								<span>Oral and maxillofacial surgery and Oral Implantology.</span>
+								<span>Oral and maxilla facial surgery surgery and Oral Implantology.</span>
 							</div>
 						</div>
 					</div>
@@ -164,8 +164,8 @@
 									</ul>
 								</div>
 								<h3>Dr Guhan</h3>
-								<span>MDS (Pedodontics)</span><br>
-								<span>MDS (Pedodontics)</span>
+								<span>M.D.S Pediatric dentistry</span><br>
+								<!-- <span>MDS (Pedodontics)</span> -->
 							</div>
 						</div>
 					</div>
@@ -306,7 +306,7 @@
 								</div>
 								<h3>DR. C. AYYADURAI, </h3>
 								<span>M.D.S., </span><br>
-								<span>Oral and Maxillofacial Pathology.</span>
+								<span>Oral and maxilla facial surgery Pathology.</span>
 							</div>
 						</div>
 					</div>

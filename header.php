@@ -45,7 +45,7 @@
 						</li>
 
 						<li class="nav-item">
-							<a href="about-us.php" class="nav-link">About Us</a>
+							<a href="#" class="nav-link">About Us</a>
 						</li>
 
 						<li class="nav-item">
@@ -109,7 +109,7 @@
 									</ul> -->
 								</li>
 								<li class="nav-item">
-									<a href="oralandmaxillofacial.php" class="nav-link">Oral and Maxillofacial</a>
+									<a href="oralandmaxillofacial.php" class="nav-link">Oral and maxilla facial surgery</a>
 								</li>
 								<li class="nav-item">
 									<a href="prosthodontics.php" class="nav-link dropdown-toggle">

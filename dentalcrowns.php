@@ -64,7 +64,7 @@
 									</li>
 									<li>
 										<a href="oralandmaxillofacial.php">
-										Oral and Maxillofacial
+										Oral and maxilla facial surgery
 											<i class="icofont-simple-right"></i>
 										</a>
 									</li>
