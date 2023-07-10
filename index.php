@@ -614,18 +614,14 @@
 			<div class="row align-items-center">
 				<div class="col-lg-6 ps-0">
 					<div class="about-img me-15 wow fadeInUp delay-0-2s">
-						<img src="assets/images/about-img.png" alt="Image">
+						<img src="assets/images/blog/dental_index_sec_1.png" alt="Image">
 					</div>
 				</div>
 				<div class="col-lg-6">
 					<div class="about-content ms-15">
 						<span class="up-title wow fadeInUp delay-0-2s">About Kirthika Dental Care</span>
 						<h2 class="wow fadeInUp delay-0-4s">Why Choose US?</h2>
-						<p class="wow fadeInUp delay-0-6s">A sealant is a liquid solution that is painted on to the
-							biting surface of a clean tooth, and which sets as a durable
-							plastic material It forms a physical barrier that stops food and other bacteria from
-							collecting in the fissures liquid
-							solution that is painted on to the biting.</p>
+						<p class="wow fadeInUp delay-0-6s">We use latest treatment techniques, procedures & dental materials that enable us to deliver a wide range of options to suit your needs. We use a wide variety of cosmetic dentistry options and treatments to transform your regular smile into a million dollar one. We offer all your treatments in the same place, whichever specialist you may need to see, you will find them available here.</p>
 
 						<ul>
 							<li class="hover-style wow fadeInUp delay-0-2s">
