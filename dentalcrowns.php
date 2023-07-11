@@ -143,7 +143,7 @@
 								</ul>
 							</div>
 
-							<div class="main-sidebar-item contact-us">
+							<!-- <div class="main-sidebar-item contact-us">
 								<h3>Contact Us</h3>
 
 								<div class="row">
@@ -188,7 +188,7 @@
 										</button>
 									</div>
 								</div>
-							</div>
+							</div> -->
 						</div>
 					</div>
 

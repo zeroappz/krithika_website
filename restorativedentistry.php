@@ -99,7 +99,7 @@
 											<i class="icofont-simple-right"></i>
 										</a>
 									</li>
-									s<!-- <li>
+									<!-- <li>
 										<a href="prosthodontics.php">
 										Dental Crowns
 											<i class="icofont-simple-right"></i>
@@ -168,7 +168,7 @@
 								</ul>
 							</div>
 
-							<div class="main-sidebar-item contact-us">
+							<!-- <div class="main-sidebar-item contact-us">
 								<h3>Contact Us</h3>
 
 								<div class="row">
@@ -213,7 +213,7 @@
 										</button>
 									</div>
 								</div>
-							</div>
+							</div> -->
 						</div>
 					</div>
 

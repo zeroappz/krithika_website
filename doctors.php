@@ -102,7 +102,7 @@
 						<div class="main-doctors-item hover-style wow fadeInUp delay-0-4s">
 							<div class="inner-border">
 								<div class="doctor-img">
-									<img src="assets/images/doctors/doctor-2.jpg" alt="Image">
+									<img src="assets/images/doctors/kamaraj.jpeg" alt="Image">
 
 									<ul>
 										<li>
@@ -244,7 +244,7 @@
 						<div class="main-doctors-item hover-style wow fadeInUp delay-0-6s">
 							<div class="inner-border">
 								<div class="doctor-img">
-									<img src="assets/images/doctors/doctor-1.jpg" alt="Image">
+									<img src="assets/images/doctors/arun.jpeg" alt="Image">
 
 									<ul>
 										<li>

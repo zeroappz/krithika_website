@@ -538,8 +538,7 @@
 							<h3>
 								<a href="#">Dental <br> implants</a>
 							</h3>
-							<p>Dental implants made simple If you’ve lost a tooth, schedule an implant consult at Bowles
-								Dental to:
+							<p>Dental implants made simple If you’ve lost a tooth, schedule an implant consult at Dental Bowles to:
 								Assess the health of your teeth, gums, and jaw bone
 								Discuss options for replacing missing teeth</p>
 
