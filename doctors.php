@@ -68,7 +68,7 @@
 								<div class="doctor-img">
 									<img src="assets/images/doctors/rajkumar.jpeg" alt="Image">
 
-									<ul>
+									<!--  <ul>
 										<li>
 											<a href="https://www.facebook.com/" target="_blank">
 												<i class="icofont-facebook"></i>
@@ -89,7 +89,7 @@
 												<i class="icofont-instagram"></i>
 											</a>
 										</li>
-									</ul>
+									</ul> -->
 								</div>
 								<h3>Dr. G. Rajkumar </h3>
 								<span>M.D.S., (Perio), MFDS RCPS., (Glasgow)</span><br>
@@ -104,7 +104,7 @@
 								<div class="doctor-img">
 									<img src="assets/images/doctors/kamaraj.jpeg" alt="Image">
 
-									<ul>
+									<!-- <ul>
 										<li>
 											<a href="https://www.facebook.com/" target="_blank">
 												<i class="icofont-facebook"></i>
@@ -125,7 +125,7 @@
 												<i class="icofont-instagram"></i>
 											</a>
 										</li>
-									</ul>
+									</ul> -->
 								</div>
 								<h3>Prof, Dr. L. Kamaraj</h3>
 								<span>M.D.S., (OMFS) FDS RCPS., (Glasgow) P.hD (OMFS), FIBOMFS,</span><br>
@@ -138,9 +138,9 @@
 						<div class="main-doctors-item hover-style wow fadeInUp delay-0-6s">
 							<div class="inner-border">
 								<div class="doctor-img">
-									<img src="assets/images/doctors/gugan.jpeg" alt="Image">
+									<img src="assets/images/doctors/gugan.png" alt="Image">
 
-									<ul>
+									<!-- <ul>
 										<li>
 											<a href="https://www.facebook.com/" target="_blank">
 												<i class="icofont-facebook"></i>
@@ -161,7 +161,7 @@
 												<i class="icofont-instagram"></i>
 											</a>
 										</li>
-									</ul>
+									</ul> -->
 								</div>
 								<h3>Dr Guhan</h3>
 								<span>M.D.S Pediatric dentistry</span><br>
@@ -176,7 +176,7 @@
 								<div class="doctor-img">
 									<img src="assets/images/doctors/doctor-4.jpg" alt="Image">
 
-									<ul>
+									<!-- <ul>
 										<li>
 											<a href="https://www.facebook.com/" target="_blank">
 												<i class="icofont-facebook"></i>
@@ -197,7 +197,7 @@
 												<i class="icofont-instagram"></i>
 											</a>
 										</li>
-									</ul>
+									</ul> -->
 								</div>
 								<h3>Dr. Bindu </h3>
 								<span>M.D.S., (Prostho ), MFDS RCPS., (Glasgow)</span0><br>
@@ -211,7 +211,7 @@
 								<div class="doctor-img">
 									<img src="assets/images/doctors/vasanthan.jpeg" alt="Image">
 
-									<ul>
+									<!-- <ul>
 										<li>
 											<a href="https://www.facebook.com/" target="_blank">
 												<i class="icofont-facebook"></i>
@@ -232,7 +232,7 @@
 												<i class="icofont-instagram"></i>
 											</a>
 										</li>
-									</ul>
+									</ul> -->
 								</div>
 								<h3>Prof. Dr. Vasanthan</h3>
 								<span>M.D.S.,(Ortho),P.hD,(Ortho)</span><br>
@@ -246,7 +246,7 @@
 								<div class="doctor-img">
 									<img src="assets/images/doctors/arun.jpeg" alt="Image">
 
-									<ul>
+									<!-- <ul>
 										<li>
 											<a href="https://www.facebook.com/" target="_blank">
 												<i class="icofont-facebook"></i>
@@ -267,7 +267,7 @@
 												<i class="icofont-instagram"></i>
 											</a>
 										</li>
-									</ul>
+									</ul> -->
 								</div>
 								<h3>Dr. S. Arun  </h3>
 								<span>M.D.S.,</span><br>
@@ -281,7 +281,7 @@
 								<div class="doctor-img">
 									<img src="assets/images/doctors/ayyadurai.jpeg" alt="Image">
 
-									<ul>
+									<!-- <ul>
 										<li>
 											<a href="https://www.facebook.com/" target="_blank">
 												<i class="icofont-facebook"></i>
@@ -302,7 +302,7 @@
 												<i class="icofont-instagram"></i>
 											</a>
 										</li>
-									</ul>
+									</ul> -->
 								</div>
 								<h3>DR. C. AYYADURAI, </h3>
 								<span>M.D.S., </span><br>
@@ -316,7 +316,7 @@
 								<div class="doctor-img">
 									<img src="assets/images/doctors/doctor-7.png" alt="Image"style="width:329px; height:293px;">
 
-									<ul>
+									<!-- <ul>
 										<li>
 											<a href="https://www.facebook.com/" target="_blank">
 												<i class="icofont-facebook"></i>
@@ -337,11 +337,11 @@
 												<i class="icofont-instagram"></i>
 											</a>
 										</li>
-									</ul>
+									</ul> -->
 								</div>
-								<h3>Dr Vasanthan</h3>
-								<span>MDS (Orthodontics)</span>
-							</div> -->
+								<!-- <h3>Dr Vasanthan</h3>
+								<span>MDS (Orthodontics)</span> -->
+							</div> 
 						<!-- </div> -->
 					</div>
 
@@ -351,7 +351,7 @@
 								<!-- <div class="doctor-img">
 									<img src="assets/images/doctors/doctor-8.png" alt="Image"style="width:329px; height:293px;">
 
-									<ul>
+									<!-- <ul>
 										<li>
 											<a href="https://www.facebook.com/" target="_blank">
 												<i class="icofont-facebook"></i>
@@ -372,10 +372,10 @@
 												<i class="icofont-instagram"></i>
 											</a>
 										</li>
-									</ul>
+									</ul> -->
 								</div>
-								<h3>Dr Arun selva</h3>
-								<span>MDS (Conservative and endodontics)</span> -->
+								<!-- <h3>Dr Arun selva</h3>
+								<span>MDS (Conservative and endodontics)</span>  -->
 							<!-- </div> -->
 						<!-- </div> -->
 					</div>
