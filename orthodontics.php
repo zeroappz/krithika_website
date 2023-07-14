@@ -288,7 +288,7 @@
 
 							<p><b>What types of braces are available?</b><br></p>
 
-							<p>There are 3 type of braces i.e. metallic, ceramic and invisalign. Metal braces are conventional and most commonly used.
+							<p>There are 3 type of braces i.e. metallic, <b>ceramic </b>and <b>invisalign</b>. Metal braces are conventional and most commonly used.
 							Ceramic are very popular with adults as they look good and match with the teeth color. Invisalign are invisible and can
 							also be removed. They are very comfortable as there is no use of metal brackets and wires.</p>
 

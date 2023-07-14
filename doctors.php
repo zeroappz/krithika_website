@@ -163,7 +163,7 @@
 										</li>
 									</ul> -->
 								</div>
-								<h3>Dr Guhan</h3>
+								<h3>Dr.B. Guhan</h3>
 								<span>M.D.S Pediatric dentistry</span><br>
 								<!-- <span>MDS (Pedodontics)</span> -->
 							</div>

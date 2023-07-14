@@ -27,7 +27,7 @@
 			<div class="row">
 				<div class="col-lg-12 p-0">
 					<div class="banner-img wow fadeInUp delay-0-2s" style="visibility: visible; animation-name: fadeInUp;">
-						<img src="assets/images/kirthika_header.png" alt="Image">
+						<img src="assets/images/header_kirthika.png" alt="Image">
 					</div>
 				</div>
 			</div>

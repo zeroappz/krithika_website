@@ -286,14 +286,14 @@
 
 							</div>
 
-							<h3>How important is it to be board certified in Oral and maxilla facial surgery surgery?</h3>
+							<!-- <h3>How important is it to be board certified in Oral and maxilla facial surgery surgery?</h3>
 							<p>One should graduate from accredited school of dentistry and completed program of Oral and maxilla facial surgery surgery which is
 							passed by ADA. It requires 13 years of training and education .ADA recognizes a board for Oral and maxilla facial surgery surgery
 							which has the responsibility to review all the applicants that need board certification.</p>
 
 							<p>The board also administers examinations for the certification process. There is written as well as oral examination ,and
 							when one clears both then only he is certified as diplomate by the board. Diplomates are motivated to continue education
-							to improve their skills</p>
+							to improve their skills</p> -->
 
 							<!-- <p>Third is the retention phase in which the patient is required to wear a retainer so that teeth retain their new
 							place/position.</p> -->

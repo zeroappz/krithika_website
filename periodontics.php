@@ -345,7 +345,7 @@
 								<li>
 									<!-- <p><b>At what age one can go for orthodontic treatment?</b><br></p> -->
 									<span class="bulletPoints"></span>
-									<b>Early detection - </b> A visit with your trusted provider of periodontal therapy in Charleston, WV can help determine if you have other oral health issues, and if caught early will likely require less serious treatment.
+									<b>Early detection - </b> A visit with your trusted provider of periodontal therapy in kirthika Dental Care, We can help determine if you have other oral health issues, and if caught early will likely require less serious treatment.
 								</li>
 								
 								<li>

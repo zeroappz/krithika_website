@@ -227,7 +227,7 @@
 							<p><b>What is the meaning of dental implant?</b><br></p>
 
 							<p>A dental implant is manmade replacement in place of the natural teeth which enables a person to have fixed teeth. Dental
-							implants are different from transplants taken from others. What category of dental transplant is suitable for a patient
+							implants are different from transplants taken from others. What category of dental implant is suitable for a patient
 							depends on the individual need and condition of the teeth. An x-ray is required to check the number of bones remaining;
 							space available in the mouth .The dentist does a examination before finalizing which type of implant should be done.</p>
 
