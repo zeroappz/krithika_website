@@ -215,7 +215,7 @@
 									<a href="https://admin.kirthikadentalcare.in/login" class="nav-link">Patient Login</a>
 								</li>
 								<li class="nav-item">
-									<a href="https://admin.kirthikadentalcare.in/login" class="nav-link">Doctor Login</a>
+									<a href="https://admin.kirthikadentalcare.in/login" class="nav-link">Staff Login</a>
 								</li>
 
 								

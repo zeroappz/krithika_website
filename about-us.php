@@ -245,7 +245,7 @@
 			<div class="container">
 				<div class="main-section-title wow fadeInUp delay-0-2s">
 					<span class="up-title">Our Doctors</span>
-					<h2>Our Experienced Physicians Strive For Improved Services</h2>
+					<h2>Our Experienced Dentists Strive For Improved Services</h2>
 				</div>
 
 				<div class="row justify-content-center">
