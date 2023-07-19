@@ -29,12 +29,19 @@
 				</div>
 			</div>
 		</div> -->
-<div class="navbar-section">
+<div class="navbar-section" style="background-color: #808080;">
 	<!--=== Start Main Navbar Section ===-->
 	<div class="main-nav">
 		<div class="container">
 			<nav class="navbar navbar-expand-md navbar-light">
+				<!--=== Start Mobile Navbar Section ===-->
 
+				<div class="logo">
+					<a href="index.php">
+						<img src="assets/images/kirthika.png" alt="Logo" style=" width: 187px; height: 70px !important;margin-left: -74px;">
+					</a>
+				</div>
+			
 
 				<div class="collapse navbar-collapse for-mobile-menu" id="navbarSupportedContent">
 					<ul class="navbar-nav m-auto">
@@ -45,7 +52,7 @@
 						</li>
 
 						<li class="nav-item">
-							<a href="#" class="nav-link">About Us</a>
+							<a href="about-us.php" class="nav-link">About Us</a>
 						</li>
 
 						<li class="nav-item">
@@ -235,9 +242,9 @@
 <!--=== End Navbar Section ===-->
 
 <!--=== Start Navbar Section ===-->
-<div class="navbar-section-btm">
+<!-- <div class="navbar-section-btm"> -->
 	<!--=== Start Main Navbar Section ===-->
-	<div class="main-nav">
+	<!-- <div class="main-nav">
 		<div class="container">
 			<nav class="navbar navbar-expand-md navbar-light">
 
@@ -250,7 +257,7 @@
 		</div>
 		</nav>
 	</div>
-</div>
+</div> -->
 <!--=== End Main Navbar Section ===-->
 
 <!--=== End Navbar Section ===-->

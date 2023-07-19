@@ -800,7 +800,7 @@ textarea.form-control {
 }
 .main-nav .navbar .navbar-nav .nav-item .nav-link {
   font-size: 17px;
-  color: #343f52;
+  color: #FFF;
   line-height: 1;
   position: relative;
   font-weight: 600;
@@ -1605,7 +1605,7 @@ textarea.form-control {
 }
 
 .about-content {
-  max-width: 621px;
+ /* max-width: 621px; */
 }
 .about-content .up-title {
   color: #D4AF37;

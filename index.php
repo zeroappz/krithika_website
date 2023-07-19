@@ -86,7 +86,7 @@
 						</li>
 
 						<li class="nav-item">
-							<a href="#" class="nav-link ff " >About Us</a>
+							<a href="about-us.php" class="nav-link ff " >About Us</a>
 						</li>
 
 						<li class="nav-item">
