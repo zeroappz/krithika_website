@@ -378,7 +378,7 @@
 		<div class="container">
 			<div class="main-section-title wow fadeInUp delay-0-2s">
 				<h2 class="up-title">Appointment</h2>
-				<span>Here, we mentioned our Appointment process.</span>
+				
 			</div>
 
 			<div class="row d-flex justify-content-center">
@@ -629,7 +629,7 @@
 				</div>
 				<div class="col-lg-6">
 					<div class="about-content ms-15">
-						<span class="up-title wow fadeInUp delay-0-2s">About Kirthika Dental Care</span>
+						
 						<h2 class="wow fadeInUp delay-0-4s">Why Choose US?</h2>
 						<p class="wow fadeInUp delay-0-6s">We use latest treatment techniques, procedures & dental materials that enable us to deliver a wide range of options to suit your needs. We use a wide variety of cosmetic dentistry options and treatments to transform your regular smile into a million dollar one. We offer all your treatments in the same place, whichever specialist you may need to see, you will find them available here.</p>
 
