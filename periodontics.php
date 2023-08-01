@@ -270,6 +270,7 @@
 							<h3>What steps are followed in periodontics treatment?</h3>
 							<h4>Nonsurgical treatments</h4>
 							<p>If periodontitis isn't advanced, treatment may involve less invasive procedures, including:</p>
+							
 
 							<ul>
 								<li>

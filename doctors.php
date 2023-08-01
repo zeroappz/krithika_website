@@ -54,12 +54,12 @@
 		<!--=== End Page Banner Section ===-->
 
 		<!--=== Start Doctors Section ===-->
-		<section class="our-doctors-section ptb-100">
+		<section class="our-doctors-section mt-4 ptb-100">
 			<div class="container">
-				<div class="main-section-title wow fadeInUp delay-0-2s">
+				<!-- <div class="main-section-title wow fadeInUp delay-0-2s">
 					<span class="up-title">Our Doctors</span>
 					<h2>Our Experienced Dentists Strive For Improved Services</h2>
-				</div>
+				</div> -->
 
 				<div class="row justify-content-center">
 					<div class="col-lg-4 col-sm-6">

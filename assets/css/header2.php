@@ -38,7 +38,7 @@
 
 				<div class="logo">
 					<a href="index.php">
-						<img src="assets/images/kirthika.png" alt="Logo" style=" width: auto; height: 70px;">
+						<img src="assets/images/kirthika.png" alt="Logo" style=" width: auto; height: 70px !important;">
 					</a>
 				</div>
 			

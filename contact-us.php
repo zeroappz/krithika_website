@@ -59,7 +59,6 @@
 	<section class="contact-us-section pt-100 pb-70">
 		<div class="container">
 			<div class="main-section-title wow fadeInUp delay-0-2s">
-				<span class="up-title">Contact Us</span>
 				<h2>Find Out More About Us.</h2>
 			</div>
 
