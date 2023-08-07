@@ -223,10 +223,10 @@
 								<img src="assets/images/services/prosthodontics_sec_1.png" alt="Image">
 							</div>
 							<h4>Introduction</h4>
-							<h3>prosthodontics</h3>
-							<p><b>What is meaning by prosthodontics?</b><br></p>
+							<!-- <h3>prosthodontics</h3>
+							<p><b>What is meaning by prosthodontics?</b><br></p> -->
 
-							<p>Prosthodontics is a specialized branch of dentistry dedicated to making dental prosthetics (artificial teeth) for damaged or missing teeth. The word “prosthodontics” comes from the words “prostho,” meaning replacement, and “dontist,” meaning teeth.</p>
+							<p>Prosthodontics is a specialized branch of dentistry dedicated to making dental prosthetics (artificial teeth) for damaged or missing teeth.</p>
 
 							<p><b>Who needs prosthodontics?</b><br></p>
 

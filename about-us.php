@@ -62,7 +62,7 @@
 				</div>
 				<div class="col-lg-6">
 					<div class="about-content ms-15">
-						<span class="up-title wow fadeInUp delay-0-2s">Digitalized Hosplital</span>
+						<span class="up-title wow fadeInUp delay-0-2s">Digitalized Hospital</span>
 						<!-- <h2 class="wow fadeInUp delay-0-4s">Why Choose US?</h2> -->
 						<!-- <p class="wow fadeInUp delay-0-6s">We use latest treatment techniques, procedures & dental materials that enable us to deliver a wide range of options to suit your needs. We use a wide variety of cosmetic dentistry options and treatments to transform your regular smile into a million dollar one. We offer all your treatments in the same place, whichever specialist you may need to see, you will find them available here.</p> -->
 

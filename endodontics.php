@@ -223,18 +223,19 @@
 								<img src="assets/images/services/endodontics.png" alt="Image">
 							</div>
 							<h4>Introduction</h4>
-							<h3>Endodontics</h3>
-							<p><b>What is the meaning of Endodontics?</b><br></p>
+							<p>Endodontics is a branch of dentistry that deals with the diagnosis, prevention, and treatment of diseases and injuries that affect the dental pulp and the surrounding tissues of the tooth.</p>
+							<!-- <h3>Endodontics</h3> -->
+							<!-- <p><b>What is the meaning of Endodontics?</b><br></p> -->
 
-							<p>Endodontics is a branch of dentistry that deals with the diagnosis, prevention, and treatment of diseases and injuries that affect the dental pulp and the surrounding tissues of the tooth. The term "endodontics" comes from the Greek words "endo" meaning "inside" and "odont" meaning "tooth," indicating that it focuses on the internal structures of the tooth.</p>
+							<!-- <p>Endodontics is a branch of dentistry that deals with the diagnosis, prevention, and treatment of diseases and injuries that affect the dental pulp and the surrounding tissues of the tooth. The term "endodontics" comes from the Greek words "endo" meaning "inside" and "odont" meaning "tooth," indicating that it focuses on the internal structures of the tooth.</p> -->
 
 							<p><b>Who are the candidates of Endodontics treatment?</b><br></p>
 
-							<Third>The candidates for endodontic treatment, also known as root canal treatment, are individuals who have problems with the innermost layer of their teeth called the dental pulp. These problems can include severe tooth decay, tooth infections, tooth trauma, or irreversible damage to the pulp. Endodontic treatment is typically recommended for individuals experiencing tooth pain, sensitivity to hot and cold, swelling around the tooth, or abscess formation. It is important to consult with a dentist or endodontist for a proper diagnosis and to determine if endodontic treatment is suitable for your specific dental condition.
+							<Third>The candidates for endodontic treatment, also known as root canal treatment, are individuals who have problems with the innermost layer of their teeth called the dental pulp. These problems can include severe tooth decay, tooth infections, tooth trauma, or irreversible damage to the pulp. Endodontic treatment is typically recommended for individuals experiencing tooth pain, sensitivity to hot and cold, swelling around the tooth, or abscess formation. 
 
 							<p><b>What does the Endodontics do?</b><br></p>
 
-							<p>Endodontics is a branch of dentistry that focuses on the diagnosis and treatment of diseases and disorders related to the dental pulp and surrounding tissues. It involves procedures such as root canal therapy, which is the removal of infected or damaged pulp from inside the tooth, and subsequent cleaning, shaping, and filling of the root canal system. The goal of endodontic treatment is to save natural teeth and alleviate pain or discomfort caused by dental pulp infections or injuries.</p>
+							<p>Endodontics focuses on the diagnosis and treatment of diseases and disorders related to the dental pulp and surrounding tissues. It involves procedures such as root canal therapy, which is the removal of infected or damaged pulp from inside the tooth, and subsequent cleaning, shaping, and filling of the root canal system. The goal of endodontic treatment is to save natural teeth and alleviate pain or discomfort caused by dental pulp infections or injuries.</p>
 
 							<!-- <h4>Watch The Endodontics Image</h4> -->
 

@@ -223,10 +223,10 @@
 								<img src="assets/images/services/periodontics_sec_1.png" alt="Image">
 							</div>
 							<h4>Introduction</h4>
-							<h3>Periodontics</h3>
-							<p><b>What is meaning by Periodontics?</b><br></p>
+							<!-- <h3>Periodontics</h3>
+							<p><b>What is meaning by Periodontics?</b><br></p> -->
 
-							<p>Periodontics is a specialized field of dentistry that focuses on the prevention, diagnosis, and treatment of diseases that affect the gums and supporting structures of the teeth. The word "periodontics" is derived from the Greek words "peri" meaning around and "odous" meaning tooth.</p>
+							<p>Periodontics is a specialized field of dentistry that focuses on the prevention, diagnosis, and treatment of diseases that affect the gums and supporting structures of the teeth. </p>
 
 							<p><b>Why would you see a periodontist?</b><br></p>
 

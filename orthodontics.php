@@ -223,11 +223,10 @@
 								<img src="assets/images/services/services-1.png" alt="Image">
 							</div>
 							<h4>Introduction</h4>
-							<h3>Orthodontics</h3>
-							<p><b>What is the meaning of orthodontics?</b><br></p>
+							<!-- <h3>Orthodontics</h3>
+							<p><b>What is the meaning of orthodontics?</b><br></p> -->
 
-							<p>It is a specialized branch of dentistry that focuses on prevention as well as treatment of misalignment of teeth and
-							facial irregularities/abnormalities.</p>
+							<p>It is a specialized branch of dentistry that focuses on prevention as well as treatment of mal-alignment of teeth and facial irregularities/abnormalities.</p>
 
 							<p><b>Who are the candidates of orthodontic treatment?</b><br></p>
 
@@ -294,7 +293,7 @@
 
 							<p><b>How much time is required for the treatment?</b><br></p>
 
-							<p>On an average 22 months time is required but the time depends on individual need and problem.</p>
+							<p>On an average 12 to 22 months is required but the time depends on individual need and problem.</p>
 
 						</div>
 					</div>

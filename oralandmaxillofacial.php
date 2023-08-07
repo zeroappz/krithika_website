@@ -223,17 +223,16 @@
 								<img src="assets/images/services/oral-and-maxillofacial-surgery-section-1.png" alt="Image">
 							</div>
 							<h4>Introduction</h4>
-							<h3>Oral and maxilla facial surgery</h3>
-							<p><b>What is the meaning of maxillofacial?</b><br></p>
+							<!-- <h3>Oral and maxilla facial surgery</h3>
+							<p><b>What is the meaning of maxillofacial?</b><br></p> -->
 
-							<p>Maxillofacial means jaws and face, which combines with mouth becomes the domain/area of specialization of oral and
-							maxillofacial surgeon.</p>
+							<p>This is a branch of dentistry which deals with diagnosing and surgically treating injuries, diseases, defects of jaws, mouth, face etc. This also includes dental implants, removing decayed teeth, biopsy and taking of cysts as well as tumours of jaw and mouth, treating facial trauma and jaw reconstruction.</p>
 
-							<p><b>What is oral treatment/surgery?</b><br></p>
+							<!-- <p><b>What is oral treatment/surgery?</b><br></p>
 
 							<Third>This is a branch of dentistry which deals in diagnosing and surgically treating injuries, diseases, defects of jaws,
 							mouth, face etc. This also includes dental implants, removing decayed teeth, biopsy and taking of cysts as well as
-							tumors of jaw and mouth, treating facial trauma and jaw reconstruction.
+							tumors of jaw and mouth, treating facial trauma and jaw reconstruction. -->
 
 							<p><b>What treatment/procedures are followed by Oral and maxilla facial surgery surgeon?</b><br></p>
 
@@ -285,6 +284,38 @@
 								<img src="assets/images/services/oral-and-maxillofacial-surgery-section-2.png" alt="Image">
 
 							</div>
+							<h4>What are the advantages of Oral and maxilla facial surgery?</h4>
+							<!-- <p>There are many advantages to choosing periodontal therapy, your health and wellness being the most important. However, there are other benefits to consider:</p> -->
+
+							<ul>
+								<li>
+									<!-- <p><b>Why teeth become irregular?</b><br></p> -->
+									<span class="bulletPoints"></span>
+									<b>Improved oral health:  </b> OMFS can treat a range of oral issues such as impacted teeth, jaw misalignment, and gum disease. By addressing these issues, patients can enjoy better oral health and a reduced risk of future problems.
+								</li>
+								<li>
+									<!-- <p><b>At what age one can go for orthodontic treatment?</b><br></p> -->
+									<span class="bulletPoints"></span>
+									<b>Improved overall health:</b> OMFS can help treat conditions that may affect other parts of the body. 
+								</li>
+								<li>
+									<!-- <p><b>At what age one can go for orthodontic treatment?</b><br></p> -->
+									<span class="bulletPoints"></span>
+									<b>Enhanced appearance:</b> OMFS can also improve the appearance of the face and jaw, leading to increased confidence and self-esteem.
+								</li>
+								<li>
+									<!-- <p><b>At what age one can go for orthodontic treatment?</b><br></p> -->
+									<span class="bulletPoints"></span>
+									<b>Increased self-esteem:</b> In addition to the benefits already mentioned, OMFS can help with issues such as facial trauma and reconstructive surgery, further improving self-esteem.
+								</li>
+								<li>
+									<!-- <p><b>At what age one can go for orthodontic treatment?</b><br></p> -->
+									<span class="bulletPoints"></span>
+									<b>Other benefits:</b> These include improved ability to speak and eat comfortably, as well as relief from chronic pain or discomfort. By addressing both functional and aesthetic concerns, OMFS offers a comprehensive approach to improving oral and overall health.
+								</li>
+								
+								<li>
+							</ul>
 
 							<!-- <h3>How important is it to be board certified in Oral and maxilla facial surgery surgery?</h3>
 							<p>One should graduate from accredited school of dentistry and completed program of Oral and maxilla facial surgery surgery which is
@@ -299,9 +330,9 @@
 							place/position.</p> -->
 
 
-							<h4>Does the treatment require x-rays?</h4>
+							<!-- <h4>Does the treatment require x-rays?</h4>
 							<p>X-rays are always taken before the treatment begins as it gives a clear picture of the disorder in the teeth or the
-							bones.</p>
+							bones.</p> -->
 
 							<!-- <ul>
 								<li>

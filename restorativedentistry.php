@@ -223,18 +223,19 @@
 								<img src="assets/images/services/Restorative-dentistry.png" alt="Image">
 							</div>
 							<h4>Introduction</h4>
-							<h3>Restorative dentistry</h3>
-							<p><b>What is the meaning of Restorative dentistry?</b><br></p>
-
 							<p>Restorative dentistry is a branch of dentistry that focuses on restoring the function, appearance, and integrity of teeth and oral structures affected by various dental conditions or injuries. It involves the diagnosis, prevention, and treatment of oral diseases and disorders, with the goal of improving oral health and enhancing the patient's quality of life.</p>
+							<!-- <h3>Restorative dentistry</h3> -->
+							<!-- <p><b>What is the meaning of Restorative dentistry?</b><br></p>
+
+							<p>Restorative dentistry is a branch of dentistry that focuses on restoring the function, appearance, and integrity of teeth and oral structures affected by various dental conditions or injuries. It involves the diagnosis, prevention, and treatment of oral diseases and disorders, with the goal of improving oral health and enhancing the patient's quality of life.</p> -->
 
 							<p><b>Who are the candidates of Restorative dentistry treatment?</b><br></p>
 
-							<Third>Restorative dentistry treatment are individuals who require dental procedures to repair or replace damaged or missing teeth. 
+							<Third>Patients with dental caries, tooth pain, tooth sensitivity, fractured tooth/restoration are the candidates for restorative dentistry. 
 
 							<p><b>What does the Restorative dentistry do?</b><br></p>
 
-							<p>Restorative dentistry is a branch of dentistry focused on restoring the function and appearance of damaged or missing teeth. It involves various treatments and procedures to repair teeth affected by decay, trauma, wear, or other dental issues. Restorative dentistry aims to improve oral health, restore natural tooth structure, and enhance the overall aesthetics of the smile. Common restorative procedures include dental fillings, crowns, bridges, implants, and dentures.</p>
+							<p>Restorative dentistry focused on restoring the function and appearance of damaged or missing teeth. It involves various treatments and procedures to repair teeth affected by decay, trauma, wear, or other dental issues. Restorative dentistry aims to improve oral health, restore natural tooth structure, and enhance the overall aesthetics of the smile. Common restorative procedures include dental fillings, veneers, crowns.</p>
 
 							<!-- <h4>Watch The Sealants Image</h4> -->
 
