@@ -392,12 +392,13 @@
 								<a href="#">Appointment Booking</a>
 							</h3>
 							<p>You can book your personalized appointments at the comfortable time to visit the dentist on your registered login page.</p>
+						
 						</div>
 					</div>
 				</div>
 
 				<div class="col-lg-3 col-sm-6">
-					<div class="main-services-box hover-style wow fadeInUp delay-0-4s">
+					<div class="main-services-box hover-style wow fadeInUp delay-0-2s">
 						<div class="inner-border">
 							<div class="icon">
 								<img src="assets/images/icon/icon-2.svg" alt="Image">
@@ -405,8 +406,7 @@
 							<h3>
 								<a href="#">Appointment Cancellation</a>
 							</h3>
-							Please give us at least 12-hour notice if you are unable to attend your appointment so that others may be offered your appointment.</p>
-
+							<p>lease give us at least 12-hour notice if you are unable to attend your appointment so that others may be offered your appointment.</p>
 						</div>
 					</div>
 				</div>
@@ -452,8 +452,7 @@
 							<h3>
 								<a href="#">Comprehensive Dental Examination</a>
 							</h3>
-							All new patients will receive a comprehensive oral examination prior to their first treatment. Our exam includes low radiation Xray’s, Gum Disease, tooth decay, oral diseases, Head and Neck evaluations.</p>
-
+							<p>All new patients will receive a comprehensive oral examination prior to their first treatment. Our exam includes low radiation Xray’s, Gum Disease, tooth decay, oral diseases, Head and Neck evaluations.</p>
 						</div>
 					</div>
 				</div>
@@ -468,6 +467,7 @@
 								<a href="#">Preventive <br> Cleaning</a>
 							</h3>
 							<p>We advise patients to undergo preventive cleaning once in 6 months based on their oral hygiene status. It differs for patient to patient and it is an essential part of maintaining optimal oral health. Regular visits to your dentist, along with consistent oral hygiene practices at home is necessary for healthy oral cavity.</p>
+							
 						</div>
 					</div>
 				</div>
@@ -482,6 +482,23 @@
 								<a href="#">Children <br>Dentistry</a>
 							</h3>
 							<p>Children's dentistry plays a vital role in promoting lifelong oral health and establishing positive dental experiences for children. Regular dental visits and early intervention can help prevent dental problems. Your child should see a dentist by their first birthday or when their first tooth appears, whichever comes first. Our first dental appointments are quick, gentle, and designed to be a positive experience.<br><br></p>
+							
+						</div>
+					</div>
+				</div>
+
+
+				<div class="col-lg-3 col-sm-6">
+					<div class="main-services-box hover-style wow fadeInUp delay-0-8s">
+						<div class="inner-border">
+							<div class="icon">
+								<img src="assets/images/icon/icon-4.svg" alt="Image">
+							</div>
+							<h3>
+								<a href="#">Oral Surgery</a>
+							</h3>
+							<p>Simple extraction to Pesky wisdom teeth removal, dental implants, and more. The Doctors at kirthika Dental care provide the best care for all your oral surgery needs. <br><br></p>
+
 						</div>
 					</div>
 				</div>
@@ -518,20 +535,7 @@
 					</div>
 				</div>
 
-				<div class="col-lg-3 col-sm-6">
-					<div class="main-services-box hover-style wow fadeInUp delay-0-8s">
-						<div class="inner-border">
-							<div class="icon">
-								<img src="assets/images/icon/icon-4.svg" alt="Image">
-							</div>
-							<h3>
-								<a href="#">Oral Surgery</a>
-							</h3>
-							<p>Simple extraction to Pesky wisdom teeth removal, dental implants, and more. The Doctors at kirthika Dental care provide the best care for all your oral surgery needs. <br><br></p>
-
-						</div>
-					</div>
-				</div>
+				
 
 
 
@@ -550,9 +554,6 @@
 					</div>
 				</div>
 
-
-
-
 				<div class="col-lg-3 col-sm-6">
 					<div class="main-services-box hover-style wow fadeInUp delay-0-8s">
 						<div class="inner-border">
@@ -560,9 +561,9 @@
 								<img src="assets/images/icon/icon-4.svg" alt="Image">
 							</div>
 							<h3>
-								<a href="#">Root canal treatment</a>
+								<a href="#">Full Mouth Reconstruction</a>
 							</h3>
-							<p>We get it. Nobody likes the idea of possibly needing a root canal. But here’s what our dentists want you to know: If you have a really bad toothache caused by bacteria deep inside your tooth, root canal therapy is the best way to help you feel better quickly. Root canal treatment are very common and very necessary treatment for many people.</p>
+							<p>Rebuilding and replacing all your teeth sounds intimidating, right? Well, it doesn't have to be! That's where full mouth reconstruction comes in. This process gives you the ultimate smile makeover.</p>
 
 						</div>
 					</div>
@@ -583,21 +584,6 @@
 					</div>
 				</div>
 
-
-				<div class="col-lg-3 col-sm-6">
-					<div class="main-services-box hover-style wow fadeInUp delay-0-8s">
-						<div class="inner-border">
-							<div class="icon">
-								<img src="assets/images/icon/icon-4.svg" alt="Image">
-							</div>
-							<h3>
-								<a href="#">Full Mouth Reconstruction</a>
-							</h3>
-							<p>Rebuilding and replacing all your teeth sounds intimidating, right? Well, it doesn't have to be! That's where full mouth reconstruction comes in. This process gives you the ultimate smile makeover.</p>
-
-						</div>
-					</div>
-				</div>
 				<div class="col-lg-3 col-sm-6">
 					<div class="main-services-box hover-style wow fadeInUp delay-0-8s">
 						<div class="inner-border">
@@ -612,6 +598,22 @@
 						</div>
 					</div>
 				</div>
+
+				<div class="col-lg-3 col-sm-6">
+					<div class="main-services-box hover-style wow fadeInUp delay-0-8s">
+						<div class="inner-border">
+							<div class="icon">
+								<img src="assets/images/icon/icon-4.svg" alt="Image">
+							</div>
+							<h3>
+								<a href="#">Root canal treatment</a>
+							</h3>
+							<p>We get it. Nobody likes the idea of possibly needing a root canal. But here’s what our dentists want you to know: If you have a really bad toothache caused by bacteria deep inside your tooth, root canal therapy is the best way to help you feel better quickly. Root canal treatment are very common and very necessary treatment for many people.</p>
+
+						</div>
+					</div>
+				</div>
+
 
 			</div>
 		</div>

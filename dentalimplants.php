@@ -89,7 +89,7 @@
 									</li>
 									<li>
 										<a href="oralandmaxillofacial.php">
-										Oral and maxilla facial surgery
+										Oral and maxillo facial surgery
 											<i class="icofont-simple-right"></i>
 										</a>
 									</li>
@@ -220,7 +220,9 @@
 					<div class="col-lg-8">
 						<div class="services-details-content ms-15">
 							<div class="services-img-1">
-								<img src="assets/images/services/dental-implants-section-1.png" alt="Image">
+							<img src="assets/images/services/restorativedentistry.png" alt="Image">
+
+								
 							</div>
 							<h4>Introduction</h4>
 							<!-- <h3>Dental Implants</h3>
@@ -244,7 +246,7 @@
 
 							<div class="services-img-1">
 								<img src="assets/images/services/dental-implants-section-2.png" alt="Image">
-
+								
 							</div>
 
 							<h3>Dental Implants: Your Smile Savers</h3>

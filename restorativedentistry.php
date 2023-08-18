@@ -89,7 +89,7 @@
 									</li>
 									<li>
 										<a href="oralandmaxillofacial.php">
-										Oral and maxilla facial surgery
+										Oral and maxillo facial surgery
 											<i class="icofont-simple-right"></i>
 										</a>
 									</li>
@@ -240,7 +240,7 @@
 							<!-- <h4>Watch The Sealants Image</h4> -->
 
 							<div class="services-img-1">
-								<img src="assets/images/services/restorativedentistry.png" alt="Image">
+								
 
 							</div>
 
@@ -248,38 +248,39 @@
 							<p><b>In restorative dentistry treatment, the following steps are typically followed:</b><br></p>
 							<ul>
 								<li>
+								<span class="bulletPoints"></span>
 									<p><b>Examination and Diagnosis: </b><br></p>
-									<span>1</span>
+								
 									The dentist examines the patient's teeth and oral health to assess the extent of damage or decay. X-rays and other diagnostic tools may be used to aid in the assessment.
 								</li>
 								<li>
+								<span class="bulletPoints"></span>
 									<p><b>Treatment Planning: </b><br></p>
-									<span>2</span>
 									Based on the examination, the dentist develops a treatment plan that outlines the specific restorative procedures required to address the dental issues.
 								</li>
 								<li>
+								<span class="bulletPoints"></span>
 									<p><b>Tooth Preparation:</b><br></p>
-									<span>3</span>
 									If necessary, the damaged or decayed part of the tooth is removed, creating a clean surface for the restoration.
 								</li>
 								<li>
+								<span class="bulletPoints"></span>
 									<p><b>Restoration Placement:</b><br></p>
-									<span>4</span>
 									The chosen restorative material (e.g., dental fillings, crowns, bridges) is applied to the prepared tooth structure to restore its function and appearance.
 								</li>
 								<li>
+								<span class="bulletPoints"></span>
 									<p><b>Bite Adjustment: </b><br></p>
-									<span>5</span>
 									 The dentist ensures that the restoration fits correctly with the patient's bite and makes any necessary adjustments for comfort and functionality.
 								</li>
 								<li>
+								<span class="bulletPoints"></span>
 									<p><b>Final Polishing: </b><br></p>
-									<span>6</span>
 									 The restoration is polished to achieve a smooth and natural appearance, blending in with the surrounding teeth.
 								</li>
 								<li>
+								<span class="bulletPoints"></span>
 									<p><b>Follow-Up: </b><br></p>
-									<span>7</span>
 									 After the restorative treatment, the dentist may schedule follow-up appointments to monitor the success of the restoration and address any concerns or issues that may arise.
 								</li>
 							</ul>
