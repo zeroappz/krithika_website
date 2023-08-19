@@ -150,7 +150,7 @@
 									</ul> -->
 								</li>
 								<li class="nav-item">
-									<a href="oralandmaxillofacial.php" class="nav-link">Oral and maxilla facial surgery</a>
+									<a href="oralandmaxillofacial.php" class="nav-link">Oral and maxillo facial surgery</a>
 								</li>
 								<li class="nav-item">
 									<a href="prosthodontics.php" class="nav-link dropdown-toggle">
@@ -383,7 +383,7 @@
 
 			<div class="row d-flex justify-content-center">
 				<div class="col-lg-3 col-sm-6">
-					<div class="main-services-box hover-style wow fadeInUp delay-0-2s" style=" height:334px;">
+					<div class="main-services-box hover-style wow fadeInUp delay-0-2s" style="padding-bottom:29px">
 						<div class="inner-border">
 							<div class="icon">
 								<img src="assets/images/icon/icon-1.svg" alt="Image">
@@ -428,68 +428,10 @@
 					painful oral emergencies—we have you covered.</span>
 			</div>
 
-			<div class="row d-flex justify-content-center">
-				<div class="col-lg-3 col-sm-6">
-					<div class="main-services-box hover-style wow fadeInUp delay-0-2s "style=" height:480px;">
-						<div class="inner-border">
-							<div class="icon">
-								<img src="assets/images/icon/icon-1.svg" alt="Image">
-							</div>
-							<h3>
-								<a href="#">General & Family Dentistry</a>
-							</h3>
-							<p>Our experienced dentists provide high-quality care in a friendly environment. We make scheduling simple, too. Book appointments for your whole family at once. Get in, get out, and get on with your lives.</p>
-						</div>
-					</div>
-				</div>
 
-				<div class="col-lg-3 col-sm-6">
-					<div class="main-services-box hover-style wow fadeInUp delay-0-4s">
-						<div class="inner-border">
-							<div class="icon">
-								<img src="assets/images/icon/icon-2.svg" alt="Image">
-							</div>
-							<h3>
-								<a href="#">Comprehensive Dental Examination</a>
-							</h3>
-							<p>All new patients will receive a comprehensive oral examination prior to their first treatment. Our exam includes low radiation Xray’s, Gum Disease, tooth decay, oral diseases, Head and Neck evaluations.</p>
-						</div>
-					</div>
-				</div>
-
-				<div class="col-lg-3 col-sm-6">
-					<div class="main-services-box hover-style wow fadeInUp delay-0-6s">
-						<div class="inner-border">
-							<div class="icon">
-								<img src="assets/images/icon/icon-3.svg" alt="Image">
-							</div>
-							<h3>
-								<a href="#">Preventive <br> Cleaning</a>
-							</h3>
-							<p>We advise patients to undergo preventive cleaning once in 6 months based on their oral hygiene status. It differs for patient to patient and it is an essential part of maintaining optimal oral health. Regular visits to your dentist, along with consistent oral hygiene practices at home is necessary for healthy oral cavity.</p>
-							
-						</div>
-					</div>
-				</div>
-
-				<div class="col-lg-3 col-sm-6" >
-					<div class="main-services-box hover-style wow fadeInUp delay-0-6s">
-						<div class="inner-border">
-							<div class="icon">
-								<img src="assets/images/icon/icon-3.svg" alt="Image">
-							</div>
-							<h3>
-								<a href="#">Children <br>Dentistry</a>
-							</h3>
-							<p>Children's dentistry plays a vital role in promoting lifelong oral health and establishing positive dental experiences for children. Regular dental visits and early intervention can help prevent dental problems. Your child should see a dentist by their first birthday or when their first tooth appears, whichever comes first. Our first dental appointments are quick, gentle, and designed to be a positive experience.<br><br></p>
-							
-						</div>
-					</div>
-				</div>
-
-
-				<div class="col-lg-3 col-sm-6">
-					<div class="main-services-box hover-style wow fadeInUp delay-0-8s">
+		<div class="row d-flex justify-content-center">
+			<div class="col-lg-3 col-sm-6">
+					<div class="main-services-box hover-style wow fadeInUp delay-0-8s" style=" padding-bottom: 120px">
 						<div class="inner-border">
 							<div class="icon">
 								<img src="assets/images/icon/icon-4.svg" alt="Image">
@@ -502,7 +444,68 @@
 						</div>
 					</div>
 				</div>
+				<div class="col-lg-3 col-sm-6">
+					<div class="main-services-box hover-style wow fadeInUp delay-0-2s " style=" padding-bottom: 60px">
+						<div class="inner-border">
+							<div class="icon">
+								<img src="assets/images/icon/icon-1.svg" alt="Image">
+							</div>
+							<h3>
+								<a href="#">General & Family Dentistry</a>
+							</h3>
+							<p>Our experienced dentists provide high-quality care in a friendly environment. We make scheduling simple, too. Book appointments for your whole family at once. Get in, get out, and get on with your lives.</p>
+						</div>
+					</div>
+				</div>
 
+
+				<div class="col-lg-3 col-sm-6">
+					<div class="main-services-box hover-style wow fadeInUp delay-0-8s" style=" padding-bottom: 60px">
+						<div class="inner-border">
+							<div class="icon">
+								<img src="assets/images/icon/icon-4.svg" alt="Image">
+							</div>
+							<h3>
+								<a href="#">Full Mouth Reconstruction</a>
+							</h3>
+							<p>Rebuilding and replacing all your teeth sounds intimidating, right? Well, it doesn't have to be! That's where full mouth reconstruction comes in. This process gives you the ultimate smile makeover.</p>
+
+						</div>
+					</div>
+				</div>
+
+
+				<div class="col-lg-3 col-sm-6">
+					<div class="main-services-box hover-style wow fadeInUp delay-0-8s">
+						<div class="inner-border">
+							<div class="icon">
+								<img src="assets/images/icon/icon-4.svg" alt="Image">
+							</div>
+							<h3>
+								<a href="#">Dental Emergencies</a>
+							</h3>
+							<p>Maybe you’re not sure if you have a dental emergency — sometimes patients think their symptoms are normal. We recommend you seek professional help whenever you feel uncomfortable or if you experience an unusual sensation in your mouth.</p>
+
+						</div>
+					</div>
+				</div>
+
+
+				<div class="col-lg-3 col-sm-6">
+					<div class="main-services-box hover-style wow fadeInUp delay-0-4s" style=" padding-bottom: 60px">
+						<div class="inner-border">
+							<div class="icon">
+								<img src="assets/images/icon/icon-2.svg" alt="Image">
+							</div>
+							<h3>
+								<a href="#">Comprehensive Dental Examination</a>
+							</h3>
+							<p>All new patients will receive a comprehensive oral examination prior to their first treatment. Our exam includes low radiation Xray’s, Gum Disease, tooth decay, oral diseases, Head and Neck evaluations.</p>
+						</div>
+					</div>
+				</div>
+
+				
 				<div class="col-lg-3 col-sm-6">
 					<div class="main-services-box hover-style wow fadeInUp delay-0-8s">
 						<div class="inner-border">
@@ -555,37 +558,7 @@
 				</div>
 
 				<div class="col-lg-3 col-sm-6">
-					<div class="main-services-box hover-style wow fadeInUp delay-0-8s">
-						<div class="inner-border">
-							<div class="icon">
-								<img src="assets/images/icon/icon-4.svg" alt="Image">
-							</div>
-							<h3>
-								<a href="#">Full Mouth Reconstruction</a>
-							</h3>
-							<p>Rebuilding and replacing all your teeth sounds intimidating, right? Well, it doesn't have to be! That's where full mouth reconstruction comes in. This process gives you the ultimate smile makeover.</p>
-
-						</div>
-					</div>
-				</div>
-
-				<div class="col-lg-3 col-sm-6">
-					<div class="main-services-box hover-style wow fadeInUp delay-0-8s">
-						<div class="inner-border">
-							<div class="icon">
-								<img src="assets/images/icon/icon-4.svg" alt="Image">
-							</div>
-							<h3>
-								<a href="#">Dental Emergencies</a>
-							</h3>
-							<p>Maybe you’re not sure if you have a dental emergency — sometimes patients think their symptoms are normal. We recommend you seek professional help whenever you feel uncomfortable or if you experience an unusual sensation in your mouth.</p>
-
-						</div>
-					</div>
-				</div>
-
-				<div class="col-lg-3 col-sm-6">
-					<div class="main-services-box hover-style wow fadeInUp delay-0-8s">
+					<div class="main-services-box hover-style wow fadeInUp delay-0-8s" style="padding-bottom: 205px">
 						<div class="inner-border">
 							<div class="icon">
 								<img src="assets/images/icon/icon-4.svg" alt="Image">
@@ -599,8 +572,25 @@
 					</div>
 				</div>
 
+				
 				<div class="col-lg-3 col-sm-6">
-					<div class="main-services-box hover-style wow fadeInUp delay-0-8s">
+					<div class="main-services-box hover-style wow fadeInUp delay-0-6s" style="padding-bottom: 145px">
+						<div class="inner-border">
+							<div class="icon">
+								<img src="assets/images/icon/icon-3.svg" alt="Image">
+							</div>
+							<h3>
+								<a href="#">Preventive <br> Cleaning</a>
+							</h3>
+							<p>We advise patients to undergo preventive cleaning once in 6 months based on their oral hygiene status. It differs for patient to patient and it is an essential part of maintaining optimal oral health. Regular visits to your dentist, along with consistent oral hygiene practices at home is necessary for healthy oral cavity.</p>
+							
+						</div>
+					</div>
+				</div>
+
+
+				<div class="col-lg-3 col-sm-6">
+					<div class="main-services-box hover-style wow fadeInUp delay-0-8s" style="padding-bottom: 145px">
 						<div class="inner-border">
 							<div class="icon">
 								<img src="assets/images/icon/icon-4.svg" alt="Image">
@@ -614,6 +604,20 @@
 					</div>
 				</div>
 
+				<div class="col-lg-3 col-sm-6" >
+					<div class="main-services-box hover-style wow fadeInUp delay-0-6s">
+						<div class="inner-border">
+							<div class="icon">
+								<img src="assets/images/icon/icon-3.svg" alt="Image">
+							</div>
+							<h3>
+								<a href="#">Children <br>Dentistry</a>
+							</h3>
+							<p>Children's dentistry plays a vital role in promoting lifelong oral health and establishing positive dental experiences for children. Regular dental visits and early intervention can help prevent dental problems. Your child should see a dentist by their first birthday or when their first tooth appears, whichever comes first. Our first dental appointments are quick, gentle, and designed to be a positive experience.<br><br></p>
+							
+						</div>
+					</div>
+				</div>
 
 			</div>
 		</div>

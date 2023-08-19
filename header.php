@@ -116,7 +116,7 @@
 									</ul> -->
 								</li>
 								<li class="nav-item">
-									<a href="oralandmaxillofacial.php" class="nav-link">Oral and maxilla facial surgery</a>
+									<a href="oralandmaxillofacial.php" class="nav-link">Oral and maxillo facial surgery</a>
 								</li>
 								<li class="nav-item">
 									<a href="prosthodontics.php" class="nav-link dropdown-toggle">
