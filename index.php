@@ -383,7 +383,7 @@
 
 			<div class="row d-flex justify-content-center">
 				<div class="col-lg-3 col-sm-6">
-					<div class="main-services-box hover-style wow fadeInUp delay-0-2s">
+					<div class="main-services-box hover-style wow fadeInUp delay-0-2s" style=" height:334px;">
 						<div class="inner-border">
 							<div class="icon">
 								<img src="assets/images/icon/icon-1.svg" alt="Image">
@@ -421,7 +421,7 @@
 	<!--=== Start Services Section ===-->
 	<section class="services-section pt-100 pb-70">
 		<div class="container">
-			<div class="main-section-title wow fadeInUp delay-0-2s">
+			<div class="main-section-title wow fadeInUp delay-0-2s" >
 				<h2 class="up-title">Our Services</h2>
 				<span>From general dentistry wellness, to perfecting cosmetic imperfections, to restoring implants and
 					filings, to those
@@ -430,7 +430,7 @@
 
 			<div class="row d-flex justify-content-center">
 				<div class="col-lg-3 col-sm-6">
-					<div class="main-services-box hover-style wow fadeInUp delay-0-2s">
+					<div class="main-services-box hover-style wow fadeInUp delay-0-2s "style=" height:480px;">
 						<div class="inner-border">
 							<div class="icon">
 								<img src="assets/images/icon/icon-1.svg" alt="Image">

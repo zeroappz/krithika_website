@@ -220,7 +220,7 @@
 					<div class="col-lg-8">
 						<div class="services-details-content ms-15">
 							<div class="services-img-1">
-								<img src="assets/images/services/Restorative-dentistry.png" alt="Image">
+								<img src="assets/images/services/Restorative-dentistry_sec-1.png" alt="Image">
 							</div>
 							<h4>Introduction</h4>
 							<p>Restorative dentistry is a branch of dentistry that focuses on restoring the function, appearance, and integrity of teeth and oral structures affected by various dental conditions or injuries. It involves the diagnosis, prevention, and treatment of oral diseases and disorders, with the goal of improving oral health and enhancing the patient's quality of life.</p>
@@ -284,12 +284,15 @@
 									 After the restorative treatment, the dentist may schedule follow-up appointments to monitor the success of the restoration and address any concerns or issues that may arise.
 								</li>
 							</ul>
-
+							<br>
+							<div class="services-img-1">
+								<img src="assets/images/services/restorativedentistry_sec-2.png" alt="Image">
+							</div>
 
 							<h4>What are the advantages of Restorative dentistry?</h4>
 							
 							<ul>
-								<li class="hover-style wow fadeInUp delay-0-2s">
+								<li class="">
 									<span class="bulletPoints"></span>
 										<p><b>Improved oral function:</b><br></p>
 										 Restorative dentistry procedures such as dental fillings, crowns, and bridges help restore damaged or missing teeth, improving chewing and speaking abilities.
@@ -300,32 +303,32 @@
 										 Treatments like dental veneers and tooth-colored fillings can improve the appearance of teeth, enhancing your smile and boosting self-confidence.
 
 								</li> -->
-								<li class="hover-style wow fadeInUp delay-0-6s">
+								<li class="">
 									<span class="bulletPoints"></span>
 										<p><b>Preservation of natural teeth: </b><br></p>
 										 Restorative procedures aim to preserve as much of the natural tooth structure as possible, preventing the need for tooth extraction.
 								</li>
-								<li class="hover-style wow fadeInUp delay-0-8s">
+								<li class="">
 									<span class="bulletPoints"></span>
 										<p><b>Pain relief: </b><br></p>
 										 Restoring decayed or damaged teeth can alleviate tooth pain and sensitivity, improving overall oral comfort.
 								</li>
-								<li class="hover-style wow fadeInUp delay-0-8s">
+								<li class="">
 									<span class="bulletPoints"></span>
 										<p><b>Long-term durability: </b><br></p>
 										 Modern restorative materials, such as ceramic and composite resins, are durable and can last for many years with proper care.
 								</li>
-								<li class="hover-style wow fadeInUp delay-0-8s">
+								<li class="">
 									<span class="bulletPoints"></span>
 										<p><b>Preventing further dental problems: </b><br></p>
 										 Restorative dentistry addresses dental issues promptly, preventing them from escalating into more complex and expensive problems later on.
 								</li>
-								<li class="hover-style wow fadeInUp delay-0-8s">
+								<li class="">
 									<span class="bulletPoints"></span>
 										<p><b>Restoring bite alignment: </b><br></p>
 										 Restorative treatments can help correct bite issues and improve the alignment of teeth, contributing to better overall oral health.
 								</li>
-								<li class="hover-style wow fadeInUp delay-0-8s">
+								<li class="">
 									<span class="bulletPoints"></span>
 										<p><b>Customized solutions: </b><br></p>
 										 Restorative dentistry offers personalized treatments tailored to each patient's specific needs, ensuring optimal results.
