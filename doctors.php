@@ -99,7 +99,7 @@
 					</div>
 
 					<div class="col-lg-4 col-sm-6">
-						<div class="main-doctors-item hover-style wow fadeInUp delay-0-4s">
+						<div class="main-doctors-item hover-style wow fadeInUp delay-0-4s" style="height: 690px;">
 							<div class="inner-border">
 								<div class="doctor-img">
 									<img src="assets/images/doctors/kamaraj.jpeg" alt="Image">
@@ -129,13 +129,13 @@
 								</div>
 								<h3>Prof, Dr. L. Kamaraj</h3>
 								<span>M.D.S., (OMFS) FDS RCPS., (Glasgow) P.hD (OMFS), FIBOMFS,</span><br>
-								<span>Oral and maxilla facial surgery surgery and Oral Implantology.</span>
+								<span>Oral and maxillo facial and Oral Implantology.</span>
 							</div>
 						</div>
 					</div>
 
 					<div class="col-lg-4 col-sm-6">
-						<div class="main-doctors-item hover-style wow fadeInUp delay-0-6s">
+						<div class="main-doctors-item hover-style wow fadeInUp delay-0-6s"style="height: 690px;">
 							<div class="inner-border">
 								<div class="doctor-img">
 									<img src="assets/images/doctors/gugan.png" alt="Image">
@@ -171,7 +171,7 @@
 					</div>
 
 					<div class="col-lg-4 col-sm-6">
-						<div class="main-doctors-item hover-style wow fadeInUp delay-0-2s">
+						<div class="main-doctors-item hover-style wow fadeInUp delay-0-2s"style="height: 690px;">
 							<div class="inner-border">
 								<div class="doctor-img">
 									<img src="assets/images/doctors/doctor-4.jpg" alt="Image">
@@ -206,7 +206,7 @@
 						</div>
 					</div>
 			<div class="col-lg-4 col-sm-6">
-						<div class="main-doctors-item hover-style wow fadeInUp delay-0-6s">
+						<div class="main-doctors-item hover-style wow fadeInUp delay-0-6s"style="height: 690px;">
 							<div class="inner-border">
 								<div class="doctor-img">
 									<img src="assets/images/doctors/vasanthan.jpeg" alt="Image">
@@ -241,7 +241,7 @@
 						</div>
 					</div>
 					<div class="col-lg-4 col-sm-6">
-						<div class="main-doctors-item hover-style wow fadeInUp delay-0-6s">
+						<div class="main-doctors-item hover-style wow fadeInUp delay-0-6s"style="height: 690px;">
 							<div class="inner-border">
 								<div class="doctor-img">
 									<img src="assets/images/doctors/arun.jpeg" alt="Image">
@@ -276,7 +276,7 @@
 						</div>
 					</div>
 					<div class="col-lg-4 col-sm-6">
-						<div class="main-doctors-item hover-style wow fadeInUp delay-0-6s">
+						<div class="main-doctors-item hover-style wow fadeInUp delay-0-6s"style="height: 690px;">
 							<div class="inner-border">
 								<div class="doctor-img">
 									<img src="assets/images/doctors/ayyadurai.jpeg" alt="Image">
@@ -306,7 +306,7 @@
 								</div>
 								<h3>DR. C. AYYADURAI, </h3>
 								<span>M.D.S., </span><br>
-								<span>Oral and maxilla facial surgery Pathology.</span>
+								<span>Oral and maxillo facial Pathology.</span>
 							</div>
 						</div>
 					</div>
