@@ -613,7 +613,20 @@
   /* Services Style
   <<<<=====================>>>>*/
   .main-services-box {
-    padding: 20px;
+    padding: 28px;
+  }
+  .main-service {
+    padding: 28px;
+    padding-bottom: 58px;
+  }
+  .main-box{
+    padding-bottom: 57px;
+  }
+  .main-box-p6{
+    padding-bottom: 146px;
+  }
+  .main-box-p7{
+    padding-bottom: 116px;
   }
   /* Product Style
   <<<<=====================>>>>*/
@@ -775,8 +788,18 @@
   .main-services-box {
     padding: 25px;
   }
+  
   .main-services-box h3 {
     font-size: 23px;
+  }
+  .main-box-p6{
+    padding-bottom: 141px;
+  }
+  .main-box-p1{
+    padding-bottom: 100px;
+  }
+  .main-box-p7{
+    padding-bottom: 81px;
   }
   /* About Style
   <<<<=====================>>>>*/
@@ -1237,6 +1260,37 @@
   <<<<=====================>>>>*/
   .main-services-box {
     padding: 20px;
+    padding-bottom: 29px;
+  }
+  .main-box{
+    padding-bottom: 120px;
+  }
+  .main-box-p{
+    padding-bottom: 90px;
+  }
+  .main-box-p1{
+    padding-bottom: 118px;
+  }
+  .main-box-p2{
+    padding-bottom: 88px;
+  }
+  .main-box-p3{
+    padding-bottom: 58px;
+  }
+  .main-box-p4{
+    padding-bottom: 56px;
+  }
+  .main-box-p5{
+    padding-bottom: 0px;
+  }
+  .main-box-p6{
+    padding-bottom: 116px;
+  }
+  .main-box-p7{
+    padding-bottom: 204px;
+  }
+  .main-box-p8{
+    padding-bottom: 147px;
   }
   .main-services-box h3 {
     font-size: 23px;
@@ -1356,6 +1410,30 @@
     padding-top: 140px;
     padding-bottom: 100px;
   }
+  .main-services-box{
+    padding-bottom: 29px;
+  }
+  .main-box{
+    padding-bottom: 120px;
+  }
+  .main-box-p{
+    padding-bottom: 60px;
+  }
+  .main-box-p1{
+    padding-bottom: 60px;
+  }
+  .main-box-p2{
+    padding-bottom: 58px;
+  }
+  .main-box-p6{
+    padding-bottom: 146px;
+  }
+  .main-box-p7{
+    padding-bottom: 204px;
+  }
+  .main-box-p8{
+    padding-bottom: 147px;
+  }
 }
 /* Medium devices (tablets, 768px and up) Only Mobil Menu
 ===========================================================*/
@@ -1445,5 +1523,26 @@
   }
   .log2{
     display: none;
+  }
+  .main-box{
+    padding-bottom: 58px;
+  }
+  .main-box-p{
+    padding-bottom: 28px;
+  }
+  .main-box-p1{
+    padding-bottom: 56px;
+  }
+  .main-h{
+    height: 379px;
+  }
+  .main-box-p2{
+    padding-bottom: 28px;
+  }
+  .main-box-p3{
+    padding-bottom: 28px;
+  }
+  .main_h1{
+    height: 379px;
   }
 }/*# sourceMappingURL=responsive.css.map */
