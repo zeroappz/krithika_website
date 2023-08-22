@@ -1546,3 +1546,27 @@
     height: 379px;
   }
 }/*# sourceMappingURL=responsive.css.map */
+@media only screen and (min-width: 1399px) and (max-width: 1700px) {
+  .main-service{
+    padding-bottom: 58px;
+  }
+.main-box{
+  padding-bottom: 62px;
+}
+.main-box-p2{
+  padding-bottom: 62px;
+}
+
+.main-box-p7{
+  padding-bottom: 177px;
+}
+
+.main-box-p8{
+  padding-bottom: 119px;
+}
+
+.main-box-p6{
+  padding-bottom: 119px;
+}
+
+}

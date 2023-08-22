@@ -264,8 +264,7 @@
 							<!-- <h4>Watch The Sealants Image</h4> -->
 
 							<div class="services-img-1">
-								<img src="assets/images/services/periodontitis.jpeg" alt="Image">
-
+								<img src="assets/images/services/restorativedentistry_sec-2.png" alt="Image">
 							</div>
 
 							<h3>What steps are followed in periodontics treatment?</h3>

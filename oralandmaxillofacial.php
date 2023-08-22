@@ -277,7 +277,7 @@
 								<img src="assets/images/services/oral-and-maxillofacial-surgery-section-2.png" alt="Image">
 
 							</div>
-							<h4>What are the advantages of Oral and maxilla facial surgery</h4>
+							<h4>What are the advantages of Oral and maxillo facial surgery</h4>
 							<!-- <p>There are many advantages to choosing periodontal therapy, your health and wellness being the most important. However, there are other benefits to consider:</p> -->
 
 							<ul>
