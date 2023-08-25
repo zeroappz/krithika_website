@@ -82,16 +82,13 @@
 						<span class="up-title wow fadeInUp delay-0-2s"style="text-align: center;">Our Hospital Environment</span>
 					</div>
 				<div class="col-md-6">
-					<div class="card p-3 about_card" >
+					<div class="card p-3 about_card about-c" >
 						<h3 class="text-center  wow fadeInUp delay-0-2s">Patients waiting area</h3>
 						<div class="wow fadeInUp delay-0-2s">
 						<img src="assets/images/clinic-area.jpeg" class="my-3 rounded about_card" alt="Image">
 						</div>
 					<p class="wow fadeInUp delay-0-2s">Our  patients' waiting area is equipped with comfortable and organized space where patients can wait for their appointments. We have a relaxed environment which  reduce anxiety and stress, offers a sense of privacy, and allows efficient patient management.</p>
-					
-					
 					</div>
-
 				</div>
 				<div class="col-md-6">
 					<div class="card p-3 about_card">
@@ -206,7 +203,7 @@
 			
 			<div class="row">
 			<div class="col-md-6">
-					<div class="card p-3 about_card">
+					<div class="card p-3 about_card about-c">
 					<h3 class="text-center  wow fadeInUp delay-0-2s">X mart Endo motor</h3>
 					<div class="about-img wow fadeInUp delay-0-2s">
 					<img src="assets/images/dentsply-x-smart-endomotor.png" class="my-3 rounded about_card" style="    height: 290px;" alt="Image">

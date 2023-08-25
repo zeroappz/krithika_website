@@ -1395,6 +1395,25 @@
   .main-testimonials {
     padding: 20px;
   }
+  /* Doctor page 
+  <<<<=====================>>>>*/
+
+  .doctor-p2{
+    padding-bottom: 124px;
+  }
+  .doctor-p1{
+    padding-bottom: 78px;
+  }
+  .doctor-p3{
+    padding-bottom: 102px;
+  }
+  /* About page 
+  <<<<=====================>>>>*/
+  .about-c{
+    padding-bottom: 93px;
+  }
+
+
 }
 /* Min width 1200px to Max width 1320px 
 <<<<=====================================================================>>>>*/
@@ -1434,6 +1453,22 @@
   .main-box-p8{
     padding-bottom: 147px;
   }
+  /* Doctor page 
+  <<<<=====================>>>>*/
+  .doctor-p{
+    padding-bottom: 78px;
+  }
+  .doctor-p2{
+    padding-bottom: 178px;
+  }
+  .doctor-p1{
+    padding-bottom: 94px;
+  }
+  .doctor-p3{
+    padding-bottom: 102px;
+  }
+  
+
 }
 /* Medium devices (tablets, 768px and up) Only Mobil Menu
 ===========================================================*/
@@ -1545,6 +1580,25 @@
   .main_h1{
     height: 379px;
   }
+  /* Doctor page 
+  <<<<=====================>>>>*/
+  
+  .doctor-p{
+    padding-bottom: 59px;
+  }
+  .doctor-p1{
+    padding-bottom: 93px;
+  }
+  .doctor-p2{
+    padding-bottom: 144px;
+  }
+  /* About page 
+  <<<<=====================>>>>*/
+  .about-c{
+    padding-bottom: 93px;
+  }
+
+
 }/*# sourceMappingURL=responsive.css.map */
 @media only screen and (min-width: 1399px) and (max-width: 1700px) {
   .main-service{
@@ -1568,5 +1622,17 @@
 .main-box-p6{
   padding-bottom: 119px;
 }
+/* Doctor page 
+  <<<<=====================>>>>*/
+  
+  .doctor-p2{
+    padding-bottom: 204px;
+  }
+  .doctor-p1{
+    padding-bottom: 89px;
+  }
+  .doctor-p3{
+    padding-bottom: 62px;
+  }
 
 }
