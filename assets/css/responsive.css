@@ -1410,10 +1410,24 @@
   /* About page 
   <<<<=====================>>>>*/
   .about-c{
-    padding-bottom: 93px;
+    padding-bottom: 118px!important;
   }
-
-
+  .about-c2{
+    padding-bottom: 94px!important;
+  }
+.about-h{
+  height: 290px;
+  margin-left:70px;
+}
+.about-h1{
+  height: 290px;
+}
+.about-c1{
+  padding-bottom: 184px!important;
+}
+.about-h6{
+  padding-bottom: 88px!important;
+}
 }
 /* Min width 1200px to Max width 1320px 
 <<<<=====================================================================>>>>*/
@@ -1467,8 +1481,27 @@
   .doctor-p3{
     padding-bottom: 102px;
   }
+  /* About page 
+  <<<<=====================>>>>*/
   
-
+  .about-c1{
+    padding-bottom: 133px!important ;
+  }
+  .about-h1{
+    height: 290px;
+  }
+  .about-h{
+    height: 400px;
+  }
+  .about-h2{
+    padding-bottom: 139px!important
+  }
+  .about-c{
+    padding-bottom: 45px!important;
+  }
+  
+  
+  
 }
 /* Medium devices (tablets, 768px and up) Only Mobil Menu
 ===========================================================*/
@@ -1594,10 +1627,27 @@
   }
   /* About page 
   <<<<=====================>>>>*/
-  .about-c{
-    padding-bottom: 93px;
+  
+  .about-c1{
+    padding-bottom: 338px!important ;
   }
-
+  .about-h1{
+    height: 290px;
+  }
+  .about-h{
+    height: 400px;
+  }
+  .about-h6{
+    padding-bottom: 85px!important;
+  }
+  .about-c{
+    padding-bottom: 115px!important;
+   
+  }
+  .about-c3{
+    margin-bottom: 50px;
+  }
+  
 
 }/*# sourceMappingURL=responsive.css.map */
 @media only screen and (min-width: 1399px) and (max-width: 1700px) {
@@ -1634,5 +1684,25 @@
   .doctor-p3{
     padding-bottom: 62px;
   }
-
+  /* About page 
+  <<<<=====================>>>>*/
+  
+  .about-c1{
+    padding-bottom: 25px!important;
+  }
+  .about-h1{
+    height: 290px;
+  }
+  .about-h{
+    height: 400px;
+  }
+  .about-h2{
+    padding-bottom: 190px!important;
+  }
+  .about-c{
+    padding-bottom: 45px!important;
+  }
+  .about-h6{
+    padding-bottom: 45px!important;
+  }
 }

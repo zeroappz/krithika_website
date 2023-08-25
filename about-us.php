@@ -81,8 +81,8 @@
 			<div class="about-content ms-15">
 						<span class="up-title wow fadeInUp delay-0-2s"style="text-align: center;">Our Hospital Environment</span>
 					</div>
-				<div class="col-md-6">
-					<div class="card p-3 about_card about-c" >
+				<div class="col-md-6 about-c3">
+					<div class="card p-3 about_card about-h2" >
 						<h3 class="text-center  wow fadeInUp delay-0-2s">Patients waiting area</h3>
 						<div class="wow fadeInUp delay-0-2s">
 						<img src="assets/images/clinic-area.jpeg" class="my-3 rounded about_card" alt="Image">
@@ -94,7 +94,7 @@
 					<div class="card p-3 about_card">
 					<h3 class="text-center  wow fadeInUp delay-0-2s">Our Reception</h3>
 					<div class="wow fadeInUp delay-0-2s">
-						<img src="assets/images/clinic-area4.jpeg" class="my-3 rounded about_card" style="    height: 290px;margin-left:70px" alt="Image">
+						<img src="assets/images/clinic-area4.jpeg" class="my-3 rounded about_card" alt="Image">
 					</div>
 					<p class="wow fadeInUp delay-0-2s">Our Reception having the efficient staffs to assist the patients on their need during the waiting time and help in reducing the waiting time of the patients. We have a welcoming and comfortable space where they can check in, complete necessary paperwork, and wait for their appointments.</p>
 					</div>
@@ -105,11 +105,10 @@
 
 		<section class="container mt-5">
 			<div class="row">
-
-				<div class="col-md-6">
-					<div class="card p-3 about_card" >
-						<h3 class="text-center  wow fadeInUp delay-0-2s">Our Consultation Room</h3>
-						<div class="wow fadeInUp delay-0-2s">
+				<div class="col-md-6 about-c3">
+					<div class="card p-3 about_card about-c1" >
+						<h3 class="text-center  wow fadeInUp delay-0-2s ">Our Consultation Room</h3>
+						<div class="	wow fadeInUp delay-0-2s">
 							<img src="assets/images/clinic-area3.jpeg" class="my-3 rounded about_card" alt="Image">
 						</div>
 					<p class="wow fadeInUp delay-0-2s">Our Consultation Room provides patients with a private and comfortable space to discuss their health concerns and receive personalized medical advice and treatment recommendations from the dentists.</p>
@@ -122,7 +121,7 @@
 					<div class="card p-3 about_card">
 					<h3 class="text-center  wow fadeInUp delay-0-2s">Our Treatment Room</h3>
 					<div class="about-img wow fadeInUp delay-0-2s">
-					<img src="assets/images/clinic-area1.jpeg" class="my-3 rounded about_card" style="    height: 290px;" alt="Image">
+					<img src="assets/images/clinic-area1.jpeg" class="my-3 rounded about_card about-h1" alt="Image">
 					</div>
 					<p  class="wow fadeInUp delay-0-2s">Our Treatment Rooms are spacious and  sterile, provide a private and comfortable environment for the patients to get treated. It provide a dedicated space for medical procedures, examinations, and treatments. These rooms are equipped with the necessary tools and equipment to ensure efficient and effective care. Patients can receive specialized attention, privacy, and a safe environment, enhancing their overall healthcare experience.</p>
 					</div>
@@ -168,11 +167,11 @@
 				<div class="about-content ms-15">
 						<span class="up-title wow fadeInUp delay-0-2s"style="text-align: center;">Our State of Art Equipments</span>
 					</div>
-					<div class="col-md-6">
-					<div class="card p-3 about_card" >
+					<div class="col-md-6 about-c3">
+					<div class="card p-3 about_card about-h7" >
 						<h3 class="text-center  wow fadeInUp delay-0-2s">Vista scan nano easy</h3>
 						<div class="about-img wow fadeInUp delay-0-2s">
-							<img src="assets/images/vistascan-nano-easy.png" class="my-3 rounded about_card" style="    height: 400px;"  alt="Image">
+							<img src="assets/images/vistascan-nano-easy.png" class="my-3 rounded about_card about-h" alt="Image">
 						</div>
 					<p class="wow fadeInUp delay-0-2s">Our digitalized x-ray unit is useful for patient treatment as it allows for quick and efficient digital imaging of X-rays. This helps our doctors to diagnose and plan treatments more accurately, reducing patient waiting times and exposure to radiation. In short, it improves diagnostic capabilities, leading to better and faster patient care. </p>
 					
@@ -182,10 +181,10 @@
 				</div>
 				
 				<div class="col-md-6">
-					<div class="card p-3 about_card">
+					<div class="card p-3 about_card ">
 					<h3 class="text-center  wow fadeInUp delay-0-2s">Smart lite focus</h3>
 					<div class="about-img wow fadeInUp delay-0-2s">
-					<img src="assets/images/smart-lite-focus.png" class="my-3 rounded about_card" style="    height: 400px;" alt="Image">
+					<img src="assets/images/smart-lite-focus.png" class="my-3 rounded about_card about-h" alt="Image">
 					</div>
 					<p class="wow fadeInUp delay-0-2s">We at our dental hospital, give importance to the best materials used for the patient treatment. Smart lite focus helps in achieving that by providing the best in class composite restorations to the patients. Thanks to its accurate wavelength in curing the restorative materials which last longer in the oral cavity of patients.</p>
 					</div>
@@ -202,21 +201,21 @@
 		<section class="container mt-5">
 			
 			<div class="row">
-			<div class="col-md-6">
+			<div class="col-md-6 about-c3">
 					<div class="card p-3 about_card about-c">
 					<h3 class="text-center  wow fadeInUp delay-0-2s">X mart Endo motor</h3>
 					<div class="about-img wow fadeInUp delay-0-2s">
-					<img src="assets/images/dentsply-x-smart-endomotor.png" class="my-3 rounded about_card" style="    height: 290px;" alt="Image">
+					<img src="assets/images/dentsply-x-smart-endomotor.png" class="my-3 rounded about_card about-h1" alt="Image">
 					</div>
 					<p class="wow fadeInUp delay-0-2s">Root canal treatment is a part of dental treatment where it helps save the patient natural dentition. The X mart Endo motor is beneficial for patients' treatment as it assists dentists in performing precise and efficient root canal procedures, reducing discomfort and treatment time.</p>
 					</div>
 				</div>
 				
-				<div class="col-md-6">
-					<div class="card p-3 about_card" >
+				<div class="col-md-6 ">
+					<div class="card p-3 about_card about-h6" >
 						<h3 class="text-center  wow fadeInUp delay-0-2s">Surgic pro optics</h3>
-						<div class="wow fadeInUp delay-0-2s">
-							<img src="assets/images/surgic_pro-1.png" class="my-3 rounded about_card" style="    height: 290px;margin-left:90px"  alt="Image">
+						<div class="about-img wow fadeInUp delay-0-2s">
+							<img src="assets/images/surgic_pro-1.png" class="my-3 rounded about_card about-h1"  alt="Image">
 						</div>
 					<p class="wow fadeInUp delay-0-2s">Implant treatment requirements in patient with lost dentition is increasing on day to day life. Our Surgic Pro Optics instruments are useful for patient with missing teeth because they offer high precision and enhanced visualization during implant procedures, leading to improved accuracy, reduced risks, and better patient outcomes. </p>
 					
@@ -237,7 +236,7 @@
 					<div class="card p-3 about_card">
 					<h3 class="text-center  wow fadeInUp delay-0-2s">Biolase epic x</h3>
 					<div class="about-img wow fadeInUp delay-0-2s">
-					<img src="assets/images/biolase-epic-x.png" class="my-3 rounded about_card" style="    height: 400px;" alt="Image">
+					<img src="assets/images/biolase-epic-x.png" class="my-3 rounded about_card about-h"  alt="Image">
 					</div>
 					<p class="wow fadeInUp delay-0-2s">Laser is eminent in modern dentistry. The Biolase Epic X is the all-in-one everyday diode laser instrument patented for its 940nm wavelength. The instrument is useful for patient's treatment because it uses advanced laser technology to perform minimally invasive and precise dental procedures, where it is surgery, pain relief, disinfecting the root canal, periodontal debridement or teeth whitening. Biolase provides best results for the treatment.</p>
 					</div>
