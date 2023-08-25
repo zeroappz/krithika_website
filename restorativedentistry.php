@@ -241,7 +241,7 @@
 
 							<div class="services-img-1">
 								
-
+							<img src="assets/images/services/Restorative-dentistry_sec-2.jpg" alt="Image">
 							</div>
 
 							<h3>What steps are followed in Restorative dentistry treatment?</h3>

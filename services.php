@@ -184,7 +184,7 @@
 
 			<div class="row d-flex justify-content-center">
 			<div class="col-lg-3 col-sm-6">
-					<div class="main-services-box hover-style wow fadeInUp delay-0-8s">
+					<div class="main-services-box main-box hover-style wow fadeInUp delay-0-8s" >
 						<div class="inner-border">
 							<div class="icon">
 								<img src="assets/images/icon/icon-4.svg" alt="Image">
@@ -198,7 +198,7 @@
 					</div>
 				</div>
 				<div class="col-lg-3 col-sm-6">
-					<div class="main-services-box hover-style wow fadeInUp delay-0-2s ">
+					<div class="main-services-box main-box-p hover-style wow fadeInUp delay-0-2s " >
 						<div class="inner-border">
 							<div class="icon">
 								<img src="assets/images/icon/icon-1.svg" alt="Image">
@@ -212,8 +212,8 @@
 				</div>
 
 
-				<div class="col-lg-3 col-sm-6">
-					<div class="main-services-box hover-style wow fadeInUp delay-0-8s">
+				<div class="col-lg-3 col-sm-6 ">
+					<div class="main-services-box main-box-p1 hover-style wow fadeInUp delay-0-8s" >
 						<div class="inner-border">
 							<div class="icon">
 								<img src="assets/images/icon/icon-4.svg" alt="Image">
@@ -229,7 +229,7 @@
 
 
 				<div class="col-lg-3 col-sm-6">
-					<div class="main-services-box hover-style wow fadeInUp delay-0-8s">
+					<div class="main-services-box  hover-style wow fadeInUp delay-0-8s">
 						<div class="inner-border">
 							<div class="icon">
 								<img src="assets/images/icon/icon-4.svg" alt="Image">
@@ -245,7 +245,7 @@
 
 
 				<div class="col-lg-3 col-sm-6">
-					<div class="main-services-box hover-style wow fadeInUp delay-0-4s">
+					<div class="main-services-box main-box-p2 hover-style wow fadeInUp delay-0-4s" >
 						<div class="inner-border">
 							<div class="icon">
 								<img src="assets/images/icon/icon-2.svg" alt="Image">
@@ -260,7 +260,7 @@
 
 				
 				<div class="col-lg-3 col-sm-6">
-					<div class="main-services-box hover-style wow fadeInUp delay-0-8s">
+					<div class="main-services-box main-box-p3 hover-style wow fadeInUp delay-0-8s">
 						<div class="inner-border">
 							<div class="icon">
 								<img src="assets/images/icon/icon-4.svg" alt="Image">
@@ -275,7 +275,7 @@
 				</div>
 
 				<div class="col-lg-3 col-sm-6">
-					<div class="main-services-box hover-style wow fadeInUp delay-0-6s">
+					<div class="main-services-box  hover-style wow fadeInUp delay-0-6s">
 						<div class="inner-border">
 							<div class="icon">
 								<img src="assets/images/icon/icon-3.svg" alt="Image">
@@ -296,7 +296,7 @@
 
 
 				<div class="col-lg-3 col-sm-6">
-					<div class="main-services-box hover-style wow fadeInUp delay-0-8s">
+					<div class="main-services-box main-box-p4 hover-style wow fadeInUp delay-0-8s">
 						<div class="inner-border">
 							<div class="icon">
 								<img src="assets/images/icon/icon-4.svg" alt="Image">
@@ -311,7 +311,7 @@
 				</div>
 
 				<div class="col-lg-3 col-sm-6">
-					<div class="main-services-box hover-style wow fadeInUp delay-0-8s">
+					<div class="main-services-box main-box-p7 hover-style wow fadeInUp delay-0-8s" >
 						<div class="inner-border">
 							<div class="icon">
 								<img src="assets/images/icon/icon-4.svg" alt="Image">
@@ -327,7 +327,7 @@
 
 				
 				<div class="col-lg-3 col-sm-6">
-					<div class="main-services-box hover-style wow fadeInUp delay-0-6s">
+					<div class="main-services-box main-box-p8 hover-style wow fadeInUp delay-0-6s" >
 						<div class="inner-border">
 							<div class="icon">
 								<img src="assets/images/icon/icon-3.svg" alt="Image">
@@ -343,7 +343,7 @@
 
 
 				<div class="col-lg-3 col-sm-6">
-					<div class="main-services-box hover-style wow fadeInUp delay-0-8s">
+					<div class="main-services-box main-box-p6 hover-style wow fadeInUp delay-0-8s" >
 						<div class="inner-border">
 							<div class="icon">
 								<img src="assets/images/icon/icon-4.svg" alt="Image">
@@ -358,7 +358,7 @@
 				</div>
 
 				<div class="col-lg-3 col-sm-6" >
-					<div class="main-services-box hover-style wow fadeInUp delay-0-6s">
+					<div class="main-services-box main-box-p5 hover-style wow fadeInUp delay-0-6s">
 						<div class="inner-border">
 							<div class="icon">
 								<img src="assets/images/icon/icon-3.svg" alt="Image">
