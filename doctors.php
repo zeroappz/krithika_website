@@ -63,7 +63,7 @@
 
 				<div class="row justify-content-center">
 					<div class="col-lg-4 col-sm-6">
-						<div class="main-doctors-item hover-style wow fadeInUp delay-0-2s">
+						<div class="main-doctors-item doctor-p hover-style wow fadeInUp delay-0-2s ">
 							<div class="inner-border">
 								<div class="doctor-img">
 									<img src="assets/images/doctors/rajkumar.jpeg" alt="Image">
@@ -99,7 +99,7 @@
 					</div>
 
 					<div class="col-lg-4 col-sm-6">
-						<div class="main-doctors-item hover-style wow fadeInUp delay-0-4s" style="height: 690px;">
+						<div class="main-doctors-item hover-style wow fadeInUp delay-0-4s doctor-p1" >
 							<div class="inner-border">
 								<div class="doctor-img">
 									<img src="assets/images/doctors/kamaraj.jpeg" alt="Image">
@@ -135,7 +135,7 @@
 					</div>
 
 					<div class="col-lg-4 col-sm-6">
-						<div class="main-doctors-item hover-style wow fadeInUp delay-0-6s"style="height: 690px;">
+						<div class="main-doctors-item hover-style wow fadeInUp delay-0-6s doctor-p3">
 							<div class="inner-border">
 								<div class="doctor-img">
 									<img src="assets/images/doctors/gugan.png" alt="Image">
@@ -171,7 +171,7 @@
 					</div>
 
 					<div class="col-lg-4 col-sm-6">
-						<div class="main-doctors-item hover-style wow fadeInUp delay-0-2s"style="height: 690px;">
+						<div class="main-doctors-item hover-style wow fadeInUp delay-0-2s doctor-p2">
 							<div class="inner-border">
 								<div class="doctor-img">
 									<img src="assets/images/doctors/doctor-4.jpg" alt="Image">
@@ -206,7 +206,7 @@
 						</div>
 					</div>
 			<div class="col-lg-4 col-sm-6">
-						<div class="main-doctors-item hover-style wow fadeInUp delay-0-6s"style="height: 690px;">
+						<div class="main-doctors-item hover-style wow fadeInUp delay-0-6s">
 							<div class="inner-border">
 								<div class="doctor-img">
 									<img src="assets/images/doctors/vasanthan.jpeg" alt="Image">
@@ -241,7 +241,7 @@
 						</div>
 					</div>
 					<div class="col-lg-4 col-sm-6">
-						<div class="main-doctors-item hover-style wow fadeInUp delay-0-6s"style="height: 690px;">
+						<div class="main-doctors-item hover-style wow fadeInUp delay-0-6s">
 							<div class="inner-border">
 								<div class="doctor-img">
 									<img src="assets/images/doctors/arun.jpeg" alt="Image">
@@ -276,7 +276,7 @@
 						</div>
 					</div>
 					<div class="col-lg-4 col-sm-6">
-						<div class="main-doctors-item hover-style wow fadeInUp delay-0-6s"style="height: 690px;">
+						<div class="main-doctors-item hover-style wow fadeInUp delay-0-6s">
 							<div class="inner-border">
 								<div class="doctor-img">
 									<img src="assets/images/doctors/ayyadurai.jpeg" alt="Image">
