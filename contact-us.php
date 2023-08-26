@@ -64,7 +64,7 @@
 
 			<div class="row">
 				<div class="col-lg-3 col-sm-6">
-					<div class="main-contact-info-item hover-style wow fadeInUp delay-0-2s">
+					<div class="main-contact-info-item hover-style wow fadeInUp delay-0-2s contact3">
 						<div class="inner-border">
 							<div class="icon">
 								<img src="assets/images/icon/icon-17.svg" alt="Image">
@@ -76,7 +76,7 @@
 				</div>
 
 				<div class="col-lg-3 col-sm-6">
-					<div class="main-contact-info-item hover-style wow fadeInUp delay-0-4s">
+					<div class="main-contact-info-item hover-style wow fadeInUp delay-0-4s contact">
 						<div class="inner-border">
 							<div class="icon">
 								<img src="assets/images/icon/icon-18.svg" alt="Image">
@@ -98,7 +98,7 @@
 				</div>
 
 				<div class="col-lg-3 col-sm-6">
-					<div class="main-contact-info-item hover-style wow fadeInUp delay-0-6s">
+					<div class="main-contact-info-item hover-style wow fadeInUp delay-0-6s contact4">
 						<div class="inner-border">
 							<div class="icon">
 								<img src="assets/images/icon/icon-19.svg" alt="Image">
@@ -115,7 +115,7 @@
 				</div>
 
 				<div class="col-lg-3 col-sm-6">
-					<div class="main-contact-info-item hover-style wow fadeInUp delay-0-8s">
+					<div class="main-contact-info-item hover-style wow fadeInUp delay-0-8s contact1">
 						<div class="inner-border">
 							<div class="icon">
 								<img src="assets/images/icon/icon-20.svg" alt="Image">
@@ -123,7 +123,7 @@
 							<h3>Email Address</h3>
 							<ul>
 								<li>
-									<a href="mailto:kirthikadentalcare@gmail.com">kirthikadentalcare@gmail.com</a>
+									<a href="mailto:kirthikadentalcare@gmail.com" class="g_size">kirthikadentalcare@gmail.com</a>
 								</li>
 
 							</ul>
