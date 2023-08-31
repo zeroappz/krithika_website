@@ -1666,6 +1666,9 @@
   .about-h{
     height: 400px;
   }
+  .about-h2{
+    padding-bottom: 116px!important;
+  }
   .about-h6{
     padding-bottom: 85px!important;
   }
@@ -1673,9 +1676,9 @@
     padding-bottom: 115px!important;
    
   }
-  .about-c3{
+  /* .about-c3{
     margin-bottom: 50px;
-  }
+  } */
   .contact{
     padding-bottom: 42px;
   }
