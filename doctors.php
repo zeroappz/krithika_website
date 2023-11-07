@@ -129,7 +129,7 @@
 								</div>
 								<h3>Prof, Dr. L. Kamaraj</h3>
 								<span>M.D.S., (OMFS) FDS RCPS., (Glasgow) P.hD (OMFS), FIBOMFS,</span><br>
-								<span>Oral and maxilla facial surgery surgery and Oral Implantology.</span>
+								<span>Oral and Maxillofacial surgery</span>
 							</div>
 						</div>
 					</div>
