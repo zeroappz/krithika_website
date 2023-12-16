@@ -177,10 +177,10 @@
  
 							<ul class="dropdown-menu">
 								<li class="nav-item">
-									<a href="https://admin.kirthikadentalcare.in/login" class="nav-link">Patient Login</a>
+									<a href="https://app.kirthikadentalcare.in" class="nav-link">Patient Login</a>
 								</li>
 								<li class="nav-item">
-									<a href="https://admin.kirthikadentalcare.in/login" class="nav-link">Staff Login</a>
+									<a href="https://app.kirthikadentalcare.in" class="nav-link">Staff Login</a>
 								</li>
 
 								
