@@ -171,11 +171,14 @@
 								<a href="https://admin.kirthikadentalcare.in/login" class="nav-link">Login</a>
 							</li> -->
 							<li class="nav-item">
-							<a href="#" class="nav-link dropdown-toggle">
+							<a href="https://app.kirthikadentalcare.in" class="nav-link">
 								Login
 							</a>
+							<!-- <a href="https://app.kirthikadentalcare.in" class="nav-link dropdown-toggle">
+								Login
+							</a> -->
  
-							<ul class="dropdown-menu">
+							<!-- <ul class="dropdown-menu">
 								<li class="nav-item">
 									<a href="https://app.kirthikadentalcare.in" class="nav-link">Patient Login</a>
 								</li>
@@ -186,7 +189,7 @@
 								
 
 
-							</ul>
+							</ul> -->
 						</li>
 						<!-- <li class="nav-item">
 							<a href="#" class="nav-link dropdown-toggle">Login</a>
