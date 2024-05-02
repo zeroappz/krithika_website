@@ -163,6 +163,9 @@
 							<li class="nav-item">
 								<a href="https://admin.kirthikadentalcare.in/login" class="nav-link">Login</a>
 							</li>
+							<li class="nav-item">
+								<a href="adminlogin.php" class="nav-link">Admin Login</a>
+							</li>
 						<!-- <li class="nav-item">
 							<a href="#" class="nav-link dropdown-toggle">Login</a>
 							<ul class="dropdown-menu">

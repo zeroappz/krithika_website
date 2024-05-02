@@ -1,3 +1,6 @@
+<?php
+include 'conn.php';
+?>
 <!doctype html>
 <html lang="zxx">
 
@@ -62,7 +65,59 @@
 				</div>
 
 				<div class="row justify-content-center">
-					<div class="col-lg-4 col-sm-6">
+
+
+<?php
+
+  $stmt = $connect->prepare(
+                                "SELECT * FROM doctors");
+                        $stmt->execute();
+                        $details = $stmt->fetchAll();
+                        foreach($details as $doctor_details)
+                        {
+                        	?>
+                        	<div class="col-lg-4 col-sm-6">
+						<div class="main-doctors-item hover-style wow fadeInUp delay-0-6s">
+							<div class="inner-border">
+								<div class="doctor-img">
+									<img src="<?php echo $doctor_details['image']; ?>" alt="Image">
+
+									<ul>
+										<li>
+											<a href="<?php echo $doctor_details['facebook']; ?>" target="_blank">
+												<i class="icofont-facebook"></i>
+											</a>
+										</li>
+										<li>
+											<a href="<?php echo $doctor_details['twitter']; ?>" target="_blank">
+												<i class="icofont-twitter"></i>
+											</a>
+										</li>
+										<li>
+											<a href="<?php echo $doctor_details['linkedin']; ?>" target="_blank">
+												<i class="icofont-linkedin"></i>
+											</a>
+										</li>
+										<li>
+											<a href="<?php echo $doctor_details['instagram']; ?>" target="_blank">
+												<i class="icofont-instagram"></i>
+											</a>
+										</li>
+									</ul>
+								</div>
+								<h3><?php echo $doctor_details['name']; ?></h3>
+								<span><?php echo $doctor_details['qualification']; ?></span><br>
+								<!-- <span>MDS (Pedodontics)</span> -->
+							</div>
+						</div>
+					</div>
+                        	<?php
+                        }
+?>
+
+
+
+					<!-- <div class="col-lg-4 col-sm-6">
 						<div class="main-doctors-item hover-style wow fadeInUp delay-0-2s">
 							<div class="inner-border">
 								<div class="doctor-img">
@@ -96,9 +151,9 @@
 								<span>Periodontics and Oral Implantology</span>
 							</div>
 						</div>
-					</div>
+					</div> -->
 
-					<div class="col-lg-4 col-sm-6">
+					<!-- <div class="col-lg-4 col-sm-6">
 						<div class="main-doctors-item hover-style wow fadeInUp delay-0-4s">
 							<div class="inner-border">
 								<div class="doctor-img">
@@ -132,9 +187,21 @@
 								<span>Oral and Maxillofacial surgery</span>
 							</div>
 						</div>
-					</div>
+					</div> -->
 
-					<div class="col-lg-4 col-sm-6">
+
+
+
+
+
+
+
+
+
+
+
+
+					<!-- <div class="col-lg-4 col-sm-6">
 						<div class="main-doctors-item hover-style wow fadeInUp delay-0-6s">
 							<div class="inner-border">
 								<div class="doctor-img">
@@ -165,12 +232,12 @@
 								</div>
 								<h3>Dr Guhan</h3>
 								<span>M.D.S Pediatric dentistry</span><br>
-								<!-- <span>MDS (Pedodontics)</span> -->
+								<span>MDS (Pedodontics)</span>
 							</div>
 						</div>
-					</div>
+					</div> -->
 
-					<div class="col-lg-4 col-sm-6">
+					<!-- <div class="col-lg-4 col-sm-6">
 						<div class="main-doctors-item hover-style wow fadeInUp delay-0-2s">
 							<div class="inner-border">
 								<div class="doctor-img">
@@ -204,8 +271,8 @@
 								<span>Prosthodontics and Oral Implantology.</span>
 							</div>
 						</div>
-					</div>
-			<div class="col-lg-4 col-sm-6">
+					</div> -->
+			<!-- <div class="col-lg-4 col-sm-6">
 						<div class="main-doctors-item hover-style wow fadeInUp delay-0-6s">
 							<div class="inner-border">
 								<div class="doctor-img">
@@ -239,8 +306,8 @@
 								<span>Orthodontics & Dentofacial Orthopaedics</span>
 							</div>
 						</div>
-					</div>
-					<div class="col-lg-4 col-sm-6">
+					</div> -->
+					<!-- <div class="col-lg-4 col-sm-6">
 						<div class="main-doctors-item hover-style wow fadeInUp delay-0-6s">
 							<div class="inner-border">
 								<div class="doctor-img">
@@ -274,8 +341,8 @@
 								<span>Endodontics and conservative dentistry</span>
 							</div>
 						</div>
-					</div>
-					<div class="col-lg-4 col-sm-6">
+					</div> -->
+					<!-- <div class="col-lg-4 col-sm-6">
 						<div class="main-doctors-item hover-style wow fadeInUp delay-0-6s">
 							<div class="inner-border">
 								<div class="doctor-img">
@@ -309,7 +376,7 @@
 								<span>Oral and maxilla facial surgery Pathology.</span>
 							</div>
 						</div>
-					</div>
+					</div> -->
 					<div class="col-lg-4 col-sm-6">
 						<!-- <div class="main-doctors-item hover-style wow fadeInUp delay-0-4s"> -->
 							<!-- <div class="inner-border">
