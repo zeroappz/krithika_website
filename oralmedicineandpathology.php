@@ -89,7 +89,7 @@
 									</li>
 									<li>
 										<a href="oralandmaxillofacial.php">
-										Oral and maxilla facial surgery
+										Oral and maxillo facial surgery
 											<i class="icofont-simple-right"></i>
 										</a>
 									</li>
@@ -168,7 +168,7 @@
 								</ul>
 							</div>
 
-							<div class="main-sidebar-item contact-us">
+							<!-- <div class="main-sidebar-item contact-us">
 								<h3>Contact Us</h3>
 
 								<div class="row">
@@ -213,30 +213,35 @@
 										</button>
 									</div>
 								</div>
-							</div>
+							</div> -->
 						</div>
 					</div>
 
 					<div class="col-lg-8">
 						<div class="services-details-content ms-15">
 							<div class="services-img-1">
-								<img src="assets/images/services/istockphoto.png" alt="Image">
+							<img src="assets/images/services/periodontics_sec_2.png" alt="Image">
 							</div>
 							<h4>Introduction</h4>
-							<h3>Oral Medicine and Pathology</h3>
+							<p>Oral Medicine Diagnosis pathology & Radiology is the specialty that focuses on the diagnosis and medical management of diseases of the Head and Neck. It is a unique field of dentistry that combines both Oral Medicine and Craniofacial Radiology.</p>
+							
+							<p>The Department emphasizes the responsibility of the dentist to see problems affecting the oral region in the context of overall health status</p>
+							<p>Oral pathology and oral medicine is concerned with the health of the mouth and the diagnosis and management of diseases of the oral region.</p>
+							<!-- <h3>Oral Medicine and Pathology</h3> -->
+							<!-- <p><b>Who are the candidates of Oral Medicine and Pathology treatment?</b><br></p>
+
+							<p>Oral Medicine and Pathology is focuses on the diagnosis and treatment of oral diseases, including oral cancer, infections, autoimmune disorders, and other oral conditions. Patients with oral ulcers, reduced mouth opening, oral swellings, oral stiffness, white and red lesions on the mouth are the candidates for treatment.</p> -->
+
 							<p><b>Who are the candidates of Oral Medicine and Pathology treatment?</b><br></p>
 
-							<p>Oral pathology / oral medicine is a specialty area of dentistry that is concerned with the health of the mouth and the diagnosis and management of diseases of the oral region.</p>
+							<Third>Oral Medicine and Pathology is focuses on the diagnosis and treatment of oral diseases, including oral cancer, infections, autoimmune disorders, and other oral conditions. Patients with oral ulcers, reduced mouth opening, oral swellings, oral stiffness, white and red lesions on the mouth are the candidates for treatment. 
 
-							<p><b>Who are the candidates of Oral Medicine and Pathology treatment?</b><br></p>
+							<!-- <p><b>What does the Oral Medicine and Pathology do?</b><br></p>
 
-							<Third>Oral Medicine and Pathology is a specialized field of dentistry that focuses on the diagnosis and treatment of oral diseases, including oral cancer, infections, autoimmune disorders, and other oral conditions. 
-
-							<p><b>What does the Oral Medicine and Pathology do?</b><br></p>
-
-							<p>Oral Medicine and Pathology is a specialized field of dentistry that focuses on the diagnosis and management of various oral diseases and conditions. It deals with the study of Oral and maxilla facial surgery disorders, including those affecting the mouth, jaws, salivary glands, and surrounding structures.</p>
+							<p>Oral Medicine and Pathology is a specialized field of dentistry that focuses on the diagnosis and management of various oral diseases and conditions. It deals with the study of Oral and maxillo facial surgery disorders, including those affecting the mouth, jaws, salivary glands, and surrounding structures.</p> -->
 
 							<!-- <h4>Watch The Sealants Image</h4> -->
+							<br></br>
 
 							<div class="services-img-1">
 								<img src="assets/images/services/oral-pathology.png" alt="Image">
@@ -248,53 +253,53 @@
 
 							<ul>
 								<li>
+								<span class="bulletPoints"></span>
 									<p><b>Medical History and Examination:</b><br></p>
-									<span>1</span>
 									The first step involves taking a detailed medical history and conducting a thorough oral examination. This includes assessing the patient's general health, previous medical conditions, and any medications they are taking.
 								</li>
 								<li>
+								<span class="bulletPoints"></span>
 									<p><b>Diagnostic Tests: </b><br></p>
-									<span>2</span>
 									Depending on the symptoms and findings from the examination, the oral medicine specialist may order specific diagnostic tests such as biopsies, imaging studies (X-rays, CT scans), or blood tests to aid in the diagnosis.
 								</li>
 								<li>
+								<span class="bulletPoints"></span>
 									<p><b>Diagnosis: </b><br></p>
-									<span>3</span>
 									Based on the patient's medical history, clinical examination, and diagnostic test results, a definitive diagnosis is made. This is crucial for determining the appropriate treatment plan.
 								</li>
 								<li>
+								<span class="bulletPoints"></span>
 									<p><b>Treatment Planning: </b><br></p>
-									<span>4</span>
 									The oral medicine specialist devises a treatment plan tailored to the patient's condition. This may involve managing systemic conditions that affect the oral cavity or addressing specific oral diseases.
 								</li>
 								<li>
+								<span class="bulletPoints"></span>
 									<p><b>Non-surgical Management:</b><br></p>
-									<span>5</span>
-									 In many cases, oral medicine treatment involves non-surgical management, such as prescribing medications, mouthwashes, or topical agents to alleviate symptoms or control oral diseases.
+									In many cases, oral medicine treatment involves non-surgical management, such as prescribing medications, mouthwashes, or topical agents to alleviate symptoms or control oral diseases.
 								</li>
 								<li>
+								<span class="bulletPoints"></span>
 									<p><b>Patient Education: </b><br></p>
-									<span>6</span>
 									The specialist educates the patient about their condition, the treatment plan, and preventive measures they can take to maintain oral health.
 								</li>
 								<li>
+								<span class="bulletPoints"></span>
 									<p><b>Follow-up and Monitoring: </b><br></p>
-									<span>7</span>
 									Regular follow-up appointments are scheduled to assess the patient's response to treatment and make any necessary adjustments.
 								</li>
 								<li>
+								<span class="bulletPoints"></span>
 									<p><b>Referral:</b><br></p>
-									<span>8</span>
 									If the oral medicine specialist identifies conditions that require more specialized care or surgical intervention, they may refer the patient to an appropriate specialist, such as an oral surgeon or periodontist.
 								</li>
 								<li>
+								<span class="bulletPoints"></span>
 									<p><b>Oral Cancer Screening:</b><br></p>
-									<span>9</span>
 									Routine oral cancer screenings are often conducted, especially for patients at higher risk, to detect any signs of oral cancer early on.
 								</li>
 								<li>
+								<span class="bulletPoints"></span>
 									<p><b>Oral Health Maintenance: </b><br></p>
-									<span>10</span>
 									After treatment, patients are encouraged to maintain good oral hygiene practices and regular dental check-ups to prevent future oral health issues.
 								</li>
 
@@ -307,33 +312,33 @@
 
 							<ul>
 								<li>
+								<span class="bulletPoints"></span>
 									<p><b>Comprehensive Diagnosis: </b><br></p>
-									<span>1</span>
 									Oral Medicine and Pathology specialists are trained to provide a thorough and accurate diagnosis of oral diseases and conditions. They have in-depth knowledge of various oral pathologies and can identify the underlying causes of oral symptoms, such as ulcers, lumps, or abnormal tissue changes.
 								</li>
 								<li>
+								<span class="bulletPoints"></span>
 									<p><b>Multidisciplinary Approach: </b><br></p>
-									<span>2</span>
 									Oral Medicine and Pathology practitioners often collaborate with other dental and medical specialists, including oral surgeons, periodontists, and oncologists. This multidisciplinary approach ensures that patients receive well-rounded care and appropriate treatment plans tailored to their specific needs.
 								</li>
 								<li>
+								<span class="bulletPoints"></span>
 									<p><b>Management of Oral Lesions:</b><br></p>
-									<span>3</span>
 									 Oral Medicine and Pathology experts are skilled in managing a wide range of oral lesions, including oral ulcers, mucosal diseases, oral manifestations of systemic diseases, and potentially malignant disorders. They can provide effective treatment options, including topical medications, systemic therapies, or referrals for surgical intervention when necessary.
 								</li>
 								<li>
+								<span class="bulletPoints"></span>
 									<p><b>Oral Cancer Detection: </b><br></p>
-									<span>4</span>
 									Early detection is crucial for the successful treatment of oral cancer. Oral Medicine and Pathology specialists are trained to recognize the signs and symptoms of oral cancer and can perform thorough oral cancer screenings. Regular screenings can lead to early detection and improved outcomes.
 								</li>
 								<li>
+								<span class="bulletPoints"></span>
 									<p><b>Patient Education: </b><br></p>
-									<span>5</span>
 									Oral Medicine and Pathology practitioners play an essential role in educating patients about oral health, disease prevention, and self-examination techniques. They can provide guidance on maintaining proper oral hygiene, recognizing oral abnormalities, and making lifestyle changes to reduce the risk of oral diseases.
 								</li>
 								<li>
+								<span class="bulletPoints"></span>
 									<p><b>Research and Advancements: </b><br></p>
-									<span>6</span>
 									Oral Medicine and Pathology is a field that actively contributes to scientific research and advancements in oral healthcare. Specialists in this field are often involved in clinical trials, studies, and publications, leading to improved diagnostic techniques, treatment modalities, and better patient care overall.
 								</li>
 
@@ -397,7 +402,7 @@
 			<div class="container">
 				<div class="row">
 					<div class="col-lg-8 col-md-7">
-						<p>Copyright © <span>Kirthika Dental Care</span> Is Proudly Owned by <a href="https://croptheme.com/" target="_blank">Macincode</a></p>
+						<p>Copyright © <span>Kirthika Dental Care</span> Is Proudly Owned by <a href="https://www.macincode.com/" target="_blank">Macincode</a></p>
 					</div>
 					<div class="col-lg-4 col-md-5">
 						<ul>
@@ -422,7 +427,7 @@
 <!--
 		<ul class="rtl-buy">
 			<li>
-				<a href="https://croptheme.com/Kirthika Dental Care/Kirthika Dental Care-rtl/">RTL</a>
+				<a href="https://www.macincode.com/Kirthika Dental Care/Kirthika Dental Care-rtl/">RTL</a>
 			</li>
 			<li>
 				<a href="https://themeforest.net/item/blad-ai-blood-donation-activism-campaign-html-template/41923002" target="_blank" class="bg-color">BUY</a>

@@ -89,7 +89,7 @@
 									</li>
 									<li>
 										<a href="oralandmaxillofacial.php">
-										Oral and maxilla facial surgery
+										Oral and maxillo facial surgery
 											<i class="icofont-simple-right"></i>
 										</a>
 									</li>
@@ -168,7 +168,7 @@
 								</ul>
 							</div>
 
-							<div class="main-sidebar-item contact-us">
+							<!-- <div class="main-sidebar-item contact-us">
 								<h3>Contact Us</h3>
 
 								<div class="row">
@@ -213,7 +213,7 @@
 										</button>
 									</div>
 								</div>
-							</div>
+							</div> -->
 						</div>
 					</div>
 
@@ -223,18 +223,19 @@
 								<img src="assets/images/services/endodontics.png" alt="Image">
 							</div>
 							<h4>Introduction</h4>
-							<h3>Endodontics</h3>
-							<p><b>What is the meaning of Endodontics?</b><br></p>
+							<p>Endodontics is a branch of dentistry that deals with the diagnosis, prevention, and treatment of diseases and injuries that affect the dental pulp and the surrounding tissues of the tooth.</p>
+							<!-- <h3>Endodontics</h3> -->
+							<!-- <p><b>What is the meaning of Endodontics?</b><br></p> -->
 
-							<p>Endodontics is a branch of dentistry that deals with the diagnosis, prevention, and treatment of diseases and injuries that affect the dental pulp and the surrounding tissues of the tooth. The term "endodontics" comes from the Greek words "endo" meaning "inside" and "odont" meaning "tooth," indicating that it focuses on the internal structures of the tooth.</p>
+							<!-- <p>Endodontics is a branch of dentistry that deals with the diagnosis, prevention, and treatment of diseases and injuries that affect the dental pulp and the surrounding tissues of the tooth. The term "endodontics" comes from the Greek words "endo" meaning "inside" and "odont" meaning "tooth," indicating that it focuses on the internal structures of the tooth.</p> -->
 
 							<p><b>Who are the candidates of Endodontics treatment?</b><br></p>
 
-							<Third>The candidates for endodontic treatment, also known as root canal treatment, are individuals who have problems with the innermost layer of their teeth called the dental pulp. These problems can include severe tooth decay, tooth infections, tooth trauma, or irreversible damage to the pulp. Endodontic treatment is typically recommended for individuals experiencing tooth pain, sensitivity to hot and cold, swelling around the tooth, or abscess formation. It is important to consult with a dentist or endodontist for a proper diagnosis and to determine if endodontic treatment is suitable for your specific dental condition.
+							<Third>The candidates for endodontic treatment, also known as root canal treatment, are individuals who have problems with the innermost layer of their teeth called the dental pulp. These problems can include severe tooth decay, tooth infections, tooth trauma, or irreversible damage to the pulp. Endodontic treatment is typically recommended for individuals experiencing tooth pain, sensitivity to hot and cold, swelling around the tooth, or abscess formation. 
 
 							<p><b>What does the Endodontics do?</b><br></p>
 
-							<p>Endodontics is a branch of dentistry that focuses on the diagnosis and treatment of diseases and disorders related to the dental pulp and surrounding tissues. It involves procedures such as root canal therapy, which is the removal of infected or damaged pulp from inside the tooth, and subsequent cleaning, shaping, and filling of the root canal system. The goal of endodontic treatment is to save natural teeth and alleviate pain or discomfort caused by dental pulp infections or injuries.</p>
+							<p>Endodontics focuses on the diagnosis and treatment of diseases and disorders related to the dental pulp and surrounding tissues. It involves procedures such as root canal therapy, which is the removal of infected or damaged pulp from inside the tooth, and subsequent cleaning, shaping, and filling of the root canal system. The goal of endodontic treatment is to save natural teeth and alleviate pain or discomfort caused by dental pulp infections or injuries.</p>
 
 							<!-- <h4>Watch The Endodontics Image</h4> -->
 
@@ -247,53 +248,46 @@
 							<p><b>The steps followed in endodontic treatment (also known as root canal treatment) typically include the following:</b><br></p>
 							<ul>
 								<li>
-									<p><b>Initial examination: </b><br></p>
-									<span>1</span>
+									
+									<p><b><span class="bulletPoints"></span>Initial examination: </b><br></p>
+									
 									The dentist examines the tooth and takes X-rays to assess the condition of the tooth and surrounding structures.
 								</li>
 								<li>
-									<p><b>Anesthesia: </b><br></p>
-									<span>2</span>
+									<p><b><span class="bulletPoints"></span>Anesthesia: </b><br></p>
+								
 									Local anesthesia is administered to numb the area around the tooth, ensuring a painless procedure.
 								</li>
 								<li>
-									<p><b>Isolation: </b><br></p>
-									<span>3</span>
+									<p><b><span class="bulletPoints"></span>Isolation: </b><br></p>
 									A rubber dam is placed around the tooth to keep it clean and dry during the procedure.
 								</li>
 								<li>
-									<p><b>Access opening: </b><br></p>
-									<span>4</span>
+									<p><b><span class="bulletPoints"></span>Access opening: </b><br></p>
 									The dentist creates an opening in the tooth to gain access to the pulp chamber and root canals.
 								</li>
 								<li>
-									<p><b>Pulp removal: </b><br></p>
-									<span>5</span>
+									<p><b><span class="bulletPoints"></span>Pulp removal: </b><br></p>
 									 The infected or damaged pulp tissue is carefully removed from the pulp chamber and root canals using specialized instruments.
 								</li>
 								<li>
-									<p><b>Cleaning and shaping: </b><br></p>
-									<span>6</span>
+									<p><b><span class="bulletPoints"></span>Cleaning and shaping: </b><br></p>
 									 The dentist uses small files to clean and shape the root canals, removing any remaining infected tissue and preparing them for filling.
 								</li>
 								<li>
-									<p><b>Irrigation: </b><br></p>
-									<span>7</span>
+									<p><b><span class="bulletPoints"></span>Irrigation: </b><br></p>
 									 The root canals are flushed with a disinfecting solution to remove debris and disinfect the area.
 								</li>
 								<li>
-									<p><b>Obturation: </b><br></p>
-									<span>8</span>
+									<p><b><span class="bulletPoints"></span>Obturation: </b><br></p>
 									 The cleaned and shaped root canals are filled with a biocompatible material called gutta-percha and a dental sealer to seal the canals and prevent re-infection.
 								</li>
 								<li>
-									<p><b>Final restoration: </b><br></p>
-									<span>9</span>
+									<p><b><span class="bulletPoints"></span>Final restoration: </b><br></p>
 									 After the root canal treatment, the access opening in the tooth is filled and sealed with a temporary or permanent filling. In some cases, a dental crown may be necessary to protect and strengthen the treated tooth.
 								</li>
 								<li>
-									<p><b>Follow-up: </b><br></p>
-									<span>10</span>
+									<p><b><span class="bulletPoints"></span>Follow-up: </b><br></p>
 									 The patient is typically advised to schedule a follow-up appointment to monitor the healing process and ensure the success of the treatment.
 								</li>
 							</ul>
@@ -395,7 +389,7 @@
 			<div class="container">
 				<div class="row">
 					<div class="col-lg-8 col-md-7">
-						<p>Copyright © <span>Kirthika Dental Care</span> Is Proudly Owned by <a href="https://croptheme.com/" target="_blank">Macincode</a></p>
+						<p>Copyright © <span>Kirthika Dental Care</span> Is Proudly Owned by <a href="https://www.macincode.com/" target="_blank">Macincode</a></p>
 					</div>
 					<div class="col-lg-4 col-md-5">
 						<ul>
@@ -420,7 +414,7 @@
 <!--
 		<ul class="rtl-buy">
 			<li>
-				<a href="https://croptheme.com/Kirthika Dental Care/Kirthika Dental Care-rtl/">RTL</a>
+				<a href="https://www.macincode.com/Kirthika Dental Care/Kirthika Dental Care-rtl/">RTL</a>
 			</li>
 			<li>
 				<a href="https://themeforest.net/item/blad-ai-blood-donation-activism-campaign-html-template/41923002" target="_blank" class="bg-color">BUY</a>

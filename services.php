@@ -18,275 +18,54 @@
 	<link rel="stylesheet" href="assets/css/responsive.css">
 
 	<!--=== Favicon ===-->
-	<link rel="icon" type="image/png" href="assets/images/kirthika.png" style="width:80px; height:107px !important;">
+	<link rel="icon" type="image/png" href="assets/images/favicon.png">
 	<!--=== Title ===-->
 	<title>Kirthika Dental Care</title>
 </head>
-<section class="banner-section">
-	<div class="container-fluid">
-		<div class="row">
-			<div class="col-lg-12 p-0">
-				<div class="banner-img wow fadeInUp delay-0-2s" style="visibility: visible; animation-name: fadeInUp;">
-					<img src="assets/images/header_kirthika.png" alt="Image">
-				</div>
-			</div>
-		</div>
-	</div>
-	<!-- <div class="banner-shape-1 shape">
-			<img src="assets/images/banner/banner-shape-1.png" alt="Image">
-		</div> -->
-</section>
 
-<body style="  overflow-x: hidden;">
-
+<body>
 	<!-- Header Start -->
-	<!--=== Start Preloader Section ===-->
-	<div class="preloader">
-		<div class="content">
-			<div class="ball"></div>
-			<div class="ball"></div>
-			<div class="ball"></div>
-			<div class="ball"></div>
-			<div class="ball"></div>
-			<div class="ball"></div>
-			<div class="ball"></div>
-			<div class="ball"></div>
-			<div class="ball"></div>
-			<div class="ball"></div>
-		</div>
-	</div>
-	<!--=== End Preloader Section ===-->
-
-	<!--=== Start Navbar Section ===-->
-	<!-- 		<div class="top-header">
-			<div class="container">
-				<div class="row align-items-center">
-					<div class="col-lg-8">
-						<ul class="header-contact-info">
-							<li><i class="fas fa-phone"></i>Call Us: <a href="tel:+91-9087669000">+91-9087669000</a></li>
-							<li><i class="far fa-paper-plane"></i><a
-									href="mailto:ivorydentistry.ind@gmail.com">ivorydentistry.ind@gmail.com</a></li>
-						</ul>
-					</div>
-				</div>
-			</div>
-		</div> -->
-	<div class="navbar-section" style="background-color: #808080;">
-		<!--=== Start Main Navbar Section ===-->
-		<div class="main-nav">
-			<div class="container">
-				<nav class="navbar navbar-expand-md navbar-light">
-
-
-					<div class="collapse navbar-collapse for-mobile-menu" id="navbarSupportedContent">
-						<ul class="navbar-nav m-auto">
-							<li class="nav-item">
-								<a href="index.php" class="nav-link active ">
-									Home
-								</a>
-							</li>
-
-							<li class="nav-item">
-								<a href="about-us.php" class="nav-link ff ">About Us</a>
-							</li>
-
-							<li class="nav-item">
-								<a href="#" class="nav-link dropdown-toggle ff">
-									Specialities
-								</a>
-
-								<ul class="dropdown-menu">
-									<li class="nav-item">
-										<a href="oralmedicineandpathology.php" class="nav-link">Oral Medicine and Pathology </a>
-									</li>
-									<li class="nav-item">
-										<a href="restorativedentistry.php" class="nav-link">Restorative Dentistry</a>
-									</li>
-
-									<li class="nav-item">
-										<a href="endodontics.php" class="nav-link">Endodontics</a>
-									</li>
-									<!-- <li class="nav-item">
-									<a href="brushingtechniques.php" class="nav-link">Brushing Techniques</a>
-								</li> -->
-
-
-									<!-- <li class="nav-item">
-									<a href="cosmeticdentistry.php" class="nav-link dropdown-toggle">
-										Conservative Dentistry
-										<i class="icofont-rounded-down"></i>
-									</a>
-									<ul class="dropdown-menu">
-
-										<li class="nav-item">
-											<a href="cosmeticdentistry.php" class="nav-link">Cosmetic Dentistry</a>
-										</li>
-										<li class="nav-item">
-											<a href="dentalveneers.php" class="nav-link">Dental Veneers</a>
-										</li>
-										<li class="nav-item">
-											<a href="teethwhitening.php" class="nav-link">Teeth Whitening</a>
-										</li>
-										<li class="nav-item">
-											<a href="smilemakeover.php" class="nav-link">Smile Makeover</a>
-										</li>
-									</ul>
-								</li> -->
-
-
-
-
-									<!-- join the specialities -->
-									<li class="nav-item">
-										<a href="periodontics.php" class="nav-link dropdown-toggle">
-											Periodontics
-											<!-- <i class="icofont-rounded-down"></i> -->
-										</a>
-										<!-- <ul class="dropdown-menu">
-
-										<li class="nav-item">
-											<a href="teethscaling.php" class="nav-link">Teeth Scaling</a>
-										</li>
-
-									</ul> -->
-									</li>
-									<li class="nav-item">
-										<a href="oralandmaxillofacial.php" class="nav-link">Oral and maxillo facial surgery</a>
-									</li>
-									<li class="nav-item">
-										<a href="prosthodontics.php" class="nav-link dropdown-toggle">
-											Prosthodontics
-											<!-- <i class="icofont-rounded-down"></i> -->
-										</a>
-										<!-- <ul class="dropdown-menu">
-										<li class="nav-item">
-											<a href="dentalcrowns.php" class="nav-link">Dental Crowns</a>
-										</li>
-										<li class="nav-item">
-											<a href="dentalbridges.php" class="nav-link">Dental Bridges</a>
-										</li>
-										<li class="nav-item">
-											<a href="dentures.php" class="nav-link">Dentures</a>
-										</li>
-									</ul> -->
-									</li>
-									<li class="nav-item">
-										<a href="orthodontics.php" class="nav-link">Orthodontics</a>
-									</li>
-									<li class="nav-item">
-										<a href="dentalimplants.php" class="nav-link">Implant Dentistry</a>
-									</li>
-									<li class="nav-item">
-										<a href="laserdentistry.php" class="nav-link">Laser Dentistry</a>
-									</li>
-									<li class="nav-item">
-										<a href="pediatricdentistry.php" class="nav-link">Pediatric Dentistry</a>
-									</li>
-
-
-								</ul>
-							</li>
-
-							<!-- <a class="navbar-brand" href="index.php">
-							<img src="assets/images/kirthika.png" alt="Logo" class="log2" style="width:200px; height:90px;     margin-left: 85px;
-												margin-right: 73px;">
-						</a> -->
-
-							<li class="nav-item">
-								<a href="doctors.php" class="nav-link ff">Doctors</a>
-							</li>
-							<li class="nav-item">
-								<a href="adminlogin.php" class="nav-link ff">Admin Login</a>
-							</li>
-						<!-- <li class="nav-item">
-							<a href="#" class="nav-link dropdown-toggle">Login</a>
-							<ul class="dropdown-menu">
-								<li class="nav-item">
-									<a href="#orthodontics.php" class="nav-link">Staff login</a>
-								</li>
-								<li class="nav-item">
-									<a href="https://admin.kirthikadentalcare.in/" class="nav-link">Patient login</a>
-								</li>
-							</ul>
-						</li> -->
-						</ul>
-						<!--
-						<div class="nav-right-options">
-							<ul>
-								<li>
-									<a target="_blank" href="https://admin.kirthikadentalcare.in/appointment" class="main-btn">
-										<span>Appointment</span>
-									</a>
-								</li>
-							</ul>
-						</div> 
-					-->
-						<div class="main">
-
-							<!-- Actual search box -->
-							<!-- <div class="form-group has-search">
-							<span class="fa fa-search form-control-feedback"></span>
-							<input type="text" class="form-control" placeholder="Search" style="width:500px">
-						</div> -->
-
-
-						</div>
-				</nav>
-			</div>
-		</div>
-		<!--=== End Main Navbar Section ===-->
-		<!--=== Start Mobile Navbar Section ===-->
-		<div class="mobile-nav">
-			<div class="container">
-				<div class="mobile-menu">
-					<div class="logo">
-						<a href="index.php">
-							<img src="assets/images/kirthika.png" alt="Logo" style="width:120px; height:70px !important;">
-						</a>
-					</div>
-				</div>
-			</div>
-		</div>
-		<!--=== End Mobile Navbar Section ===-->
-	</div>
-	<!--=== End Navbar Section ===-->
-
-	<!--=== Start Navbar Section ===-->
-	<!-- <div class="navbar-section-btm"> -->
-	<!--=== Start Main Navbar Section ===-->
-	<!-- <div class="main-nav">
-		<div class="container">
-			<nav class="navbar navbar-expand-md navbar-light">
-
-
-				<a class="navbar-brand" href="#">
-					<img src="assets/images/kirthika.png" alt="Logo" class="log2" style="width:240px; height:144px;     margin-left: 505px;
-												margin-right: 73px;">
-				</a>
-
-		</div>
-		</nav>
-	</div> -->
-	<!-- </div> -->
-	<!--=== End Main Navbar Section ===-->
-
-	<!--=== End Navbar Section ===-->
-
+	<?php include 'header.php'; ?>
 
 	<!-- Header End -->
-
-
+	<!--=== Start Page Banner Section ===-->
+	<section class="page-banner-section bg-color-ebeef5 ptb-100">
+		<div class="container">
+			<div class="page-banner-content">
+				<h2>Our Services</h2>
+				<ul>
+					<li>
+						<a href="index.php">Home</a>
+					</li>
+					<li>
+						<span class="active">Our Services</span>
+					</li>
+				</ul>
+			</div>
+		</div>
+		<div class="page-banner-shape-1 shape">
+			<!-- <img src="assets/images/banner/banner-shape-1.png" alt="Image"> -->
+		</div>
+		<div class="page-banner-shape-2 shape">
+			<!-- <img src="assets/images/banner/banner-shape-1.png" alt="Image"> -->
+		</div>
+	</section>
+	<!--=== End Page Banner Section ===-->
 	<!--=== Start Banner Section ===-->
-	<section class="banner-section">
+	<!-- <section class="banner-section">
 		<div class>
 			<div class="row">
 				<div class="col-lg-12">
-					<div class=" pt-100">
-						<h1 class="wow fadeInUp delay-0-2s" style="text-align:center;">WELCOME TO KIRTHIKA DENTAL <br>CARE</h1>
+					<div class=" pt-100" >
+						<h1 class="wow fadeInUp delay-0-2s" style="text-align:center;">WELCOME TO KIRTHIKA DENTAL CARE</h1>
 						<br><br>
-						<p class="wow fadeInUp delay-0-4s" style="margin-left:20%;margin-right:20%; text-align:center;">We are committed to providing our patients best-in-class treatment using advance dental materials and instruments with the help of experienced dental professionals from different speciality in dentistry at a comfortable and relaxed environment.</p>
+						<p class="wow fadeInUp delay-0-4s"  style=  "margin-left:20%;margin-right:20%; text-align:center;">We are committed to providing our patients best-in-class
+							treatment using advance dental materials and instruments with
+							the help of experienced dental professionals from different speciality in dentistry at a
+							comfortable and relaxed
+							environment.</p> -->
 
-						<!-- <ul class="wow fadeInUp delay-0-6s">
+	<!-- <ul class="wow fadeInUp delay-0-6s">
 								<li>
 									<i class="icofont-shield-alt"></i>
 									<span>Best Services</span>
@@ -297,7 +76,7 @@
 								</li>
 							</ul> -->
 
-						<!-- <h3 class="wow fadeInUp delay-0-8s">Register</h3>
+	<!-- <h3 class="wow fadeInUp delay-0-8s">Register</h3>
 
 						<form class="appointment wow fadeInUp delay-0-1s">
 							<div class="row align-items-center">
@@ -331,82 +110,81 @@
 							</div>
 						</form> -->
 
-						<!-- <div class="banner-shape-2 shape">
+	<!-- <div class="banner-shape-2 shape">
 							<img src="assets/images/banner/banner-shape-2.png" alt="Image">
 						</div> -->
-					</div>
-				</div>
+	<!-- </div>
+				</div> -->
 
-				<!-- <div class="col-lg-6 p-0">
+	<!-- <div class="col-lg-6 p-0">
 					<div class="banner-img wow fadeInUp delay-0-2s">
 						<img src="assets/images/banner/dentist-with-smile.png" alt="Image">
 					</div>
 				</div> -->
-			</div>
-		</div>
-		<!-- <div class="banner-shape-1 shape">
+	<!-- </div>
+		</div> -->
+	<!-- <div class="banner-shape-1 shape">
 			<img src="assets/images/banner/banner-shape-1.png" alt="Image">
 		</div> -->
-	</section>
+	<!-- </section> -->
 	<!--=== End Banner Section ===-->
-	<section class="services-section pt-100 pb-70">
+	<!-- <section class="services-section pt-100 pb-70">
 		<div class="container">
 			<div class="main-section-title wow fadeInUp delay-0-2s">
-				<h2 class="up-title">Appointment</h2>
-
+				<h2 class="up-title">Appointment Details</h2>
+				<span>Here, we mentioned our Appointment process.</span>
 			</div>
 
 			<div class="row d-flex justify-content-center">
 				<div class="col-lg-3 col-sm-6">
-					<div class="main-services-box main-service hover-style wow fadeInUp delay-0-2s">
+					<div class="main-services-box hover-style wow fadeInUp delay-0-2s">
 						<div class="inner-border">
 							<div class="icon">
 								<img src="assets/images/icon/icon-1.svg" alt="Image">
 							</div>
 							<h3>
-								<a href="#">Appointment Booking</a>
+								<a href="#">Appointment</a>
 							</h3>
-							<p>You can book your personalized appointments at the comfortable time to visit the dentist on your registered login page.</p>
-
+							<p>You can book your personalized appointments for comfortable time to visit the dentist on your registered login page.</p>
 						</div>
 					</div>
 				</div>
 
 				<div class="col-lg-3 col-sm-6">
-					<div class="main-services-box hover-style wow fadeInUp delay-0-2s">
+					<div class="main-services-box hover-style wow fadeInUp delay-0-4s">
 						<div class="inner-border">
 							<div class="icon">
 								<img src="assets/images/icon/icon-2.svg" alt="Image">
 							</div>
 							<h3>
-								<a href="#">Appointment Cancellation</a>
+								<a href="#">Appointment cancellation</a>
 							</h3>
-							<p>lease give us at least 12-hour notice if you are unable to attend your appointment so that others may be offered your appointment.</p>
+							Please give us at least 12-hour notice if you are unable to attend so that others may be offered your appointment.</p>
+
 						</div>
 					</div>
 				</div>
 
+				
 
-
-
+				
 
 			</div>
 		</div>
-	</section>
+	</section> -->
 	<!--=== Start Services Section ===-->
 	<section class="services-section pt-100 pb-70">
 		<div class="container">
-			<div class="main-section-title wow fadeInUp delay-0-2s">
+			<!-- <div class="main-section-title wow fadeInUp delay-0-2s">
 				<h2 class="up-title">Our Services</h2>
 				<span>From general dentistry wellness, to perfecting cosmetic imperfections, to restoring implants and
 					filings, to those
 					painful oral emergencies—we have you covered.</span>
-			</div>
-
+			</div> -->
 
 			<div class="row d-flex justify-content-center">
-				<div class="col-lg-3 col-sm-6">
-					<div class="main-services-box main-box hover-style wow fadeInUp delay-0-8s">
+			<div class="col-lg-3 col-sm-6">
+					<div class="main-services-box main-box hover-style wow fadeInUp delay-0-8s" >
 						<div class="inner-border">
 							<div class="icon">
 								<img src="assets/images/icon/icon-4.svg" alt="Image">
@@ -420,7 +198,7 @@
 					</div>
 				</div>
 				<div class="col-lg-3 col-sm-6">
-					<div class="main-services-box main-box-p hover-style wow fadeInUp delay-0-2s ">
+					<div class="main-services-box main-box-p hover-style wow fadeInUp delay-0-2s " >
 						<div class="inner-border">
 							<div class="icon">
 								<img src="assets/images/icon/icon-1.svg" alt="Image">
@@ -435,7 +213,7 @@
 
 
 				<div class="col-lg-3 col-sm-6 ">
-					<div class="main-services-box main-box-p1 hover-style wow fadeInUp delay-0-8s">
+					<div class="main-services-box main-box-p1 hover-style wow fadeInUp delay-0-8s" >
 						<div class="inner-border">
 							<div class="icon">
 								<img src="assets/images/icon/icon-4.svg" alt="Image">
@@ -467,7 +245,7 @@
 
 
 				<div class="col-lg-3 col-sm-6">
-					<div class="main-services-box main-box-p2 hover-style wow fadeInUp delay-0-4s">
+					<div class="main-services-box main-box-p2 hover-style wow fadeInUp delay-0-4s" >
 						<div class="inner-border">
 							<div class="icon">
 								<img src="assets/images/icon/icon-2.svg" alt="Image">
@@ -480,7 +258,7 @@
 					</div>
 				</div>
 
-
+				
 				<div class="col-lg-3 col-sm-6">
 					<div class="main-services-box main-box-p3 hover-style wow fadeInUp delay-0-8s">
 						<div class="inner-border">
@@ -490,7 +268,7 @@
 							<h3>
 								<a href="#">Fillings, Crowns, & Bridges</a>
 							</h3>
-							<p>We offer a full range of restorative services from fillings, veneers, inlays, on lays, dental jewels, precious restoration to crowns and bridges. Let our smile artists repair your damaged or missing teeth and get your smile back today.<br><br></p>
+							<p>We offer a full range of restorative services from fillings, veneers, inlays, on lays,  dental jewels, precious restoration to crowns and bridges. Let our smile artists repair your damaged or missing teeth and get your smile back today.<br><br></p>
 
 						</div>
 					</div>
@@ -513,7 +291,7 @@
 					</div>
 				</div>
 
-
+				
 
 
 
@@ -533,7 +311,7 @@
 				</div>
 
 				<div class="col-lg-3 col-sm-6">
-					<div class="main-services-box main-box-p7 hover-style wow fadeInUp delay-0-8s">
+					<div class="main-services-box main-box-p7 hover-style wow fadeInUp delay-0-8s" >
 						<div class="inner-border">
 							<div class="icon">
 								<img src="assets/images/icon/icon-4.svg" alt="Image">
@@ -547,9 +325,9 @@
 					</div>
 				</div>
 
-
+				
 				<div class="col-lg-3 col-sm-6">
-					<div class="main-services-box main-box-p8 hover-style wow fadeInUp delay-0-6s">
+					<div class="main-services-box main-box-p8 hover-style wow fadeInUp delay-0-6s" >
 						<div class="inner-border">
 							<div class="icon">
 								<img src="assets/images/icon/icon-3.svg" alt="Image">
@@ -558,14 +336,14 @@
 								<a href="#">Preventive <br> Cleaning</a>
 							</h3>
 							<p>We advise patients to undergo preventive cleaning once in 6 months based on their oral hygiene status. It differs for patient to patient and it is an essential part of maintaining optimal oral health. Regular visits to your dentist, along with consistent oral hygiene practices at home is necessary for healthy oral cavity.</p>
-
+							
 						</div>
 					</div>
 				</div>
 
 
 				<div class="col-lg-3 col-sm-6">
-					<div class="main-services-box main-box-p6 hover-style wow fadeInUp delay-0-8s">
+					<div class="main-services-box main-box-p6 hover-style wow fadeInUp delay-0-8s" >
 						<div class="inner-border">
 							<div class="icon">
 								<img src="assets/images/icon/icon-4.svg" alt="Image">
@@ -579,7 +357,7 @@
 					</div>
 				</div>
 
-				<div class="col-lg-3 col-sm-6">
+				<div class="col-lg-3 col-sm-6" >
 					<div class="main-services-box main-box-p5 hover-style wow fadeInUp delay-0-6s">
 						<div class="inner-border">
 							<div class="icon">
@@ -589,7 +367,7 @@
 								<a href="#">Children <br>Dentistry</a>
 							</h3>
 							<p>Children's dentistry plays a vital role in promoting lifelong oral health and establishing positive dental experiences for children. Regular dental visits and early intervention can help prevent dental problems. Your child should see a dentist by their first birthday or when their first tooth appears, whichever comes first. Our first dental appointments are quick, gentle, and designed to be a positive experience.<br><br></p>
-
+							
 						</div>
 					</div>
 				</div>
@@ -600,7 +378,7 @@
 	<!--=== End Services Section ===-->
 
 	<!--=== Start About Us Section ===-->
-	<section class="about-us-section pb-100 container" id="about_us">
+	<!-- <section class="about-us-section pb-100" id="about_us">
 		<div class="container-fluid">
 			<div class="row align-items-center">
 				<div class="col-lg-6 ps-0">
@@ -610,7 +388,7 @@
 				</div>
 				<div class="col-lg-6">
 					<div class="about-content ms-15">
-
+						<span class="up-title wow fadeInUp delay-0-2s">About Kirthika Dental Care</span>
 						<h2 class="wow fadeInUp delay-0-4s">Why Choose US?</h2>
 						<p class="wow fadeInUp delay-0-6s">We use latest treatment techniques, procedures & dental materials that enable us to deliver a wide range of options to suit your needs. We use a wide variety of cosmetic dentistry options and treatments to transform your regular smile into a million dollar one. We offer all your treatments in the same place, whichever specialist you may need to see, you will find them available here.</p>
 
@@ -645,7 +423,7 @@
 				</div>
 			</div>
 		</div>
-	</section>
+	</section> -->
 	<!--=== End About Us Section ===-->
 
 	<!-- === Start Doctors Section ===-->
@@ -823,10 +601,10 @@
 				<div class="col-lg-4 col-md-5">
 					<ul>
 						<li>
-							<a href="404.php">Terms & Condition</a>
+							<a href="terms-conditions.php">Terms & Condition</a>
 						</li>
 						<li>
-							<a href="404.php">Privacy Policy</a>
+							<a href="privacy-policy.php">Privacy Policy</a>
 						</li>
 					</ul>
 				</div>
@@ -839,6 +617,33 @@
 		</div>
 		<!--=== End Back To Top Section ===-->
 	</div>
+	<!--=== End Copy Right Section ===-->
+	<!--=== Start Copy Right Section ===-->
+	<!-- <div class="copy-right-section">
+		<div class="container">
+			<div class="row">
+				<div class="col-lg-8 col-md-7">
+					<p>Copyright © <span>Kirthika Dental Care</span> All RIghts Reserved <a href="https://macincode.com/" target="_blank">Macincode</a></p>
+				</div>
+				<div class="col-lg-4 col-md-5">
+					<ul>
+						<li>
+							<a href="404.php">Terms & Condition</a>
+						</li>
+						<li>
+							<a href="404.php">Privacy Policy</a>
+						</li>
+					</ul>
+				</div>
+			</div>
+		</div> -->
+
+	<!--=== Start back To Top Section ===-->
+	<!-- <div class="back-to-top">
+			<i class="icofont-simple-up"></i>
+		</div> -->
+	<!--=== End Back To Top Section ===-->
+	<!-- </div> -->
 	<!--=== End Copy Right Section ===-->
 
 

@@ -89,7 +89,7 @@
 									</li>
 									<li>
 										<a href="oralandmaxillofacial.php">
-										Oral and maxilla facial surgery
+										Oral and maxillo facial surgery
 											<i class="icofont-simple-right"></i>
 										</a>
 									</li>
@@ -168,7 +168,7 @@
 								</ul>
 							</div>
 
-							<div class="main-sidebar-item contact-us">
+							<!-- <div class="main-sidebar-item contact-us">
 								<h3>Contact Us</h3>
 
 								<div class="row">
@@ -213,23 +213,22 @@
 										</button>
 									</div>
 								</div>
-							</div>
+							</div> -->
 						</div>
 					</div>
 
 					<div class="col-lg-8">
 						<div class="services-details-content ms-15">
 							<div class="services-img-1">
-								<img src="assets/images/services/dental-implants-section-1.png" alt="Image">
+							<img src="assets/images/services/restorativedentistry.png" alt="Image">
+
+								
 							</div>
 							<h4>Introduction</h4>
-							<h3>Dental Implants</h3>
-							<p><b>What is the meaning of dental implant?</b><br></p>
+							<!-- <h3>Dental Implants</h3>
+							<p><b>What is the meaning of dental implant?</b><br></p> -->
 
-							<p>A dental implant is manmade replacement in place of the natural teeth which enables a person to have fixed teeth. Dental
-							implants are different from transplants taken from others. What category of dental transplant is suitable for a patient
-							depends on the individual need and condition of the teeth. An x-ray is required to check the number of bones remaining;
-							space available in the mouth .The dentist does a examination before finalizing which type of implant should be done.</p>
+							<p>A dental implant is man-made replacement in place of the natural teeth which enables a person to have fixed teeth. Dental implants are different from transplants taken from others. What category of dental implant is suitable for a patient depends on the individual need and condition of the teeth. An x-ray is required to check the amount of bones remaining; space available in the mouth .The dentist does an examination before finalizing which type of implant should be done.</p>
 
 							<p><b>Who are the candidates for dental implant?</b><br></p>
 
@@ -247,7 +246,7 @@
 
 							<div class="services-img-1">
 								<img src="assets/images/services/dental-implants-section-2.png" alt="Image">
-
+								
 							</div>
 
 							<h3>Dental Implants: Your Smile Savers</h3>
@@ -258,11 +257,11 @@
 							dental implants, you will be able to eat, speak, smile and laugh confidently. You will never have to worry about your
 							teeth all while enjoying your everyday life.</p>
 
-							<p>We used to give provision for higher education and training for fellow young dentist in the field of Dental Implantology
+							<!-- <p>We used to give provision for higher education and training for fellow young dentist in the field of Dental Implantology
 							to uplift their skills in post graduate level. Nucleoss from Turkey did many clinical workshops on basic dental implant
 							placement on patients for young dentists and Ostem from Korea did Advance clinical training courses like “Sinus Lift
 							Surgery” for Implant patients in our venue by the under the supervision from many international experts in the field of
-							Dental Implantology.</p>
+							Dental Implantology.</p> -->
 
 							<!-- <p>Third is the retention phase in which the patient is required to wear a retainer so that teeth retain their new
 							place/position.</p> -->
@@ -277,10 +276,10 @@
 
 							<ul>
 								<!-- <li> -->
-									<p><b>When can I resume work?</b><br></p>
+									<!-- <p><b>When can I resume work?</b><br></p> -->
 									<!-- <span>1</span> -->
-									There is misalignment of teeth because of thumb sucking, small jaw, incompetent lips, bad tongue and lip habits, nail
-									biting, injury etc.
+									<!-- There is misalignment of teeth because of thumb sucking, small jaw, incompetent lips, bad tongue and lip habits, nail
+									biting, injury etc. -->
 								<!-- </li> -->
 								<!-- <li>
 									<p><b>At what age one can go for orthodontic treatment?</b><br></p>
@@ -380,7 +379,7 @@
 			<div class="container">
 				<div class="row">
 					<div class="col-lg-8 col-md-7">
-						<p>Copyright © <span>Kirthika Dental Care</span> Is Proudly Owned by <a href="https://croptheme.com/" target="_blank">Macincode</a></p>
+						<p>Copyright © <span>Kirthika Dental Care</span> Is Proudly Owned by <a href="https://www.macincode.com/" target="_blank">Macincode</a></p>
 					</div>
 					<div class="col-lg-4 col-md-5">
 						<ul>
@@ -405,7 +404,7 @@
 <!--
 		<ul class="rtl-buy">
 			<li>
-				<a href="https://croptheme.com/Kirthika Dental Care/Kirthika Dental Care-rtl/">RTL</a>
+				<a href="https://www.macincode.com/Kirthika Dental Care/Kirthika Dental Care-rtl/">RTL</a>
 			</li>
 			<li>
 				<a href="https://themeforest.net/item/blad-ai-blood-donation-activism-campaign-html-template/41923002" target="_blank" class="bg-color">BUY</a>

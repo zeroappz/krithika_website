@@ -89,7 +89,7 @@
 									</li>
 									<li>
 										<a href="oralandmaxillofacial.php">
-										Oral and maxilla facial surgery
+										Oral and maxillo facial surgery
 											<i class="icofont-simple-right"></i>
 										</a>
 									</li>
@@ -168,7 +168,7 @@
 								</ul>
 							</div>
 
-							<div class="main-sidebar-item contact-us">
+							<!-- <div class="main-sidebar-item contact-us">
 								<h3>Contact Us</h3>
 
 								<div class="row">
@@ -213,20 +213,21 @@
 										</button>
 									</div>
 								</div>
-							</div>
+							</div> -->
 						</div>
 					</div>
 
 					<div class="col-lg-8">
 						<div class="services-details-content ms-15">
 							<div class="services-img-1">
-								<img src="assets/images/services/prosthodontics_sec_1.png" alt="Image">
+							<img src="assets/images/services/dental-implants-section-1.png" alt="Image">
+								<!-- <img src="assets/images/services/prosthodontics_sec_1.png" alt="Image"> -->
 							</div>
 							<h4>Introduction</h4>
-							<h3>prosthodontics</h3>
-							<p><b>What is meaning by prosthodontics?</b><br></p>
+							<!-- <h3>prosthodontics</h3>
+							<p><b>What is meaning by prosthodontics?</b><br></p> -->
 
-							<p>Prosthodontics is a specialized branch of dentistry dedicated to making dental prosthetics (artificial teeth) for damaged or missing teeth. The word “prosthodontics” comes from the words “prostho,” meaning replacement, and “dontist,” meaning teeth.</p>
+							<p>Prosthodontics is a specialized branch of dentistry dedicated to making dental prosthetics (artificial teeth) for damaged or missing teeth.</p>
 
 							<p><b>Who needs prosthodontics?</b><br></p>
 
@@ -387,7 +388,7 @@ Prosthodontics is a branch of dentistry that focuses on the design, creation, an
 			<div class="container">
 				<div class="row">
 					<div class="col-lg-8 col-md-7">
-						<p>Copyright © <span>Kirthika Dental Care</span> Is Proudly Owned by <a href="https://croptheme.com/" target="_blank">Macincode</a></p>
+						<p>Copyright © <span>Kirthika Dental Care</span> Is Proudly Owned by <a href="https://www.macincode.com/" target="_blank">Macincode</a></p>
 					</div>
 					<div class="col-lg-4 col-md-5">
 						<ul>
@@ -412,7 +413,7 @@ Prosthodontics is a branch of dentistry that focuses on the design, creation, an
 <!--
 		<ul class="rtl-buy">
 			<li>
-				<a href="https://croptheme.com/Kirthika Dental Care/Kirthika Dental Care-rtl/">RTL</a>
+				<a href="https://www.macincode.com/Kirthika Dental Care/Kirthika Dental Care-rtl/">RTL</a>
 			</li>
 			<li>
 				<a href="https://themeforest.net/item/blad-ai-blood-donation-activism-campaign-html-template/41923002" target="_blank" class="bg-color">BUY</a>

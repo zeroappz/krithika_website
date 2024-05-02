@@ -89,7 +89,7 @@
 									</li>
 									<li>
 										<a href="oralandmaxillofacial.php">
-										Oral and maxilla facial surgery
+										Oral and maxillo facial surgery
 											<i class="icofont-simple-right"></i>
 										</a>
 									</li>
@@ -168,7 +168,7 @@
 								</ul>
 							</div>
 
-							<div class="main-sidebar-item contact-us">
+							<!-- <div class="main-sidebar-item contact-us">
 								<h3>Contact Us</h3>
 
 								<div class="row">
@@ -213,7 +213,7 @@
 										</button>
 									</div>
 								</div>
-							</div>
+							</div> -->
 						</div>
 					</div>
 
@@ -223,13 +223,10 @@
 								<img src="assets/images/services/laser-dentistry-section-1.png" alt="Image">
 							</div>
 							<h4>Introduction</h4>
-							<h3>Laser Dentistry</h3>
-							<p><b>What is laser dentistry?</b><br></p>
+							<!-- <h3>Laser Dentistry</h3>
+							<p><b>What is laser dentistry?</b><br></p> -->
 
-							<p>Laser dentistry is an effective and precise way of performing various dental procedures .Laser dentistry has the
-							potential to improve various dental procedures, but all depends on the personnel skill of the dentist i.e. his ability
-							and skill to control the exposure of laser on the gum as well as the teeth surface, and control over power output.
-							Special care is required as the laser should not damage the surrounding tissues.</p>
+							<p>Laser dentistry is an effective and precise way of performing various dental procedures. Laser dentistry has the potential to improve various dental procedures, but all depends on the personnel skill of the dentist i.e. his ability and skill to control the exposure of laser on the gum as well as the teeth surface, and control over power output. Special care is required as the laser should not damage the surrounding tissues.</p>
 
 							<!-- <p><b>Who are the candidates of orthodontic treatment?</b><br></p>
 
@@ -288,10 +285,7 @@
 
 
 							<h4>How does the dentist use the technique of laser dentistry?</h4>
-							<p>The dentists use the hydrophotonics technique which uses the combination of laser energy as well as spray of water that
-							help in performing various procedures on gums, teeth and teeth bones more easily.</p>
-							<p>The laser energy is absorbed by molecules of water present in the tooth tissues. The laser energy causes a explosion
-							because the water molecules expand which in turn moves apart the tooth particle.</p>
+							<p>The laser energy is absorbed by molecules of water present in the tissues. The laser energy causes an explosion because the water molecules expand which in turn moves apart the tissue particle.</p>
 
 							<ul>
 								<!-- <li> -->
@@ -310,6 +304,7 @@
 
 
 							</p>
+							<div class="services-details-content ms-15">
 								<div class="services-img-1">
 									<img src="assets/images/services/laser-dentistry-section-3.png" alt="Image">
 
@@ -319,22 +314,50 @@
 							immediately after the treatment and there is no down time. Hence it is very convenient and comfortable for the patient
 							as there is no recovery time.</p>
 
-							<p><b>Is laser used for all dental procedures?</b><br></p>
+							<!-- <p><b>Is laser used for all dental procedures?</b><br></p>
 
 							<p>Lasers reflect light with the help of a mirror hence it gets difficult /impossible to remove the silver filling i.e.
 							amalgam filling as there are chances of fracture of mirror. The conventional drill removes the amalgam filling in first
 							instance. Then laser is used to remove decay and the cavity that allows the placement of tooth color filling.
-							Combination of conventional drill and laser is used for extensive works such as preparation of crown.</p>
+							Combination of conventional drill and laser is used for extensive works such as preparation of crown.</p> -->
 
 							<!-- <p><b>Is laser used for all dental procedures?</b><br></p>
 
 							<p>On an average 22 months time is required but the time depends on individual need and problem.</p> -->
 									</div>
-									<h4>How costly is the laser therapy?</h4>
+
+									<h4>What are the advantages of laser?</h4>
+							<!-- <p>There are many advantages to choosing periodontal therapy, your health and wellness being the most important. However, there are other benefits to consider:</p> -->
+
+							<ul>
+								<li>
+									<!-- <p><b>Why teeth become irregular?</b><br></p> -->
+									<span class="bulletPoints"></span>
+									<b>Gum disease: </b> Lasers are used to reshape gums and remove bacteria during root canal procedures.
+								</li>
+								<li>
+									<!-- <p><b>At what age one can go for orthodontic treatment?</b><br></p> -->
+									<span class="bulletPoints"></span>
+									<b>Biopsy or lesion removal:</b> Lasers can be used to remove a small piece of tissue (called a biopsy) so that it can be examined for cancer. Lasers are also used to remove lesions in the mouth and relieve the pain of canker sores.
+								</li>
+								<li>
+									<!-- <p><b>At what age one can go for orthodontic treatment?</b><br></p> -->
+									<span class="bulletPoints"></span>
+									<b>Teeth whitening:</b> Lasers are used to speed up in-office teeth whitening procedures. A peroxide bleaching solution, applied to the tooth surface, is ''activated" by laser energy, which speeds up of the whitening process.
+								</li>
+								<li>
+									<!-- <p><b>At what age one can go for orthodontic treatment?</b><br></p> -->
+									<span class="bulletPoints"></span>
+									<b>Root canal debridement:</b> Lasers used in killing the bacteria present in the root canal during the RCT procedure.
+								</li>
+								
+								<li>
+							</ul>
+									<!-- <h4>How costly is the laser therapy?</h4>
 									<p>The cost factor depends on the personnel skill of the dentist i.e. how efficiently and skillfully the light energy is
 									used, the location of the dental clinic as well as individual requirement. In some cases the laser therapy has proved to
 									be much cheaper than gum surgeries. Some insurance companies also cover laser therapy, but this should be checked before
-									going for the treatment.</p>
+									going for the treatment.</p> -->
 						</div>
 					</div>
 				</div>
@@ -379,7 +402,7 @@
 			<div class="container">
 				<div class="row">
 					<div class="col-lg-8 col-md-7">
-						<p>Copyright © <span>Kirthika Dental Care</span> Is Proudly Owned by <a href="https://croptheme.com/" target="_blank">Macincode</a></p>
+						<p>Copyright © <span>Kirthika Dental Care</span> Is Proudly Owned by <a href="https://www.macincode.com/" target="_blank">Macincode</a></p>
 					</div>
 					<div class="col-lg-4 col-md-5">
 						<ul>
@@ -404,7 +427,7 @@
 <!--
 		<ul class="rtl-buy">
 			<li>
-				<a href="https://croptheme.com/Kirthika Dental Care/Kirthika Dental Care-rtl/">RTL</a>
+				<a href="https://www.macincode.com/Kirthika Dental Care/Kirthika Dental Care-rtl/">RTL</a>
 			</li>
 			<li>
 				<a href="https://themeforest.net/item/blad-ai-blood-donation-activism-campaign-html-template/41923002" target="_blank" class="bg-color">BUY</a>

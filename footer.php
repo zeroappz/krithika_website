@@ -20,11 +20,11 @@
 
 						<ul class="useful-link">
 							<li>
-								<a href="#">About Us</a>
+								<a href="about-us.php">About Us</a>
 							</li>
-							<li>
+							<!-- <li>
 								<a href="services.php">Services</a>
-							</li>
+							</li> -->
 							<li>
 								<a target="_blank" href="https://admin.kirthikadentalcare.in/appointment">Appointment</a>
 							</li>

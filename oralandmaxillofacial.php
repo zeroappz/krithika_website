@@ -33,13 +33,13 @@
 		<section class="page-banner-section bg-color-ebeef5 ptb-100">
 			<div class="container">
 				<div class="page-banner-content">
-					<h2>Oral and maxilla facial surgery</h2>
+					<h2>Oral and maxillo facial surgery</h2>
 					<ul>
 						<li>
 							<a href="index.php">Home</a>
 						</li>
 						<li>
-							<span class="active">Oral and maxilla facial surgery</span>
+							<span class="active">Oral and maxillo facial surgery</span>
 						</li>
 					</ul>
 				</div>
@@ -89,7 +89,7 @@
 									</li>
 									<li>
 										<a href="oralandmaxillofacial.php">
-										Oral and maxilla facial surgery
+										Oral and maxillo facial surgery
 											<i class="icofont-simple-right"></i>
 										</a>
 									</li>
@@ -168,7 +168,7 @@
 								</ul>
 							</div>
 
-							<div class="main-sidebar-item contact-us">
+							<!-- <div class="main-sidebar-item contact-us">
 								<h3>Contact Us</h3>
 
 								<div class="row">
@@ -213,7 +213,7 @@
 										</button>
 									</div>
 								</div>
-							</div>
+							</div> -->
 						</div>
 					</div>
 
@@ -223,85 +223,114 @@
 								<img src="assets/images/services/oral-and-maxillofacial-surgery-section-1.png" alt="Image">
 							</div>
 							<h4>Introduction</h4>
-							<h3>Oral and maxilla facial surgery</h3>
-							<p><b>What is the meaning of maxillofacial?</b><br></p>
+							<!-- <h3>Oral and maxillo facial surgery</h3>
+							<p><b>What is the meaning of maxillofacial?</b><br></p> -->
 
-							<p>Maxillofacial means jaws and face, which combines with mouth becomes the domain/area of specialization of oral and
-							maxillofacial surgeon.</p>
+							<p>This is a branch of dentistry which deals with diagnosing and surgically treating injuries, diseases, defects of jaws, mouth, face etc. This also includes dental implants, removing decayed teeth, biopsy and taking of cysts as well as tumours of jaw and mouth, treating facial trauma and jaw reconstruction.</p>
 
-							<p><b>What is oral treatment/surgery?</b><br></p>
+							<!-- <p><b>What is oral treatment/surgery?</b><br></p>
 
 							<Third>This is a branch of dentistry which deals in diagnosing and surgically treating injuries, diseases, defects of jaws,
 							mouth, face etc. This also includes dental implants, removing decayed teeth, biopsy and taking of cysts as well as
-							tumors of jaw and mouth, treating facial trauma and jaw reconstruction.
+							tumors of jaw and mouth, treating facial trauma and jaw reconstruction. -->
 
-							<p><b>What treatment/procedures are followed by Oral and maxilla facial surgery surgeon?</b><br></p>
+							<p><b>What are the steps followed in oral surgery?</b><br></p>
 
-							<p>Oral and maxilla facial surgery surgeons perform the following procedures/treatments:</p>
+							<p>Oral and maxillo facial surgery perform the following procedures/treatments:</p>
 							<ul>
 								<li>
 									<!-- <p><b>Why teeth become irregular?</b><br></p> -->
 									<span class="bulletPoints"></span>
-									Placement of dental implants which replaces single/several teeth as well as entire teeth in the mouth. Dental implants
-									are very comfortable and last for a long time than the conventional dentures.
+									Extraction of decayed tooth, surgical extraction of roots and removal of impacted wisdom tooth.
 								</li>
 								<li>
 									<!-- <p><b>At what age one can go for orthodontic treatment?</b><br></p> -->
 									<span class="bulletPoints"></span>
-									Reconstructive surgery which addresses injuries in lower, upper jaws of the soft and hard tissues which are the result
-									of trauma, accident, long time of wearing dentures, tumor surgery.
+									Placement of dental implants which replaces single/several teeth as well as entire teeth in the mouth. Dental implants are very comfortable and last for a long time than the conventional dentures.
 								</li>
 								<li>
 									<!-- <p><b>At what age one can go for orthodontic treatment?</b><br></p> -->
 									<span class="bulletPoints"></span>
-									Treatment of maxillofacial infections. Such infections are diagnosed and then treated as they are very dangerous and can
-									cause severe emergencies if not treated properly, timely and effectively.
+									Reconstructive surgery which addresses injuries in lower, upper jaws of the soft and hard tissues which are the result of trauma, accident, long time of wearing dentures, tumor surgery.
 								</li>
 								<li>
 									<!-- <p><b>At what age one can go for orthodontic treatment?</b><br></p> -->
 									<span class="bulletPoints"></span>
-									Surgeries to correct facial and oral deformities due to difference in the skeletal growth between lower and upper jaws,
-									congenital disorders(such as palate, cleft lip) which is the result of improper growth of oral nasal cavity at the time
-									of fetal development.
+									Treatment of maxillofacial infections. Such infections are diagnosed and then treated as they are very dangerous and can cause severe emergencies if not treated properly, timely and effectively.
 								</li>
 									<li>
 										<!-- <p><b>At what age one can go for orthodontic treatment?</b><br></p> -->
 										<span class="bulletPoints"></span>
-									Surgeons are capable of reconstructing facial structure, hence can perform facial cosmetic procedures in their office.
+										Surgeries to correct facial and oral deformities due to difference in the skeletal growth between lower and upper jaws, congenital disorders(such as palate, cleft lip) which is the result of improper growth of oral nasal cavity at the time of fetal development.
 									</li>
 										<li>
 											<!-- <p><b>At what age one can go for orthodontic treatment?</b><br></p> -->
 											<span class="bulletPoints"></span>
-								Treating injuries to face, teeth, mouth, jaws caused because of trauma. Surgeons are expert to treat trauma which also
-								includes upper and lower fractures of the jaws and orbit.
+											Treating injuries to face, teeth, mouth, jaws caused because of trauma. Surgeons are expert to treat trauma which also includes upper and lower fractures of the jaws and orbit.
 										</li>
-											<li>
-
 
 							</ul>
+							<br>
 							<!-- <h4>Watch The Sealants Image</h4> -->
 
 							<div class="services-img-1">
 								<img src="assets/images/services/oral-and-maxillofacial-surgery-section-2.png" alt="Image">
 
 							</div>
+							<h4>What are the advantages of Oral and maxillo facial surgery</h4>
+							<!-- <p>There are many advantages to choosing periodontal therapy, your health and wellness being the most important. However, there are other benefits to consider:</p> -->
 
-							<h3>How important is it to be board certified in Oral and maxilla facial surgery surgery?</h3>
-							<p>One should graduate from accredited school of dentistry and completed program of Oral and maxilla facial surgery surgery which is
-							passed by ADA. It requires 13 years of training and education .ADA recognizes a board for Oral and maxilla facial surgery surgery
+							<ul>
+								<li>
+									<!-- <p><b>Why teeth become irregular?</b><br></p> -->
+									<span class="bulletPoints"></span>
+									Improved oral health: OMFS can treat a range of oral issues such as impacted teeth, jaw misalignment, and gum disease. By addressing these issues, patients can enjoy better oral health and a reduced risk of future problems.
+									<!-- <b>Improved oral health:  </b> OMFS can treat a range of oral issues such as impacted teeth, jaw misalignment, and gum disease. By addressing these issues, patients can enjoy better oral health and a reduced risk of future problems. -->
+								</li>
+								<li>
+									<!-- <p><b>At what age one can go for orthodontic treatment?</b><br></p> -->
+									<span class="bulletPoints"></span>
+									Improved overall health: OMFS can help treat conditions that may affect other parts of the body. 
+									<!-- <b>Improved overall health:</b> OMFS can help treat conditions that may affect other parts of the body.  -->
+								</li>
+								<li>
+									<!-- <p><b>At what age one can go for orthodontic treatment?</b><br></p> -->
+									<span class="bulletPoints"></span>
+									Enhanced appearance: OMFS can also improve the appearance of the face and jaw, leading to increased confidence and self-esteem.
+									<!-- <b>Enhanced appearance:</b> OMFS can also improve the appearance of the face and jaw, leading to increased confidence and self-esteem. -->
+								</li>
+								<li>
+									<!-- <p><b>At what age one can go for orthodontic treatment?</b><br></p> -->
+									<span class="bulletPoints"></span>
+									Increased self-esteem: In addition to the benefits already mentioned, OMFS can help with issues such as facial trauma and reconstructive surgery, further improving self-esteem.
+									<!-- <b>Increased self-esteem:</b> In addition to the benefits already mentioned, OMFS can help with issues such as facial trauma and reconstructive surgery, further improving self-esteem. -->
+								</li>
+								<li>
+									<!-- <p><b>At what age one can go for orthodontic treatment?</b><br></p> -->
+									<span class="bulletPoints"></span>
+									Other benefits: These include improved ability to speak and eat comfortably, as well as relief from chronic pain or discomfort. By addressing both functional and aesthetic concerns, OMFS offers a comprehensive approach to improving oral and overall health.
+									<!-- <b>Other benefits:</b> These include improved ability to speak and eat comfortably, as well as relief from chronic pain or discomfort. By addressing both functional and aesthetic concerns, OMFS offers a comprehensive approach to improving oral and overall health. -->
+								</li>
+								
+								<li>
+							</ul>
+
+							<!-- <h3>How important is it to be board certified in Oral and maxillo facial surgery surgery?</h3>
+							<p>One should graduate from accredited school of dentistry and completed program of Oral and maxillo facial surgery surgery which is
+							passed by ADA. It requires 13 years of training and education .ADA recognizes a board for Oral and maxillo facial surgery surgery
 							which has the responsibility to review all the applicants that need board certification.</p>
 
 							<p>The board also administers examinations for the certification process. There is written as well as oral examination ,and
 							when one clears both then only he is certified as diplomate by the board. Diplomates are motivated to continue education
-							to improve their skills</p>
+							to improve their skills</p> -->
 
 							<!-- <p>Third is the retention phase in which the patient is required to wear a retainer so that teeth retain their new
 							place/position.</p> -->
 
 
-							<h4>Does the treatment require x-rays?</h4>
+							<!-- <h4>Does the treatment require x-rays?</h4>
 							<p>X-rays are always taken before the treatment begins as it gives a clear picture of the disorder in the teeth or the
-							bones.</p>
+							bones.</p> -->
 
 							<!-- <ul>
 								<li>
@@ -380,7 +409,7 @@
 			<div class="container">
 				<div class="row">
 					<div class="col-lg-8 col-md-7">
-						<p>Copyright © <span>Kirthika Dental Care</span> Is Proudly Owned by <a href="https://croptheme.com/" target="_blank">Macincode</a></p>
+						<p>Copyright © <span>Kirthika Dental Care</span> Is Proudly Owned by <a href="https://www.macincode.com/" target="_blank">Macincode</a></p>
 					</div>
 					<div class="col-lg-4 col-md-5">
 						<ul>
@@ -405,7 +434,7 @@
 
 		<!-- <ul class="rtl-buy">
 			<li>
-				<a href="https://croptheme.com/Kirthika Dental Care/Kirthika Dental Care-rtl/">RTL</a>
+				<a href="https://www.macincode.com/Kirthika Dental Care/Kirthika Dental Care-rtl/">RTL</a>
 			</li>
 			<li>
 				<a href="https://themeforest.net/item/blad-ai-blood-donation-activism-campaign-html-template/41923002" target="_blank" class="bg-color">BUY</a>

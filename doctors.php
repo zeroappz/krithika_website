@@ -57,12 +57,12 @@ include 'conn.php';
 		<!--=== End Page Banner Section ===-->
 
 		<!--=== Start Doctors Section ===-->
-		<section class="our-doctors-section ptb-100">
+		<section class="our-doctors-section mt-4 ptb-100">
 			<div class="container">
-				<div class="main-section-title wow fadeInUp delay-0-2s">
+				<!-- <div class="main-section-title wow fadeInUp delay-0-2s">
 					<span class="up-title">Our Doctors</span>
-					<h2>Our Experienced Physicians Strive For Improved Services</h2>
-				</div>
+					<h2>Our Experienced Dentists Strive For Improved Services</h2>
+				</div> -->
 
 				<div class="row justify-content-center">
 
@@ -123,7 +123,7 @@ include 'conn.php';
 								<div class="doctor-img">
 									<img src="assets/images/doctors/rajkumar.jpeg" alt="Image">
 
-									<ul>
+									<!--  <ul>
 										<li>
 											<a href="https://www.facebook.com/" target="_blank">
 												<i class="icofont-facebook"></i>
@@ -144,7 +144,7 @@ include 'conn.php';
 												<i class="icofont-instagram"></i>
 											</a>
 										</li>
-									</ul>
+									</ul> -->
 								</div>
 								<h3>Dr. G. Rajkumar </h3>
 								<span>M.D.S., (Perio), MFDS RCPS., (Glasgow)</span><br>
@@ -157,9 +157,9 @@ include 'conn.php';
 						<div class="main-doctors-item hover-style wow fadeInUp delay-0-4s">
 							<div class="inner-border">
 								<div class="doctor-img">
-									<img src="assets/images/doctors/doctor-2.jpg" alt="Image">
+									<img src="assets/images/doctors/kamaraj.jpeg" alt="Image">
 
-									<ul>
+									<!-- <ul>
 										<li>
 											<a href="https://www.facebook.com/" target="_blank">
 												<i class="icofont-facebook"></i>
@@ -180,7 +180,7 @@ include 'conn.php';
 												<i class="icofont-instagram"></i>
 											</a>
 										</li>
-									</ul>
+									</ul> -->
 								</div>
 								<h3>Prof, Dr. L. Kamaraj</h3>
 								<span>M.D.S., (OMFS) FDS RCPS., (Glasgow) P.hD (OMFS), FIBOMFS,</span><br>
@@ -205,9 +205,9 @@ include 'conn.php';
 						<div class="main-doctors-item hover-style wow fadeInUp delay-0-6s">
 							<div class="inner-border">
 								<div class="doctor-img">
-									<img src="assets/images/doctors/gugan.jpeg" alt="Image">
+									<img src="assets/images/doctors/gugan.png" alt="Image">
 
-									<ul>
+									<!-- <ul>
 										<li>
 											<a href="https://www.facebook.com/" target="_blank">
 												<i class="icofont-facebook"></i>
@@ -228,9 +228,9 @@ include 'conn.php';
 												<i class="icofont-instagram"></i>
 											</a>
 										</li>
-									</ul>
+									</ul> -->
 								</div>
-								<h3>Dr Guhan</h3>
+								<h3>Dr.B. Guhan</h3>
 								<span>M.D.S Pediatric dentistry</span><br>
 								<span>MDS (Pedodontics)</span>
 							</div>
@@ -243,7 +243,7 @@ include 'conn.php';
 								<div class="doctor-img">
 									<img src="assets/images/doctors/doctor-4.jpg" alt="Image">
 
-									<ul>
+									<!-- <ul>
 										<li>
 											<a href="https://www.facebook.com/" target="_blank">
 												<i class="icofont-facebook"></i>
@@ -264,7 +264,7 @@ include 'conn.php';
 												<i class="icofont-instagram"></i>
 											</a>
 										</li>
-									</ul>
+									</ul> -->
 								</div>
 								<h3>Dr. Bindu </h3>
 								<span>M.D.S., (Prostho ), MFDS RCPS., (Glasgow)</span0><br>
@@ -278,7 +278,7 @@ include 'conn.php';
 								<div class="doctor-img">
 									<img src="assets/images/doctors/vasanthan.jpeg" alt="Image">
 
-									<ul>
+									<!-- <ul>
 										<li>
 											<a href="https://www.facebook.com/" target="_blank">
 												<i class="icofont-facebook"></i>
@@ -299,7 +299,7 @@ include 'conn.php';
 												<i class="icofont-instagram"></i>
 											</a>
 										</li>
-									</ul>
+									</ul> -->
 								</div>
 								<h3>Prof. Dr. Vasanthan</h3>
 								<span>M.D.S.,(Ortho),P.hD,(Ortho)</span><br>
@@ -311,9 +311,9 @@ include 'conn.php';
 						<div class="main-doctors-item hover-style wow fadeInUp delay-0-6s">
 							<div class="inner-border">
 								<div class="doctor-img">
-									<img src="assets/images/doctors/doctor-1.jpg" alt="Image">
+									<img src="assets/images/doctors/arun.jpeg" alt="Image">
 
-									<ul>
+									<!-- <ul>
 										<li>
 											<a href="https://www.facebook.com/" target="_blank">
 												<i class="icofont-facebook"></i>
@@ -334,7 +334,7 @@ include 'conn.php';
 												<i class="icofont-instagram"></i>
 											</a>
 										</li>
-									</ul>
+									</ul> -->
 								</div>
 								<h3>Dr. S. Arun  </h3>
 								<span>M.D.S.,</span><br>
@@ -348,7 +348,7 @@ include 'conn.php';
 								<div class="doctor-img">
 									<img src="assets/images/doctors/ayyadurai.jpeg" alt="Image">
 
-									<ul>
+									<!-- <ul>
 										<li>
 											<a href="https://www.facebook.com/" target="_blank">
 												<i class="icofont-facebook"></i>
@@ -369,11 +369,11 @@ include 'conn.php';
 												<i class="icofont-instagram"></i>
 											</a>
 										</li>
-									</ul>
+									</ul> -->
 								</div>
 								<h3>DR. C. AYYADURAI, </h3>
 								<span>M.D.S., </span><br>
-								<span>Oral and maxilla facial surgery Pathology.</span>
+								<span>Oral and maxillo facial Pathology.</span>
 							</div>
 						</div>
 					</div> -->
@@ -383,7 +383,7 @@ include 'conn.php';
 								<div class="doctor-img">
 									<img src="assets/images/doctors/doctor-7.png" alt="Image"style="width:329px; height:293px;">
 
-									<ul>
+									<!-- <ul>
 										<li>
 											<a href="https://www.facebook.com/" target="_blank">
 												<i class="icofont-facebook"></i>
@@ -404,11 +404,11 @@ include 'conn.php';
 												<i class="icofont-instagram"></i>
 											</a>
 										</li>
-									</ul>
+									</ul> -->
 								</div>
-								<h3>Dr Vasanthan</h3>
-								<span>MDS (Orthodontics)</span>
-							</div> -->
+								<!-- <h3>Dr Vasanthan</h3>
+								<span>MDS (Orthodontics)</span> -->
+							</div> 
 						<!-- </div> -->
 					</div>
 
@@ -418,7 +418,7 @@ include 'conn.php';
 								<!-- <div class="doctor-img">
 									<img src="assets/images/doctors/doctor-8.png" alt="Image"style="width:329px; height:293px;">
 
-									<ul>
+									<!-- <ul>
 										<li>
 											<a href="https://www.facebook.com/" target="_blank">
 												<i class="icofont-facebook"></i>
@@ -439,10 +439,10 @@ include 'conn.php';
 												<i class="icofont-instagram"></i>
 											</a>
 										</li>
-									</ul>
+									</ul> -->
 								</div>
-								<h3>Dr Arun selva</h3>
-								<span>MDS (Conservative and endodontics)</span> -->
+								<!-- <h3>Dr Arun selva</h3>
+								<span>MDS (Conservative and endodontics)</span>  -->
 							<!-- </div> -->
 						<!-- </div> -->
 					</div>
@@ -517,7 +517,7 @@ include 'conn.php';
 			<div class="container">
 				<div class="row">
 					<div class="col-lg-8 col-md-7">
-						<p>Copyright © <span>Kirthika Dental Care</span> Is Proudly Owned by <a href="https://croptheme.com/" target="_blank">Macincode</a></p>
+						<p>Copyright © <span>Kirthika Dental Care</span> Is Proudly Owned by <a href="https://www.macincode.com/" target="_blank">Macincode</a></p>
 					</div>
 					<div class="col-lg-4 col-md-5">
 						<ul>
@@ -542,7 +542,7 @@ include 'conn.php';
 
 		<!-- <ul class="rtl-buy">
 			<li>
-				<a href="https://croptheme.com/Kirthika Dental Care/Kirthika Dental Care-rtl/">RTL</a>
+				<a href="https://www.macincode.com/Kirthika Dental Care/Kirthika Dental Care-rtl/">RTL</a>
 			</li>
 			<li>
 				<a href="https://themeforest.net/item/blad-ai-blood-donation-activism-campaign-html-template/41923002" target="_blank" class="bg-color">BUY</a>

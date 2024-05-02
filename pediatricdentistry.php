@@ -89,7 +89,7 @@
 									</li>
 									<li>
 										<a href="oralandmaxillofacial.php">
-										Oral and maxilla facial surgery
+										Oral and maxillo facial surgery
 											<i class="icofont-simple-right"></i>
 										</a>
 									</li>
@@ -168,7 +168,7 @@
 								</ul>
 							</div>
 
-							<div class="main-sidebar-item contact-us">
+							<!-- <div class="main-sidebar-item contact-us">
 								<h3>Contact Us</h3>
 
 								<div class="row">
@@ -213,7 +213,7 @@
 										</button>
 									</div>
 								</div>
-							</div>
+							</div> -->
 						</div>
 					</div>
 
@@ -223,14 +223,10 @@
 								<img src="assets/images/services/pediatricdentistry_sec_1.png" alt="Image">
 							</div>
 							<h4>Introduction</h4>
-							<h3>Pediatric Dentistry</h3>
-							<p><b>What is the meaning of pediatric dentistry?</b><br></p>
+							<!-- <h3>Pediatric Dentistry</h3>
+							<p><b>What is the meaning of pediatric dentistry?</b><br></p> -->
 
-							<p>Pediatric dentistry specializes in/takes care of the oral health of infant, children and adolescent. This dentistry also
-							treats children with special needs, who are physically and mentally challenged. Pediatric dentistry involves additional
-							study of 3 years (i.e. after 4 years of dental training).This branch of dentistry studies child growth, psychology and
-							development. Such dentists take care of wide variety of dental problems of children e.g. cavity, tooth decay,
-							malocclusion, emergency care, crooked teeth etc.</p>
+							<p>Pediatric dentistry specializes in/takes care of the oral health of infant, children and adolescent. This dentistry also treats children with special needs, who are physically and mentally challenged. This branch of dentistry studies child growth, psychology and development. Such dentists take care of wide variety of dental problems of children e.g. cavity, tooth decay, malocclusion, emergency care, crooked teeth etc.</p>
 
 							<!-- <p><b>Who are the candidates of orthodontic treatment?</b><br></p>
 
@@ -249,9 +245,32 @@
 							</div>
 
 							<h3>When should a child first visit the dentist?</h3>
-							<p>According to American Academy of Pediatric Dentistry the child should be brought to the dentist when he turns 1 year old
+							<ul>
+								<li>
+									<!-- <p><b>Why teeth become irregular?</b><br></p> -->
+									<span class="bulletPoints"></span>
+									<b> First Dental Appointments:</b>  Your child should see a dentist by their first birthday or when their first tooth appears, whichever comes first. Our first dental appointments are quick, gentle, and designed to be a positive experience.
+								</li>
+								<li>
+									<!-- <p><b>At what age one can go for orthodontic treatment?</b><br></p> -->
+									<span class="bulletPoints"></span>
+									<b> Regular Exams & Cleanings :</b>  From young children to teenagers, we’re there every step of the way. We encourage regular appointments and also teach brushing and flossing techniques for your child’s sensitive teeth. We monitor teeth for alignment, decay, and other issues at every stage of development.
+								</li>
+								<li>
+									<!-- <p><b>At what age one can go for orthodontic treatment?</b><br></p> -->
+									<span class="bulletPoints"></span>
+									<b> Restorative Care:</b>  While we aim to prevent cavities and disease, we’re ready to help fix problems as quickly and comfortably as possible. If your child loses a baby or adult tooth, we can take a look and provide guidance on whether a restoration is needed.
+								</li>
+								<li>
+									<!-- <p><b>At what age one can go for orthodontic treatment?</b><br></p> -->
+									<span class="bulletPoints"></span>
+									<b>Integrated & Custom Care:</b> All kids are one-of-a-kind. We’ll work with you to ensure they get the specialized care they need. We can consult with your child’s pediatrician if needed or work with you to tackle challenges like stopping thumb-sucking.
+								</li>
+								<li>
+							</ul>
+							<!-- <p>According to American Academy of Pediatric Dentistry the child should be brought to the dentist when he turns 1 year old
 							.By that time the first teeth comes and the dentist can discuss ways of keeping oral hygiene. A dentist can guide the
-							parents about diet, tooth eruption, finger habits, fluoride etc.</p>
+							parents about diet, tooth eruption, finger habits, fluoride etc.</p> -->
 
 
 
@@ -294,7 +313,7 @@
 							teeth .Parents should brush the teeth of their children till the time they do that independently. Children should rinse
 							their mouth thou rally after brushing.</p>
 
-							<p><b>What is a cavity?</b><br></p>
+							<!-- <p><b>What is a cavity?</b><br></p>
 
 							<p>There care bacteria present in the mouth, when they come in contact with sweet food left in the mouth, they form acids.
 							These acids attack the enamel and create a hole in the teeth which results in severe pain. Children eat sweets,
@@ -303,7 +322,7 @@
 							<p><b>Does sucking thumb cause any problem in the teeth?</b><br></p>
 
 							<p>The child should stop sucking thumb before the eruption of permanent teeth. If this habit continues there will be
-							problems such as buckteeth/open bite.</p>
+							problems such as buckteeth/open bite.</p> -->
 
 						</div>
 					</div>
@@ -349,7 +368,7 @@
 			<div class="container">
 				<div class="row">
 					<div class="col-lg-8 col-md-7">
-						<p>Copyright © <span>Kirthika Dental Care</span> Is Proudly Owned by <a href="https://croptheme.com/" target="_blank">Macincode</a></p>
+						<p>Copyright © <span>Kirthika Dental Care</span> Is Proudly Owned by <a href="https://www.macincode.com/" target="_blank">Macincode</a></p>
 					</div>
 					<div class="col-lg-4 col-md-5">
 						<ul>
@@ -374,7 +393,7 @@
 <!--
 		<ul class="rtl-buy">
 			<li>
-				<a href="https://croptheme.com/Kirthika Dental Care/Kirthika Dental Care-rtl/">RTL</a>
+				<a href="https://www.macincode.com/Kirthika Dental Care/Kirthika Dental Care-rtl/">RTL</a>
 			</li>
 			<li>
 				<a href="https://themeforest.net/item/blad-ai-blood-donation-activism-campaign-html-template/41923002" target="_blank" class="bg-color">BUY</a>

@@ -38,7 +38,7 @@
 
 				<div class="logo">
 					<a href="index.php">
-						<img src="assets/images/kirthika.png" alt="Logo" style=" width: auto; height: 70px;">
+						<img src="assets/images/kirthika.png" alt="Logo" style=" width: auto; height: 70px !important;">
 					</a>
 				</div>
 			
@@ -116,7 +116,7 @@
 									</ul> -->
 								</li>
 								<li class="nav-item">
-									<a href="oralandmaxillofacial.php" class="nav-link">Oral and maxillo facial surgery</a>
+									<a href="oralandmaxillofacial.php" class="nav-link">Oral and maxilla facial surgery</a>
 								</li>
 								<li class="nav-item">
 									<a href="prosthodontics.php" class="nav-link dropdown-toggle">
@@ -169,10 +169,25 @@
 							</li> -->
 							<!-- <li class="nav-item">
 								<a href="https://admin.kirthikadentalcare.in/login" class="nav-link">Login</a>
-							</li>
+							</li> -->
 							<li class="nav-item">
-								<a href="adminlogin.php" class="nav-link">Admin Login</a>
-							</li>
+							<a href="#" class="nav-link dropdown-toggle">
+								Login
+							</a>
+ 
+							<ul class="dropdown-menu">
+								<li class="nav-item">
+									<a href="https://admin.kirthikadentalcare.in/login" class="nav-link">Patient Login</a>
+								</li>
+								<li class="nav-item">
+									<a href="https://admin.kirthikadentalcare.in/login" class="nav-link">Doctor Login</a>
+								</li>
+
+								
+
+
+							</ul>
+						</li>
 						<!-- <li class="nav-item">
 							<a href="#" class="nav-link dropdown-toggle">Login</a>
 							<ul class="dropdown-menu">

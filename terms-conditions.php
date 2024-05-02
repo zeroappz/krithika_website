@@ -59,58 +59,83 @@
 		<div class="terms-conditions-section pb-100">
 			<div class="container">
 				<div class="row">
-					<div class="col-lg-4 pt-100">
+					<!-- <div class="col-lg-4 pt-100">
 						<div id="list-example" class="privacy-and-conditions-list me-15">
 							<a class="nav-link" href="#terms">1. Terms & Conditions</a>
 							<a class="nav-link" href="#user">2. User Policy</a>
 							<a class="nav-link" href="#copyrights">3. Copyrights</a>
-							<a class="nav-link" href="#cookies">4. Cookies</a>
-							<a class="nav-link" href="#account">5. Account & Billing</a>
-							<a class="nav-link" href="#signup">6. Sign In</a>
-							<a class="nav-link" href="#faq">7. FAQ</a>
+							<a class="nav-link" href="#cookies">4. Cookies</a> -->
+							<!-- <a class="nav-link" href="#account">5. Account & Billing</a>
+							<a class="nav-link" href="#signup">6. Sign In</a> -->
+							<!-- <a class="nav-link" href="#faq">5. FAQ</a>
 						</div>
-					</div>
+					</div> -->
 
-					<div class="col-lg-8">
+					<div class="col-lg-10">
 						<div class="ms-15">
 							<div data-bs-spy="scroll" data-bs-target="#list-example" data-bs-offset="0" data-bs-smooth-scroll="true" class="scrollspy-example" tabindex="0">
 								<div class="pt-100" id="terms">
-									<div class="privacy-and-conditions-item">
-										<h3>1. Terms & Conditions</h3>
-										<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugiat dolores eum tenetur odio. Debitis, quis et? Quasi sapiente labore, quisquam ad, molestias delectus nostrum impedit eligendi temporibus soluta numquam placeat? Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequatur magni officiis repellendus amet sed velit quisquam inventore voluptate consectetur doloribus nobis libero impedit repudiandae error id, tempore <a href="contact-us.php">Contact Us</a></p>
-
-										<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolor, natus! Earum mollitia porro expedita perspiciatis voluptatum dolorum voluptates deleniti dolores possimus aliquam totam voluptas, delectus, rerum ducimus nemo et natus. Lorem ipsum dolor sit amet consectetur adipisicing elit. Rerum saepe veniam quod aperiam? Nesciunt sed nostrum incidunt repudiandae nulla ad atque nihil hic quod ab quam a, assumenda dolore quibusdam.</p>
+									<div class="privacy-and-conditions-item services-details-content">
+										<h3>Terms & Conditions</h3>
+										<p>These terms may be changed from time to time without further notice, at the discretion of the Kirthika Dental care. Your continued use of the Site after any such changes constitutes your acceptance of the new terms. If you do not agree to abide by these or any future terms, please do not use the Site or download content from it.</p>
 
 										<ul>
-											<li>
-												<i class="icofont-check-circled"></i>
-												Dolor sit amet consectetur adipisicing elit. Fugiat dolores
-											</li>
-											<li>
-												<i class="icofont-check-circled"></i>
-												Dolor sit amet consectetur adipisicing elit. Fugiat dolores
-											</li>
-											<li>
-												<i class="icofont-check-circled"></i>
-												Dolor sit amet consectetur adipisicing elit. Fugiat dolores
-											</li>
-											<li>
-												<i class="icofont-check-circled"></i>
-												Dolor sit amet consectetur adipisicing elit. Fugiat dolores
-											</li>
-											<li>
-												<i class="icofont-check-circled"></i>
-												Dolor sit amet consectetur adipisicing elit. Fugiat dolores
-											</li>
-										</ul>
-
-										<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugiat dolores eum tenetur odio. Debitis, quis et? Quasi sapiente labore, quisquam ad, molestias delectus nostrum impedit eligendi temporibus soluta numquam placeat? Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequatur magni officiis repellendus amet sed velit quisquam inventore voluptate consectetur doloribus nobis libero impedit repudiandae error id, tempore temporibus</p>
-
-										<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolor, natus! Earum mollitia porro expedita perspiciatis voluptatum dolorum voluptates deleniti dolores possimus aliquam totam voluptas, delectus, rerum ducimus nemo et natus. Lorem ipsum dolor sit amet consectetur adipisicing elit. Rerum saepe veniam quod aperiam? Nesciunt sed nostrum incidunt repudiandae nulla ad atque nihil hic quod ab quam a, assumenda dolore quibusdam.</p>
+								
+									<li>
+									<span class="bulletPoints"></span>
+									<p>The Website provide you the ability to pay online through a third-party payment gateway for some of the Services available on the Website.If you choose to pay online, you may be directed to a third-party payment gateway to enable the processing of the payment. This transaction will be governed by the terms and conditions and privacy policy of the third-party payment gateway. Kirthika Dental care shall not be liable for any loss or damage arising directly or indirectly arising out of the usage, decline, or acceptance of authorization for any transaction, for any reason whatsoever.</p>
+								</li>
+								<li>
+									<span class="bulletPoints"></span>
+									<p>The cancellation and refund policy is only applicable to all online payments made through websites for booking appointments. </p>
+								</li>
+								<li>
+									<span class="bulletPoints"></span>
+									<p>In case a cancellation is initiated by the user, at the time of cancellation, the amount will be refunded via the same source of payment and will be subject to the payment terms of the source only. The amount will be refunded within 15 working days.</p>
+								</li>
+								
+									<li>
+									<span class="bulletPoints"></span>
+									<p>Some of the content, text, data, graphics, images, information, suggestions, guidance and other material (collectively, “Information”) that may be available on the Website (including information provided in direct response to your questions or postings) may be provided by individuals in the medical profession. The provision of such Information does not create a licensed medical professional/patient relationship, between Kirthika Dental care and you and does not constitute an opinion, medical advice, or diagnosis or treatment of any particular condition, but is only provided to assist you with locating appropriate medical care from a qualified practitioner. In case of a medical emergency (either on your or another person’s behalf), please contact an ambulance service, hospital, doctor, or appropriate medical professional directly.</p>
+								</li>
+								<li>
+									<span class="bulletPoints"></span>
+									<p>By using this Website, you agree that any information shared by you with Kirthika Dental care or with any other person, medical service provider, or anyone else using the Website or Services will be subject to our Privacy Policy.</p>
+								</li>
+								
+									<li>
+									<span class="bulletPoints"></span>
+									<p>You are solely responsible for the content that you choose to submit for publication on the Website, including any feedback, ratings, or reviews. Kirthika Dental care disclaims all responsibility with respect to the content of which you post on the Website and Kirthika Dental care shall be entitled to re-publishing any content across any of its or its Partners platforms. </p>
+								</li>
+								<li>
+									<span class="bulletPoints"></span>
+									<p>You agree that Kirthika Dental care may contact you through telephone, email, SMS, or any other electronic means of communication for the purpose of obtaining feedback in relation to its Website or services</p>
+								</li>
+								
+									<li>
+									<span class="bulletPoints"></span>
+									<p>If a User has any questions concerning the Company, the Website or App, this Agreement, the Services, or anything related to any of the foregoing, please write to us at: Kirthikadentalcare@gmail.com</p>
+								</li>
+								<!-- <li>
+									<span class="bulletPoints"></span>
+									<p>If User has any grievance with respect to the Website or App or the Service, including any discrepancies and grievances with respect to the processing of information, you can contact our Grievance Officer at: GrievanceOfficer@Kirthika Dental carehospitals.com</p>
+								</li> -->
+								
+									<li>
+									<span class="bulletPoints"></span>
+									<p>Any appointment, health checkups, health schemes, diagnostic tests, a medical facility may terminate, change, suspend or discontinue at any time. Kirthika Dental care may remove, modify or otherwise change any content, including that of third parties, on or from this Site. Kirthika Dental care may impose limits on certain features and services or restrict your access to parts or the entire Site without notice or liability. Kirthika Dental care may terminate your use of the Site at any time at its sole discretion.</p>
+								</li>
+							
+									<li>
+									<span class="bulletPoints"></span>
+									<p> These terms apply exclusively to your access to and use of the Website or services and do not alter the terms or conditions of any other agreement you may have with Kirthika Dental care or its parents, subsidiaries or affiliates. </p>
+								</li>
+								<li>
+							</ul>
 									</div>
 								</div>
 
-								<div class="pt-100" id="user">
+								<!-- <div class="pt-100" id="user">
 									<div class="privacy-and-conditions-item" >
 										<h3>2. User Policy</h3>
 										<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugiat dolores eum tenetur odio. Debitis, quis et? Quasi sapiente labore, quisquam ad, molestias delectus nostrum impedit eligendi temporibus soluta numquam placeat? Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequatur magni officiis repellendus amet sed velit quisquam inventore voluptate consectetur doloribus nobis libero impedit repudiandae error id, tempore <a href="contact-us.php">Contact Us</a></p>
@@ -121,9 +146,9 @@
 
 										<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolor, natus! Earum mollitia porro expedita perspiciatis voluptatum dolorum voluptates deleniti dolores possimus aliquam totam voluptas, delectus, rerum ducimus nemo et natus. Lorem ipsum dolor sit amet consectetur adipisicing elit. Rerum saepe veniam quod aperiam? Nesciunt sed nostrum incidunt repudiandae nulla ad atque nihil hic quod ab quam a, assumenda dolore quibusdam.</p>
 									</div>
-								</div>
+								</div> -->
 
-								<div class="pt-100" id="copyrights">
+								<!-- <div class="pt-100" id="copyrights">
 									<div class="privacy-and-conditions-item" >
 										<h3>3. Copyrights</h3>
 										<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugiat dolores eum tenetur odio. Debitis, quis et? Quasi sapiente labore, quisquam ad, molestias delectus nostrum impedit eligendi temporibus soluta numquam placeat? Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequatur magni officiis repellendus amet sed velit quisquam inventore voluptate consectetur doloribus nobis libero impedit repudiandae error id, tempore temporibus</p>
@@ -134,9 +159,9 @@
 
 										<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolor, natus! Earum mollitia porro expedita perspiciatis voluptatum dolorum voluptates deleniti dolores possimus aliquam totam voluptas, delectus, rerum ducimus nemo et natus. Lorem ipsum dolor sit amet consectetur adipisicing elit. Rerum saepe veniam quod aperiam? Nesciunt sed nostrum incidunt repudiandae nulla ad atque nihil hic quod ab quam a, assumenda dolore quibusdam.</p>
 									</div>
-								</div>
+								</div> -->
 
-								<div class="pt-100" id="cookies">
+								<!-- <div class="pt-100" id="cookies">
 									<div class="privacy-and-conditions-item" >
 										<h3>4. Cookies</h3>
 										<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugiat dolores eum tenetur odio. Debitis, quis et? Quasi sapiente labore, quisquam ad, molestias delectus nostrum impedit eligendi temporibus soluta numquam placeat? Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequatur magni officiis repellendus amet sed velit quisquam inventore voluptate consectetur doloribus nobis libero impedit repudiandae error id, tempore temporibus</p>
@@ -147,9 +172,9 @@
 
 										<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolor, natus! Earum mollitia porro expedita perspiciatis voluptatum dolorum voluptates deleniti dolores possimus aliquam totam voluptas, delectus, rerum ducimus nemo et natus. Lorem ipsum dolor sit amet consectetur adipisicing elit. Rerum saepe veniam quod aperiam? Nesciunt sed nostrum incidunt repudiandae nulla ad atque nihil hic quod ab quam a, assumenda dolore quibusdam.</p>
 									</div>
-								</div>
+								</div> -->
 
-								<div class="pt-100" id="account">
+								<!-- <div class="pt-100" id="account">
 									<div class="privacy-and-conditions-item" >
 										<h3>5. Account & Billing</h3>
 										<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugiat dolores eum tenetur odio. Debitis, quis et? Quasi sapiente labore, quisquam ad, molestias delectus nostrum impedit eligendi temporibus soluta numquam placeat? Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequatur magni officiis repellendus amet sed velit quisquam inventore voluptate consectetur doloribus nobis libero impedit repudiandae error id, tempore temporibus</p>
@@ -173,11 +198,11 @@
 
 										<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolor, natus! Earum mollitia porro expedita perspiciatis voluptatum dolorum voluptates deleniti dolores possimus aliquam totam voluptas, delectus, rerum ducimus nemo et natus. Lorem ipsum dolor sit amet consectetur adipisicing elit. Rerum saepe veniam quod aperiam? Nesciunt sed nostrum incidunt repudiandae nulla ad atque nihil hic quod ab quam a, assumenda dolore quibusdam.</p>
 									</div>
-								</div>
+								</div> -->
 
-								<div class="pt-100" id="faq">
+								<!-- <div class="pt-100" id="faq">
 									<div class="privacy-and-conditions-item" >
-										<h3>7. FAQ</h3>
+										<h3>5. FAQ</h3>
 
 										<div class="faq-content">
 											<div class="accordion" id="accordionExample">
@@ -249,7 +274,7 @@
 											</div>
 										</div>
 									</div>
-								</div>
+								</div> -->
 							</div>
 						</div>
 					</div>
@@ -294,7 +319,7 @@
 			<div class="container">
 				<div class="row">
 					<div class="col-lg-8 col-md-7">
-						<p>Copyright © <span>Kirthika Dental Care</span> Is Proudly Owned by <a href="https://croptheme.com/" target="_blank">Macincode</a></p>
+						<p>Copyright © <span>Kirthika Dental Care</span> Is Proudly Owned by <a href="https://www.macincode.com/" target="_blank">Macincode</a></p>
 					</div>
 					<div class="col-lg-4 col-md-5">
 						<ul>
@@ -319,7 +344,7 @@
 
 		<!-- <ul class="rtl-buy">
 			<li>
-				<a href="https://croptheme.com/Kirthika Dental Care/Kirthika Dental Care-rtl/">RTL</a>
+				<a href="https://www.macincode.com/Kirthika Dental Care/Kirthika Dental Care-rtl/">RTL</a>
 			</li>
 			<li>
 				<a href="https://themeforest.net/item/blad-ai-blood-donation-activism-campaign-html-template/41923002" target="_blank" class="bg-color">BUY</a>
