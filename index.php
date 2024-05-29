@@ -199,7 +199,7 @@
 								<a href="events.php" class="nav-link ff">Events</a>
 							</li>
 							<li class="nav-item">
-								<a href="adminlogin.php" class="nav-link ff">Admin Login</a>
+								<a href="adminlogin.php" class="nav-link ff">Login</a>
 							</li>
 						<!-- <li class="nav-item">
 							<a href="#" class="nav-link dropdown-toggle">Login</a>

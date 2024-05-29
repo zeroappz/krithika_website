@@ -22,6 +22,7 @@ if(isset($_POST['submit']))
     $title = $_POST['title'];
     $description = $_POST['description'];
     $event_date = $_POST['event_date'];
+    $created_by_id = $_SESSION["id"];
     $created_at = date('Y-m-d H:i:s');
     $updated_at = date('Y-m-d H:i:s');
 
@@ -40,7 +41,7 @@ if(isset($_POST['submit']))
       }
 
 
-    $query = "INSERT INTO events (image, title, description, event_date,created_at,updated_at) VALUES (:image, :title, :description, :event_date,:created_at,:updated_at)";
+    $query = "INSERT INTO events (image, title, description, event_date,created_by_id,created_at,updated_at) VALUES (:image, :title, :description, :event_date,:created_by_id,:created_at,:updated_at)";
     $query_run = $connect->prepare($query);
 
     $data = [
@@ -48,6 +49,7 @@ if(isset($_POST['submit']))
         ':title' => $title,
         ':description' => $description,
         ':event_date' => $event_date,
+        ':created_by_id' => $created_by_id,
         ':created_at' => $created_at,
         ':updated_at' => $updated_at,
         

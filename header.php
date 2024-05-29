@@ -169,7 +169,7 @@
 							<a href="contact-us.php" class="nav-link">Contact Us</a>
 						</li>
 							<li class="nav-item">
-							<a href="adminlogin.php" class="nav-link">Admin Login</a>
+							<a href="adminlogin.php" class="nav-link">Login</a>
 						</li>
 						<!-- <li class="nav-item">
 								<a href=" https://admin.kirthikadentalcare.in/register" class="nav-link">Register</a>

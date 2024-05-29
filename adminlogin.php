@@ -19,7 +19,7 @@
                 $statement->execute(  
                      array(  
                           'email'     =>     $_POST["email"],  
-                          'password'     =>     $_POST["password"]  
+                          'password'     =>     md5($_POST["password"])  
                      )  
                 );  
                 $count = $statement->rowCount();  
@@ -37,9 +37,10 @@
     $user_result = $stmt->fetch(PDO::FETCH_ASSOC);
 
 
-
-                     $_SESSION["email"] = $_POST["email"];
-                       $_SESSION["role_id"] = $user_result["role_id"];  
+ 
+                       $_SESSION["email"] = $_POST["email"];
+                       $_SESSION["role_id"] = $user_result["role_id"];
+                       $_SESSION["id"] = $user_result["id"]; 
                      header("location:doctors_list.php");  
                 }  
                 else  

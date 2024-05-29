@@ -25,10 +25,14 @@ if(isset($_POST['submit']))
     $query = "INSERT INTO users (role_id, email, password,created_at,updated_at) VALUES (:role_id, :email, :password,:created_at,:updated_at)";
     $query_run = $connect->prepare($query);
 
+
+// $hash_password = password_hash($password,  
+//           PASSWORD_DEFAULT); 
+
     $data = [
         ':role_id' => $role_id,
         ':email' => $email,
-        ':password' => $password,
+        ':password' => md5($password),
         ':created_at' => $created_at,
         ':updated_at' => $updated_at,
         
