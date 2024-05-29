@@ -1,53 +1,54 @@
 <?php  
- session_start();  
+session_start();
+include 'conn.php';
  
- include 'conn.php';
+if(isset($_SESSION["email"])){
+
+}
+else{
+    header('Location: index.php');  
+}
+
  try  
  {  
-     
-      if(isset($_POST["login"]))  
-      {  
 
-           if(empty($_POST["email"]) || empty($_POST["password"]))  
-           {  
-                $message = '<label>All fields are required</label>';  
-           }  
-           else  
-           {  
-                $query = "SELECT * FROM users WHERE email = :email AND password = :password";  
-                $statement = $connect->prepare($query);  
-                $statement->execute(  
-                     array(  
-                          'email'     =>     $_POST["email"],  
-                          'password'     =>     $_POST["password"]  
-                     )  
-                );  
-                $count = $statement->rowCount();  
-                if($count > 0)  
-                {  
+    
+if(isset($_POST['submit']))
+{
 
+    $role_id = $_POST['role_id'];
+    $email = $_POST['email'];
+    $password = $_POST['password'];
+    $created_at = date('Y-m-d H:i:s');
+    $updated_at = date('Y-m-d H:i:s');
 
-    $email = $_POST["email"];
-    $stmt = $connect->prepare("SELECT * FROM users WHERE email = :email");
-    // Bind the ID parameter
-    $stmt->bindParam(':email', $email);
-    // Execute the query
-    $stmt->execute();
-    // Fetch the result
-    $user_result = $stmt->fetch(PDO::FETCH_ASSOC);
+    $query = "INSERT INTO users (role_id, email, password,created_at,updated_at) VALUES (:role_id, :email, :password,:created_at,:updated_at)";
+    $query_run = $connect->prepare($query);
 
+    $data = [
+        ':role_id' => $role_id,
+        ':email' => $email,
+        ':password' => $password,
+        ':created_at' => $created_at,
+        ':updated_at' => $updated_at,
+        
+    ];
+    $query_execute = $query_run->execute($data);
 
+    if($query_execute)
+    {
+        $message =  '<label style="color:red">Inserted Successfully</label>';
+        header('Location: user_list.php');
+        exit(0);
+    }
+    else
+    {
+        $message =  '<label style="color:red">Not Insert</label>';  
+        // header('Location: create_doctor.php');
+        exit(0);
+    }
+}
 
-                     $_SESSION["email"] = $_POST["email"];
-                       $_SESSION["role_id"] = $user_result["role_id"];  
-                     header("location:doctors_list.php");  
-                }  
-                else  
-                {  
-                     $message = '<label style="color:red">Invalid user</label>';  
-                }  
-           }  
-      }  
  }  
  catch(PDOException $error)  
  {  
@@ -82,10 +83,10 @@
 
 <body>
     <!-- Header Start -->
-    <?php include 'header.php';?>
+    
 
     <!-- Header End -->
-
+<a href="logout.php" style="float: right; margin-right:50px!important" class="main-btn">Logout</a>
 
     <br>
     <!--=== Start Banner Section ===-->
@@ -94,37 +95,65 @@
             <div class="row">
                 <div class="col-lg-4"></div>
                 <div class="col-lg-6">
-                    <h3 class="wow fadeInUp delay-0-8s">Admin Login</h3>
+                    
+                    <a href="user_list.php" class="main-btn">User List</a>
                     <br>
+                    <h3 class="wow fadeInUp delay-0-8s">Add User</h3>
+                    
 
-
-                    <?php echo $message; ?>
-                    <form class="appointment wow fadeInUp delay-0-1s" action="adminlogin.php" method="post">
+                    <?php echo  $message; ?>
+                    <form class="appointment wow fadeInUp delay-0-1s" action="create_user.php" method="post" enctype="multipart/form-data">
                         <div class="row align-items-center">
                             <div class="col-lg-12">
                                 <div class="row">
                                     <div class="col-lg-12 col-sm-12">
                                         <div class="form-floating form-group">
-                                            <input type="email" name="email" class="form-control" id="emailid" placeholder="Email id" required="" autofocus>
-                                            <label for="emailid" class="form-label">Email</label>
+                                            <!-- <input type="file" name="image" class="form-control" id="image" placeholder="image" value="" required="" autofocus> -->
+<select name="role_id" class="form-control">
+                               
+<?php
+
+  $stmt = $connect->prepare(
+                                "SELECT * FROM role");
+                        $stmt->execute();
+                        $details = $stmt->fetchAll();
+                        foreach($details as $role_details)
+                        {
+                            ?>
+                        <option value="<?php echo $role_details['id']?>"><?php echo $role_details['role_name']?></option>
+                            <?php
+
+                        }
+?>
+</select>
+
+
+
+                                            <label for="image" class="form-label">Role</label>
                                             <div class="invalid-feedback"> Valid patient Email id is required.</div>
                                         </div>
                                     </div>
                                     <div class="col-lg-12 col-sm-12"></div>
                                     <div class="col-lg-12 col-sm-12">
                                         <div class="form-floating form-group">
-                                            <input type="password" name="password" class="form-control" id="password" placeholder="Password" required="">
+                                            <input type="text" name="email" class="form-control" id="email" placeholder="email" value="" required="">
+                                            <label for="email" class="form-label">Email</label>
+                                            <div class="invalid-feedback"> Valid Password is required.</div>
+                                        </div>
+                                    </div>
+                                     <div class="col-lg-12 col-sm-12">
+                                        <div class="form-floating form-group">
+                                            <input type="password" name="password" class="form-control" id="password" placeholder="password" value="" required="">
                                             <label for="password" class="form-label">Password</label>
                                             <div class="invalid-feedback"> Valid Password is required.</div>
                                         </div>
                                     </div>
-
                                 </div>
 
                                 <div class="row">
                                     <div class="col-lg-6 col-sm-6">
-                                        <button type="submit" class="main-btn" name="login">
-                                            <span>Login</span>
+                                        <button type="submit" name="submit" class="main-btn">
+                                            <span>Save</span>
                                         </button>
                                     </div>
                                     <!-- <div class="col-lg-6 col-sm-6">
@@ -163,35 +192,11 @@
     <!--=== End Banner Section ===-->
 
     <!-- Footer Start -->
-    <?php include 'footer.php';?>
+  
 
     <!-- Footer End -->
     <!--=== Start Copy Right Section ===-->
-    <div class="copy-right-section">
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-8 col-md-7">
-                    <p>Copyright © <span>Kirthika Dental Care</span> All RIghts Reserved <a href="https://macincode.com/" target="_blank">Macincode</a></p>
-                </div>
-                <div class="col-lg-4 col-md-5">
-                    <ul>
-                        <li>
-                            <a href="404.php">Terms & Condition</a>
-                        </li>
-                        <li>
-                            <a href="404.php">Privacy Policy</a>
-                        </li>
-                    </ul>
-                </div>
-            </div>
-        </div>
-
-        <!--=== Start back To Top Section ===-->
-        <div class="back-to-top">
-            <i class="icofont-simple-up"></i>
-        </div>
-        <!--=== End Back To Top Section ===-->
-    </div>
+    
     <!--=== End Copy Right Section ===-->
 
 

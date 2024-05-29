@@ -1,53 +1,73 @@
 <?php  
- session_start();  
+session_start();
+include 'conn.php';
  
- include 'conn.php';
+if(isset($_SESSION["email"])){
+
+   
+
+}
+else{
+    header('Location: index.php');  
+}
+
+
  try  
  {  
-     
-      if(isset($_POST["login"]))  
-      {  
 
-           if(empty($_POST["email"]) || empty($_POST["password"]))  
-           {  
-                $message = '<label>All fields are required</label>';  
-           }  
-           else  
-           {  
-                $query = "SELECT * FROM users WHERE email = :email AND password = :password";  
-                $statement = $connect->prepare($query);  
-                $statement->execute(  
-                     array(  
-                          'email'     =>     $_POST["email"],  
-                          'password'     =>     $_POST["password"]  
-                     )  
-                );  
-                $count = $statement->rowCount();  
-                if($count > 0)  
-                {  
+    
+if(isset($_POST['submit']))
+{
+
+    $title = $_POST['title'];
+    $description = $_POST['description'];
+    $event_date = $_POST['event_date'];
+    $created_at = date('Y-m-d H:i:s');
+    $updated_at = date('Y-m-d H:i:s');
 
 
-    $email = $_POST["email"];
-    $stmt = $connect->prepare("SELECT * FROM users WHERE email = :email");
-    // Bind the ID parameter
-    $stmt->bindParam(':email', $email);
-    // Execute the query
-    $stmt->execute();
-    // Fetch the result
-    $user_result = $stmt->fetch(PDO::FETCH_ASSOC);
+      if(isset($_FILES['image']) && $_FILES['image']['error'] == 0) {
+        $file_name = $_FILES['image']['name'];
+        $file_temp = $_FILES['image']['tmp_name'];
+        $file_size = $_FILES['image']['size'];
+        $file_type = $_FILES['image']['type'];
+        $date_uploaded=date("Y-m-d");
+        $location="assets/events/".$file_name;
+        move_uploaded_file($file_temp,$location);
+      }
+      else{
+        $location = "";
+      }
 
 
+    $query = "INSERT INTO events (image, title, description, event_date,created_at,updated_at) VALUES (:image, :title, :description, :event_date,:created_at,:updated_at)";
+    $query_run = $connect->prepare($query);
 
-                     $_SESSION["email"] = $_POST["email"];
-                       $_SESSION["role_id"] = $user_result["role_id"];  
-                     header("location:doctors_list.php");  
-                }  
-                else  
-                {  
-                     $message = '<label style="color:red">Invalid user</label>';  
-                }  
-           }  
-      }  
+    $data = [
+        ':image' => $location,
+        ':title' => $title,
+        ':description' => $description,
+        ':event_date' => $event_date,
+        ':created_at' => $created_at,
+        ':updated_at' => $updated_at,
+        
+    ];
+    $query_execute = $query_run->execute($data);
+
+    if($query_execute)
+    {
+        $message =  '<label style="color:red">Inserted Successfully</label>';
+        header('Location: event_list.php');
+        exit(0);
+    }
+    else
+    {
+        $message =  '<label style="color:red">Not Insert</label>';  
+        // header('Location: create_doctor.php');
+        exit(0);
+    }
+}
+
  }  
  catch(PDOException $error)  
  {  
@@ -82,10 +102,10 @@
 
 <body>
     <!-- Header Start -->
-    <?php include 'header.php';?>
+    
 
     <!-- Header End -->
-
+<a href="logout.php" style="float: right; margin-right:50px!important" class="main-btn">Logout</a>
 
     <br>
     <!--=== Start Banner Section ===-->
@@ -94,27 +114,43 @@
             <div class="row">
                 <div class="col-lg-4"></div>
                 <div class="col-lg-6">
-                    <h3 class="wow fadeInUp delay-0-8s">Admin Login</h3>
+                    
+                    <a href="event_list.php" class="main-btn">Events List</a>
                     <br>
+                    <h3 class="wow fadeInUp delay-0-8s">Add Events</h3>
+                    
 
-
-                    <?php echo $message; ?>
-                    <form class="appointment wow fadeInUp delay-0-1s" action="adminlogin.php" method="post">
+                    <?php echo  $message; ?>
+                    <form class="appointment wow fadeInUp delay-0-1s" action="create_events.php" method="post" enctype="multipart/form-data">
                         <div class="row align-items-center">
                             <div class="col-lg-12">
                                 <div class="row">
                                     <div class="col-lg-12 col-sm-12">
                                         <div class="form-floating form-group">
-                                            <input type="email" name="email" class="form-control" id="emailid" placeholder="Email id" required="" autofocus>
-                                            <label for="emailid" class="form-label">Email</label>
+                                            <input type="file" name="image" class="form-control" id="image" placeholder="image" value="" required="" autofocus>
+                                            <label for="image" class="form-label">Image</label>
                                             <div class="invalid-feedback"> Valid patient Email id is required.</div>
                                         </div>
                                     </div>
                                     <div class="col-lg-12 col-sm-12"></div>
                                     <div class="col-lg-12 col-sm-12">
                                         <div class="form-floating form-group">
-                                            <input type="password" name="password" class="form-control" id="password" placeholder="Password" required="">
-                                            <label for="password" class="form-label">Password</label>
+                                            <input type="text" name="title" class="form-control" id="name" placeholder="Name" value="" required="">
+                                            <label for="name" class="form-label">Title</label>
+                                            <div class="invalid-feedback"> Valid Password is required.</div>
+                                        </div>
+                                    </div>
+                                     <div class="col-lg-12 col-sm-12">
+                                        <div class="form-floating form-group">
+                                            <input type="text" name="description" class="form-control" id="qualification" placeholder="qualification" value="" required="">
+                                            <label for="qualification" class="form-label">Description</label>
+                                            <div class="invalid-feedback"> Valid Password is required.</div>
+                                        </div>
+                                    </div>
+                                    <div class="col-lg-12 col-sm-12">
+                                        <div class="form-floating form-group">
+                                            <input type="date" name="event_date" class="form-control" id="specialist" placeholder="specialist" value="" required="">
+                                            <label for="specialist" class="form-label">Event Date</label>
                                             <div class="invalid-feedback"> Valid Password is required.</div>
                                         </div>
                                     </div>
@@ -123,8 +159,8 @@
 
                                 <div class="row">
                                     <div class="col-lg-6 col-sm-6">
-                                        <button type="submit" class="main-btn" name="login">
-                                            <span>Login</span>
+                                        <button type="submit" name="submit" class="main-btn">
+                                            <span>Save</span>
                                         </button>
                                     </div>
                                     <!-- <div class="col-lg-6 col-sm-6">
@@ -163,35 +199,11 @@
     <!--=== End Banner Section ===-->
 
     <!-- Footer Start -->
-    <?php include 'footer.php';?>
+  
 
     <!-- Footer End -->
     <!--=== Start Copy Right Section ===-->
-    <div class="copy-right-section">
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-8 col-md-7">
-                    <p>Copyright © <span>Kirthika Dental Care</span> All RIghts Reserved <a href="https://macincode.com/" target="_blank">Macincode</a></p>
-                </div>
-                <div class="col-lg-4 col-md-5">
-                    <ul>
-                        <li>
-                            <a href="404.php">Terms & Condition</a>
-                        </li>
-                        <li>
-                            <a href="404.php">Privacy Policy</a>
-                        </li>
-                    </ul>
-                </div>
-            </div>
-        </div>
-
-        <!--=== Start back To Top Section ===-->
-        <div class="back-to-top">
-            <i class="icofont-simple-up"></i>
-        </div>
-        <!--=== End Back To Top Section ===-->
-    </div>
+    
     <!--=== End Copy Right Section ===-->
 
 

@@ -3,7 +3,7 @@ session_start();
 include 'conn.php';
  
 if(isset($_SESSION["email"])){
- include 'permission.php';
+    include 'permission.php';
 }
 else{
     header('Location: index.php');  
@@ -11,8 +11,6 @@ else{
 
  try  
  {  
-
-
 
  }  
  catch(PDOException $error)  
@@ -74,8 +72,7 @@ else{
                 <div class="col-lg-2"></div>
                 <div class="col-lg-10">
 
-                                        <?php
-
+<?php
 if($user_role['role_name'] == "Admin"){
 ?>
 
@@ -83,28 +80,23 @@ if($user_role['role_name'] == "Admin"){
          <a href="create_user.php" class="main-btn">Add User</a>
 <?php
 }
-
 ?>
+
                     <a href="create_events.php" class="main-btn">Add Event</a>
+                 
                     
                     <br>
 
 <?php echo $message;?>
-                    <h3 class="wow fadeInUp delay-0-8s">Doctors List</h3>
+                    <h3 class="wow fadeInUp delay-0-8s">Event List</h3>
                 
                     <table class="table table-hover" id="doctor_table">
     <thead>
       <tr>
         <th>Image</th>
-        <th>Name</th>
-        <th>Qualification</th>
-        <th>Specialist</th>
-         <th>Facebook</th>
-        <th>Twitter</th>
-        <!-- <th>Facebook</th>
-        <th>Twitter</th>
-        <th>Linkedin</th>
-        <th>Instagram</th> -->
+        <th>Title</th>
+        <th>Description</th>
+        <th>Event Date</th>
         <th>Created_at</th>
         <th>Updated_at</th>
         <th>Action</th>
@@ -114,40 +106,34 @@ if($user_role['role_name'] == "Admin"){
         <?php
 
   $stmt = $connect->prepare(
-                                "SELECT * FROM doctors");
+                                "SELECT * FROM events");
                         $stmt->execute();
                         $details = $stmt->fetchAll();
-                        foreach($details as $doctor_details)
+                        foreach($details as $events_details)
                         {
 ?>
 <tr>
-    <td><?php echo "<img src='".$doctor_details['image']."' style='height:50px;width:50px;' class='rounded-circle'>"?></td>
-    <td><?php echo $doctor_details['name']; ?></td>
-    <td><?php echo $doctor_details['qualification']; ?></td>
-    <td><?php echo $doctor_details['specialist']; ?></td>
-     <td><?php echo $doctor_details['facebook']; ?></td>
-    <td><?php echo $doctor_details['twitter']; ?></td>
-   <!--  <td><?php echo $doctor_details['facebook']; ?></td>
-    <td><?php echo $doctor_details['twitter']; ?></td>
-    <td><?php echo $doctor_details['linkedin']; ?></td>
-    <td><?php echo $doctor_details['instagram']; ?></td> -->
-    <td><?php echo $doctor_details['created']; ?></td>
-    <td><?php echo $doctor_details['updated_at']; ?></td>
+    <td><?php echo "<img src='".$events_details['image']."' style='height:50px;width:50px;' class='rounded-circle'>"?></td>
+    <td><?php echo $events_details['title']; ?></td>
+    <td><?php echo $events_details['description']; ?></td>
+    <td><?php echo $events_details['event_date']; ?></td>
+    <td><?php echo $events_details['created_at']; ?></td>
+    <td><?php echo $events_details['updated_at']; ?></td>
      <td>
+
 
 <?php
 
 if($user_role['role_name'] == "Admin"){
 ?>
-
-         <a href="update_doctors.php?id=<?php echo $doctor_details['id']?>" class="btn btn-success">Edit</a>
-         <a href="delete.php?id=<?php echo $doctor_details['id']?>" class="btn btn-danger" onclick="return checkDelete()">Delete</a>
+      <a href="edit_event.php?id=<?php echo $events_details['id']?>" class="btn btn-success">Edit</a>
+         <a href="delete_event.php?id=<?php echo $events_details['id']?>" class="btn btn-danger" onclick="return checkDelete()">Delete</a>
 <?php
 }
 
 ?>
 
-
+         
      </td>
 
 
@@ -162,7 +148,7 @@ if($user_role['role_name'] == "Admin"){
   </table>
 
 
-  <h5><a href="event_list.php">Click to the  Events List</a></h5>
+  <h5><a href="doctors_list.php">Click to the  Doctor List</a></h5>
 
                     <!-- <div class="banner-shape-2 shape">
 							<img src="assets/images/banner/banner-shape-2.png" alt="Image">

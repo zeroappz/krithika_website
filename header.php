@@ -160,9 +160,16 @@
 						<li class="nav-item">
 							<a href="doctors.php" class="nav-link">Doctors</a>
 						</li>
+						<li class="nav-item">
+							<a href="events.php" class="nav-link">Events</a>
+						</li>
+
 
 						<li class="nav-item">
 							<a href="contact-us.php" class="nav-link">Contact Us</a>
+						</li>
+							<li class="nav-item">
+							<a href="adminlogin.php" class="nav-link">Admin Login</a>
 						</li>
 						<!-- <li class="nav-item">
 								<a href=" https://admin.kirthikadentalcare.in/register" class="nav-link">Register</a>

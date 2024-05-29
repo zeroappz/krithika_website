@@ -3,7 +3,9 @@ session_start();
 include 'conn.php';
  
 if(isset($_SESSION["email"])){
- include 'permission.php';
+
+    include 'permission.php';
+
 }
 else{
     header('Location: index.php');  
@@ -74,7 +76,7 @@ else{
                 <div class="col-lg-2"></div>
                 <div class="col-lg-10">
 
-                                        <?php
+                    <?php
 
 if($user_role['role_name'] == "Admin"){
 ?>
@@ -90,21 +92,13 @@ if($user_role['role_name'] == "Admin"){
                     <br>
 
 <?php echo $message;?>
-                    <h3 class="wow fadeInUp delay-0-8s">Doctors List</h3>
+                    <h3 class="wow fadeInUp delay-0-8s">User List</h3>
                 
                     <table class="table table-hover" id="doctor_table">
     <thead>
       <tr>
-        <th>Image</th>
-        <th>Name</th>
-        <th>Qualification</th>
-        <th>Specialist</th>
-         <th>Facebook</th>
-        <th>Twitter</th>
-        <!-- <th>Facebook</th>
-        <th>Twitter</th>
-        <th>Linkedin</th>
-        <th>Instagram</th> -->
+        <th>Role Name</th>
+        <th>Email</th>
         <th>Created_at</th>
         <th>Updated_at</th>
         <th>Action</th>
@@ -114,40 +108,35 @@ if($user_role['role_name'] == "Admin"){
         <?php
 
   $stmt = $connect->prepare(
-                                "SELECT * FROM doctors");
+                                "SELECT users.*,role.role_name FROM users Inner Join role On role.id = users.role_id");
                         $stmt->execute();
                         $details = $stmt->fetchAll();
-                        foreach($details as $doctor_details)
+                        foreach($details as $user_details)
                         {
 ?>
 <tr>
-    <td><?php echo "<img src='".$doctor_details['image']."' style='height:50px;width:50px;' class='rounded-circle'>"?></td>
-    <td><?php echo $doctor_details['name']; ?></td>
-    <td><?php echo $doctor_details['qualification']; ?></td>
-    <td><?php echo $doctor_details['specialist']; ?></td>
-     <td><?php echo $doctor_details['facebook']; ?></td>
-    <td><?php echo $doctor_details['twitter']; ?></td>
-   <!--  <td><?php echo $doctor_details['facebook']; ?></td>
-    <td><?php echo $doctor_details['twitter']; ?></td>
-    <td><?php echo $doctor_details['linkedin']; ?></td>
-    <td><?php echo $doctor_details['instagram']; ?></td> -->
-    <td><?php echo $doctor_details['created']; ?></td>
-    <td><?php echo $doctor_details['updated_at']; ?></td>
+  
+    <td><?php echo $user_details['role_name']; ?></td>
+    <td><?php echo $user_details['email']; ?></td>
+    
+    <td><?php echo $user_details['created_at']; ?></td>
+    <td><?php echo $user_details['updated_at']; ?></td>
      <td>
-
 <?php
 
 if($user_role['role_name'] == "Admin"){
 ?>
 
-         <a href="update_doctors.php?id=<?php echo $doctor_details['id']?>" class="btn btn-success">Edit</a>
-         <a href="delete.php?id=<?php echo $doctor_details['id']?>" class="btn btn-danger" onclick="return checkDelete()">Delete</a>
+      <a href="edit_user.php?id=<?php echo $user_details['id']?>" class="btn btn-success">Edit</a>
+         <a href="delete_user.php?id=<?php echo $user_details['id']?>" class="btn btn-danger" onclick="return checkDelete()">Delete</a>
 <?php
 }
 
 ?>
 
 
+
+         
      </td>
 
 
