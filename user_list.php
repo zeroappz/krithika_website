@@ -1,27 +1,23 @@
-<?php  
+<?php
 session_start();
 include 'conn.php';
- 
-if(isset($_SESSION["email"])){
+
+if(isset($_SESSION["email"])) {
 
     include 'permission.php';
 
+} else {
+    header('Location: index.php');
 }
-else{
-    header('Location: index.php');  
+
+try {
+
+
+
+} catch(PDOException $error) {
+    $message = $error->getMessage();
 }
-
- try  
- {  
-
-
-
- }  
- catch(PDOException $error)  
- {  
-      $message = $error->getMessage();  
- }  
- ?>  
+?>  
 
 <!doctype html>
 <html lang="en">
@@ -78,8 +74,8 @@ else{
 
                     <?php
 
-if($user_role['role_name'] == "Admin"){
-?>
+if($user_role['role_name'] == "Admin") {
+    ?>
 
          <a href="create_doctors.php" class="main-btn">Add Doctor</a>
          <a href="create_user.php" class="main-btn">Add User</a>
@@ -108,12 +104,12 @@ if($user_role['role_name'] == "Admin"){
         <?php
 
   $stmt = $connect->prepare(
-                                "SELECT users.*,role.role_name FROM users Inner Join role On role.id = users.role_id");
-                        $stmt->execute();
-                        $details = $stmt->fetchAll();
-                        foreach($details as $user_details)
-                        {
-?>
+      "SELECT users.*,role.role_name FROM users Inner Join role On role.id = users.role_id"
+  );
+$stmt->execute();
+$details = $stmt->fetchAll();
+foreach($details as $user_details) {
+    ?>
 <tr>
   
     <td><?php echo $user_details['role_name']; ?></td>
@@ -124,15 +120,15 @@ if($user_role['role_name'] == "Admin"){
      <td>
 <?php
 
-if($user_role['role_name'] == "Admin"){
-?>
+    if($user_role['role_name'] == "Admin") {
+        ?>
 
       <a href="edit_user.php?id=<?php echo $user_details['id']?>" class="btn btn-success">Edit</a>
          <a href="delete_user.php?id=<?php echo $user_details['id']?>" class="btn btn-danger" onclick="return checkDelete()">Delete</a>
 <?php
-}
+    }
 
-?>
+    ?>
 
 
 
@@ -144,7 +140,7 @@ if($user_role['role_name'] == "Admin"){
 
 
 <?php
-                        }
+}
 ?>
        
     </tbody>

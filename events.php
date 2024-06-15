@@ -70,12 +70,12 @@ include 'conn.php';
 <?php
 
   $stmt = $connect->prepare(
-                                "SELECT * FROM events");
-                        $stmt->execute();
-                        $events = $stmt->fetchAll();
-                        foreach($events as $events_details)
-                        {
-                        	?>
+      "SELECT * FROM events"
+  );
+$stmt->execute();
+$events = $stmt->fetchAll();
+foreach($events as $events_details) {
+    ?>
                         	<div class="col-lg-4 col-sm-6">
 						<div class="main-doctors-item hover-style wow fadeInUp delay-0-6s">
 							<div class="inner-border">
@@ -94,7 +94,7 @@ include 'conn.php';
 						</div>
 					</div>
                         	<?php
-                        }
+}
 ?>
 
 

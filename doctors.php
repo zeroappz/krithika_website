@@ -70,12 +70,12 @@ include 'conn.php';
 <?php
 
   $stmt = $connect->prepare(
-                                "SELECT * FROM doctors");
-                        $stmt->execute();
-                        $details = $stmt->fetchAll();
-                        foreach($details as $doctor_details)
-                        {
-                        	?>
+      "SELECT * FROM doctors"
+  );
+$stmt->execute();
+$details = $stmt->fetchAll();
+foreach($details as $doctor_details) {
+    ?>
                         	<div class="col-lg-4 col-sm-6">
 						<div class="main-doctors-item hover-style wow fadeInUp delay-0-6s">
 							<div class="inner-border">
@@ -112,7 +112,7 @@ include 'conn.php';
 						</div>
 					</div>
                         	<?php
-                        }
+}
 ?>
 
 

@@ -1,25 +1,21 @@
-<?php  
+<?php
 session_start();
 include 'conn.php';
- 
-if(isset($_SESSION["email"])){
- include 'permission.php';
+
+if(isset($_SESSION["email"])) {
+    include 'permission.php';
+} else {
+    header('Location: index.php');
 }
-else{
-    header('Location: index.php');  
+
+try {
+
+
+
+} catch(PDOException $error) {
+    $message = $error->getMessage();
 }
-
- try  
- {  
-
-
-
- }  
- catch(PDOException $error)  
- {  
-      $message = $error->getMessage();  
- }  
- ?>  
+?>  
 
 <!doctype html>
 <html lang="en">
@@ -76,8 +72,8 @@ else{
 
                                         <?php
 
-if($user_role['role_name'] == "Admin"){
-?>
+if($user_role['role_name'] == "Admin") {
+    ?>
 
          <a href="create_doctors.php" class="main-btn">Add Doctor</a>
          <a href="create_user.php" class="main-btn">Add User</a>
@@ -114,12 +110,12 @@ if($user_role['role_name'] == "Admin"){
         <?php
 
   $stmt = $connect->prepare(
-                                "SELECT * FROM doctors");
-                        $stmt->execute();
-                        $details = $stmt->fetchAll();
-                        foreach($details as $doctor_details)
-                        {
-?>
+      "SELECT * FROM doctors"
+  );
+$stmt->execute();
+$details = $stmt->fetchAll();
+foreach($details as $doctor_details) {
+    ?>
 <tr>
     <td><?php echo "<img src='".$doctor_details['image']."' style='height:50px;width:50px;' class='rounded-circle'>"?></td>
     <td><?php echo $doctor_details['name']; ?></td>
@@ -137,15 +133,15 @@ if($user_role['role_name'] == "Admin"){
 
 <?php
 
-if($user_role['role_name'] == "Admin"){
-?>
+    if($user_role['role_name'] == "Admin") {
+        ?>
 
          <a href="update_doctors.php?id=<?php echo $doctor_details['id']?>" class="btn btn-success">Edit</a>
          <a href="delete.php?id=<?php echo $doctor_details['id']?>" class="btn btn-danger" onclick="return checkDelete()">Delete</a>
 <?php
-}
+    }
 
-?>
+    ?>
 
 
      </td>
@@ -155,7 +151,7 @@ if($user_role['role_name'] == "Admin"){
 
 
 <?php
-                        }
+}
 ?>
        
     </tbody>

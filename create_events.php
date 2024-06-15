@@ -1,81 +1,72 @@
-<?php  
+<?php
 session_start();
 include 'conn.php';
- 
-if(isset($_SESSION["email"])){
 
-   
+if(isset($_SESSION["email"])) {
 
+
+
+} else {
+    header('Location: index.php');
 }
-else{
-    header('Location: index.php');  
-}
 
 
- try  
- {  
-
-    
-if(isset($_POST['submit']))
-{
-
-    $title = $_POST['title'];
-    $description = $_POST['description'];
-    $event_date = $_POST['event_date'];
-    $created_by_id = $_SESSION["id"];
-    $created_at = date('Y-m-d H:i:s');
-    $updated_at = date('Y-m-d H:i:s');
+try {
 
 
-      if(isset($_FILES['image']) && $_FILES['image']['error'] == 0) {
-        $file_name = $_FILES['image']['name'];
-        $file_temp = $_FILES['image']['tmp_name'];
-        $file_size = $_FILES['image']['size'];
-        $file_type = $_FILES['image']['type'];
-        $date_uploaded=date("Y-m-d");
-        $location="assets/events/".$file_name;
-        move_uploaded_file($file_temp,$location);
-      }
-      else{
-        $location = "";
-      }
+    if(isset($_POST['submit'])) {
+
+        $title = $_POST['title'];
+        $description = $_POST['description'];
+        $event_date = $_POST['event_date'];
+        $created_by_id = $_SESSION["id"];
+        $created_at = date('Y-m-d H:i:s');
+        $updated_at = date('Y-m-d H:i:s');
 
 
-    $query = "INSERT INTO events (image, title, description, event_date,created_by_id,created_at,updated_at) VALUES (:image, :title, :description, :event_date,:created_by_id,:created_at,:updated_at)";
-    $query_run = $connect->prepare($query);
+        if(isset($_FILES['image']) && $_FILES['image']['error'] == 0) {
+            $file_name = $_FILES['image']['name'];
+            $file_temp = $_FILES['image']['tmp_name'];
+            $file_size = $_FILES['image']['size'];
+            $file_type = $_FILES['image']['type'];
+            $date_uploaded = date("Y-m-d");
+            $location = "assets/events/".$file_name;
+            move_uploaded_file($file_temp, $location);
+        } else {
+            $location = "";
+        }
 
-    $data = [
-        ':image' => $location,
-        ':title' => $title,
-        ':description' => $description,
-        ':event_date' => $event_date,
-        ':created_by_id' => $created_by_id,
-        ':created_at' => $created_at,
-        ':updated_at' => $updated_at,
-        
-    ];
-    $query_execute = $query_run->execute($data);
 
-    if($query_execute)
-    {
-        $message =  '<label style="color:red">Inserted Successfully</label>';
-        header('Location: event_list.php');
-        exit(0);
+        $query = "INSERT INTO events (image, title, description, event_date,created_by_id,created_at,updated_at) VALUES (:image, :title, :description, :event_date,:created_by_id,:created_at,:updated_at)";
+        $query_run = $connect->prepare($query);
+
+        $data = [
+            ':image' => $location,
+            ':title' => $title,
+            ':description' => $description,
+            ':event_date' => $event_date,
+            ':created_by_id' => $created_by_id,
+            ':created_at' => $created_at,
+            ':updated_at' => $updated_at,
+
+        ];
+        $query_execute = $query_run->execute($data);
+
+        if($query_execute) {
+            $message =  '<label style="color:red">Inserted Successfully</label>';
+            header('Location: event_list.php');
+            exit(0);
+        } else {
+            $message =  '<label style="color:red">Not Insert</label>';
+            // header('Location: create_doctor.php');
+            exit(0);
+        }
     }
-    else
-    {
-        $message =  '<label style="color:red">Not Insert</label>';  
-        // header('Location: create_doctor.php');
-        exit(0);
-    }
-}
 
- }  
- catch(PDOException $error)  
- {  
-      $message = $error->getMessage();  
- }  
- ?>  
+} catch(PDOException $error) {
+    $message = $error->getMessage();
+}
+?>  
 
 <!doctype html>
 <html lang="en">

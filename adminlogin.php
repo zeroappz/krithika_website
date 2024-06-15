@@ -1,60 +1,50 @@
-<?php  
- session_start();  
- 
- include 'conn.php';
- try  
- {  
-     
-      if(isset($_POST["login"]))  
-      {  
+<?php
+session_start();
 
-           if(empty($_POST["email"]) || empty($_POST["password"]))  
-           {  
-                $message = '<label>All fields are required</label>';  
-           }  
-           else  
-           {  
-                $query = "SELECT * FROM users WHERE email = :email AND password = :password";  
-                $statement = $connect->prepare($query);  
-                $statement->execute(  
-                     array(  
-                          'email'     =>     $_POST["email"],  
-                          'password'     =>     md5($_POST["password"])  
-                     )  
-                );  
-                $count = $statement->rowCount();  
-                if($count > 0)  
-                {  
+include 'conn.php';
+try {
+
+    if(isset($_POST["login"])) {
+
+        if(empty($_POST["email"]) || empty($_POST["password"])) {
+            $message = '<label>All fields are required</label>';
+        } else {
+            $query = "SELECT * FROM users WHERE email = :email AND password = :password";
+            $statement = $connect->prepare($query);
+            $statement->execute(
+                array(
+                      'email'     =>     $_POST["email"],
+                      'password'     =>     md5($_POST["password"])
+                 )
+            );
+            $count = $statement->rowCount();
+            if($count > 0) {
 
 
-    $email = $_POST["email"];
-    $stmt = $connect->prepare("SELECT * FROM users WHERE email = :email");
-    // Bind the ID parameter
-    $stmt->bindParam(':email', $email);
-    // Execute the query
-    $stmt->execute();
-    // Fetch the result
-    $user_result = $stmt->fetch(PDO::FETCH_ASSOC);
+                $email = $_POST["email"];
+                $stmt = $connect->prepare("SELECT * FROM users WHERE email = :email");
+                // Bind the ID parameter
+                $stmt->bindParam(':email', $email);
+                // Execute the query
+                $stmt->execute();
+                // Fetch the result
+                $user_result = $stmt->fetch(PDO::FETCH_ASSOC);
 
 
- 
-                       $_SESSION["email"] = $_POST["email"];
-                       $_SESSION["role_id"] = $user_result["role_id"];
-                       $_SESSION["id"] = $user_result["id"]; 
-                     header("location:doctors_list.php");  
-                }  
-                else  
-                {  
-                     $message = '<label style="color:red">Invalid user</label>';  
-                }  
-           }  
-      }  
- }  
- catch(PDOException $error)  
- {  
-      $message = $error->getMessage();  
- }  
- ?>  
+
+                $_SESSION["email"] = $_POST["email"];
+                $_SESSION["role_id"] = $user_result["role_id"];
+                $_SESSION["id"] = $user_result["id"];
+                header("location:doctors_list.php");
+            } else {
+                $message = '<label style="color:red">Invalid user</label>';
+            }
+        }
+    }
+} catch(PDOException $error) {
+    $message = $error->getMessage();
+}
+?>  
 
 <!doctype html>
 <html lang="en">

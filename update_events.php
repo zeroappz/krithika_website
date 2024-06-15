@@ -1,15 +1,15 @@
-<?php  
+<?php
+
 session_start();
 include 'conn.php';
- 
-if(isset($_SESSION["email"])){
 
-}
-else{
-    header('Location: index.php');  
+if(isset($_SESSION["email"])) {
+
+} else {
+    header('Location: index.php');
 }
 
- try {
+try {
     if (isset($_FILES['image']) && $_FILES['image']['error'] == 0) {
         $file_name = $_FILES['image']['name'];
         $file_temp = $_FILES['image']['tmp_name'];
@@ -32,7 +32,7 @@ else{
     ];
 
     $sql = "UPDATE events SET id=:id,image=:image, title=:title, description=:description, event_date=:event_date,updated_at=:updated_at WHERE id=:id";
-    
+
     $stmt = $connect->prepare($sql);
     $stmt->execute($data);
 
@@ -47,4 +47,3 @@ else{
 } catch (PDOException $error) {
     $message = $error->getMessage();
 }
- ?>

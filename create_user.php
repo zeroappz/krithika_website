@@ -1,64 +1,56 @@
-<?php  
+<?php
 session_start();
 include 'conn.php';
- 
-if(isset($_SESSION["email"])){
 
+if(isset($_SESSION["email"])) {
+
+} else {
+    header('Location: index.php');
 }
-else{
-    header('Location: index.php');  
-}
 
- try  
- {  
-
-    
-if(isset($_POST['submit']))
-{
-
-    $role_id = $_POST['role_id'];
-    $email = $_POST['email'];
-    $password = $_POST['password'];
-    $created_at = date('Y-m-d H:i:s');
-    $updated_at = date('Y-m-d H:i:s');
-
-    $query = "INSERT INTO users (role_id, email, password,created_at,updated_at) VALUES (:role_id, :email, :password,:created_at,:updated_at)";
-    $query_run = $connect->prepare($query);
+try {
 
 
-// $hash_password = password_hash($password,  
-//           PASSWORD_DEFAULT); 
+    if(isset($_POST['submit'])) {
 
-    $data = [
-        ':role_id' => $role_id,
-        ':email' => $email,
-        ':password' => md5($password),
-        ':created_at' => $created_at,
-        ':updated_at' => $updated_at,
-        
-    ];
-    $query_execute = $query_run->execute($data);
+        $role_id = $_POST['role_id'];
+        $email = $_POST['email'];
+        $password = $_POST['password'];
+        $created_at = date('Y-m-d H:i:s');
+        $updated_at = date('Y-m-d H:i:s');
 
-    if($query_execute)
-    {
-        $message =  '<label style="color:red">Inserted Successfully</label>';
-        header('Location: user_list.php');
-        exit(0);
+        $query = "INSERT INTO users (role_id, email, password,created_at,updated_at) VALUES (:role_id, :email, :password,:created_at,:updated_at)";
+        $query_run = $connect->prepare($query);
+
+
+        // $hash_password = password_hash($password,
+        //           PASSWORD_DEFAULT);
+
+        $data = [
+            ':role_id' => $role_id,
+            ':email' => $email,
+            ':password' => md5($password),
+            ':created_at' => $created_at,
+            ':updated_at' => $updated_at,
+
+        ];
+        $query_execute = $query_run->execute($data);
+
+        if($query_execute) {
+            $message =  '<label style="color:red">Inserted Successfully</label>';
+            header('Location: user_list.php');
+            exit(0);
+        } else {
+            $message =  '<label style="color:red">Not Insert</label>';
+            // header('Location: create_doctor.php');
+            exit(0);
+        }
     }
-    else
-    {
-        $message =  '<label style="color:red">Not Insert</label>';  
-        // header('Location: create_doctor.php');
-        exit(0);
-    }
-}
 
- }  
- catch(PDOException $error)  
- {  
-      $message = $error->getMessage();  
- }  
- ?>  
+} catch(PDOException $error) {
+    $message = $error->getMessage();
+}
+?>  
 
 <!doctype html>
 <html lang="en">
@@ -117,17 +109,17 @@ if(isset($_POST['submit']))
                                
 <?php
 
-  $stmt = $connect->prepare(
-                                "SELECT * FROM role");
-                        $stmt->execute();
-                        $details = $stmt->fetchAll();
-                        foreach($details as $role_details)
-                        {
-                            ?>
+ $stmt = $connect->prepare(
+     "SELECT * FROM role"
+ );
+$stmt->execute();
+$details = $stmt->fetchAll();
+foreach($details as $role_details) {
+    ?>
                         <option value="<?php echo $role_details['id']?>"><?php echo $role_details['role_name']?></option>
                             <?php
 
-                        }
+}
 ?>
 </select>
 

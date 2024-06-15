@@ -1,28 +1,24 @@
-<?php  
+<?php
 session_start();
 include 'conn.php';
- 
-if(isset($_SESSION["email"])){
 
+if(isset($_SESSION["email"])) {
+
+} else {
+    header('Location: index.php');
 }
-else{
-    header('Location: index.php');  
+
+try {
+
+    $id = $_GET['id'];
+    $stmt = $connect->prepare("SELECT * FROM users WHERE id=? LIMIT 1");
+    $stmt->execute([$id]);
+    $row = $stmt->fetch(PDO::FETCH_ASSOC);
+
+} catch(PDOException $error) {
+    $message = $error->getMessage();
 }
-
- try  
- {  
-
-$id = $_GET['id'];
-$stmt = $connect->prepare("SELECT * FROM users WHERE id=? LIMIT 1"); 
-$stmt->execute([$id]); 
-$row = $stmt->fetch(PDO::FETCH_ASSOC);
-
- }  
- catch(PDOException $error)  
- {  
-      $message = $error->getMessage();  
- }  
- ?>  
+?>  
 
 
 <!doctype html>
@@ -81,17 +77,17 @@ $row = $stmt->fetch(PDO::FETCH_ASSOC);
                                
 <?php
 
-  $stmt = $connect->prepare(
-                                "SELECT * FROM role");
-                        $stmt->execute();
-                        $details = $stmt->fetchAll();
-                        foreach($details as $role_details)
-                        {
-                            ?>
+ $stmt = $connect->prepare(
+     "SELECT * FROM role"
+ );
+$stmt->execute();
+$details = $stmt->fetchAll();
+foreach($details as $role_details) {
+    ?>
                         <option value="<?php echo $role_details['id']?>" <?php if($role_details['id'] == $row['role_id']) { ?> selected="selected"<?php } ?>><?php echo $role_details['role_name']?></option>
                             <?php
 
-                        }
+}
 ?>
 </select>
 

@@ -1,28 +1,24 @@
-<?php  
+<?php
 session_start();
 include 'conn.php';
- 
-if(isset($_SESSION["email"])){
 
+if(isset($_SESSION["email"])) {
+
+} else {
+    header('Location: index.php');
 }
-else{
-    header('Location: index.php');  
+
+try {
+
+    $id = $_GET['id'];
+    $stmt = $connect->prepare("SELECT * FROM doctors WHERE id=? LIMIT 1");
+    $stmt->execute([$id]);
+    $row = $stmt->fetch(PDO::FETCH_ASSOC);
+
+} catch(PDOException $error) {
+    $message = $error->getMessage();
 }
-
- try  
- {  
-
-$id = $_GET['id'];
-$stmt = $connect->prepare("SELECT * FROM doctors WHERE id=? LIMIT 1"); 
-$stmt->execute([$id]); 
-$row = $stmt->fetch(PDO::FETCH_ASSOC);
-
- }  
- catch(PDOException $error)  
- {  
-      $message = $error->getMessage();  
- }  
- ?>  
+?>  
 
 <!doctype html>
 <html lang="en">
