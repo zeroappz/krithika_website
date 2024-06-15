@@ -26,7 +26,7 @@ $row = $stmt->fetch(PDO::FETCH_ASSOC);
 
 
 <!doctype html>
-<html lang="zxx">
+<html lang="en">
 
 <head>
     <!--=== Required meta tags ===-->

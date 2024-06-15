@@ -1,85 +1,74 @@
-<?php  
+<?php
 session_start();
 include 'conn.php';
- 
-if(isset($_SESSION["email"])){
 
-}
-else{
-    header('Location: index.php');  
+if (isset($_SESSION["email"])) {
+} else {
+    header('Location: index.php');
 }
 
- try  
- {  
-
-    
-if(isset($_POST['submit']))
-{
-
-    $name = $_POST['name'];
-    $qualification = $_POST['qualification'];
-    $specialist = $_POST['specialist'];
-    $profile_description = $_POST['profile_description'];
-    $facebook = $_POST['facebook'];
-    $twitter = $_POST['twitter'];
-    $linkedin = $_POST['linkedin'];
-    $instagram = $_POST['instagram'];
+try {
 
 
-      if(isset($_FILES['image']) && $_FILES['image']['error'] == 0) {
-        $file_name = $_FILES['image']['name'];
-        $file_temp = $_FILES['image']['tmp_name'];
-        $file_size = $_FILES['image']['size'];
-        $file_type = $_FILES['image']['type'];
-        $date_uploaded=date("Y-m-d");
-        $location="assets/doctors/".$file_name;
-        move_uploaded_file($file_temp,$location);
-      }
-      else{
-        $location = "";
-      }
+    if (isset($_POST['submit'])) {
+
+        $name = $_POST['name'];
+        $qualification = $_POST['qualification'];
+        $specialist = $_POST['specialist'];
+        $profile_description = $_POST['profile_description'];
+        $facebook = $_POST['facebook'];
+        $twitter = $_POST['twitter'];
+        $linkedin = $_POST['linkedin'];
+        $instagram = $_POST['instagram'];
 
 
-    $query = "INSERT INTO doctors (image, name, qualification, specialist,profile_description,facebook,twitter,linkedin,instagram) VALUES (:image, :name, :qualification, :specialist,:profile_description,:facebook,:twitter,:linkedin,:instagram)";
-    $query_run = $connect->prepare($query);
+        if (isset($_FILES['image']) && $_FILES['image']['error'] == 0) {
+            $file_name = $_FILES['image']['name'];
+            $file_temp = $_FILES['image']['tmp_name'];
+            $file_size = $_FILES['image']['size'];
+            $file_type = $_FILES['image']['type'];
+            $date_uploaded = date("Y-m-d");
+            $location = "assets/doctors/" . $file_name;
+            move_uploaded_file($file_temp, $location);
+        } else {
+            $location = "";
+        }
 
-    $data = [
-        ':image' => $location,
-        ':name' => $name,
-        ':qualification' => $qualification,
-        ':specialist' => $specialist,
-        ':profile_description' => $profile_description,
-        ':facebook' => $facebook,
-        ':twitter' => $twitter,
-        ':linkedin' => $linkedin,
-        ':instagram' => $instagram,
-        
-    ];
-    $query_execute = $query_run->execute($data);
 
-    if($query_execute)
-    {
-        $message =  '<label style="color:red">Inserted Successfully</label>';
-        header('Location: doctors_list.php');
-        exit(0);
+        $query = "INSERT INTO doctors (image, name, qualification, specialist,profile_description,facebook,twitter,linkedin,instagram) VALUES (:image, :name, :qualification, :specialist,:profile_description,:facebook,:twitter,:linkedin,:instagram)";
+        $query_run = $connect->prepare($query);
+
+        $data = [
+            ':image' => $location,
+            ':name' => $name,
+            ':qualification' => $qualification,
+            ':specialist' => $specialist,
+            ':profile_description' => $profile_description,
+            ':facebook' => $facebook,
+            ':twitter' => $twitter,
+            ':linkedin' => $linkedin,
+            ':instagram' => $instagram,
+
+        ];
+        $query_execute = $query_run->execute($data);
+
+        if ($query_execute) {
+            $message =  '<label style="color:red">Inserted Successfully</label>';
+            header('Location: doctors_list.php');
+            exit(0);
+        } else {
+            $message =  '<label style="color:red">Not Insert</label>';
+            // header('Location: create_doctor.php');
+            exit(0);
+        }
     }
-    else
-    {
-        $message =  '<label style="color:red">Not Insert</label>';  
-        // header('Location: create_doctor.php');
-        exit(0);
-    }
+} catch (PDOException $error) {
+    $message = $error->getMessage();
 }
-
- }  
- catch(PDOException $error)  
- {  
-      $message = $error->getMessage();  
- }  
- ?>  
+?>
 
 <!doctype html>
-<html lang="zxx">
+<html lang="en">
 
 <head>
     <!--=== Required meta tags ===-->
@@ -105,10 +94,10 @@ if(isset($_POST['submit']))
 
 <body>
     <!-- Header Start -->
-    
+
 
     <!-- Header End -->
-<a href="logout.php" style="float: right; margin-right:50px!important" class="main-btn">Logout</a>
+    <a href="logout.php" style="float: right; margin-right:50px!important" class="main-btn">Logout</a>
 
     <br>
     <!--=== Start Banner Section ===-->
@@ -117,11 +106,11 @@ if(isset($_POST['submit']))
             <div class="row">
                 <div class="col-lg-4"></div>
                 <div class="col-lg-6">
-                    
+
                     <a href="doctors_list.php" class="main-btn">Doctor List</a>
                     <br>
                     <h3 class="wow fadeInUp delay-0-8s">Add Doctors</h3>
-                    
+
 
                     <?php echo  $message; ?>
                     <form class="appointment wow fadeInUp delay-0-1s" action="create_doctors.php" method="post" enctype="multipart/form-data">
@@ -143,7 +132,7 @@ if(isset($_POST['submit']))
                                             <div class="invalid-feedback"> Valid Password is required.</div>
                                         </div>
                                     </div>
-                                     <div class="col-lg-12 col-sm-12">
+                                    <div class="col-lg-12 col-sm-12">
                                         <div class="form-floating form-group">
                                             <input type="text" name="qualification" class="form-control" id="qualification" placeholder="qualification" value="" required="">
                                             <label for="qualification" class="form-label">qualification</label>
@@ -165,21 +154,21 @@ if(isset($_POST['submit']))
                                             <div class="invalid-feedback"> Valid Password is required.</div>
                                         </div>
                                     </div>
-                                     <div class="col-lg-12 col-sm-12">
+                                    <div class="col-lg-12 col-sm-12">
                                         <div class="form-floating form-group">
                                             <input type="text" name="twitter" class="form-control" id="twitter" placeholder="twitter" value="" required="">
                                             <label for="twitter" class="form-label">twitter</label>
                                             <div class="invalid-feedback"> Valid Password is required.</div>
                                         </div>
                                     </div>
-                                   <div class="col-lg-12 col-sm-12">
+                                    <div class="col-lg-12 col-sm-12">
                                         <div class="form-floating form-group">
                                             <input type="text" name="facebook" class="form-control" id="facebook" placeholder="facebook" value="" required="">
                                             <label for="facebook" class="form-label">Facebook</label>
                                             <div class="invalid-feedback"> Valid Password is required.</div>
                                         </div>
                                     </div>
-                                     <div class="col-lg-12 col-sm-12">
+                                    <div class="col-lg-12 col-sm-12">
                                         <div class="form-floating form-group">
                                             <input type="text" name="linkedin" class="form-control" id="linkedin" placeholder="linkedin" value="" required="">
                                             <label for="linkedin" class="form-label">Linked In</label>
@@ -209,7 +198,7 @@ if(isset($_POST['submit']))
                                     </div> -->
 
                                 </div>
-                               <!--  <div class="row">
+                                <!--  <div class="row">
                                     <div class="col-lg-3 col-sm-3"></div>
                                     <div class="col-lg-8 col-sm-8">
                                         Don't have an account?
@@ -238,11 +227,11 @@ if(isset($_POST['submit']))
     <!--=== End Banner Section ===-->
 
     <!-- Footer Start -->
-  
+
 
     <!-- Footer End -->
     <!--=== Start Copy Right Section ===-->
-    
+
     <!--=== End Copy Right Section ===-->
 
 

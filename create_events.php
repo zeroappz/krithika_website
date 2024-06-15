@@ -78,7 +78,7 @@ if(isset($_POST['submit']))
  ?>  
 
 <!doctype html>
-<html lang="zxx">
+<html lang="en">
 
 <head>
     <!--=== Required meta tags ===-->

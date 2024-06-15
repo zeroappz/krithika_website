@@ -24,7 +24,7 @@ else{
  ?>  
 
 <!doctype html>
-<html lang="zxx">
+<html lang="en">
 
 <head>
     <!--=== Required meta tags ===-->

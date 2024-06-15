@@ -2,7 +2,7 @@
 include 'conn.php';
 ?>
 <!doctype html>
-<html lang="zxx">
+<html lang="en">
 
 
 <head>
