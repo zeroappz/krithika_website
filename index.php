@@ -198,6 +198,9 @@
 						<li class="nav-item">
 							<a href="contact-us.php" class="nav-link ff">Contact Us</a>
 						</li>
+						<li class="nav-item">
+								<a href="enquiry.php" class="nav-link ff">Enquiry</a>
+							</li>
 						<!-- <li class="nav-item">
 								<a href=" https://admin.kirthikadentalcare.in/register" class="nav-link ff">Register</a>
 							</li> -->
@@ -206,11 +209,11 @@
 							</li> -->
 
 							<li class="nav-item">
-							<a href="#" class="nav-link dropdown-toggle ff">
+							<a href="https://app.kirthikadentalcare.in/" class="nav-link">
 								Login
 							</a>
  
-							<ul class="dropdown-menu">
+							<!-- <ul class="dropdown-menu">
 								<li class="nav-item">
 									<a href="https://admin.kirthikadentalcare.in/login" class="nav-link">Patient Login</a>
 								</li>
@@ -221,7 +224,7 @@
 								
 
 
-							</ul>
+							</ul> -->
 						</li>
 						<!-- <li class="nav-item">
 							<a href="#" class="nav-link dropdown-toggle">Login</a>
@@ -392,12 +395,13 @@
 								<a href="#">Appointment Booking</a>
 							</h3>
 							<p>You can book your personalized appointments at the comfortable time to visit the dentist on your registered login page.</p>
+						<br>
 						</div>
 					</div>
 				</div>
 
 				<div class="col-lg-3 col-sm-6">
-					<div class="main-services-box hover-style wow fadeInUp delay-0-4s">
+					<div class="main-services-box hover-style wow fadeInUp delay-0-2s">
 						<div class="inner-border">
 							<div class="icon">
 								<img src="assets/images/icon/icon-2.svg" alt="Image">
@@ -405,8 +409,7 @@
 							<h3>
 								<a href="#">Appointment Cancellation</a>
 							</h3>
-							Please give us at least 12-hour notice if you are unable to attend your appointment so that others may be offered your appointment.</p>
-
+							<p>lease give us at least 12-hour notice if you are unable to attend your appointment so that others may be offered your appointment.</p>
 						</div>
 					</div>
 				</div>

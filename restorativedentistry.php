@@ -89,7 +89,7 @@
 									</li>
 									<li>
 										<a href="oralandmaxillofacial.php">
-										Oral and maxilla facial surgery
+										Oral and maxillo facial surgery
 											<i class="icofont-simple-right"></i>
 										</a>
 									</li>
@@ -240,7 +240,7 @@
 							<!-- <h4>Watch The Sealants Image</h4> -->
 
 							<div class="services-img-1">
-								<img src="assets/images/services/restorativedentistry.png" alt="Image">
+								
 
 							</div>
 

@@ -41,7 +41,7 @@
 						<img src="assets/images/kirthika.png" alt="Logo" style=" width: auto; height: 70px;">
 					</a>
 				</div>
-			
+
 
 				<div class="collapse navbar-collapse for-mobile-menu" id="navbarSupportedContent">
 					<ul class="navbar-nav m-auto">
@@ -59,7 +59,7 @@
 							<a href="#" class="nav-link dropdown-toggle">
 								Specialities
 							</a>
- 
+
 							<ul class="dropdown-menu">
 								<li class="nav-item">
 									<a href="oralmedicineandpathology.php" class="nav-link">Oral Medicine and Pathology </a>
@@ -167,26 +167,30 @@
 						<!-- <li class="nav-item">
 								<a href=" https://admin.kirthikadentalcare.in/register" class="nav-link">Register</a>
 							</li> -->
-							<!-- <li class="nav-item">
+						<!-- <li class="nav-item">
 								<a href="https://admin.kirthikadentalcare.in/login" class="nav-link">Login</a>
 							</li> -->
-							<li class="nav-item">
-							<a href="#" class="nav-link dropdown-toggle">
+
+						<li class="nav-item">
+							<a href="enquiry.php" class="nav-link">Enquiry</a>
+						</li>
+						<li class="nav-item">
+							<a href="https://app.kirthikadentalcare.in/" class="nav-link">
 								Login
 							</a>
- 
-							<ul class="dropdown-menu">
-								<li class="nav-item">
-									<a href="https://admin.kirthikadentalcare.in/login" class="nav-link">Patient Login</a>
-								</li>
-								<li class="nav-item">
-									<a href="https://admin.kirthikadentalcare.in/login" class="nav-link">Staff Login</a>
-								</li>
 
-								
+							<!-- <ul class="dropdown-menu"> -->
+								<!-- <li class="nav-item"> -->
+									<!-- <a href="https://app.kirthikadentalcare.in/" class="nav-link"> Login</a> -->
+								<!-- </li> -->
+								<!-- <li class="nav-item"> -->
+									<!-- <a href="https://app.kirthikadentalcare.in/" class="nav-link">Staff Login</a> -->
+								<!-- </li> -->
 
 
-							</ul>
+
+
+							<!-- </ul> -->
 						</li>
 						<!-- <li class="nav-item">
 							<a href="#" class="nav-link dropdown-toggle">Login</a>
@@ -243,8 +247,8 @@
 
 <!--=== Start Navbar Section ===-->
 <!-- <div class="navbar-section-btm"> -->
-	<!--=== Start Main Navbar Section ===-->
-	<!-- <div class="main-nav">
+<!--=== Start Main Navbar Section ===-->
+<!-- <div class="main-nav">
 		<div class="container">
 			<nav class="navbar navbar-expand-md navbar-light">
 
