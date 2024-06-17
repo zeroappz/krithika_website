@@ -18,7 +18,7 @@
 		<link rel="stylesheet" href="assets/css/responsive.css">
 
 		<!--=== Favicon ===-->
-		<link rel="icon" type="image/png" href="assets/images/favicon.png">
+		<link rel="icon" type="image/png" href="assets/images/kirthika.png" style="width:80px; height:107px !important;">
 		<!--=== Title ===-->
 		<title>Kirthika Dental Care</title>
     </head>
@@ -89,7 +89,7 @@
 									</li>
 									<li>
 										<a href="oralandmaxillofacial.php">
-										Oral and maxilla facial surgery
+										Oral and maxillo facial surgery
 											<i class="icofont-simple-right"></i>
 										</a>
 									</li>
@@ -99,7 +99,7 @@
 											<i class="icofont-simple-right"></i>
 										</a>
 									</li>
-									s<!-- <li>
+									<!-- <li>
 										<a href="prosthodontics.php">
 										Dental Crowns
 											<i class="icofont-simple-right"></i>
@@ -168,7 +168,7 @@
 								</ul>
 							</div>
 
-							<div class="main-sidebar-item contact-us">
+							<!-- <div class="main-sidebar-item contact-us">
 								<h3>Contact Us</h3>
 
 								<div class="row">
@@ -213,7 +213,7 @@
 										</button>
 									</div>
 								</div>
-							</div>
+							</div> -->
 						</div>
 					</div>
 
@@ -223,23 +223,24 @@
 								<img src="assets/images/services/Restorative-dentistry.png" alt="Image">
 							</div>
 							<h4>Introduction</h4>
-							<h3>Restorative dentistry</h3>
-							<p><b>What is the meaning of Restorative dentistry?</b><br></p>
-
 							<p>Restorative dentistry is a branch of dentistry that focuses on restoring the function, appearance, and integrity of teeth and oral structures affected by various dental conditions or injuries. It involves the diagnosis, prevention, and treatment of oral diseases and disorders, with the goal of improving oral health and enhancing the patient's quality of life.</p>
+							<!-- <h3>Restorative dentistry</h3> -->
+							<!-- <p><b>What is the meaning of Restorative dentistry?</b><br></p>
+
+							<p>Restorative dentistry is a branch of dentistry that focuses on restoring the function, appearance, and integrity of teeth and oral structures affected by various dental conditions or injuries. It involves the diagnosis, prevention, and treatment of oral diseases and disorders, with the goal of improving oral health and enhancing the patient's quality of life.</p> -->
 
 							<p><b>Who are the candidates of Restorative dentistry treatment?</b><br></p>
 
-							<Third>Restorative dentistry treatment are individuals who require dental procedures to repair or replace damaged or missing teeth. 
+							<Third>Patients with dental caries, tooth pain, tooth sensitivity, fractured tooth/restoration are the candidates for restorative dentistry. 
 
 							<p><b>What does the Restorative dentistry do?</b><br></p>
 
-							<p>Restorative dentistry is a branch of dentistry focused on restoring the function and appearance of damaged or missing teeth. It involves various treatments and procedures to repair teeth affected by decay, trauma, wear, or other dental issues. Restorative dentistry aims to improve oral health, restore natural tooth structure, and enhance the overall aesthetics of the smile. Common restorative procedures include dental fillings, crowns, bridges, implants, and dentures.</p>
+							<p>Restorative dentistry focused on restoring the function and appearance of damaged or missing teeth. It involves various treatments and procedures to repair teeth affected by decay, trauma, wear, or other dental issues. Restorative dentistry aims to improve oral health, restore natural tooth structure, and enhance the overall aesthetics of the smile. Common restorative procedures include dental fillings, veneers, crowns.</p>
 
 							<!-- <h4>Watch The Sealants Image</h4> -->
 
 							<div class="services-img-1">
-								<img src="assets/images/services/restorativedentistry.png" alt="Image">
+								
 
 							</div>
 
@@ -388,7 +389,7 @@
 			<div class="container">
 				<div class="row">
 					<div class="col-lg-8 col-md-7">
-						<p>Copyright © <span>Kirthika Dental Care</span> Is Proudly Owned by <a href="https://croptheme.com/" target="_blank">Macincode</a></p>
+						<p>Copyright © <span>Kirthika Dental Care</span> Is Proudly Owned by <a href="https://www.macincode.com/" target="_blank">Macincode</a></p>
 					</div>
 					<div class="col-lg-4 col-md-5">
 						<ul>
@@ -413,7 +414,7 @@
 <!--
 		<ul class="rtl-buy">
 			<li>
-				<a href="https://croptheme.com/Kirthika Dental Care/Kirthika Dental Care-rtl/">RTL</a>
+				<a href="https://www.macincode.com/Kirthika Dental Care/Kirthika Dental Care-rtl/">RTL</a>
 			</li>
 			<li>
 				<a href="https://themeforest.net/item/blad-ai-blood-donation-activism-campaign-html-template/41923002" target="_blank" class="bg-color">BUY</a>

@@ -18,7 +18,7 @@
 		<link rel="stylesheet" href="assets/css/responsive.css">
 
 		<!--=== Favicon ===-->
-		<link rel="icon" type="image/png" href="assets/images/favicon.png">
+		<link rel="icon" type="image/png" href="assets/images/kirthika.png" style="width:80px; height:107px !important;">
 		<!--=== Title ===-->
 		<title>Kirthika Dental Care</title>
     </head>
@@ -89,7 +89,7 @@
 									</li>
 									<li>
 										<a href="oralandmaxillofacial.php">
-										Oral and maxilla facial surgery
+										Oral and maxillo facial surgery
 											<i class="icofont-simple-right"></i>
 										</a>
 									</li>
@@ -168,7 +168,7 @@
 								</ul>
 							</div>
 
-							<div class="main-sidebar-item contact-us">
+							<!-- <div class="main-sidebar-item contact-us">
 								<h3>Contact Us</h3>
 
 								<div class="row">
@@ -213,20 +213,21 @@
 										</button>
 									</div>
 								</div>
-							</div>
+							</div> -->
 						</div>
 					</div>
 
 					<div class="col-lg-8">
 						<div class="services-details-content ms-15">
 							<div class="services-img-1">
-								<img src="assets/images/services/periodontics_sec_1.png" alt="Image">
+							<img src="assets/images/services/istockphoto.png" alt="Image">
+								<!-- <img src="assets/images/services/periodontics_sec_1.png" alt="Image"> -->
 							</div>
 							<h4>Introduction</h4>
-							<h3>Periodontics</h3>
-							<p><b>What is meaning by Periodontics?</b><br></p>
+							<!-- <h3>Periodontics</h3>
+							<p><b>What is meaning by Periodontics?</b><br></p> -->
 
-							<p>Periodontics is a specialized field of dentistry that focuses on the prevention, diagnosis, and treatment of diseases that affect the gums and supporting structures of the teeth. The word "periodontics" is derived from the Greek words "peri" meaning around and "odous" meaning tooth.</p>
+							<p>Periodontics is a specialized field of dentistry that focuses on the prevention, diagnosis, and treatment of diseases that affect the gums and supporting structures of the teeth. </p>
 
 							<p><b>Why would you see a periodontist?</b><br></p>
 
@@ -263,13 +264,14 @@
 							<!-- <h4>Watch The Sealants Image</h4> -->
 
 							<div class="services-img-1">
-								<img src="assets/images/services/periodontics_sec_2.png" alt="Image">
+								<img src="assets/images/services/periodontitis.jpeg" alt="Image">
 
 							</div>
 
 							<h3>What steps are followed in periodontics treatment?</h3>
 							<h4>Nonsurgical treatments</h4>
 							<p>If periodontitis isn't advanced, treatment may involve less invasive procedures, including:</p>
+							
 
 							<ul>
 								<li>
@@ -345,7 +347,7 @@
 								<li>
 									<!-- <p><b>At what age one can go for orthodontic treatment?</b><br></p> -->
 									<span class="bulletPoints"></span>
-									<b>Early detection - </b> A visit with your trusted provider of periodontal therapy in Charleston, WV can help determine if you have other oral health issues, and if caught early will likely require less serious treatment.
+									<b>Early detection - </b> A visit with your trusted provider of periodontal therapy in kirthika Dental Care, We can help determine if you have other oral health issues, and if caught early will likely require less serious treatment.
 								</li>
 								
 								<li>
@@ -397,7 +399,7 @@
 			<div class="container">
 				<div class="row">
 					<div class="col-lg-8 col-md-7">
-						<p>Copyright © <span>Kirthika Dental Care</span> Is Proudly Owned by <a href="https://croptheme.com/" target="_blank">Macincode</a></p>
+						<p>Copyright © <span>Kirthika Dental Care</span> Is Proudly Owned by <a href="https://www.macincode.com/" target="_blank">Macincode</a></p>
 					</div>
 					<div class="col-lg-4 col-md-5">
 						<ul>
@@ -422,7 +424,7 @@
 <!--
 		<ul class="rtl-buy">
 			<li>
-				<a href="https://croptheme.com/Kirthika Dental Care/Kirthika Dental Care-rtl/">RTL</a>
+				<a href="https://www.macincode.com/Kirthika Dental Care/Kirthika Dental Care-rtl/">RTL</a>
 			</li>
 			<li>
 				<a href="https://themeforest.net/item/blad-ai-blood-donation-activism-campaign-html-template/41923002" target="_blank" class="bg-color">BUY</a>

@@ -20,7 +20,7 @@
 	<link rel="stylesheet" href="assets/css/responsive.css">
 
 	<!--=== Favicon ===-->
-	<link rel="icon" type="image/png" href="assets/images/favicon.png">
+	<link rel="icon" type="image/png" href="assets/images/kirthika.png" style="width:80px; height:107px !important;">
 	<!--=== Title ===-->
 	<title>Kirthika Dental Care</title>
 </head>
@@ -59,7 +59,6 @@
 	<section class="contact-us-section pt-100 pb-70">
 		<div class="container">
 			<div class="main-section-title wow fadeInUp delay-0-2s">
-				<span class="up-title">Contact Us</span>
 				<h2>Find Out More About Us.</h2>
 			</div>
 
