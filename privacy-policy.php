@@ -376,17 +376,16 @@
 					</div>
 				</div>
 			</div>
-		</div>
 
-		<!--=== Start back To Top Section ===-->
-		<div class="back-to-top">
-			<i class="icofont-simple-up"></i>
+			<!--=== Start back To Top Section ===-->
+			<div class="back-to-top">
+				<i class="icofont-simple-up"></i>
+			</div>
+			<!--=== End Back To Top Section ===-->
 		</div>
-		<!--=== End Back To Top Section ===-->
-	</div>
 	<!--=== End Copy Right Section ===-->
 
-	<!-- <ul class="rtl-buy">
+	<!-- <ul class="rtl-buy">aa
 			<li>
 				<a href="https://www.macincode.com/Kirthika Dental Care/Kirthika Dental Care-rtl/">RTL</a>
 			</li>
