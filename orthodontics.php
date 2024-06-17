@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="zxx">
+<html lang="en">
 
 <head>
 		<!--=== Required meta tags ===-->
@@ -265,13 +265,13 @@
 							<ul>
 								<li>
 									<p><b>Why teeth become irregular?</b><br></p>
-									<span>1</span>
+									<span class="bulletPoints"></span>
 									There is misalignment of teeth because of thumb sucking, small jaw, incompetent lips, bad tongue and lip habits, nail
 									biting, injury etc.
 								</li>
 								<li>
 									<p><b>At what age one can go for orthodontic treatment?</b><br></p>
-									<span>2</span>
+									<span class="bulletPoints"></span>
 									Acc to experts a child at the age of 7 should be brought to an orthodontist because this is the time when the new teeth
 									erupt and after evaluating the teeth necessary treatment can be done(i.e. to prevent any severe problem in future).This
 									is referred to as phase I treatment. The phase I treatment is for 12-21months .After this dentist gives a rest period in

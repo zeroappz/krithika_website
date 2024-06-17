@@ -36,13 +36,13 @@ include 'conn.php';
 		<section class="page-banner-section bg-color-ebeef5 ptb-100">
 			<div class="container">
 				<div class="page-banner-content">
-					<h2>Doctors</h2>
+					<h2>Events</h2>
 					<ul>
 						<li>
 							<a href="index.php">Home</a>
 						</li>
 						<li>
-							<span class="active">Doctors</span>
+							<span class="active">Events</span>
 						</li>
 					</ul>
 				</div>
@@ -70,43 +70,25 @@ include 'conn.php';
 <?php
 
   $stmt = $connect->prepare(
-      "SELECT * FROM doctors"
+      "SELECT * FROM events"
   );
 $stmt->execute();
-$details = $stmt->fetchAll();
-foreach($details as $doctor_details) {
+$events = $stmt->fetchAll();
+foreach($events as $events_details) {
     ?>
                         	<div class="col-lg-4 col-sm-6">
 						<div class="main-doctors-item hover-style wow fadeInUp delay-0-6s">
 							<div class="inner-border">
 								<div class="doctor-img">
-									<img src="<?php echo $doctor_details['image']; ?>" alt="Image">
-
+									<img src="<?php echo $events_details['image']; ?>" alt="Image" class="image_option">
 									<ul>
-										<li>
-											<a href="<?php echo $doctor_details['facebook']; ?>" target="_blank">
-												<i class="icofont-facebook"></i>
-											</a>
-										</li>
-										<li>
-											<a href="<?php echo $doctor_details['twitter']; ?>" target="_blank">
-												<i class="icofont-twitter"></i>
-											</a>
-										</li>
-										<li>
-											<a href="<?php echo $doctor_details['linkedin']; ?>" target="_blank">
-												<i class="icofont-linkedin"></i>
-											</a>
-										</li>
-										<li>
-											<a href="<?php echo $doctor_details['instagram']; ?>" target="_blank">
-												<i class="icofont-instagram"></i>
-											</a>
-										</li>
+										<span><?php echo $events_details['title']; ?></span><br>
+											<span><?php echo $events_details['description']; ?></span>
+										
 									</ul>
 								</div>
-								<h3><?php echo $doctor_details['name']; ?></h3>
-								<span><?php echo $doctor_details['qualification']; ?></span><br>
+								<h3><?php echo $events_details['event_date']; ?></h3>
+								<span><?php echo $events_details['title']; ?></span><br>
 								<!-- <span>MDS (Pedodontics)</span> -->
 							</div>
 						</div>
@@ -114,7 +96,6 @@ foreach($details as $doctor_details) {
                         	<?php
 }
 ?>
-
 
 
 					<!-- <div class="col-lg-4 col-sm-6">

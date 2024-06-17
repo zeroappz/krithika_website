@@ -1,3 +1,25 @@
+<?php
+session_start();
+include 'conn.php';
+
+if(isset($_SESSION["email"])) {
+
+} else {
+    header('Location: index.php');
+}
+
+try {
+
+    $id = $_GET['id'];
+    $stmt = $connect->prepare("SELECT * FROM events WHERE id=? LIMIT 1");
+    $stmt->execute([$id]);
+    $row = $stmt->fetch(PDO::FETCH_ASSOC);
+
+} catch(PDOException $error) {
+    $message = $error->getMessage();
+}
+?>  
+
 <!doctype html>
 <html lang="en">
 
@@ -25,10 +47,10 @@
 
 <body>
     <!-- Header Start -->
-    <?php include 'header.php';?>
+    
 
     <!-- Header End -->
-
+<a href="logout.php" style="float: right; margin-right:50px!important" class="main-btn">Logout</a>
 
     <br>
     <!--=== Start Banner Section ===-->
@@ -37,50 +59,74 @@
             <div class="row">
                 <div class="col-lg-4"></div>
                 <div class="col-lg-6">
-                    <h3 class="wow fadeInUp delay-0-8s">Login page</h3>
+                
                     <br>
-                    <form class="appointment wow fadeInUp delay-0-1s">
+                    <h3 class="wow fadeInUp delay-0-8s">Update Events</h3>
+                    
+
+                    <?php echo  $message; ?>
+                    <form class="appointment wow fadeInUp delay-0-1s" action="update_events.php" method="post" enctype="multipart/form-data">
                         <div class="row align-items-center">
                             <div class="col-lg-12">
                                 <div class="row">
                                     <div class="col-lg-12 col-sm-12">
                                         <div class="form-floating form-group">
-                                            <input type="email" class="form-control" id="emailid" placeholder="Email id" value="" required="" autofocus>
-                                            <label for="emailid" class="form-label">Email id</label>
+                                            <input type="file" name="image" class="form-control" id="image" placeholder="image" value="" autofocus>
+                                            <label for="image" class="form-label">Image</label>
                                             <div class="invalid-feedback"> Valid patient Email id is required.</div>
+                                              <div class="form-floating form-group">
+                                           <img src="<?php echo $row['image']?>" height="200" width="200">
                                         </div>
+                                        </div>
+
+                                        <input type="hidden" name="old_image" value="<?php echo $row['image']?>">
                                     </div>
                                     <div class="col-lg-12 col-sm-12"></div>
                                     <div class="col-lg-12 col-sm-12">
                                         <div class="form-floating form-group">
-                                            <input type="password" class="form-control" id="password" placeholder="Password" value="" required="">
-                                            <label for="password" class="form-label">Password</label>
+                                            <input type="text" name="title" class="form-control" id="title" placeholder="title" value="<?php echo $row['title']?>" required="">
+                                            <label for="title" class="form-label">Title</label>
                                             <div class="invalid-feedback"> Valid Password is required.</div>
                                         </div>
                                     </div>
-
+                                     <div class="col-lg-12 col-sm-12">
+                                        <div class="form-floating form-group">
+                                            <input type="text" name="description" class="form-control" id="description" placeholder="description" value="<?php echo $row['description']?>" required="">
+                                            <label for="description" class="form-label">Description</label>
+                                            <div class="invalid-feedback"> Valid Password is required.</div>
+                                        </div>
+                                    </div>
+                                    <div class="col-lg-12 col-sm-12">
+                                        <div class="form-floating form-group">
+                                            <input type="text" name="event_date" class="form-control" id="event_date" placeholder="event_date" value="<?php echo $row['event_date']?>" required="">
+                                            <label for="event_date" class="form-label">Event Date</label>
+                                            <div class="invalid-feedback"> Valid Password is required.</div>
+                                        </div>
+                                    </div>
                                 </div>
+
+                                <input type="hidden" name="id" value="<?php echo $row['id']?>">
 
                                 <div class="row">
                                     <div class="col-lg-6 col-sm-6">
-                                        <button type="submit" class="main-btn">
-                                            <span>Submit</span>
+                                        <button type="submit" name="submit" class="main-btn">
+                                            <span>Update</span>
                                         </button>
                                     </div>
-                                    <div class="col-lg-6 col-sm-6">
+                                    <!-- <div class="col-lg-6 col-sm-6">
                                         <button type="submit" class="main-btn1">
                                             <span>Cancel</span>
                                         </button>
-                                    </div>
+                                    </div> -->
 
                                 </div>
-                                <div class="row">
+                               <!--  <div class="row">
                                     <div class="col-lg-3 col-sm-3"></div>
                                     <div class="col-lg-8 col-sm-8">
                                         Don't have an account?
                                         <a href="register.php">Register </a>
                                     </div>
-                                </div>
+                                </div> -->
                             </div>
 
 
@@ -103,35 +149,11 @@
     <!--=== End Banner Section ===-->
 
     <!-- Footer Start -->
-    <?php include 'footer.php';?>
+  
 
     <!-- Footer End -->
     <!--=== Start Copy Right Section ===-->
-    <div class="copy-right-section">
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-8 col-md-7">
-                    <p>Copyright © <span>Kirthika Dental Care</span> All RIghts Reserved <a href="https://macincode.com/" target="_blank">Macincode</a></p>
-                </div>
-                <div class="col-lg-4 col-md-5">
-                    <ul>
-                        <li>
-                            <a href="404.php">Terms & Condition</a>
-                        </li>
-                        <li>
-                            <a href="404.php">Privacy Policy</a>
-                        </li>
-                    </ul>
-                </div>
-            </div>
-        </div>
-
-        <!--=== Start back To Top Section ===-->
-        <div class="back-to-top">
-            <i class="icofont-simple-up"></i>
-        </div>
-        <!--=== End Back To Top Section ===-->
-    </div>
+    
     <!--=== End Copy Right Section ===-->
 
 

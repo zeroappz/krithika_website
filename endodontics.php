@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="zxx">
+<html lang="en">
 
 <head>
 		<!--=== Required meta tags ===-->
@@ -248,53 +248,46 @@
 							<p><b>The steps followed in endodontic treatment (also known as root canal treatment) typically include the following:</b><br></p>
 							<ul>
 								<li>
-									<p><b>Initial examination: </b><br></p>
-									<span>1</span>
+									
+									<p><b><span class="bulletPoints"></span>Initial examination: </b><br></p>
+									
 									The dentist examines the tooth and takes X-rays to assess the condition of the tooth and surrounding structures.
 								</li>
 								<li>
-									<p><b>Anesthesia: </b><br></p>
-									<span>2</span>
+									<p><b><span class="bulletPoints"></span>Anesthesia: </b><br></p>
+								
 									Local anesthesia is administered to numb the area around the tooth, ensuring a painless procedure.
 								</li>
 								<li>
-									<p><b>Isolation: </b><br></p>
-									<span>3</span>
+									<p><b><span class="bulletPoints"></span>Isolation: </b><br></p>
 									A rubber dam is placed around the tooth to keep it clean and dry during the procedure.
 								</li>
 								<li>
-									<p><b>Access opening: </b><br></p>
-									<span>4</span>
+									<p><b><span class="bulletPoints"></span>Access opening: </b><br></p>
 									The dentist creates an opening in the tooth to gain access to the pulp chamber and root canals.
 								</li>
 								<li>
-									<p><b>Pulp removal: </b><br></p>
-									<span>5</span>
+									<p><b><span class="bulletPoints"></span>Pulp removal: </b><br></p>
 									 The infected or damaged pulp tissue is carefully removed from the pulp chamber and root canals using specialized instruments.
 								</li>
 								<li>
-									<p><b>Cleaning and shaping: </b><br></p>
-									<span>6</span>
+									<p><b><span class="bulletPoints"></span>Cleaning and shaping: </b><br></p>
 									 The dentist uses small files to clean and shape the root canals, removing any remaining infected tissue and preparing them for filling.
 								</li>
 								<li>
-									<p><b>Irrigation: </b><br></p>
-									<span>7</span>
+									<p><b><span class="bulletPoints"></span>Irrigation: </b><br></p>
 									 The root canals are flushed with a disinfecting solution to remove debris and disinfect the area.
 								</li>
 								<li>
-									<p><b>Obturation: </b><br></p>
-									<span>8</span>
+									<p><b><span class="bulletPoints"></span>Obturation: </b><br></p>
 									 The cleaned and shaped root canals are filled with a biocompatible material called gutta-percha and a dental sealer to seal the canals and prevent re-infection.
 								</li>
 								<li>
-									<p><b>Final restoration: </b><br></p>
-									<span>9</span>
+									<p><b><span class="bulletPoints"></span>Final restoration: </b><br></p>
 									 After the root canal treatment, the access opening in the tooth is filled and sealed with a temporary or permanent filling. In some cases, a dental crown may be necessary to protect and strengthen the treated tooth.
 								</li>
 								<li>
-									<p><b>Follow-up: </b><br></p>
-									<span>10</span>
+									<p><b><span class="bulletPoints"></span>Follow-up: </b><br></p>
 									 The patient is typically advised to schedule a follow-up appointment to monitor the healing process and ensure the success of the treatment.
 								</li>
 							</ul>

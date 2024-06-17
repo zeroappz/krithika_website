@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="zxx">
+<html lang="en">
 
 <head>
 		<!--=== Required meta tags ===-->
@@ -89,6 +89,7 @@
 									</li>
 									<li>
 										<a href="oralandmaxillofacial.php">
+										Oral and maxillo facial surgery
 										Oral and maxillo facial surgery
 											<i class="icofont-simple-right"></i>
 										</a>
