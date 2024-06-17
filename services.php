@@ -20,7 +20,7 @@
 	<!--=== Favicon ===-->
 	<link rel="icon" type="image/png" href="assets/images/favicon.png">
 	<!--=== Title ===-->
-	<title>Kirthika Dental Care</title>
+	<title>Witte Dental Care</title>
 </head>
 
 <body>
@@ -57,7 +57,7 @@
 			<div class="row">
 				<div class="col-lg-12">
 					<div class=" pt-100" >
-						<h1 class="wow fadeInUp delay-0-2s" style="text-align:center;">WELCOME TO KIRTHIKA DENTAL CARE</h1>
+						<h1 class="wow fadeInUp delay-0-2s" style="text-align:center;">WELCOME TO Witte DENTAL CARE</h1>
 						<br><br>
 						<p class="wow fadeInUp delay-0-4s"  style=  "margin-left:20%;margin-right:20%; text-align:center;">We are committed to providing our patients best-in-class
 							treatment using advance dental materials and instruments with
@@ -192,7 +192,7 @@
 							<h3>
 								<a href="#">Oral Surgery</a>
 							</h3>
-							<p>Simple extraction to Pesky wisdom teeth removal, dental implants, and more. The Doctors at kirthika Dental care provide the best care for all your oral surgery needs. <br><br></p>
+							<p>Simple extraction to Pesky wisdom teeth removal, dental implants, and more. The Doctors at Witte Dental care provide the best care for all your oral surgery needs. <br><br></p>
 
 						</div>
 					</div>
@@ -304,7 +304,7 @@
 							<h3>
 								<a href="#">Dental <br> implants</a>
 							</h3>
-							<p>Dental implants made simple If you’ve lost a tooth, schedule an implant consult at kirthika dental care our experienced and well equipped implantologist Assess the health of your teeth, gums, and jaw bone Discuss options for replacing missing teeth.</p>
+							<p>Dental implants made simple If you’ve lost a tooth, schedule an implant consult at Witte dental care our experienced and well equipped implantologist Assess the health of your teeth, gums, and jaw bone Discuss options for replacing missing teeth.</p>
 
 						</div>
 					</div>
@@ -388,7 +388,7 @@
 				</div>
 				<div class="col-lg-6">
 					<div class="about-content ms-15">
-						<span class="up-title wow fadeInUp delay-0-2s">About Kirthika Dental Care</span>
+						<span class="up-title wow fadeInUp delay-0-2s">About Witte Dental Care</span>
 						<h2 class="wow fadeInUp delay-0-4s">Why Choose US?</h2>
 						<p class="wow fadeInUp delay-0-6s">We use latest treatment techniques, procedures & dental materials that enable us to deliver a wide range of options to suit your needs. We use a wide variety of cosmetic dentistry options and treatments to transform your regular smile into a million dollar one. We offer all your treatments in the same place, whichever specialist you may need to see, you will find them available here.</p>
 
@@ -596,7 +596,7 @@
 		<div class="container">
 			<div class="row">
 				<div class="col-lg-8 col-md-7">
-					<p>Copyright © <span>Kirthika Dental Care</span> All RIghts Reserved <a href="https://macincode.com/" target="_blank">Macincode</a></p>
+					<p>Copyright © <span>Witte Dental Care</span> All RIghts Reserved <a href="https://macincode.com/" target="_blank">Macincode</a></p>
 				</div>
 				<div class="col-lg-4 col-md-5">
 					<ul>
@@ -623,7 +623,7 @@
 		<div class="container">
 			<div class="row">
 				<div class="col-lg-8 col-md-7">
-					<p>Copyright © <span>Kirthika Dental Care</span> All RIghts Reserved <a href="https://macincode.com/" target="_blank">Macincode</a></p>
+					<p>Copyright © <span>Witte Dental Care</span> All RIghts Reserved <a href="https://macincode.com/" target="_blank">Macincode</a></p>
 				</div>
 				<div class="col-lg-4 col-md-5">
 					<ul>
