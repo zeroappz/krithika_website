@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="zxx">
+<html lang="en">
 
 <head>
 		<!--=== Required meta tags ===-->
@@ -20,7 +20,7 @@
 		<!--=== Favicon ===-->
 		<link rel="icon" type="image/png" href="assets/images/favicon.png">
 		<!--=== Title ===-->
-		<title>Kirthika Dental Care</title>
+		<title>Witte Dental Care</title>
     </head>
 
     <body>
@@ -224,6 +224,7 @@
 							</div>
 							<h4>Introduction</h4>
 							<!-- <h3>Oral and maxillo facial surgery</h3>
+							<!-- <h3>Oral and maxillo facial surgery</h3>
 							<p><b>What is the meaning of maxillofacial?</b><br></p> -->
 
 							<p>This is a branch of dentistry which deals with diagnosing and surgically treating injuries, diseases, defects of jaws, mouth, face etc. This also includes dental implants, removing decayed teeth, biopsy and taking of cysts as well as tumours of jaw and mouth, treating facial trauma and jaw reconstruction.</p>
@@ -267,9 +268,11 @@
 											<!-- <p><b>At what age one can go for orthodontic treatment?</b><br></p> -->
 											<span class="bulletPoints"></span>
 											Treating injuries to face, teeth, mouth, jaws caused because of trauma. Surgeons are expert to treat trauma which also includes upper and lower fractures of the jaws and orbit.
+											Treating injuries to face, teeth, mouth, jaws caused because of trauma. Surgeons are expert to treat trauma which also includes upper and lower fractures of the jaws and orbit.
 										</li>
 
 							</ul>
+							<br>
 							<!-- <h4>Watch The Sealants Image</h4> -->
 
 							<div class="services-img-1">
@@ -408,7 +411,7 @@
 			<div class="container">
 				<div class="row">
 					<div class="col-lg-8 col-md-7">
-						<p>Copyright © <span>Kirthika Dental Care</span> Is Proudly Owned by <a href="https://www.macincode.com/" target="_blank">Macincode</a></p>
+						<p>Copyright © <span>Witte Dental Care</span> Is Proudly Owned by <a href="https://www.macincode.com/" target="_blank">Macincode</a></p>
 					</div>
 					<div class="col-lg-4 col-md-5">
 						<ul>
@@ -433,7 +436,7 @@
 
 		<!-- <ul class="rtl-buy">
 			<li>
-				<a href="https://www.macincode.com/Kirthika Dental Care/Kirthika Dental Care-rtl/">RTL</a>
+				<a href="https://www.macincode.com/Witte Dental Care/Witte Dental Care-rtl/">RTL</a>
 			</li>
 			<li>
 				<a href="https://themeforest.net/item/blad-ai-blood-donation-activism-campaign-html-template/41923002" target="_blank" class="bg-color">BUY</a>

@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="zxx">
+<html lang="en">
 
 
 <head>
@@ -21,7 +21,7 @@
 	<!--=== Favicon ===-->
 	<link rel="icon" type="image/png" href="assets/images/favicon.png">
 	<!--=== Title ===-->
-	<title>Kirthika Dental Care</title>
+	<title>Witte Dental Care</title>
 </head>
 
 <body data-bs-spy="scroll" data-bs-target="#list-example">
@@ -75,7 +75,7 @@
 							<div class="pt-100" id="privacy">
 								<div class="privacy-and-conditions-item services-details-content">
 									<h3>1. Privacy Policy</h3>
-									<p>&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp At <b>Kirthika dental clinic</b>, we are committed to maintaining the privacy and security of your personal information. This Privacy Policy outlines how we collect, use, disclose, and protect the information you provide to us when using our dental services or interacting with our clinic. Please read this policy carefully to understand how we handle your information. By accessing or using our services, you consent to the practices described in this Privacy Policy.</p>
+									<p>&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp At <b>Witte dental clinic</b>, we are committed to maintaining the privacy and security of your personal information. This Privacy Policy outlines how we collect, use, disclose, and protect the information you provide to us when using our dental services or interacting with our clinic. Please read this policy carefully to understand how we handle your information. By accessing or using our services, you consent to the practices described in this Privacy Policy.</p>
 <b>We may collect the following types of information:</b><br></br>
 
 <ul>
@@ -160,7 +160,7 @@
 							<div class="pt-100" id="user">
 							<div class="privacy-and-conditions-item services-details-content">
 									<h3>2. User Policy</h3>
-									<p>&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp  Welcome to <b>Kirthika dental clinic!</b> We are dedicated to providing exceptional dental care to our valued patients. To ensure a pleasant and comfortable experience for everyone, we have established the following user policy:</p>
+									<p>&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp  Welcome to <b>Witte dental clinic!</b> We are dedicated to providing exceptional dental care to our valued patients. To ensure a pleasant and comfortable experience for everyone, we have established the following user policy:</p>
 
 
 <ul>
@@ -262,7 +262,7 @@
 								
 								<li>
 							</ul>
-							<p>By choosing Kirthikadentalcare, you agree to abide by the above user policy. We aim to provide you with exceptional dental care and a positive experience. If you have any questions or need further information, please don't hesitate to contact our clinic.</p>
+							<p>By choosing Wittedentalcare, you agree to abide by the above user policy. We aim to provide you with exceptional dental care and a positive experience. If you have any questions or need further information, please don't hesitate to contact our clinic.</p>
 									
 								</div>
 							</div>
@@ -362,7 +362,7 @@
 			<div class="container">
 				<div class="row">
 					<div class="col-lg-8 col-md-7">
-						<p>Copyright © <span>Kirthika Dental Care</span> Is Proudly Owned by <a href="https://www.macincode.com/" target="_blank">Macincode</a></p>
+						<p>Copyright © <span>Witte Dental Care</span> Is Proudly Owned by <a href="https://www.macincode.com/" target="_blank">Macincode</a></p>
 					</div>
 					<div class="col-lg-4 col-md-5">
 						<ul>
@@ -388,7 +388,7 @@
 
 	<!-- <ul class="rtl-buy">
 			<li>
-				<a href="https://www.macincode.com/Kirthika Dental Care/Kirthika Dental Care-rtl/">RTL</a>
+				<a href="https://www.macincode.com/Witte Dental Care/Witte Dental Care-rtl/">RTL</a>
 			</li>
 			<li>
 				<a href="https://themeforest.net/item/blad-ai-blood-donation-activism-campaign-html-template/41923002" target="_blank" class="bg-color">BUY</a>
