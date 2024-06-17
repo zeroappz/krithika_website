@@ -402,7 +402,7 @@
 				</div>
 
 				<div class="col-lg-3 col-sm-6">
-					<div class="main-services-box hover-style wow fadeInUp delay-0-2s">
+					<!-- <div class="main-services-box hover-style wow fadeInUp delay-0-2s"> -->
 					<div class="main-services-box hover-style wow fadeInUp delay-0-2s">
 						<div class="inner-border">
 							<div class="icon">
@@ -414,7 +414,7 @@
 							<p>lease give us at least 12-hour notice if you are unable to attend your appointment so that others may be offered your appointment.</p>
 							<p>lease give us at least 12-hour notice if you are unable to attend your appointment so that others may be offered your appointment.</p>
 						</div>
-					</div>
+					<!-- </div> -->
 				</div>
 
 

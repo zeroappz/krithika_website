@@ -160,9 +160,9 @@
 						<li class="nav-item">
 							<a href="doctors.php" class="nav-link">Doctors</a>
 						</li>
-						<li class="nav-item">
+						<!-- <li class="nav-item">
 							<a href="events.php" class="nav-link">Events</a>
-						</li>
+						</li> -->
 
 
 						<li class="nav-item">
