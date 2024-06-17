@@ -37,7 +37,11 @@ class EmailSender
         try {
 
             // Recipients
+<<<<<<< HEAD
             $this->mailer->setFrom('jeginrvp@gmail.com', 'Witte Dental Care');
+=======
+            $this->mailer->setFrom('jeginrvp@gmail.com', 'Kirthika Dental Care');
+>>>>>>> 5cd01a3688f546cff6fd83af87dd1ce9ba1977e1
             $this->mailer->addAddress($to);
 
             // Content

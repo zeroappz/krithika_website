@@ -43,17 +43,27 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
     $Enquiry->created_at = date('Y-m-d H:i:s');
     $Enquiry->updated_at = date('Y-m-d H:i:s');
 
+<<<<<<< HEAD
  
     if ($Enquiry->create()) {
         $to = "bhuvanamic@gmail.com";
         $subject = "A new enquiry has been submitted!";
         $message = file_get_contents('../template/email_template.html');
     
+=======
+
+    if ($Enquiry->create()) {
+        $to = "dharsini0821@gmail.com";
+        $subject = "A new enquiry has been submitted!";
+        $message = file_get_contents('../template/email_template.html');
+
+>>>>>>> 5cd01a3688f546cff6fd83af87dd1ce9ba1977e1
         $message = str_replace('{patient_name}', $patient_name, $message);
         $message = str_replace('{mobile_number}', $mobile_number, $message);
         $message = str_replace('{appointment_date}', $appointment_date, $message);
         $message = str_replace('{enquiry}', $enquiry, $message);
         $message = str_replace('{feed_back}', $feed_back, $message);
+<<<<<<< HEAD
     
         $mailSuccess = $emailSender->sendEmail($to, $subject, $message);
     
@@ -63,6 +73,17 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
     
                 header('Location: ../index.php');
                 exit;
+=======
+
+        $mailSuccess = $emailSender->sendEmail($to, $subject, $message);
+
+        if ($mailSuccess) {
+            $response = array('status' => 'success', 'message' => 'Enquiry was created. Email sent successfully');
+            echo json_encode($response);
+
+            header('Location: ../index.php');
+            exit;
+>>>>>>> 5cd01a3688f546cff6fd83af87dd1ce9ba1977e1
         } else {
             $response = array('status' => 'error', 'message' => 'Error sending email');
             echo json_encode($response);
@@ -71,10 +92,13 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
         http_response_code(503);
         echo json_encode(array("message" => "Unable to create enquiry."));
     }
+<<<<<<< HEAD
 
     
     
   
+=======
+>>>>>>> 5cd01a3688f546cff6fd83af87dd1ce9ba1977e1
 } else {
     // Invalid request method
     http_response_code(405);

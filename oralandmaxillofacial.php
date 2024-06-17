@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="zxx">
+<html lang="en">
 
 <head>
 		<!--=== Required meta tags ===-->
@@ -34,11 +34,13 @@
 			<div class="container">
 				<div class="page-banner-content">
 					<h2>Oral and maxillo facial surgery</h2>
+					<h2>Oral and maxillo facial surgery</h2>
 					<ul>
 						<li>
 							<a href="index.php">Home</a>
 						</li>
 						<li>
+							<span class="active">Oral and maxillo facial surgery</span>
 							<span class="active">Oral and maxillo facial surgery</span>
 						</li>
 					</ul>
@@ -235,32 +237,39 @@
 							tumors of jaw and mouth, treating facial trauma and jaw reconstruction. -->
 
 							<p><b>What are the steps followed in oral surgery?</b><br></p>
+							<p><b>What are the steps followed in oral surgery?</b><br></p>
 
+							<p>Oral and maxillo facial surgery perform the following procedures/treatments:</p>
 							<p>Oral and maxillo facial surgery perform the following procedures/treatments:</p>
 							<ul>
 								<li>
 									<!-- <p><b>Why teeth become irregular?</b><br></p> -->
 									<span class="bulletPoints"></span>
 									Extraction of decayed tooth, surgical extraction of roots and removal of impacted wisdom tooth.
+									Extraction of decayed tooth, surgical extraction of roots and removal of impacted wisdom tooth.
 								</li>
 								<li>
 									<!-- <p><b>At what age one can go for orthodontic treatment?</b><br></p> -->
 									<span class="bulletPoints"></span>
+									Placement of dental implants which replaces single/several teeth as well as entire teeth in the mouth. Dental implants are very comfortable and last for a long time than the conventional dentures.
 									Placement of dental implants which replaces single/several teeth as well as entire teeth in the mouth. Dental implants are very comfortable and last for a long time than the conventional dentures.
 								</li>
 								<li>
 									<!-- <p><b>At what age one can go for orthodontic treatment?</b><br></p> -->
 									<span class="bulletPoints"></span>
 									Reconstructive surgery which addresses injuries in lower, upper jaws of the soft and hard tissues which are the result of trauma, accident, long time of wearing dentures, tumor surgery.
+									Reconstructive surgery which addresses injuries in lower, upper jaws of the soft and hard tissues which are the result of trauma, accident, long time of wearing dentures, tumor surgery.
 								</li>
 								<li>
 									<!-- <p><b>At what age one can go for orthodontic treatment?</b><br></p> -->
 									<span class="bulletPoints"></span>
 									Treatment of maxillofacial infections. Such infections are diagnosed and then treated as they are very dangerous and can cause severe emergencies if not treated properly, timely and effectively.
+									Treatment of maxillofacial infections. Such infections are diagnosed and then treated as they are very dangerous and can cause severe emergencies if not treated properly, timely and effectively.
 								</li>
 									<li>
 										<!-- <p><b>At what age one can go for orthodontic treatment?</b><br></p> -->
 										<span class="bulletPoints"></span>
+										Surgeries to correct facial and oral deformities due to difference in the skeletal growth between lower and upper jaws, congenital disorders(such as palate, cleft lip) which is the result of improper growth of oral nasal cavity at the time of fetal development.
 										Surgeries to correct facial and oral deformities due to difference in the skeletal growth between lower and upper jaws, congenital disorders(such as palate, cleft lip) which is the result of improper growth of oral nasal cavity at the time of fetal development.
 									</li>
 										<li>
@@ -277,7 +286,7 @@
 								<img src="assets/images/services/oral-and-maxillofacial-surgery-section-2.png" alt="Image">
 
 							</div>
-							<h4>What are the advantages of Oral and maxillo facial surgery</h4>
+							<h4>What are the advantages of Oral and maxilla facial surgery</h4>
 							<!-- <p>There are many advantages to choosing periodontal therapy, your health and wellness being the most important. However, there are other benefits to consider:</p> -->
 
 							<ul>
@@ -286,10 +295,14 @@
 									<span class="bulletPoints"></span>
 									Improved oral health: OMFS can treat a range of oral issues such as impacted teeth, jaw misalignment, and gum disease. By addressing these issues, patients can enjoy better oral health and a reduced risk of future problems.
 									<!-- <b>Improved oral health:  </b> OMFS can treat a range of oral issues such as impacted teeth, jaw misalignment, and gum disease. By addressing these issues, patients can enjoy better oral health and a reduced risk of future problems. -->
+									Improved oral health: OMFS can treat a range of oral issues such as impacted teeth, jaw misalignment, and gum disease. By addressing these issues, patients can enjoy better oral health and a reduced risk of future problems.
+									<!-- <b>Improved oral health:  </b> OMFS can treat a range of oral issues such as impacted teeth, jaw misalignment, and gum disease. By addressing these issues, patients can enjoy better oral health and a reduced risk of future problems. -->
 								</li>
 								<li>
 									<!-- <p><b>At what age one can go for orthodontic treatment?</b><br></p> -->
 									<span class="bulletPoints"></span>
+									Improved overall health: OMFS can help treat conditions that may affect other parts of the body. 
+									<!-- <b>Improved overall health:</b> OMFS can help treat conditions that may affect other parts of the body.  -->
 									Improved overall health: OMFS can help treat conditions that may affect other parts of the body. 
 									<!-- <b>Improved overall health:</b> OMFS can help treat conditions that may affect other parts of the body.  -->
 								</li>
@@ -298,10 +311,14 @@
 									<span class="bulletPoints"></span>
 									Enhanced appearance: OMFS can also improve the appearance of the face and jaw, leading to increased confidence and self-esteem.
 									<!-- <b>Enhanced appearance:</b> OMFS can also improve the appearance of the face and jaw, leading to increased confidence and self-esteem. -->
+									Enhanced appearance: OMFS can also improve the appearance of the face and jaw, leading to increased confidence and self-esteem.
+									<!-- <b>Enhanced appearance:</b> OMFS can also improve the appearance of the face and jaw, leading to increased confidence and self-esteem. -->
 								</li>
 								<li>
 									<!-- <p><b>At what age one can go for orthodontic treatment?</b><br></p> -->
 									<span class="bulletPoints"></span>
+									Increased self-esteem: In addition to the benefits already mentioned, OMFS can help with issues such as facial trauma and reconstructive surgery, further improving self-esteem.
+									<!-- <b>Increased self-esteem:</b> In addition to the benefits already mentioned, OMFS can help with issues such as facial trauma and reconstructive surgery, further improving self-esteem. -->
 									Increased self-esteem: In addition to the benefits already mentioned, OMFS can help with issues such as facial trauma and reconstructive surgery, further improving self-esteem.
 									<!-- <b>Increased self-esteem:</b> In addition to the benefits already mentioned, OMFS can help with issues such as facial trauma and reconstructive surgery, further improving self-esteem. -->
 								</li>
@@ -310,11 +327,16 @@
 									<span class="bulletPoints"></span>
 									Other benefits: These include improved ability to speak and eat comfortably, as well as relief from chronic pain or discomfort. By addressing both functional and aesthetic concerns, OMFS offers a comprehensive approach to improving oral and overall health.
 									<!-- <b>Other benefits:</b> These include improved ability to speak and eat comfortably, as well as relief from chronic pain or discomfort. By addressing both functional and aesthetic concerns, OMFS offers a comprehensive approach to improving oral and overall health. -->
+									Other benefits: These include improved ability to speak and eat comfortably, as well as relief from chronic pain or discomfort. By addressing both functional and aesthetic concerns, OMFS offers a comprehensive approach to improving oral and overall health.
+									<!-- <b>Other benefits:</b> These include improved ability to speak and eat comfortably, as well as relief from chronic pain or discomfort. By addressing both functional and aesthetic concerns, OMFS offers a comprehensive approach to improving oral and overall health. -->
 								</li>
 								
 								<li>
 							</ul>
 
+							<!-- <h3>How important is it to be board certified in Oral and maxillo facial surgery surgery?</h3>
+							<p>One should graduate from accredited school of dentistry and completed program of Oral and maxillo facial surgery surgery which is
+							passed by ADA. It requires 13 years of training and education .ADA recognizes a board for Oral and maxillo facial surgery surgery
 							<!-- <h3>How important is it to be board certified in Oral and maxillo facial surgery surgery?</h3>
 							<p>One should graduate from accredited school of dentistry and completed program of Oral and maxillo facial surgery surgery which is
 							passed by ADA. It requires 13 years of training and education .ADA recognizes a board for Oral and maxillo facial surgery surgery

@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="zxx">
+<html lang="en">
 
 <head>
 	<!--=== Required meta tags ===-->
@@ -195,11 +195,25 @@
 												margin-right: 73px;">
 						</a> -->
 
-							<li class="nav-item">
-								<a href="doctors.php" class="nav-link ff">Doctors</a>
+						<li class="nav-item">
+							<a href="doctors.php" class="nav-link ff">Doctors</a>
+						</li>
+
+						<li class="nav-item">
+							<a href="contact-us.php" class="nav-link ff">Contact Us</a>
+						</li>
+						<li class="nav-item">
+								<a href="enquiry.php" class="nav-link ff">Enquiry</a>
 							</li>
+						<!-- <li class="nav-item">
+								<a href=" https://admin.kirthikadentalcare.in/register" class="nav-link ff">Register</a>
+							</li> -->
+							<!-- <li class="nav-item">
+								<a href="#" class="nav-link ff">Login</a>
+							</li> -->
 
 							<li class="nav-item">
+<<<<<<< HEAD
 								<a href="contact-us.php" class="nav-link ff">Contact Us</a>
 							</li>
 							<li class="nav-item">
@@ -216,9 +230,24 @@
 									Login
 								</a>
 								<!-- <a href="http://witteapp.macincode.in/" class="nav-link dropdown-toggle">
+=======
+							<a href="https://app.kirthikadentalcare.in/" class="nav-link">
+>>>>>>> 5cd01a3688f546cff6fd83af87dd1ce9ba1977e1
 								Login
-							</a> -->
+							</a>
+ 
+							<!-- <ul class="dropdown-menu">
+								<li class="nav-item">
+									<a href="https://admin.kirthikadentalcare.in/login" class="nav-link">Patient Login</a>
+								</li>
+								<li class="nav-item">
+									<a href="https://admin.kirthikadentalcare.in/login" class="nav-link">Staff Login</a>
+								</li>
 
+								
+
+
+<<<<<<< HEAD
 								<!-- <ul class="dropdown-menu">
 								<li class="nav-item">
 									<a href="http://witteapp.macincode.in/" class="nav-link">Patient Login</a>
@@ -226,9 +255,11 @@
 								<li class="nav-item">
 									<a href="http://witteapp.macincode.in/" class="nav-link">Staff Login</a>
 								</li>
+=======
+>>>>>>> 5cd01a3688f546cff6fd83af87dd1ce9ba1977e1
 							</ul> -->
-							</li>
-							<!-- <li class="nav-item">
+						</li>
+						<!-- <li class="nav-item">
 							<a href="#" class="nav-link dropdown-toggle">Login</a>
 							<ul class="dropdown-menu">
 								<li class="nav-item">
@@ -397,12 +428,13 @@
 								<a href="#">Appointment Booking</a>
 							</h3>
 							<p>You can book your personalized appointments at the comfortable time to visit the dentist on your registered login page.</p>
-
+						<br>
 						</div>
 					</div>
 				</div>
 
 				<div class="col-lg-3 col-sm-6">
+					<div class="main-services-box hover-style wow fadeInUp delay-0-2s">
 					<div class="main-services-box hover-style wow fadeInUp delay-0-2s">
 						<div class="inner-border">
 							<div class="icon">
@@ -411,6 +443,7 @@
 							<h3>
 								<a href="#">Appointment Cancellation</a>
 							</h3>
+							<p>lease give us at least 12-hour notice if you are unable to attend your appointment so that others may be offered your appointment.</p>
 							<p>lease give us at least 12-hour notice if you are unable to attend your appointment so that others may be offered your appointment.</p>
 						</div>
 					</div>

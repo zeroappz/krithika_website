@@ -42,7 +42,7 @@
 						<h3 class="text-white">Your Logo</h3>
 					</a>
 				</div>
-			
+
 
 				<div class="collapse navbar-collapse for-mobile-menu" id="navbarSupportedContent">
 					<ul class="navbar-nav m-auto">
@@ -60,7 +60,7 @@
 							<a href="#" class="nav-link dropdown-toggle">
 								Specialities
 							</a>
- 
+
 							<ul class="dropdown-menu">
 								<li class="nav-item">
 									<a href="oralmedicineandpathology.php" class="nav-link">Oral Medicine and Pathology </a>
@@ -161,16 +161,26 @@
 						<li class="nav-item">
 							<a href="doctors.php" class="nav-link">Doctors</a>
 						</li>
+						<li class="nav-item">
+							<a href="events.php" class="nav-link">Events</a>
+						</li>
+
 
 						<li class="nav-item">
 							<a href="contact-us.php" class="nav-link">Contact Us</a>
 						</li>
+<<<<<<< HEAD
 						<li class="nav-item">
 							<a href="enquiry.php" class="nav-link">Enquiry</a>
+=======
+							<li class="nav-item">
+							<a href="adminlogin.php" class="nav-link">Login</a>
+>>>>>>> 5cd01a3688f546cff6fd83af87dd1ce9ba1977e1
 						</li>
 						<!-- <li class="nav-item">
 								<a href=" https://admin.Wittedentalcare.in/register" class="nav-link">Register</a>
 							</li> -->
+<<<<<<< HEAD
 							<!-- <li class="nav-item">
 								<a href="https://admin.Wittedentalcare.in/login" class="nav-link">Login</a>
 							</li> -->
@@ -189,11 +199,32 @@
 								<li class="nav-item">
 									<a href="http://witteapp.macincode.in/" class="nav-link">Staff Login</a>
 								</li>
+=======
+						<!-- <li class="nav-item">
+								<a href="https://admin.kirthikadentalcare.in/login" class="nav-link">Login</a>
+							</li> -->
 
-								
+						<li class="nav-item">
+							<a href="enquiry.php" class="nav-link">Enquiry</a>
+						</li>
+						<li class="nav-item">
+							<a href="https://app.kirthikadentalcare.in/" class="nav-link">
+								Login
+							</a>
+>>>>>>> 5cd01a3688f546cff6fd83af87dd1ce9ba1977e1
+
+							<!-- <ul class="dropdown-menu"> -->
+								<!-- <li class="nav-item"> -->
+									<!-- <a href="https://app.kirthikadentalcare.in/" class="nav-link"> Login</a> -->
+								<!-- </li> -->
+								<!-- <li class="nav-item"> -->
+									<!-- <a href="https://app.kirthikadentalcare.in/" class="nav-link">Staff Login</a> -->
+								<!-- </li> -->
 
 
-							</ul> -->
+
+
+							<!-- </ul> -->
 						</li>
 						<!-- <li class="nav-item">
 							<a href="#" class="nav-link dropdown-toggle">Login</a>
@@ -251,8 +282,8 @@
 
 <!--=== Start Navbar Section ===-->
 <!-- <div class="navbar-section-btm"> -->
-	<!--=== Start Main Navbar Section ===-->
-	<!-- <div class="main-nav">
+<!--=== Start Main Navbar Section ===-->
+<!-- <div class="main-nav">
 		<div class="container">
 			<nav class="navbar navbar-expand-md navbar-light">
 
