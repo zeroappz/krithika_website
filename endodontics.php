@@ -89,7 +89,7 @@
 									</li>
 									<li>
 										<a href="oralandmaxillofacial.php">
-										Oral and maxilla facial surgery
+										Oral and maxillo facial surgery
 											<i class="icofont-simple-right"></i>
 										</a>
 									</li>

@@ -89,7 +89,7 @@
 									</li>
 									<li>
 										<a href="oralandmaxillofacial.php">
-										Oral and maxilla facial surgery
+										Oral and maxillo facial surgery
 											<i class="icofont-simple-right"></i>
 										</a>
 									</li>
@@ -220,7 +220,8 @@
 					<div class="col-lg-8">
 						<div class="services-details-content ms-15">
 							<div class="services-img-1">
-								<img src="assets/images/services/periodontics_sec_1.png" alt="Image">
+							<img src="assets/images/services/istockphoto.png" alt="Image">
+								<!-- <img src="assets/images/services/periodontics_sec_1.png" alt="Image"> -->
 							</div>
 							<h4>Introduction</h4>
 							<!-- <h3>Periodontics</h3>
@@ -263,7 +264,7 @@
 							<!-- <h4>Watch The Sealants Image</h4> -->
 
 							<div class="services-img-1">
-								<img src="assets/images/services/periodontics_sec_2.png" alt="Image">
+								<img src="assets/images/services/periodontitis.jpeg" alt="Image">
 
 							</div>
 

@@ -89,7 +89,7 @@
 									</li>
 									<li>
 										<a href="oralandmaxillofacial.php">
-										Oral and maxilla facial surgery
+										Oral and maxillo facial surgery
 											<i class="icofont-simple-right"></i>
 										</a>
 									</li>
@@ -220,7 +220,7 @@
 					<div class="col-lg-8">
 						<div class="services-details-content ms-15">
 							<div class="services-img-1">
-								<img src="assets/images/services/istockphoto.png" alt="Image">
+							<img src="assets/images/services/periodontics_sec_2.png" alt="Image">
 							</div>
 							<h4>Introduction</h4>
 							<p>Oral Medicine Diagnosis pathology & Radiology is the specialty that focuses on the diagnosis and medical management of diseases of the Head and Neck. It is a unique field of dentistry that combines both Oral Medicine and Craniofacial Radiology.</p>
@@ -238,7 +238,7 @@
 
 							<!-- <p><b>What does the Oral Medicine and Pathology do?</b><br></p>
 
-							<p>Oral Medicine and Pathology is a specialized field of dentistry that focuses on the diagnosis and management of various oral diseases and conditions. It deals with the study of Oral and maxilla facial surgery disorders, including those affecting the mouth, jaws, salivary glands, and surrounding structures.</p> -->
+							<p>Oral Medicine and Pathology is a specialized field of dentistry that focuses on the diagnosis and management of various oral diseases and conditions. It deals with the study of Oral and maxillo facial surgery disorders, including those affecting the mouth, jaws, salivary glands, and surrounding structures.</p> -->
 
 							<!-- <h4>Watch The Sealants Image</h4> -->
 							<br></br>
