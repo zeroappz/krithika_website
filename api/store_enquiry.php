@@ -43,26 +43,26 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
     $Enquiry->created_at = date('Y-m-d H:i:s');
     $Enquiry->updated_at = date('Y-m-d H:i:s');
 
-
+ 
     if ($Enquiry->create()) {
-        $to = "dharsini0821@gmail.com";
+        $to = "info@kirthikadentalcare.in";
         $subject = "A new enquiry has been submitted!";
         $message = file_get_contents('../template/email_template.html');
-
+    
         $message = str_replace('{patient_name}', $patient_name, $message);
         $message = str_replace('{mobile_number}', $mobile_number, $message);
         $message = str_replace('{appointment_date}', $appointment_date, $message);
         $message = str_replace('{enquiry}', $enquiry, $message);
         $message = str_replace('{feed_back}', $feed_back, $message);
-
+    
         $mailSuccess = $emailSender->sendEmail($to, $subject, $message);
-
+    
         if ($mailSuccess) {
             $response = array('status' => 'success', 'message' => 'Enquiry was created. Email sent successfully');
             echo json_encode($response);
-
-            header('Location: ../index.php');
-            exit;
+    
+                header('Location: ../index.php');
+                exit;
         } else {
             $response = array('status' => 'error', 'message' => 'Error sending email');
             echo json_encode($response);
@@ -71,6 +71,10 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
         http_response_code(503);
         echo json_encode(array("message" => "Unable to create enquiry."));
     }
+
+    
+    
+  
 } else {
     // Invalid request method
     http_response_code(405);

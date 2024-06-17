@@ -23,7 +23,11 @@
     <!--=== Favicon ===-->
     <link rel="icon" type="image/png" href="assets/images/favicon.png">
     <!--=== Title ===-->
+<<<<<<< HEAD
+    <title>Witte Dental Care</title>
+=======
     <title>Kirthika Dental Care</title>
+>>>>>>> 5cd01a3688f546cff6fd83af87dd1ce9ba1977e1
     <style>
         /* Add this CSS to your stylesheet */
         textarea.auto-resize {
@@ -146,7 +150,11 @@
                                 </div>
                                 <ul class="d-flex flex-wrap align-items-center">
                                     <li class="nav-item">
+<<<<<<< HEAD
+                                        <a href="http://witteapp.macincode.in/" class="nav-link">Already have an account?</a>
+=======
                                         <a href="https://app.kirthikadentalcare.in/" class="nav-link">Already have an account?</a>
+>>>>>>> 5cd01a3688f546cff6fd83af87dd1ce9ba1977e1
                                     </li>
                                     <li class="nav-item ms-auto">
                                         <div class="form-floating form-floating-outline mb-0">
@@ -184,7 +192,11 @@
         <div class="container">
             <div class="row">
                 <div class="col-lg-8 col-md-7">
+<<<<<<< HEAD
+                    <p>Copyright © <span>Witte Dental Care</span> All RIghts Reserved <a href="https://macincode.com/" target="_blank">Macincode</a></p>
+=======
                     <p>Copyright © <span>Kirthika Dental Care</span> All RIghts Reserved <a href="https://macincode.com/" target="_blank">Macincode</a></p>
+>>>>>>> 5cd01a3688f546cff6fd83af87dd1ce9ba1977e1
                 </div>
                 <div class="col-lg-4 col-md-5">
                     <ul>

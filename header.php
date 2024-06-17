@@ -38,7 +38,8 @@
 
 				<div class="logo">
 					<a href="index.php">
-						<img src="assets/images/kirthika.png" alt="Logo" style=" width: auto; height: 70px;">
+						<!-- <img src="assets/images/Witte.png" alt="Logo" style=" width: auto; height: 70px;"> -->
+						<h3 class="text-white">Your Logo</h3>
 					</a>
 				</div>
 
@@ -153,7 +154,7 @@
 						</li>
 
 						<!-- <a class="navbar-brand" href="index.php">
-							<img src="assets/images/kirthika.png" alt="Logo" class="log2" style="width:200px; height:90px;     margin-left: 85px;
+							<img src="assets/images/Witte.png" alt="Logo" class="log2" style="width:200px; height:90px;     margin-left: 85px;
 												margin-right: 73px;">
 						</a> -->
 
@@ -168,12 +169,37 @@
 						<li class="nav-item">
 							<a href="contact-us.php" class="nav-link">Contact Us</a>
 						</li>
+<<<<<<< HEAD
+						<li class="nav-item">
+							<a href="enquiry.php" class="nav-link">Enquiry</a>
+=======
 							<li class="nav-item">
 							<a href="adminlogin.php" class="nav-link">Login</a>
+>>>>>>> 5cd01a3688f546cff6fd83af87dd1ce9ba1977e1
 						</li>
 						<!-- <li class="nav-item">
-								<a href=" https://admin.kirthikadentalcare.in/register" class="nav-link">Register</a>
+								<a href=" https://admin.Wittedentalcare.in/register" class="nav-link">Register</a>
 							</li> -->
+<<<<<<< HEAD
+							<!-- <li class="nav-item">
+								<a href="https://admin.Wittedentalcare.in/login" class="nav-link">Login</a>
+							</li> -->
+							<li class="nav-item">
+							<a href="http://witteapp.macincode.in/" class="nav-link">
+								Login
+							</a>
+							<!-- <a href="http://witteapp.macincode.in/" class="nav-link dropdown-toggle">
+								Login
+							</a> -->
+ 
+							<!-- <ul class="dropdown-menu">
+								<li class="nav-item">
+									<a href="http://witteapp.macincode.in/" class="nav-link">Patient Login</a>
+								</li>
+								<li class="nav-item">
+									<a href="http://witteapp.macincode.in/" class="nav-link">Staff Login</a>
+								</li>
+=======
 						<!-- <li class="nav-item">
 								<a href="https://admin.kirthikadentalcare.in/login" class="nav-link">Login</a>
 							</li> -->
@@ -185,6 +211,7 @@
 							<a href="https://app.kirthikadentalcare.in/" class="nav-link">
 								Login
 							</a>
+>>>>>>> 5cd01a3688f546cff6fd83af87dd1ce9ba1977e1
 
 							<!-- <ul class="dropdown-menu"> -->
 								<!-- <li class="nav-item"> -->
@@ -206,7 +233,7 @@
 									<a href="#orthodontics.php" class="nav-link">Staff login</a>
 								</li>
 								<li class="nav-item">
-									<a href="https://admin.kirthikadentalcare.in/" class="nav-link">Patient login</a>
+									<a href="https://admin.Wittedentalcare.in/" class="nav-link">Patient login</a>
 								</li>
 							</ul>
 						</li> -->
@@ -215,7 +242,7 @@
 						<div class="nav-right-options">
 							<ul>
 								<li>
-									<a target="_blank" href="https://admin.kirthikadentalcare.in/appointment" class="main-btn">
+									<a target="_blank" href="https://admin.Wittedentalcare.in/appointment" class="main-btn">
 										<span>Appointment</span>
 									</a>
 								</li>
@@ -242,7 +269,8 @@
 			<div class="mobile-menu">
 				<div class="logo">
 					<a href="index.php">
-						<img src="assets/images/kirthika.png" alt="Logo" style="width:120px; height:70px !important;">
+						<!-- <img src="assets/images/Witte.png" alt="Logo" style="width:120px; height:70px !important;"> -->
+						<h3 class="text-white">Your Logo</h3>s
 					</a>
 				</div>
 			</div>
@@ -261,7 +289,7 @@
 
 
 				<a class="navbar-brand" href="#">
-					<img src="assets/images/kirthika.png" alt="Logo" class="log2" style="width:240px; height:144px;     margin-left: 505px;
+					<img src="assets/images/Witte.png" alt="Logo" class="log2" style="width:240px; height:144px;     margin-left: 505px;
 												margin-right: 73px;">
 				</a>
 

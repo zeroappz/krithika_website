@@ -18,16 +18,19 @@
 	<link rel="stylesheet" href="assets/css/responsive.css">
 
 	<!--=== Favicon ===-->
-	<link rel="icon" type="image/png" href="assets/images/kirthika.png" style="width:80px; height:107px !important;">
+	<link rel="icon" type="image/png" href="#your logo" style="width:80px; height:107px !important;">
+	<!-- <link rel="icon" type="image/png" href="assets/images/Witte.png" style="width:80px; height:107px !important;"> -->
 	<!--=== Title ===-->
-	<title>Kirthika Dental Care</title>
+	<title>Dental Care</title>
 </head>
 <section class="banner-section">
 	<div class="container-fluid">
 		<div class="row">
 			<div class="col-lg-12 p-0">
 				<div class="banner-img wow fadeInUp delay-0-2s" style="visibility: visible; animation-name: fadeInUp;">
-					<img src="assets/images/header_kirthika.png" alt="Image">
+					<!-- <img src="" alt="YOUR LOGO BANNER"> -->
+					<div><p style="font-size: 10rem;"><b>Your LOGO</b></p></div>
+					<!-- <img src="assets/images/header_Witte.png" alt="Image"> -->
 				</div>
 			</div>
 		</div>
@@ -188,7 +191,7 @@
 							</li>
 
 							<!-- <a class="navbar-brand" href="index.php">
-							<img src="assets/images/kirthika.png" alt="Logo" class="log2" style="width:200px; height:90px;     margin-left: 85px;
+							<img src="assets/images/Witte.png" alt="Logo" class="log2" style="width:200px; height:90px;     margin-left: 85px;
 												margin-right: 73px;">
 						</a> -->
 
@@ -210,7 +213,26 @@
 							</li> -->
 
 							<li class="nav-item">
+<<<<<<< HEAD
+								<a href="contact-us.php" class="nav-link ff">Contact Us</a>
+							</li>
+							<li class="nav-item">
+								<a href="enquiry.php" class="nav-link ff">Enquiry</a>
+							</li>
+							<!-- <li class="nav-item">
+								<a href=" https://admin.Wittedentalcare.in/register" class="nav-link">Register</a>
+							</li> -->
+							<!-- <li class="nav-item">
+								<a href="https://admin.Wittedentalcare.in/login" class="nav-link">Login</a>
+							</li> -->
+							<li class="nav-item">
+								<a href="http://witteapp.macincode.in/" class="nav-link">
+									Login
+								</a>
+								<!-- <a href="http://witteapp.macincode.in/" class="nav-link dropdown-toggle">
+=======
 							<a href="https://app.kirthikadentalcare.in/" class="nav-link">
+>>>>>>> 5cd01a3688f546cff6fd83af87dd1ce9ba1977e1
 								Login
 							</a>
  
@@ -225,6 +247,16 @@
 								
 
 
+<<<<<<< HEAD
+								<!-- <ul class="dropdown-menu">
+								<li class="nav-item">
+									<a href="http://witteapp.macincode.in/" class="nav-link">Patient Login</a>
+								</li>
+								<li class="nav-item">
+									<a href="http://witteapp.macincode.in/" class="nav-link">Staff Login</a>
+								</li>
+=======
+>>>>>>> 5cd01a3688f546cff6fd83af87dd1ce9ba1977e1
 							</ul> -->
 						</li>
 						<!-- <li class="nav-item">
@@ -234,7 +266,7 @@
 									<a href="#orthodontics.php" class="nav-link">Staff login</a>
 								</li>
 								<li class="nav-item">
-									<a href="https://admin.kirthikadentalcare.in/" class="nav-link">Patient login</a>
+									<a href="https://admin.Wittedentalcare.in/" class="nav-link">Patient login</a>
 								</li>
 							</ul>
 						</li> -->
@@ -243,7 +275,7 @@
 						<div class="nav-right-options">
 							<ul>
 								<li>
-									<a target="_blank" href="https://admin.kirthikadentalcare.in/appointment" class="main-btn">
+									<a target="_blank" href="https://admin.Wittedentalcare.in/appointment" class="main-btn">
 										<span>Appointment</span>
 									</a>
 								</li>
@@ -270,7 +302,7 @@
 				<div class="mobile-menu">
 					<div class="logo">
 						<a href="index.php">
-							<img src="assets/images/kirthika.png" alt="Logo" style="width:120px; height:70px !important;">
+							<img src="assets/images/Witte.png" alt="Logo" style="width:120px; height:70px !important;">
 						</a>
 					</div>
 				</div>
@@ -289,7 +321,7 @@
 
 
 				<a class="navbar-brand" href="#">
-					<img src="assets/images/kirthika.png" alt="Logo" class="log2" style="width:240px; height:144px;     margin-left: 505px;
+					<img src="assets/images/Witte.png" alt="Logo" class="log2" style="width:240px; height:144px;     margin-left: 505px;
 												margin-right: 73px;">
 				</a>
 
@@ -311,7 +343,7 @@
 			<div class="row">
 				<div class="col-lg-12">
 					<div class=" pt-100">
-						<h1 class="wow fadeInUp delay-0-2s" style="text-align:center;">WELCOME TO KIRTHIKA DENTAL <br>CARE</h1>
+						<h1 class="wow fadeInUp delay-0-2s" style="text-align:center;">WELCOME TO DENTAL <br>CARE</h1>
 						<br><br>
 						<p class="wow fadeInUp delay-0-4s" style="margin-left:20%;margin-right:20%; text-align:center;">We are committed to providing our patients best-in-class treatment using advance dental materials and instruments with the help of experienced dental professionals from different speciality in dentistry at a comfortable and relaxed environment.</p>
 
@@ -445,7 +477,7 @@
 							<h3>
 								<a href="#">Oral Surgery</a>
 							</h3>
-							<p>Simple extraction to Pesky wisdom teeth removal, dental implants, and more. The Doctors at kirthika Dental care provide the best care for all your oral surgery needs. <br><br></p>
+							<p>Simple extraction to Pesky wisdom teeth removal, dental implants, and more. The Doctors at Witte Dental care provide the best care for all your oral surgery needs. <br><br></p>
 
 						</div>
 					</div>
@@ -557,7 +589,7 @@
 							<h3>
 								<a href="#">Dental <br> implants</a>
 							</h3>
-							<p>Dental implants made simple If you’ve lost a tooth, schedule an implant consult at kirthika dental care our experienced and well equipped implantologist Assess the health of your teeth, gums, and jaw bone Discuss options for replacing missing teeth.</p>
+							<p>Dental implants made simple If you’ve lost a tooth, schedule an implant consult at Witte dental care our experienced and well equipped implantologist Assess the health of your teeth, gums, and jaw bone Discuss options for replacing missing teeth.</p>
 
 						</div>
 					</div>
@@ -849,7 +881,7 @@
 		<div class="container">
 			<div class="row">
 				<div class="col-lg-8 col-md-7">
-					<p>Copyright © <span>Kirthika Dental Care</span> All RIghts Reserved <a href="https://macincode.com/" target="_blank">Macincode</a></p>
+					<p>Copyright © <span>Dental Care</span> All RIghts Reserved <a href="https://macincode.com/" target="_blank">Macincode</a></p>
 				</div>
 				<div class="col-lg-4 col-md-5">
 					<ul>
@@ -885,5 +917,18 @@
 	<script src="assets/js/waypoints.min.js"></script>
 	<script src="assets/js/custom.js"></script>
 </body>
+<script>
+    // Your AJAX code to submit the form and handle the response
+    // After receiving a successful response
+    if (response.status === 'success') {
+        // Display success message
+        alert(response.message);
+        // Redirect to index.php
+        window.location.href = 'index.php';
+    } else {
+        // Display error message
+        alert(response.message);
+    }
+</script>
 
 </html>

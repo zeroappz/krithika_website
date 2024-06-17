@@ -96,14 +96,33 @@ JOIN doctor_departments ON users.department_id = doctor_departments.id
 						<div class="main-doctors-item hover-style wow fadeInUp delay-0-4s doctor-p1">
 							<div class="inner-border">
 								<div class="doctor-img">
-									<?php if (empty($user['image'])) : ?>
-										<img src="assets/images/doctors/doctor.jpg" style="width: 100%;height:450px;" alt="Default Image"><br><br>
-									<?php else : ?>
-										<img src="<?php echo htmlspecialchars($user['image']); ?>" style="width: 100%;height:450px;" alt="User Image"><br><br>
-									<?php endif; ?>
+									<img src="assets/images/doctors/ayyadurai.jpeg" alt="Image">
+
+									<!-- <ul>
+										<li>
+											<a href="https://www.facebook.com/" target="_blank">
+												<i class="icofont-facebook"></i>
+											</a>
+										</li>
+										<li>
+											<a href="https://www.twitter.com/" target="_blank">
+												<i class="icofont-twitter"></i>
+											</a>
+										</li>
+										<li>
+											<a href="https://www.linkedin.com/" target="_blank">
+												<i class="icofont-linkedin"></i>
+											</a>
+										</li>
+										<li>
+											<a href="https://www.instagram.com/" target="_blank">
+												<i class="icofont-instagram"></i>
+											</a>
+										</li>
+									</ul> -->
 								</div>
 								<h3><?php echo htmlspecialchars($user['first_name'] . '.' . $user['surname']); ?></h3>
-								<!-- <span>ID: <?php echo htmlspecialchars($user['id']); ?></span><br> -->
+								<span>ID: <?php echo htmlspecialchars($user['id']); ?></span><br>
 								<span><?php echo htmlspecialchars($user['qualification']); ?></span><br>
 								<span><?php echo htmlspecialchars($user['title']); ?></span><br>
 							</div>
