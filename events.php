@@ -33,13 +33,13 @@
 		<section class="page-banner-section bg-color-ebeef5 ptb-100">
 			<div class="container">
 				<div class="page-banner-content">
-					<h2>Doctors</h2>
+					<h2>Events</h2>
 					<ul>
 						<li>
 							<a href="index.php">Home</a>
 						</li>
 						<li>
-							<span class="active">Doctors</span>
+							<span class="active">Events</span>
 						</li>
 					</ul>
 				</div>
@@ -61,63 +61,65 @@
 					<h2>Our Experienced Dentists Strive For Improved Services</h2>
 				</div> -->
 
-				<div class="row justify-content-center">
-				<?php
-				// Include the database configuration file
-				include_once 'config/database.php';
+                <?php
+// API endpoint URL
+$apiUrl = 'https://api.kirthikadentalcare.in/api/getEvent';
 
-				// Create an instance of the Database class
-				$database = new Database();
-				$db = $database->getConnection();
+// Initialize cURL session
+$ch = curl_init();
 
-				// Define the query to retrieve data from the users table
-				// $query = "SELECT * FROM users";
-				// Define the query to retrieve data from the users table and join with doctor_departments
-				$query = "SELECT users.*,doctor_departments.title
-				FROM users
-				JOIN doctor_departments ON users.department_id = doctor_departments.id";
+// Set the cURL options
+curl_setopt($ch, CURLOPT_URL, $apiUrl);
+curl_setopt($ch, CURLOPT_RETURNTRANSFER, true);
+curl_setopt($ch, CURLOPT_HTTPHEADER, array('Content-Type: application/json'));
 
-				// Prepare the query
-				$stmt = $db->prepare($query);
+// Execute the cURL request
+$response = curl_exec($ch);
 
-				// Execute the query
-				$stmt->execute();
+// Check for cURL errors
+if (curl_errno($ch)) {
+    echo 'cURL error: ' . curl_error($ch);
+} else {
+    // Decode the JSON response
+    $events = json_decode($response, true);
+}
 
-				// Fetch all the rows from the executed query
-				$users = $stmt->fetchAll(PDO::FETCH_ASSOC);
-// 				echo '<pre>';
-// print_r($users['5']['image']);
+// Close the cURL session
+curl_close($ch);
+
+// Print the fetched data for debugging
+// echo '<pre>';
+// print_r($events);
 // echo '</pre>';
-				?>
-				<?php foreach ($users as $user) : ?>
-					<div class="col-lg-4 col-sm-6">
+?>
 
+				<div class="row justify-content-center">
 
-
-						<div class="main-doctors-item hover-style wow fadeInUp delay-0-4s doctor-p1">
-							<div class="inner-border">
-								<div class="doctor-img">
-									<?php
-									// Define the user's image path
-									$userImage = $user['image']? $user['image'] : 'assets/images/doctors/doctor-1.jpg';
-									?>
-
-									
-
-									<img src="<?php echo htmlspecialchars($userImage); ?>" style ="height: 450px;width: 450px" alt="Image">
-
-								</div>
-								<h3><?php echo htmlspecialchars($user['first_name'] . '.' . $user['surname']); ?></h3>
-								<!-- <span>ID: <?php echo htmlspecialchars($user['id']); ?></span><br> -->
-								<span><?php echo htmlspecialchars($user['qualification']); ?></span><br>
-								<span><?php echo htmlspecialchars($user['title']); ?></span><br>
-							</div>
-						</div>
-					</div>
-				<?php endforeach; ?>
+                <?php if (isset($events['data']) && is_array($events['data'])) : ?>
+            <?php foreach ($events['data'] as $event) : ?>
+                <div class="col-lg-4 col-sm-6">
+                    <div class="main-doctors-item hover-style wow fadeInUp delay-0-4s doctor-p1">
+                        <div class="inner-border">
+                            <div class="doctor-img">
+                                <?php
+                                // Define the event's image path
+                                $eventImage = !empty($event['image']) ? $event['image'] : 'assets/images/default-event.jpg';
+                                ?>
+                                <img src="<?php echo htmlspecialchars($eventImage); ?>" style="height: 450px; width: 450px;" alt="Event Image">
+                            </div>
+                            <h3><?php echo htmlspecialchars($event['title']); ?></h3>
+                            <span><?php echo htmlspecialchars($event['date']); ?></span><br>
+                        </div>
+                    </div>
+                </div>
+            <?php endforeach; ?>
+        <?php else : ?>
+            <p>No events found.</p>
+        <?php endif; ?>
+			
 					<!-- <div class="col-lg-4 col-sm-6">
-						<div class="main-doctors-item doctor-p hover-style wow fadeInUp delay-0-2s "> -->
-							<!-- <div class="inner-border">
+						<div class="main-doctors-item doctor-p hover-style wow fadeInUp delay-0-2s ">
+							<div class="inner-border">
 								<div class="doctor-img">
 									<img src="assets/images/doctors/rajkumar.jpeg" alt="Image"> -->
 
@@ -147,106 +149,110 @@
 								<h3>Dr. G. Rajkumar </h3>
 								<span>M.D.S., (Perio), MFDS RCPS., (Glasgow)</span><br>
 								<span>Periodontics and Oral Implantology</span>
-							</div> -->
-							
-						<!-- </div>
+							</div>
+						</div>
 					</div> -->
 
-					<!-- <div class="col-lg-4 col-sm-6">
-						<div class="main-doctors-item hover-style wow fadeInUp delay-0-4s doctor-p1" >
-							<div class="inner-border">
-								<div class="doctor-img">
-									<img src="assets/images/doctors/kamaraj.jpeg" alt="Image">
-
-								</div>
-								<h3>Prof, Dr. L. Kamaraj</h3>
-								<span>M.D.S., (OMFS) FDS RCPS., (Glasgow) P.hD (OMFS), FIBOMFS,</span><br>
-								<span>Oral and maxillo facial and Oral Implantology.</span>
-							</div>
-						</div>
-					</div>
-
-					<div class="col-lg-4 col-sm-6">
-						<div class="main-doctors-item hover-style wow fadeInUp delay-0-6s doctor-p3">
-							<div class="inner-border">
-								<div class="doctor-img">
-									<img src="assets/images/doctors/gugan.png" alt="Image">
-
-							
-								</div>
-								<h3>Dr.B. Guhan</h3>
-								<span>M.D.S Pediatric dentistry</span><br>
-							</div>
-						</div>
-					</div>
-
-					<div class="col-lg-4 col-sm-6">
-						<div class="main-doctors-item hover-style wow fadeInUp delay-0-2s doctor-p2">
-							<div class="inner-border">
-								<div class="doctor-img">
-									<img src="assets/images/doctors/doctor-4.jpg" alt="Image">
-
-									
-								</div>
-								<h3>Dr. Bindu </h3>
-								<span>M.D.S., (Prostho ), MFDS RCPS., (Glasgow)</span0><br>
-								<span>Prosthodontics and Oral Implantology.</span>
-							</div>
-						</div>
-					</div>
-			<div class="col-lg-4 col-sm-6">
-						<div class="main-doctors-item hover-style wow fadeInUp delay-0-6s">
-							<div class="inner-border">
-								<div class="doctor-img">
-									<img src="assets/images/doctors/vasanthan.jpeg" alt="Image">
-
-							
-								</div>
-								<h3>Prof. Dr. Vasanthan</h3>
-								<span>M.D.S.,(Ortho),P.hD,(Ortho)</span><br>
-								<span>Orthodontics & Dentofacial Orthopaedics</span>
-							</div>
-						</div>
-					</div>
-					<div class="col-lg-4 col-sm-6">
-						<div class="main-doctors-item hover-style wow fadeInUp delay-0-6s">
-							<div class="inner-border">
-								<div class="doctor-img">
-									<img src="assets/images/doctors/arun.jpeg" alt="Image">
-
-								
-								</div>
-								<h3>Dr. S. Arun  </h3>
-								<span>M.D.S.,</span><br>
-								<span>Endodontics and conservative dentistry</span>
-							</div>
-						</div>
-					</div>
-					<div class="col-lg-4 col-sm-6">
-						<div class="main-doctors-item hover-style wow fadeInUp delay-0-6s">
-							<div class="inner-border">
-								<div class="doctor-img">
-									<img src="assets/images/doctors/ayyadurai.jpeg" alt="Image">
-
-									
-								</div>
-								<h3>DR. C. AYYADURAI, </h3>
-								<span>M.D.S., </span><br>
-								<span>Oral and maxillo facial Pathology.</span>
-							</div>
-						</div>
-					</div>
-					<div class="col-lg-4 col-sm-6">
-						
-					</div>
-
-					<div class="col-lg-4 col-sm-6">
-						
-					</div>
-
 		
+					<div class="col-lg-4 col-sm-6">
+						<!-- <div class="main-doctors-item hover-style wow fadeInUp delay-0-4s"> -->
+							<!-- <div class="inner-border">
+								<div class="doctor-img">
+									<img src="assets/images/doctors/doctor-7.png" alt="Image"style="width:329px; height:293px;">
+
+									<!-- <ul>
+										<li>
+											<a href="https://www.facebook.com/" target="_blank">
+												<i class="icofont-facebook"></i>
+											</a>
+										</li>
+										<li>
+											<a href="https://www.twitter.com/" target="_blank">
+												<i class="icofont-twitter"></i>
+											</a>
+										</li>
+										<li>
+											<a href="https://www.linkedin.com/" target="_blank">
+												<i class="icofont-linkedin"></i>
+											</a>
+										</li>
+										<li>
+											<a href="https://www.instagram.com/" target="_blank">
+												<i class="icofont-instagram"></i>
+											</a>
+										</li>
+									</ul> -->
+								</div>
+								<!-- <h3>Dr Vasanthan</h3>
+								<span>MDS (Orthodontics)</span> -->
+							</div> 
+						<!-- </div> -->
+					</div>
+
+					<div class="col-lg-4 col-sm-6">
+						<!-- <div class="main-doctors-item hover-style wow fadeInUp delay-0-6s"> -->
+							<!-- <div class="inner-border"> -->
+								<!-- <div class="doctor-img">
+									<img src="assets/images/doctors/doctor-8.png" alt="Image"style="width:329px; height:293px;">
+
+									<!-- <ul>
+										<li>
+											<a href="https://www.facebook.com/" target="_blank">
+												<i class="icofont-facebook"></i>
+											</a>
+										</li>
+										<li>
+											<a href="https://www.twitter.com/" target="_blank">
+												<i class="icofont-twitter"></i>
+											</a>
+										</li>
+										<li>
+											<a href="https://www.linkedin.com/" target="_blank">
+												<i class="icofont-linkedin"></i>
+											</a>
+										</li>
+										<li>
+											<a href="https://www.instagram.com/" target="_blank">
+												<i class="icofont-instagram"></i>
+											</a>
+										</li>
+									</ul> -->
+								</div>
+								<!-- <h3>Dr Arun selva</h3>
+								<span>MDS (Conservative and endodontics)</span>  -->
+							<!-- </div> -->
+						<!-- </div> -->
+					</div>
+
+					<!-- <div class="col-lg-12">
+						<div class="pagination">
+							<a href="#" class="next page-count hover-style">
+								<div class="inner-border">
+									<i class="icofont-simple-left"></i>
+								</div>
+							</a>
+							<a href="#" class="page-count current hover-style" aria-current="page">
+								<div class="inner-border">1</div>
+							</a>
+							<a href="#" class="page-count hover-style">
+								<div class="inner-border">2</div>
+							</a>
+							<a href="#" class="page-count hover-style">
+								<div class="inner-border">3</div>
+							</a>
+							<a href="#" class="page-count hover-style">
+								<div class="inner-border">4</div>
+							</a>
+
+							<a href="#" class="next page-count hover-style">
+								<div class="inner-border">
+									<i class="icofont-simple-right"></i>
+								</div>
+							</a>
+						</div>
+					</div> -->
 				</div>
-			</div> -->
+			</div>
 
 			<!-- <img src="assets/images/doctor-shape.png" class="doctor-shape shape" alt="Image"> -->
 		</section>

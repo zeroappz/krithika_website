@@ -195,6 +195,9 @@
 							<li class="nav-item">
 								<a href="doctors.php" class="nav-link ff">Doctors</a>
 							</li>
+							<li class="nav-item">
+								<a href="events.php" class="nav-link ff">Events</a>
+							</li>
 
 							<li class="nav-item">
 								<a href="contact-us.php" class="nav-link ff">Contact Us</a>
