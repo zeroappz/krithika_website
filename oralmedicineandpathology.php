@@ -18,7 +18,7 @@
 		<link rel="stylesheet" href="assets/css/responsive.css">
 
 		<!--=== Favicon ===-->
-		<link rel="icon" type="image/png" href="assets/images/favicon.png">
+		<link rel="icon" type="image/png" href="assets/images/kirthika.png" style="width:80px; height:107px !important;">
 		<!--=== Title ===-->
 		<title>Kirthika Dental Care</title>
     </head>
@@ -89,7 +89,7 @@
 									</li>
 									<li>
 										<a href="oralandmaxillofacial.php">
-										Oral and maxilla facial surgery
+										Oral and maxillo facial surgery
 											<i class="icofont-simple-right"></i>
 										</a>
 									</li>
@@ -168,7 +168,7 @@
 								</ul>
 							</div>
 
-							<div class="main-sidebar-item contact-us">
+							<!-- <div class="main-sidebar-item contact-us">
 								<h3>Contact Us</h3>
 
 								<div class="row">
@@ -213,30 +213,35 @@
 										</button>
 									</div>
 								</div>
-							</div>
+							</div> -->
 						</div>
 					</div>
 
 					<div class="col-lg-8">
 						<div class="services-details-content ms-15">
 							<div class="services-img-1">
-								<img src="assets/images/services/istockphoto.png" alt="Image">
+							<img src="assets/images/services/periodontics_sec_2.png" alt="Image">
 							</div>
 							<h4>Introduction</h4>
-							<h3>Oral Medicine and Pathology</h3>
+							<p>Oral Medicine Diagnosis pathology & Radiology is the specialty that focuses on the diagnosis and medical management of diseases of the Head and Neck. It is a unique field of dentistry that combines both Oral Medicine and Craniofacial Radiology.</p>
+							
+							<p>The Department emphasizes the responsibility of the dentist to see problems affecting the oral region in the context of overall health status</p>
+							<p>Oral pathology and oral medicine is concerned with the health of the mouth and the diagnosis and management of diseases of the oral region.</p>
+							<!-- <h3>Oral Medicine and Pathology</h3> -->
+							<!-- <p><b>Who are the candidates of Oral Medicine and Pathology treatment?</b><br></p>
+
+							<p>Oral Medicine and Pathology is focuses on the diagnosis and treatment of oral diseases, including oral cancer, infections, autoimmune disorders, and other oral conditions. Patients with oral ulcers, reduced mouth opening, oral swellings, oral stiffness, white and red lesions on the mouth are the candidates for treatment.</p> -->
+
 							<p><b>Who are the candidates of Oral Medicine and Pathology treatment?</b><br></p>
 
-							<p>Oral pathology / oral medicine is a specialty area of dentistry that is concerned with the health of the mouth and the diagnosis and management of diseases of the oral region.</p>
+							<Third>Oral Medicine and Pathology is focuses on the diagnosis and treatment of oral diseases, including oral cancer, infections, autoimmune disorders, and other oral conditions. Patients with oral ulcers, reduced mouth opening, oral swellings, oral stiffness, white and red lesions on the mouth are the candidates for treatment. 
 
-							<p><b>Who are the candidates of Oral Medicine and Pathology treatment?</b><br></p>
+							<!-- <p><b>What does the Oral Medicine and Pathology do?</b><br></p>
 
-							<Third>Oral Medicine and Pathology is a specialized field of dentistry that focuses on the diagnosis and treatment of oral diseases, including oral cancer, infections, autoimmune disorders, and other oral conditions. 
-
-							<p><b>What does the Oral Medicine and Pathology do?</b><br></p>
-
-							<p>Oral Medicine and Pathology is a specialized field of dentistry that focuses on the diagnosis and management of various oral diseases and conditions. It deals with the study of Oral and maxilla facial surgery disorders, including those affecting the mouth, jaws, salivary glands, and surrounding structures.</p>
+							<p>Oral Medicine and Pathology is a specialized field of dentistry that focuses on the diagnosis and management of various oral diseases and conditions. It deals with the study of Oral and maxillo facial surgery disorders, including those affecting the mouth, jaws, salivary glands, and surrounding structures.</p> -->
 
 							<!-- <h4>Watch The Sealants Image</h4> -->
+							<br></br>
 
 							<div class="services-img-1">
 								<img src="assets/images/services/oral-pathology.png" alt="Image">
@@ -270,7 +275,7 @@
 								<li>
 									<p><b>Non-surgical Management:</b><br></p>
 									<span>5</span>
-									 In many cases, oral medicine treatment involves non-surgical management, such as prescribing medications, mouthwashes, or topical agents to alleviate symptoms or control oral diseases.
+									In many cases, oral medicine treatment involves non-surgical management, such as prescribing medications, mouthwashes, or topical agents to alleviate symptoms or control oral diseases.
 								</li>
 								<li>
 									<p><b>Patient Education: </b><br></p>
@@ -397,7 +402,7 @@
 			<div class="container">
 				<div class="row">
 					<div class="col-lg-8 col-md-7">
-						<p>Copyright © <span>Kirthika Dental Care</span> Is Proudly Owned by <a href="https://croptheme.com/" target="_blank">Macincode</a></p>
+						<p>Copyright © <span>Kirthika Dental Care</span> Is Proudly Owned by <a href="https://www.macincode.com/" target="_blank">Macincode</a></p>
 					</div>
 					<div class="col-lg-4 col-md-5">
 						<ul>
@@ -422,7 +427,7 @@
 <!--
 		<ul class="rtl-buy">
 			<li>
-				<a href="https://croptheme.com/Kirthika Dental Care/Kirthika Dental Care-rtl/">RTL</a>
+				<a href="https://www.macincode.com/Kirthika Dental Care/Kirthika Dental Care-rtl/">RTL</a>
 			</li>
 			<li>
 				<a href="https://themeforest.net/item/blad-ai-blood-donation-activism-campaign-html-template/41923002" target="_blank" class="bg-color">BUY</a>

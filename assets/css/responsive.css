@@ -613,7 +613,20 @@
   /* Services Style
   <<<<=====================>>>>*/
   .main-services-box {
-    padding: 20px;
+    padding: 28px;
+  }
+  .main-service {
+    padding: 28px;
+    padding-bottom: 58px;
+  }
+  .main-box{
+    padding-bottom: 57px;
+  }
+  .main-box-p6{
+    padding-bottom: 146px;
+  }
+  .main-box-p7{
+    padding-bottom: 116px;
   }
   /* Product Style
   <<<<=====================>>>>*/
@@ -775,8 +788,18 @@
   .main-services-box {
     padding: 25px;
   }
+  
   .main-services-box h3 {
     font-size: 23px;
+  }
+  .main-box-p6{
+    padding-bottom: 141px;
+  }
+  .main-box-p1{
+    padding-bottom: 100px;
+  }
+  .main-box-p7{
+    padding-bottom: 81px;
   }
   /* About Style
   <<<<=====================>>>>*/
@@ -1237,6 +1260,37 @@
   <<<<=====================>>>>*/
   .main-services-box {
     padding: 20px;
+    padding-bottom: 29px;
+  }
+  .main-box{
+    padding-bottom: 120px;
+  }
+  .main-box-p{
+    padding-bottom: 90px;
+  }
+  .main-box-p1{
+    padding-bottom: 118px;
+  }
+  .main-box-p2{
+    padding-bottom: 88px;
+  }
+  .main-box-p3{
+    padding-bottom: 58px;
+  }
+  .main-box-p4{
+    padding-bottom: 56px;
+  }
+  .main-box-p5{
+    padding-bottom: 0px;
+  }
+  .main-box-p6{
+    padding-bottom: 116px;
+  }
+  .main-box-p7{
+    padding-bottom: 204px;
+  }
+  .main-box-p8{
+    padding-bottom: 147px;
   }
   .main-services-box h3 {
     font-size: 23px;
@@ -1341,6 +1395,54 @@
   .main-testimonials {
     padding: 20px;
   }
+  /* Doctor page 
+  <<<<=====================>>>>*/
+
+  .doctor-p2{
+    padding-bottom: 124px;
+  }
+  .doctor-p1{
+    padding-bottom: 78px;
+  }
+  .doctor-p3{
+    padding-bottom: 102px;
+  }
+  /* About page 
+  <<<<=====================>>>>*/
+  .about-c{
+    padding-bottom: 118px!important;
+  }
+  .about-c2{
+    padding-bottom: 94px!important;
+  }
+.about-h{
+  height: 290px;
+  margin-left:70px;
+}
+.about-h1{
+  height: 290px;
+}
+.about-c1{
+  padding-bottom: 184px!important;
+}
+.about-h6{
+  padding-bottom: 88px!important;
+}
+
+/* Contact page
+<<<<=====================>>>> */
+.contact3{
+  padding-bottom: 30px;
+}
+.contact4{
+  padding-bottom: 95px;
+}
+.contact1{
+  padding-bottom:  115px;
+}
+.g_size{
+  font-size: smaller;
+}
 }
 /* Min width 1200px to Max width 1320px 
 <<<<=====================================================================>>>>*/
@@ -1356,6 +1458,79 @@
     padding-top: 140px;
     padding-bottom: 100px;
   }
+  .main-services-box{
+    padding-bottom: 29px;
+  }
+  .main-box{
+    padding-bottom: 120px;
+  }
+  .main-box-p{
+    padding-bottom: 60px;
+  }
+  .main-box-p1{
+    padding-bottom: 60px;
+  }
+  .main-box-p2{
+    padding-bottom: 58px;
+  }
+  .main-box-p6{
+    padding-bottom: 146px;
+  }
+  .main-box-p7{
+    padding-bottom: 204px;
+  }
+  .main-box-p8{
+    padding-bottom: 147px;
+  }
+  /* Doctor page 
+  <<<<=====================>>>>*/
+  .doctor-p{
+    padding-bottom: 78px;
+  }
+  .doctor-p2{
+    padding-bottom: 178px;
+  }
+  .doctor-p1{
+    padding-bottom: 94px;
+  }
+  .doctor-p3{
+    padding-bottom: 102px;
+  }
+  /* About page 
+  <<<<=====================>>>>*/
+  
+  .about-c1{
+    padding-bottom: 133px!important ;
+  }
+  .about-h1{
+    height: 290px;
+  }
+  .about-h{
+    height: 400px;
+  }
+  .about-h2{
+    padding-bottom: 139px!important
+  }
+  .about-c{
+    padding-bottom: 45px!important;
+  }
+  /* Contact page
+<<<<=====================>>>> */
+.contact3{
+  padding-bottom: 30px;
+}
+.contact4{
+  padding-bottom: 97px;
+}
+.contact1{
+  padding-bottom:  120px;
+}
+.contact{
+  padding-bottom: 53px;
+}
+.g_size{
+  font-size: smaller;
+}
 }
 /* Medium devices (tablets, 768px and up) Only Mobil Menu
 ===========================================================*/
@@ -1446,4 +1621,143 @@
   .log2{
     display: none;
   }
+  .main-box{
+    padding-bottom: 58px;
+  }
+  .main-box-p{
+    padding-bottom: 28px;
+  }
+  .main-box-p1{
+    padding-bottom: 56px;
+  }
+  .main-h{
+    height: 379px;
+  }
+  .main-box-p2{
+    padding-bottom: 28px;
+  }
+  .main-box-p3{
+    padding-bottom: 28px;
+  }
+  .main_h1{
+    height: 379px;
+  }
+  /* Doctor page 
+  <<<<=====================>>>>*/
+  
+  .doctor-p{
+    padding-bottom: 59px;
+  }
+  .doctor-p1{
+    padding-bottom: 93px;
+  }
+  .doctor-p2{
+    padding-bottom: 144px;
+  }
+  /* About page 
+  <<<<=====================>>>>*/
+  
+  .about-c1{
+    padding-bottom: 338px!important ;
+  }
+  .about-h1{
+    height: 290px;
+  }
+  .about-h{
+    height: 400px;
+  }
+  .about-h2{
+    padding-bottom: 116px!important;
+  }
+  .about-h6{
+    padding-bottom: 85px!important;
+  }
+  .about-c{
+    padding-bottom: 115px!important;
+   
+  }
+  /* .about-c3{
+    margin-bottom: 50px;
+  } */
+  .contact{
+    padding-bottom: 42px;
+  }
+  .contact1{
+    padding-bottom: 50px;
+  }
+
 }/*# sourceMappingURL=responsive.css.map */
+@media only screen and (min-width: 1399px) and (max-width: 1700px) {
+  .main-service{
+    padding-bottom: 58px;
+  }
+.main-box{
+  padding-bottom: 62px;
+}
+.main-box-p2{
+  padding-bottom: 62px;
+}
+
+.main-box-p7{
+  padding-bottom: 177px;
+}
+
+.main-box-p8{
+  padding-bottom: 119px;
+}
+
+.main-box-p6{
+  padding-bottom: 119px;
+}
+/* Doctor page 
+  <<<<=====================>>>>*/
+  
+  .doctor-p2{
+    padding-bottom: 204px;
+  }
+  .doctor-p1{
+    padding-bottom: 89px;
+  }
+  .doctor-p3{
+    padding-bottom: 62px;
+  }
+  /* About page 
+  <<<<=====================>>>>*/
+  
+  .about-c1{
+    padding-bottom: 25px!important;
+  }
+  .about-h1{
+    height: 290px;
+  }
+  .about-h{
+    height: 400px;
+  }
+  .about-h2{
+    padding-bottom: 190px!important;
+  }
+  .about-c{
+    padding-bottom: 45px!important;
+  }
+  .about-h6{
+    padding-bottom: 45px!important;
+  }
+
+   /* Contact page
+<<<<=====================>>>> */
+.contact3{
+  padding-bottom: 36px;
+}
+.contact4{
+  padding-bottom: 73px;
+}
+.contact1{
+  padding-bottom:  96px;
+}
+/* .contact{
+  padding-bottom: 53px;
+} */
+.g_size{
+  font-size: smaller;
+}
+}

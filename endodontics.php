@@ -18,7 +18,7 @@
 		<link rel="stylesheet" href="assets/css/responsive.css">
 
 		<!--=== Favicon ===-->
-		<link rel="icon" type="image/png" href="assets/images/favicon.png">
+		<link rel="icon" type="image/png" href="assets/images/kirthika.png" style="width:80px; height:107px !important;">
 		<!--=== Title ===-->
 		<title>Kirthika Dental Care</title>
     </head>
@@ -89,7 +89,7 @@
 									</li>
 									<li>
 										<a href="oralandmaxillofacial.php">
-										Oral and maxilla facial surgery
+										Oral and maxillo facial surgery
 											<i class="icofont-simple-right"></i>
 										</a>
 									</li>
@@ -168,7 +168,7 @@
 								</ul>
 							</div>
 
-							<div class="main-sidebar-item contact-us">
+							<!-- <div class="main-sidebar-item contact-us">
 								<h3>Contact Us</h3>
 
 								<div class="row">
@@ -213,7 +213,7 @@
 										</button>
 									</div>
 								</div>
-							</div>
+							</div> -->
 						</div>
 					</div>
 
@@ -223,18 +223,19 @@
 								<img src="assets/images/services/endodontics.png" alt="Image">
 							</div>
 							<h4>Introduction</h4>
-							<h3>Endodontics</h3>
-							<p><b>What is the meaning of Endodontics?</b><br></p>
+							<p>Endodontics is a branch of dentistry that deals with the diagnosis, prevention, and treatment of diseases and injuries that affect the dental pulp and the surrounding tissues of the tooth.</p>
+							<!-- <h3>Endodontics</h3> -->
+							<!-- <p><b>What is the meaning of Endodontics?</b><br></p> -->
 
-							<p>Endodontics is a branch of dentistry that deals with the diagnosis, prevention, and treatment of diseases and injuries that affect the dental pulp and the surrounding tissues of the tooth. The term "endodontics" comes from the Greek words "endo" meaning "inside" and "odont" meaning "tooth," indicating that it focuses on the internal structures of the tooth.</p>
+							<!-- <p>Endodontics is a branch of dentistry that deals with the diagnosis, prevention, and treatment of diseases and injuries that affect the dental pulp and the surrounding tissues of the tooth. The term "endodontics" comes from the Greek words "endo" meaning "inside" and "odont" meaning "tooth," indicating that it focuses on the internal structures of the tooth.</p> -->
 
 							<p><b>Who are the candidates of Endodontics treatment?</b><br></p>
 
-							<Third>The candidates for endodontic treatment, also known as root canal treatment, are individuals who have problems with the innermost layer of their teeth called the dental pulp. These problems can include severe tooth decay, tooth infections, tooth trauma, or irreversible damage to the pulp. Endodontic treatment is typically recommended for individuals experiencing tooth pain, sensitivity to hot and cold, swelling around the tooth, or abscess formation. It is important to consult with a dentist or endodontist for a proper diagnosis and to determine if endodontic treatment is suitable for your specific dental condition.
+							<Third>The candidates for endodontic treatment, also known as root canal treatment, are individuals who have problems with the innermost layer of their teeth called the dental pulp. These problems can include severe tooth decay, tooth infections, tooth trauma, or irreversible damage to the pulp. Endodontic treatment is typically recommended for individuals experiencing tooth pain, sensitivity to hot and cold, swelling around the tooth, or abscess formation. 
 
 							<p><b>What does the Endodontics do?</b><br></p>
 
-							<p>Endodontics is a branch of dentistry that focuses on the diagnosis and treatment of diseases and disorders related to the dental pulp and surrounding tissues. It involves procedures such as root canal therapy, which is the removal of infected or damaged pulp from inside the tooth, and subsequent cleaning, shaping, and filling of the root canal system. The goal of endodontic treatment is to save natural teeth and alleviate pain or discomfort caused by dental pulp infections or injuries.</p>
+							<p>Endodontics focuses on the diagnosis and treatment of diseases and disorders related to the dental pulp and surrounding tissues. It involves procedures such as root canal therapy, which is the removal of infected or damaged pulp from inside the tooth, and subsequent cleaning, shaping, and filling of the root canal system. The goal of endodontic treatment is to save natural teeth and alleviate pain or discomfort caused by dental pulp infections or injuries.</p>
 
 							<!-- <h4>Watch The Endodontics Image</h4> -->
 
@@ -395,7 +396,7 @@
 			<div class="container">
 				<div class="row">
 					<div class="col-lg-8 col-md-7">
-						<p>Copyright © <span>Kirthika Dental Care</span> Is Proudly Owned by <a href="https://croptheme.com/" target="_blank">Macincode</a></p>
+						<p>Copyright © <span>Kirthika Dental Care</span> Is Proudly Owned by <a href="https://www.macincode.com/" target="_blank">Macincode</a></p>
 					</div>
 					<div class="col-lg-4 col-md-5">
 						<ul>
@@ -420,7 +421,7 @@
 <!--
 		<ul class="rtl-buy">
 			<li>
-				<a href="https://croptheme.com/Kirthika Dental Care/Kirthika Dental Care-rtl/">RTL</a>
+				<a href="https://www.macincode.com/Kirthika Dental Care/Kirthika Dental Care-rtl/">RTL</a>
 			</li>
 			<li>
 				<a href="https://themeforest.net/item/blad-ai-blood-donation-activism-campaign-html-template/41923002" target="_blank" class="bg-color">BUY</a>
