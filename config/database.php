@@ -4,7 +4,7 @@ class Database
 
     // specify your own database credentials
     private $host = "localhost";
-    private $db_name = "zeroappz_kdc";
+    private $db_name = "kirthika_dental";
     private $username = "root";
     private $password = "";
     public $conn;
