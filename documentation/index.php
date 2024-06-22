@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="zxx">
+<html lang="en">
 
 <head>
 	<!--=== Required meta tags ===-->
@@ -18,16 +18,23 @@
 	<link rel="stylesheet" href="assets/css/responsive.css">
 
 	<!--=== Favicon ===-->
-	<link rel="icon" type="image/png" href="assets/images/kirthika.png" style="width:80px; height:107px !important;">
+	<link rel="icon" type="image/png" href="#your logo" style="width:80px; height:107px !important;">
+	<!-- <link rel="icon" type="image/png" href="assets/images/Witte.png" style="width:80px; height:107px !important;"> -->
 	<!--=== Title ===-->
-	<title>Kirthika Dental Care</title>
+	<title>Dental Care</title>
 </head>
 <section class="banner-section">
 	<div class="container-fluid">
 		<div class="row">
 			<div class="col-lg-12 p-0">
 				<div class="banner-img wow fadeInUp delay-0-2s" style="visibility: visible; animation-name: fadeInUp;">
+<<<<<<< HEAD:documentation/index.php
 					<img src="assets/images/header_kirthika.png" alt="Image">
+=======
+					<!-- <img src="" alt="YOUR LOGO BANNER"> -->
+					<div><p style="font-size: 10rem;"><b>Your LOGO</b></p></div>
+					<!-- <img src="assets/images/header_Witte.png" alt="Image"> -->
+>>>>>>> 464065ab7904192b45306214cb054b634ddf38e7:index.php
 				</div>
 			</div>
 		</div>
@@ -151,7 +158,11 @@
 									</ul> -->
 									</li>
 									<li class="nav-item">
+<<<<<<< HEAD:documentation/index.php
 										<a href="oralandmaxillofacial.php" class="nav-link">Oral and maxilla facial surgery</a>
+=======
+										<a href="oralandmaxillofacial.php" class="nav-link">Oral and maxillo facial surgery</a>
+>>>>>>> 464065ab7904192b45306214cb054b634ddf38e7:index.php
 									</li>
 									<li class="nav-item">
 										<a href="prosthodontics.php" class="nav-link dropdown-toggle">
@@ -188,6 +199,7 @@
 							</li>
 
 							<!-- <a class="navbar-brand" href="index.php">
+<<<<<<< HEAD:documentation/index.php
 							<img src="assets/images/kirthika.png" alt="Logo" class="log2" style="width:200px; height:90px;     margin-left: 85px;
 												margin-right: 73px;">
 						</a> -->
@@ -213,13 +225,60 @@
 
 							</li>
 							<!-- <li class="nav-item">
+=======
+							<img src="assets/images/Witte.png" alt="Logo" class="log2" style="width:200px; height:90px;     margin-left: 85px;
+												margin-right: 73px;">
+						</a> -->
+
+						<li class="nav-item">
+							<a href="doctors.php" class="nav-link ff">Doctors</a>
+						</li>
+
+						<li class="nav-item">
+							<a href="contact-us.php" class="nav-link ff">Contact Us</a>
+						</li>
+						<li class="nav-item">
+								<a href="enquiry.php" class="nav-link ff">Enquiry</a>
+							</li>
+						<!-- <li class="nav-item">
+								<a href=" https://admin.kirthikadentalcare.in/register" class="nav-link ff">Register</a>
+							</li> -->
+							<!-- <li class="nav-item">
+								<a href="#" class="nav-link ff">Login</a>
+							</li> -->
+
+							<!-- <li class="nav-item">
+							<a href="#" class="nav-link dropdown-toggle ff">
+								Login
+							</a>
+ 
+							<!-- <ul class="dropdown-menu">
+								<li class="nav-item">
+									<a href="https://admin.kirthikadentalcare.in/login" class="nav-link">Patient Login</a>
+								</li>
+								<li class="nav-item">
+									<a href="https://admin.kirthikadentalcare.in/login" class="nav-link">Staff Login</a>
+								</li>
+
+								
+
+
+							</ul> -->
+							<li class="nav-item">
+							<a href="https://app.kirthikadentalcare.in/" class="nav-link">
+								Login
+							</a>
+ 
+						</li>
+						<!-- <li class="nav-item">
+>>>>>>> 464065ab7904192b45306214cb054b634ddf38e7:index.php
 							<a href="#" class="nav-link dropdown-toggle">Login</a>
 							<ul class="dropdown-menu">
 								<li class="nav-item">
 									<a href="#orthodontics.php" class="nav-link">Staff login</a>
 								</li>
 								<li class="nav-item">
-									<a href="https://admin.kirthikadentalcare.in/" class="nav-link">Patient login</a>
+									<a href="https://admin.Wittedentalcare.in/" class="nav-link">Patient login</a>
 								</li>
 							</ul>
 						</li> -->
@@ -228,7 +287,7 @@
 						<div class="nav-right-options">
 							<ul>
 								<li>
-									<a target="_blank" href="https://admin.kirthikadentalcare.in/appointment" class="main-btn">
+									<a target="_blank" href="https://admin.Wittedentalcare.in/appointment" class="main-btn">
 										<span>Appointment</span>
 									</a>
 								</li>
@@ -255,7 +314,11 @@
 				<div class="mobile-menu">
 					<div class="logo">
 						<a href="index.php">
+<<<<<<< HEAD:documentation/index.php
 							<img src="assets/images/kirthika.png" alt="Logo" style="width:120px; height:70px !important;">
+=======
+							<img src="assets/images/Witte.png" alt="Logo" style="width:120px; height:70px !important;">
+>>>>>>> 464065ab7904192b45306214cb054b634ddf38e7:index.php
 						</a>
 					</div>
 				</div>
@@ -274,7 +337,7 @@
 
 
 				<a class="navbar-brand" href="#">
-					<img src="assets/images/kirthika.png" alt="Logo" class="log2" style="width:240px; height:144px;     margin-left: 505px;
+					<img src="assets/images/Witte.png" alt="Logo" class="log2" style="width:240px; height:144px;     margin-left: 505px;
 												margin-right: 73px;">
 				</a>
 
@@ -296,7 +359,11 @@
 			<div class="row">
 				<div class="col-lg-12">
 					<div class=" pt-100">
+<<<<<<< HEAD:documentation/index.php
 						<h1 class="wow fadeInUp delay-0-2s" style="text-align:center;">WELCOME TO KIRTHIKA DENTAL <br>CARE</h1>
+=======
+						<h1 class="wow fadeInUp delay-0-2s" style="text-align:center;">WELCOME TO DENTAL <br>CARE</h1>
+>>>>>>> 464065ab7904192b45306214cb054b634ddf38e7:index.php
 						<br><br>
 						<p class="wow fadeInUp delay-0-4s" style="margin-left:20%;margin-right:20%; text-align:center;">We are committed to providing our patients best-in-class treatment using advance dental materials and instruments with the help of experienced dental professionals from different speciality in dentistry at a comfortable and relaxed environment.</p>
 
@@ -372,7 +439,7 @@
 
 			<div class="row d-flex justify-content-center">
 				<div class="col-lg-3 col-sm-6">
-					<div class="main-services-box hover-style wow fadeInUp delay-0-2s">
+					<div class="main-services-box main-service hover-style wow fadeInUp delay-0-2s">
 						<div class="inner-border">
 							<div class="icon">
 								<img src="assets/images/icon/icon-1.svg" alt="Image">
@@ -381,7 +448,12 @@
 								<a href="#">Appointment Booking</a>
 							</h3>
 							<p>You can book your personalized appointments at the comfortable time to visit the dentist on your registered login page.</p>
+<<<<<<< HEAD:documentation/index.php
 							<br>
+=======
+						<br>
+						<br>
+>>>>>>> 464065ab7904192b45306214cb054b634ddf38e7:index.php
 						</div>
 					</div>
 				</div>
@@ -397,7 +469,7 @@
 							</h3>
 							<p>lease give us at least 12-hour notice if you are unable to attend your appointment so that others may be offered your appointment.</p>
 						</div>
-					</div>
+					<!-- </div> -->
 				</div>
 
 
@@ -428,7 +500,11 @@
 							<h3>
 								<a href="#">Oral Surgery</a>
 							</h3>
+<<<<<<< HEAD:documentation/index.php
 							<p>Simple extraction to Pesky wisdom teeth removal, dental implants, and more. The Doctors at kirthika Dental care provide the best care for all your oral surgery needs. <br><br></p>
+=======
+							<p>Simple extraction to Pesky wisdom teeth removal, dental implants, and more. The Doctors at Witte Dental care provide the best care for all your oral surgery needs. <br><br></p>
+>>>>>>> 464065ab7904192b45306214cb054b634ddf38e7:index.php
 
 						</div>
 					</div>
@@ -540,7 +616,11 @@
 							<h3>
 								<a href="#">Dental <br> implants</a>
 							</h3>
+<<<<<<< HEAD:documentation/index.php
 							<p>Dental implants made simple If you’ve lost a tooth, schedule an implant consult at kirthika dental care our experienced and well equipped implantologist Assess the health of your teeth, gums, and jaw bone Discuss options for replacing missing teeth.</p>
+=======
+							<p>Dental implants made simple If you’ve lost a tooth, schedule an implant consult at Witte dental care our experienced and well equipped implantologist Assess the health of your teeth, gums, and jaw bone Discuss options for replacing missing teeth.</p>
+>>>>>>> 464065ab7904192b45306214cb054b634ddf38e7:index.php
 
 						</div>
 					</div>
@@ -832,7 +912,7 @@
 		<div class="container">
 			<div class="row">
 				<div class="col-lg-8 col-md-7">
-					<p>Copyright © <span>Kirthika Dental Care</span> All RIghts Reserved <a href="https://macincode.com/" target="_blank">Macincode</a></p>
+					<p>Copyright © <span>Dental Care</span> All RIghts Reserved <a href="https://macincode.com/" target="_blank">Macincode</a></p>
 				</div>
 				<div class="col-lg-4 col-md-5">
 					<ul>
@@ -868,5 +948,18 @@
 	<script src="assets/js/waypoints.min.js"></script>
 	<script src="assets/js/custom.js"></script>
 </body>
+<script>
+    // Your AJAX code to submit the form and handle the response
+    // After receiving a successful response
+    if (response.status === 'success') {
+        // Display success message
+        alert(response.message);
+        // Redirect to index.php
+        window.location.href = 'index.php';
+    } else {
+        // Display error message
+        alert(response.message);
+    }
+</script>
 
 </html>

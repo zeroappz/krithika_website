@@ -38,7 +38,11 @@
 
 				<div class="logo">
 					<a href="index.php">
+<<<<<<< HEAD:documentation/assets/css/header2.php
 						<img src="assets/images/kirthika.png" alt="Logo" style=" width: auto; height: 70px !important;">
+=======
+						<img src="assets/images/Witte.png" alt="Logo" style=" width: auto; height: 70px !important;">
+>>>>>>> 464065ab7904192b45306214cb054b634ddf38e7:assets/css/header2.php
 					</a>
 				</div>
 			
@@ -153,7 +157,11 @@
 						</li>
 
 						<!-- <a class="navbar-brand" href="index.php">
+<<<<<<< HEAD:documentation/assets/css/header2.php
 							<img src="assets/images/kirthika.png" alt="Logo" class="log2" style="width:200px; height:90px;     margin-left: 85px;
+=======
+							<img src="assets/images/Witte.png" alt="Logo" class="log2" style="width:200px; height:90px;     margin-left: 85px;
+>>>>>>> 464065ab7904192b45306214cb054b634ddf38e7:assets/css/header2.php
 												margin-right: 73px;">
 						</a> -->
 
@@ -165,10 +173,17 @@
 							<a href="contact-us.php" class="nav-link">Contact Us</a>
 						</li>
 						<!-- <li class="nav-item">
+<<<<<<< HEAD:documentation/assets/css/header2.php
 								<a href=" https://admin.kirthikadentalcare.in/register" class="nav-link">Register</a>
 							</li> -->
 							<!-- <li class="nav-item">
 								<a href="https://admin.kirthikadentalcare.in/login" class="nav-link">Login</a>
+=======
+								<a href=" https://admin.Wittedentalcare.in/register" class="nav-link">Register</a>
+							</li> -->
+							<!-- <li class="nav-item">
+								<a href="https://admin.Wittedentalcare.in/login" class="nav-link">Login</a>
+>>>>>>> 464065ab7904192b45306214cb054b634ddf38e7:assets/css/header2.php
 							</li> -->
 							<li class="nav-item">
 							<a href="#" class="nav-link dropdown-toggle">
@@ -177,10 +192,17 @@
  
 							<ul class="dropdown-menu">
 								<li class="nav-item">
+<<<<<<< HEAD:documentation/assets/css/header2.php
 									<a href="https://admin.kirthikadentalcare.in/login" class="nav-link">Patient Login</a>
 								</li>
 								<li class="nav-item">
 									<a href="https://admin.kirthikadentalcare.in/login" class="nav-link">Doctor Login</a>
+=======
+									<a href="https://admin.Wittedentalcare.in/login" class="nav-link">Patient Login</a>
+								</li>
+								<li class="nav-item">
+									<a href="https://admin.Wittedentalcare.in/login" class="nav-link">Doctor Login</a>
+>>>>>>> 464065ab7904192b45306214cb054b634ddf38e7:assets/css/header2.php
 								</li>
 
 								
@@ -195,7 +217,11 @@
 									<a href="#orthodontics.php" class="nav-link">Staff login</a>
 								</li>
 								<li class="nav-item">
+<<<<<<< HEAD:documentation/assets/css/header2.php
 									<a href="https://admin.kirthikadentalcare.in/" class="nav-link">Patient login</a>
+=======
+									<a href="https://admin.Wittedentalcare.in/" class="nav-link">Patient login</a>
+>>>>>>> 464065ab7904192b45306214cb054b634ddf38e7:assets/css/header2.php
 								</li>
 							</ul>
 						</li> -->
@@ -204,7 +230,11 @@
 						<div class="nav-right-options">
 							<ul>
 								<li>
+<<<<<<< HEAD:documentation/assets/css/header2.php
 									<a target="_blank" href="https://admin.kirthikadentalcare.in/appointment" class="main-btn">
+=======
+									<a target="_blank" href="https://admin.Wittedentalcare.in/appointment" class="main-btn">
+>>>>>>> 464065ab7904192b45306214cb054b634ddf38e7:assets/css/header2.php
 										<span>Appointment</span>
 									</a>
 								</li>
@@ -231,7 +261,11 @@
 			<div class="mobile-menu">
 				<div class="logo">
 					<a href="index.php">
+<<<<<<< HEAD:documentation/assets/css/header2.php
 						<img src="assets/images/kirthika.png" alt="Logo" style="width:120px; height:70px !important;">
+=======
+						<img src="assets/images/Witte.png" alt="Logo" style="width:120px; height:70px !important;">
+>>>>>>> 464065ab7904192b45306214cb054b634ddf38e7:assets/css/header2.php
 					</a>
 				</div>
 			</div>
@@ -250,7 +284,11 @@
 
 
 				<a class="navbar-brand" href="#">
+<<<<<<< HEAD:documentation/assets/css/header2.php
 					<img src="assets/images/kirthika.png" alt="Logo" class="log2" style="width:240px; height:144px;     margin-left: 505px;
+=======
+					<img src="assets/images/Witte.png" alt="Logo" class="log2" style="width:240px; height:144px;     margin-left: 505px;
+>>>>>>> 464065ab7904192b45306214cb054b634ddf38e7:assets/css/header2.php
 												margin-right: 73px;">
 				</a>
 
