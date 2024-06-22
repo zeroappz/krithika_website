@@ -1,4 +1,5 @@
 <?php
+
 header("Access-Control-Allow-Origin: *");
 header("Access-Control-Allow-Methods: POST,GET,DELETE,PATCH,OPTIONS");
 header("Content-Type: application/json; charset=UTF-8");
@@ -22,7 +23,7 @@ function encodeToken($data)
     $token = array(
         'iss' => 'http://localhost/sports_club/',
         'iat' => time(),
-        'exp' => time() + 43200, //12 hr 
+        'exp' => time() + 43200, //12 hr
         'data' => $data
     );
     return JWT::encode($token, $tokenSecret, 'HS256');
@@ -37,7 +38,9 @@ function decodeAuthorizationToken($table, $connection)
             $decode = JWT::decode($matches[1], new Key($tokenSecret, 'HS256'));
             $data = $decode->data;
             $id = (int) $data;
-            if (!is_numeric($data)) sendJson(false, 401, 'Invalid User!');
+            if (!is_numeric($data)) {
+                sendJson(false, 401, 'Invalid User!');
+            }
 
             $sql = "SELECT * FROM staff_member WHERE `id` = :id";
             $stmt = $connection->prepare($sql);

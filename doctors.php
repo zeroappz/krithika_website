@@ -106,31 +106,31 @@
 				</div> -->
 			<div class="row justify-content-center">
 				<?php
-				// Include the database configuration file
-				include_once 'config/database.php';
+                // Include the database configuration file
+                include_once 'config/database.php';
 
-				// Create an instance of the Database class
-				$database = new Database();
-				$db = $database->getConnection();
+	// Create an instance of the Database class
+	$database = new Database();
+	$db = $database->getConnection();
 
-				// Define the query to retrieve data from the users table
-				// $query = "SELECT * FROM users";
-				// Define the query to retrieve data from the users table and join with doctor_departments
-				$query = "
+	// Define the query to retrieve data from the users table
+	// $query = "SELECT * FROM users";
+	// Define the query to retrieve data from the users table and join with doctor_departments
+	$query = "
 SELECT users.*,doctor_departments.title
 FROM users
 JOIN doctor_departments ON users.department_id = doctor_departments.id
 ";
 
-				// Prepare the query
-				$stmt = $db->prepare($query);
+	// Prepare the query
+	$stmt = $db->prepare($query);
 
-				// Execute the query
-				$stmt->execute();
+	// Execute the query
+	$stmt->execute();
 
-				// Fetch all the rows from the executed query
-				$users = $stmt->fetchAll(PDO::FETCH_ASSOC);
-				?>
+	// Fetch all the rows from the executed query
+	$users = $stmt->fetchAll(PDO::FETCH_ASSOC);
+	?>
 				<?php foreach ($users as $user) : ?>
 					<div class="col-lg-4 col-sm-6">
 
@@ -140,9 +140,9 @@ JOIN doctor_departments ON users.department_id = doctor_departments.id
 							<div class="inner-border">
 								<div class="doctor-img">
 									<?php
-									// Define the user's image path
-									$userImage = !empty($user['image']) ? $user['image'] : 'assets/images/doctors/doctor-1.jpg';
-									?>
+	                    // Define the user's image path
+	                    $userImage = !empty($user['image']) ? $user['image'] : 'assets/images/doctors/doctor-1.jpg';
+				    ?>
 
 									<img src="<?php echo $userImage; ?>" style ="height: 450px;width: 450px" alt="Image">
 

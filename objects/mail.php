@@ -52,7 +52,7 @@ class EmailSender
             } else {
                 // echo 'Error: ' . $this->mailer->ErrorInfo;
                 return false;
-            }           
+            }
         } catch (Exception $e) {
             return false;
         }

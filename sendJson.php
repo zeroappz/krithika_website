@@ -2,7 +2,7 @@
 
 /**
  * The function `sendJson` sends a JSON response with a status code, message, and optional extra data.
- * 
+ *
  * @param int status The status parameter is an integer that represents the HTTP status code of the
  * response. It indicates the success or failure of the request.
  * @param string message The "message" parameter is a string that represents a custom message that you
@@ -17,8 +17,12 @@ function sendJson(bool $responseStatus, int $status, string $message, array $ext
     // echo based on the ENV APP_MODE
     // if ($_ENV['APP_MODE'] === 'development') {
     $response = ['status' => $responseStatus];
-    if ($message) $response['message'] = $message;
-    if ($extra) $response['data'] = $extra;
+    if ($message) {
+        $response['message'] = $message;
+    }
+    if ($extra) {
+        $response['data'] = $extra;
+    }
     http_response_code($status);
     // echo json_encode(array_merge($response));
     echo json_encode([

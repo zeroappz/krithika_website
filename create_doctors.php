@@ -1,6 +1,6 @@
 <?php
 session_start();
-include 'conn.php';
+include 'config/database.php';
 
 if (isset($_SESSION["email"])) {
 } else {
@@ -8,10 +8,7 @@ if (isset($_SESSION["email"])) {
 }
 
 try {
-
-
     if (isset($_POST['submit'])) {
-
         $name = $_POST['name'];
         $qualification = $_POST['qualification'];
         $specialist = $_POST['specialist'];

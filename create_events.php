@@ -1,20 +1,13 @@
 <?php
 session_start();
-include 'conn.php';
+include 'config/database.php';
 
-if(isset($_SESSION["email"])) {
-
-
-
+if (isset($_SESSION["email"])) {
 } else {
     header('Location: index.php');
 }
-
-
 try {
-
-
-    if(isset($_POST['submit'])) {
+    if (isset($_POST['submit'])) {
 
         $title = $_POST['title'];
         $description = $_POST['description'];
@@ -24,13 +17,13 @@ try {
         $updated_at = date('Y-m-d H:i:s');
 
 
-        if(isset($_FILES['image']) && $_FILES['image']['error'] == 0) {
+        if (isset($_FILES['image']) && $_FILES['image']['error'] == 0) {
             $file_name = $_FILES['image']['name'];
             $file_temp = $_FILES['image']['tmp_name'];
             $file_size = $_FILES['image']['size'];
             $file_type = $_FILES['image']['type'];
             $date_uploaded = date("Y-m-d");
-            $location = "assets/events/".$file_name;
+            $location = "assets/events/" . $file_name;
             move_uploaded_file($file_temp, $location);
         } else {
             $location = "";
@@ -52,7 +45,7 @@ try {
         ];
         $query_execute = $query_run->execute($data);
 
-        if($query_execute) {
+        if ($query_execute) {
             $message =  '<label style="color:red">Inserted Successfully</label>';
             header('Location: event_list.php');
             exit(0);
@@ -62,11 +55,10 @@ try {
             exit(0);
         }
     }
-
-} catch(PDOException $error) {
+} catch (PDOException $error) {
     $message = $error->getMessage();
 }
-?>  
+?>
 
 <!doctype html>
 <html lang="en">
@@ -95,10 +87,10 @@ try {
 
 <body>
     <!-- Header Start -->
-    
+
 
     <!-- Header End -->
-<a href="logout.php" style="float: right; margin-right:50px!important" class="main-btn">Logout</a>
+    <a href="logout.php" style="float: right; margin-right:50px!important" class="main-btn">Logout</a>
 
     <br>
     <!--=== Start Banner Section ===-->
@@ -107,11 +99,11 @@ try {
             <div class="row">
                 <div class="col-lg-4"></div>
                 <div class="col-lg-6">
-                    
+
                     <a href="event_list.php" class="main-btn">Events List</a>
                     <br>
                     <h3 class="wow fadeInUp delay-0-8s">Add Events</h3>
-                    
+
 
                     <?php echo  $message; ?>
                     <form class="appointment wow fadeInUp delay-0-1s" action="create_events.php" method="post" enctype="multipart/form-data">
@@ -133,7 +125,7 @@ try {
                                             <div class="invalid-feedback"> Valid Password is required.</div>
                                         </div>
                                     </div>
-                                     <div class="col-lg-12 col-sm-12">
+                                    <div class="col-lg-12 col-sm-12">
                                         <div class="form-floating form-group">
                                             <input type="text" name="description" class="form-control" id="qualification" placeholder="qualification" value="" required="">
                                             <label for="qualification" class="form-label">Description</label>
@@ -163,7 +155,7 @@ try {
                                     </div> -->
 
                                 </div>
-                               <!--  <div class="row">
+                                <!--  <div class="row">
                                     <div class="col-lg-3 col-sm-3"></div>
                                     <div class="col-lg-8 col-sm-8">
                                         Don't have an account?
@@ -192,15 +184,9 @@ try {
     <!--=== End Banner Section ===-->
 
     <!-- Footer Start -->
-  
-
     <!-- Footer End -->
     <!--=== Start Copy Right Section ===-->
-    
     <!--=== End Copy Right Section ===-->
-
-
-
     <!--=== JS Link ===-->
     <script src="assets/js/jquery.min.js"></script>
     <script src="assets/js/bootstrap.bundle.min.js"></script>

@@ -1,7 +1,7 @@
 <?php
+
 class Enquiry
 {
-
     // database connection and table name
     private $conn;
     private $table_name = "out_patient_enquiry";
@@ -25,7 +25,7 @@ class Enquiry
         $this->conn = $db;
     }
 
-    function create()
+    public function create()
     {
         // query to insert record
         $query = "INSERT INTO
@@ -44,7 +44,7 @@ class Enquiry
                     updated_at=:updated_at";
         // prepare query
         $stmt = $this->conn->prepare($query);
-    
+
         // sanitize and bind values
         $stmt->bindParam(":patient_name", $this->patient_name);
         $stmt->bindParam(":mobile_number", $this->mobile_number);
@@ -57,13 +57,13 @@ class Enquiry
         $stmt->bindParam(":admin_status", $this->admin_status);
         $stmt->bindParam(":created_at", $this->created_at);
         $stmt->bindParam(":updated_at", $this->updated_at);
-    
+
         // execute query
         if ($stmt->execute()) {
             return true;
         }
-    
+
         return false;
     }
-    
+
 }

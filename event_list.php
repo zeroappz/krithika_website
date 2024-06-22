@@ -1,6 +1,6 @@
 <?php
 session_start();
-include 'conn.php';
+include 'config/database.php';
 
 if(isset($_SESSION["email"])) {
     include 'permission.php';

@@ -1,4 +1,5 @@
 <?php
+
 header("Access-Control-Allow-Origin: [*,http://localhost:4200,http://localhost:3000]");
 header("Content-Type: application/json; charset=UTF-8");
 header("Access-Control-Allow-Methods: POST");
@@ -32,16 +33,18 @@ class ValidateToken
     /**
      * The function VerifyToken checks if an authorization token is present in the headers, decodes the
      * token, verifies the user ID, and returns 1 if successful.
-     * 
+     *
      * @return the value 1 if the token is verified and the user is found in the database.
      */
-    function VerifyToken()
+    public function VerifyToken()
     {
         if (array_key_exists('Authorization', $this->headers) && preg_match('/Bearer\s(\S+)/', $this->headers['Authorization'], $matches)) :
             $data = decodeToken($matches[1]);
             $userId = (int) $data;
 
-            if (!is_numeric($data)) sendJson(401, 'Invalid User!');
+            if (!is_numeric($data)) {
+                sendJson(401, 'Invalid User!');
+            }
             // Assuming $this->connection is a PDO connection
             $sql = "SELECT * FROM `users` WHERE `user_id` = :userId";
             $stmt = $this->connection->prepare($sql);
