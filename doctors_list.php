@@ -2,20 +2,17 @@
 session_start();
 include 'config/database.php';
 
-if(isset($_SESSION["email"])) {
+if (isset($_SESSION["email"])) {
     include 'permission.php';
 } else {
     header('Location: index.php');
 }
 
 try {
-
-
-
-} catch(PDOException $error) {
+} catch (PDOException $error) {
     $message = $error->getMessage();
 }
-?>  
+?>
 
 <!doctype html>
 <html lang="en">
@@ -35,32 +32,33 @@ try {
     <link rel="stylesheet" href="assets/css/magnific-popup.min.css">
     <link rel="stylesheet" href="assets/css/style.css">
     <link rel="stylesheet" href="assets/css/responsive.css">
-   <link rel="stylesheet" type="text/css" href="//cdn.datatables.net/2.0.5/css/dataTables.dataTables.min.css">
+    <link rel="stylesheet" type="text/css" href="//cdn.datatables.net/2.0.5/css/dataTables.dataTables.min.css">
     <!--=== Favicon ===-->
     <link rel="icon" type="image/png" href="assets/images/kirthika.png" style="width:80px; height:107px !important;">
     <!--=== Title ===-->
 
     <style type="text/css">
         .btn-success {
-    color: #fff;
-    background-color: #100978!important;
-    border-color: #198754;
-}
-.btn-danger {
-    color: #fff;
-    background-color: #fd0018!important;
-    border-color: #dc3545;
-}
+            color: #fff;
+            background-color: #100978 !important;
+            border-color: #198754;
+        }
+
+        .btn-danger {
+            color: #fff;
+            background-color: #fd0018 !important;
+            border-color: #dc3545;
+        }
     </style>
     <title>Kirthika Dental Care</title>
 </head>
 
 <body>
     <!-- Header Start -->
-    
+
 
     <!-- Header End -->
-<a href="logout.php" style="float: right; margin-right:50px!important" class="main-btn">Logout</a>
+    <a href="logout.php" style="float: right; margin-right:50px!important" class="main-btn">Logout</a>
 
     <br>
     <!--=== Start Banner Section ===-->
@@ -70,95 +68,87 @@ try {
                 <div class="col-lg-2"></div>
                 <div class="col-lg-10">
 
-                                        <?php
+                    <?php
 
-if($user_role['role_name'] == "Admin") {
-    ?>
+                    if ($user_role['role_name'] == "Admin") {
+                    ?>
 
-         <a href="create_doctors.php" class="main-btn">Add Doctor</a>
-         <a href="create_user.php" class="main-btn">Add User</a>
-<?php
-}
+                        <a href="create_doctors.php" class="main-btn">Add Doctor</a>
+                        <a href="create_user.php" class="main-btn">Add User</a>
+                    <?php
+                    }
 
-?>
+                    ?>
                     <a href="create_events.php" class="main-btn">Add Event</a>
-                    
+
                     <br>
 
-<?php echo $message;?>
+                    <?php echo $message; ?>
                     <h3 class="wow fadeInUp delay-0-8s">Doctors List</h3>
-                
+
                     <table class="table table-hover" id="doctor_table">
-    <thead>
-      <tr>
-        <th>Image</th>
-        <th>Name</th>
-        <th>Qualification</th>
-        <th>Specialist</th>
-         <th>Facebook</th>
-        <th>Twitter</th>
-        <!-- <th>Facebook</th>
-        <th>Twitter</th>
-        <th>Linkedin</th>
-        <th>Instagram</th> -->
-        <th>Created_at</th>
-        <th>Updated_at</th>
-        <th>Action</th>
-      </tr>
-    </thead>
-    <tbody>
-        <?php
+                        <thead>
+                            <tr>
+                                <th>Image</th>
+                                <th>Name</th>
+                                <th>Qualification</th>
+                                <th>Specialist</th>
+                                <th>Facebook</th>
+                                <th>Twitter</th>
+                                <th>Created_at</th>
+                                <th>Updated_at</th>
+                                <th>Action</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <?php
 
-  $stmt = $connect->prepare(
-      "SELECT * FROM doctors"
-  );
-$stmt->execute();
-$details = $stmt->fetchAll();
-foreach($details as $doctor_details) {
-    ?>
-<tr>
-    <td><?php echo "<img src='".$doctor_details['image']."' style='height:50px;width:50px;' class='rounded-circle'>"?></td>
-    <td><?php echo $doctor_details['name']; ?></td>
-    <td><?php echo $doctor_details['qualification']; ?></td>
-    <td><?php echo $doctor_details['specialist']; ?></td>
-     <td><?php echo $doctor_details['facebook']; ?></td>
-    <td><?php echo $doctor_details['twitter']; ?></td>
-   <!--  <td><?php echo $doctor_details['facebook']; ?></td>
-    <td><?php echo $doctor_details['twitter']; ?></td>
-    <td><?php echo $doctor_details['linkedin']; ?></td>
-    <td><?php echo $doctor_details['instagram']; ?></td> -->
-    <td><?php echo $doctor_details['created']; ?></td>
-    <td><?php echo $doctor_details['updated_at']; ?></td>
-     <td>
+                            $stmt = $connect->prepare(
+                                "SELECT * FROM doctors"
+                            );
+                            $stmt->execute();
+                            $details = $stmt->fetchAll();
+                            foreach ($details as $doctor_details) {
+                            ?>
+                                <tr>
+                                    <td><?php echo "<img src='" . $doctor_details['image'] . "' style='height:50px;width:50px;' class='rounded-circle'>" ?></td>
+                                    <td><?php echo $doctor_details['name']; ?></td>
+                                    <td><?php echo $doctor_details['qualification']; ?></td>
+                                    <td><?php echo $doctor_details['specialist']; ?></td>
+                                    <td><?php echo $doctor_details['facebook']; ?></td>
+                                    <td><?php echo $doctor_details['twitter']; ?></td>
+                                    <td><?php echo $doctor_details['created']; ?></td>
+                                    <td><?php echo $doctor_details['updated_at']; ?></td>
+                                    <td>
 
-<?php
+                                        <?php
 
-    if($user_role['role_name'] == "Admin") {
-        ?>
+                                        if ($user_role['role_name'] == "Admin") {
+                                        ?>
 
-         <a href="update_doctors.php?id=<?php echo $doctor_details['id']?>" class="btn btn-success">Edit</a>
-         <a href="delete.php?id=<?php echo $doctor_details['id']?>" class="btn btn-danger" onclick="return checkDelete()">Delete</a>
-<?php
-    }
+                                            <a href="update_doctors.php?id=<?php echo $doctor_details['id'] ?>" class="btn btn-success">Edit</a>
+                                            <a href="delete.php?id=<?php echo $doctor_details['id'] ?>" class="btn btn-danger" onclick="return checkDelete()">Delete</a>
+                                        <?php
+                                        }
 
-    ?>
+                                        ?>
 
 
-     </td>
+                                    </td>
 
 
-</tr>
+                                </tr>
 
 
-<?php
-}
-?>
-       
-    </tbody>
-  </table>
+                            <?php
+                            }
+                            ?>
+
+                        </tbody>
+                    </table>
 
 
-  <h5><a href="event_list.php">Click to the  Events List</a></h5>
+                    <h5><a href="event_list.php">Click to the Events List</a></h5>
 
                     <!-- <div class="banner-shape-2 shape">
 							<img src="assets/images/banner/banner-shape-2.png" alt="Image">
@@ -176,11 +166,11 @@ foreach($details as $doctor_details) {
     <!--=== End Banner Section ===-->
 
     <!-- Footer Start -->
-  
+
 
     <!-- Footer End -->
     <!--=== Start Copy Right Section ===-->
-    
+
     <!--=== End Copy Right Section ===-->
 
 
@@ -199,12 +189,12 @@ foreach($details as $doctor_details) {
     <script type="text/javascript" src="//cdn.datatables.net/2.0.5/js/dataTables.min.js"></script>
 
     <script language="JavaScript" type="text/javascript">
-function checkDelete(){
-    return confirm('Are you sure?');
-}
+        function checkDelete() {
+            return confirm('Are you sure?');
+        }
 
-let table = new DataTable('#doctor_table');
-</script>
+        let table = new DataTable('#doctor_table');
+    </script>
 </body>
 
 </html>
