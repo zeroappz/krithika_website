@@ -45,7 +45,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
 
  
     if ($Enquiry->create()) {
-        $to = "info@kirthikadentalcare.in";
+        $to = "bhuvanamic@gmail.com";
         $subject = "A new enquiry has been submitted!";
         $message = file_get_contents('../template/email_template.html');
     
@@ -53,7 +53,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
         $message = str_replace('{mobile_number}', $mobile_number, $message);
         $message = str_replace('{appointment_date}', $appointment_date, $message);
         $message = str_replace('{enquiry}', $enquiry, $message);
-        $message = str_replace('{feed_back}', $feed_back, $message);
+        // $message = str_replace('{feed_back}', $feed_back, $message);
     
         $mailSuccess = $emailSender->sendEmail($to, $subject, $message);
     

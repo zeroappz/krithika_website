@@ -18,10 +18,9 @@
 	<link rel="stylesheet" href="assets/css/responsive.css">
 
 	<!--=== Favicon ===-->
-	<link rel="icon" type="image/png" href="#your logo" style="width:80px; height:107px !important;">
-	<!-- <link rel="icon" type="image/png" href="assets/images/Witte.png" style="width:80px; height:107px !important;"> -->
+	<link rel="icon" type="image/png" href="assets/images/kirthika.png" style="width:80px; height:107px !important;">
 	<!--=== Title ===-->
-	<title>Dental Care</title>
+	<title>Kirthika Dental Care</title>
 </head>
 <section class="banner-section">
 	<div class="container-fluid">
@@ -36,8 +35,6 @@
 	<!-- <div class="banner-shape-1 shape">
 			<img src="assets/images/banner/banner-shape-1.png" alt="Image">
 		</div> -->
-</section>
-
 </section>
 
 <body style="  overflow-x: hidden;">
@@ -59,24 +56,7 @@
 		</div>
 	</div>
 	<!--=== End Preloader Section ===-->
-	<div class="preloader">
-		<div class="content">
-			<div class="ball"></div>
-			<div class="ball"></div>
-			<div class="ball"></div>
-			<div class="ball"></div>
-			<div class="ball"></div>
-			<div class="ball"></div>
-			<div class="ball"></div>
-			<div class="ball"></div>
-			<div class="ball"></div>
-			<div class="ball"></div>
-		</div>
-	</div>
-	<!--=== End Preloader Section ===-->
 
-	<!--=== Start Navbar Section ===-->
-	<!-- 		<div class="top-header">
 	<!--=== Start Navbar Section ===-->
 	<!-- 		<div class="top-header">
 			<div class="container">
@@ -96,11 +76,6 @@
 		<div class="main-nav">
 			<div class="container">
 				<nav class="navbar navbar-expand-md navbar-light">
-	<div class="navbar-section" style="background-color: #808080;">
-		<!--=== Start Main Navbar Section ===-->
-		<div class="main-nav">
-			<div class="container">
-				<nav class="navbar navbar-expand-md navbar-light">
 
 
 					<div class="collapse navbar-collapse for-mobile-menu" id="navbarSupportedContent">
@@ -110,17 +85,7 @@
 									Home
 								</a>
 							</li>
-					<div class="collapse navbar-collapse for-mobile-menu" id="navbarSupportedContent">
-						<ul class="navbar-nav m-auto">
-							<li class="nav-item">
-								<a href="index.php" class="nav-link active ">
-									Home
-								</a>
-							</li>
 
-							<li class="nav-item">
-								<a href="about-us.php" class="nav-link ff ">About Us</a>
-							</li>
 							<li class="nav-item">
 								<a href="about-us.php" class="nav-link ff ">About Us</a>
 							</li>
@@ -137,23 +102,7 @@
 									<li class="nav-item">
 										<a href="restorativedentistry.php" class="nav-link">Restorative Dentistry</a>
 									</li>
-							<li class="nav-item">
-								<a href="#" class="nav-link dropdown-toggle ff">
-									Specialities
-								</a>
 
-								<ul class="dropdown-menu">
-									<li class="nav-item">
-										<a href="oralmedicineandpathology.php" class="nav-link">Oral Medicine and Pathology </a>
-									</li>
-									<li class="nav-item">
-										<a href="restorativedentistry.php" class="nav-link">Restorative Dentistry</a>
-									</li>
-
-									<li class="nav-item">
-										<a href="endodontics.php" class="nav-link">Endodontics</a>
-									</li>
-									<!-- <li class="nav-item">
 									<li class="nav-item">
 										<a href="endodontics.php" class="nav-link">Endodontics</a>
 									</li>
@@ -162,7 +111,6 @@
 								</li> -->
 
 
-									<!-- <li class="nav-item">
 									<!-- <li class="nav-item">
 									<a href="cosmeticdentistry.php" class="nav-link dropdown-toggle">
 										Conservative Dentistry
@@ -188,13 +136,6 @@
 
 
 
-									<!-- join the specialities -->
-									<li class="nav-item">
-										<a href="periodontics.php" class="nav-link dropdown-toggle">
-											Periodontics
-											<!-- <i class="icofont-rounded-down"></i> -->
-										</a>
-										<!-- <ul class="dropdown-menu">
 									<!-- join the specialities -->
 									<li class="nav-item">
 										<a href="periodontics.php" class="nav-link dropdown-toggle">
@@ -241,23 +182,8 @@
 									<li class="nav-item">
 										<a href="pediatricdentistry.php" class="nav-link">Pediatric Dentistry</a>
 									</li>
-									</li>
-									<li class="nav-item">
-										<a href="orthodontics.php" class="nav-link">Orthodontics</a>
-									</li>
-									<li class="nav-item">
-										<a href="dentalimplants.php" class="nav-link">Implant Dentistry</a>
-									</li>
-									<li class="nav-item">
-										<a href="laserdentistry.php" class="nav-link">Laser Dentistry</a>
-									</li>
-									<li class="nav-item">
-										<a href="pediatricdentistry.php" class="nav-link">Pediatric Dentistry</a>
-									</li>
 
 
-								</ul>
-							</li>
 								</ul>
 							</li>
 
@@ -269,6 +195,9 @@
 							<li class="nav-item">
 								<a href="doctors.php" class="nav-link ff">Doctors</a>
 							</li>
+							<li class="nav-item">
+								<a href="events.php" class="nav-link ff">Events</a>
+							</li>
 
 							<li class="nav-item">
 								<a href="contact-us.php" class="nav-link ff">Contact Us</a>
@@ -278,42 +207,28 @@
 							</li>
 
 							<li class="nav-item">
-							<a href="#" class="nav-link dropdown-toggle ff">
-								Login
-							</a>
- 
-							<ul class="dropdown-menu">
-								<li class="nav-item">
-									<a href="https://admin.kirthikadentalcare.in/login" class="nav-link">Patient Login</a>
-								</li>
-								<li class="nav-item">
-									<a href="https://admin.kirthikadentalcare.in/login" class="nav-link">Staff Login</a>
-								</li>
+								<a href="https://app.kirthikadentalcare.in/" class="nav-link">
+									Login
+								</a>
 
-
-
-
-							</ul>
-						</li>
-						<!-- <li class="nav-item">
+							</li>
+							<!-- <li class="nav-item">
 							<a href="#" class="nav-link dropdown-toggle">Login</a>
 							<ul class="dropdown-menu">
 								<li class="nav-item">
 									<a href="#orthodontics.php" class="nav-link">Staff login</a>
 								</li>
 								<li class="nav-item">
-									<a href="https://admin.Wittedentalcare.in/" class="nav-link">Patient login</a>
+									<a href="https://admin.kirthikadentalcare.in/" class="nav-link">Patient login</a>
 								</li>
 							</ul>
 						</li> -->
 						</ul>
 						<!--
-						</ul>
-						<!--
 						<div class="nav-right-options">
 							<ul>
 								<li>
-									<a target="_blank" href="https://admin.Wittedentalcare.in/appointment" class="main-btn">
+									<a target="_blank" href="https://admin.kirthikadentalcare.in/appointment" class="main-btn">
 										<span>Appointment</span>
 									</a>
 								</li>
@@ -321,10 +236,7 @@
 						</div> 
 					-->
 						<div class="main">
-						<div class="main">
 
-							<!-- Actual search box -->
-							<!-- <div class="form-group has-search">
 							<!-- Actual search box -->
 							<!-- <div class="form-group has-search">
 							<span class="fa fa-search form-control-feedback"></span>
@@ -355,8 +267,6 @@
 
 	<!--=== Start Navbar Section ===-->
 	<!-- <div class="navbar-section-btm"> -->
-	<!--=== Start Navbar Section ===-->
-	<!-- <div class="navbar-section-btm"> -->
 	<!--=== Start Main Navbar Section ===-->
 	<!-- <div class="main-nav">
 		<div class="container">
@@ -364,7 +274,7 @@
 
 
 				<a class="navbar-brand" href="#">
-					<img src="assets/images/Witte.png" alt="Logo" class="log2" style="width:240px; height:144px;     margin-left: 505px;
+					<img src="assets/images/kirthika.png" alt="Logo" class="log2" style="width:240px; height:144px;     margin-left: 505px;
 												margin-right: 73px;">
 				</a>
 
@@ -373,10 +283,7 @@
 	</div> -->
 	<!-- </div> -->
 	<!--=== End Main Navbar Section ===-->
-	<!-- </div> -->
-	<!--=== End Main Navbar Section ===-->
 
-	<!--=== End Navbar Section ===-->
 	<!--=== End Navbar Section ===-->
 
 
@@ -391,7 +298,6 @@
 					<div class=" pt-100">
 						<h1 class="wow fadeInUp delay-0-2s" style="text-align:center;">WELCOME TO KIRTHIKA DENTAL <br>CARE</h1>
 						<br><br>
-						<p class="wow fadeInUp delay-0-4s" style="margin-left:20%;margin-right:20%; text-align:center;">We are committed to providing our patients best-in-class treatment using advance dental materials and instruments with the help of experienced dental professionals from different speciality in dentistry at a comfortable and relaxed environment.</p>
 						<p class="wow fadeInUp delay-0-4s" style="margin-left:20%;margin-right:20%; text-align:center;">We are committed to providing our patients best-in-class treatment using advance dental materials and instruments with the help of experienced dental professionals from different speciality in dentistry at a comfortable and relaxed environment.</p>
 
 						<!-- <ul class="wow fadeInUp delay-0-6s">
@@ -462,12 +368,11 @@
 			<div class="main-section-title wow fadeInUp delay-0-2s">
 				<h2 class="up-title">Appointment</h2>
 
-
 			</div>
 
 			<div class="row d-flex justify-content-center">
 				<div class="col-lg-3 col-sm-6">
-					<div class="main-services-box main-service hover-style wow fadeInUp delay-0-2s">
+					<div class="main-services-box hover-style wow fadeInUp delay-0-2s">
 						<div class="inner-border">
 							<div class="icon">
 								<img src="assets/images/icon/icon-1.svg" alt="Image">
@@ -483,7 +388,6 @@
 
 				<div class="col-lg-3 col-sm-6">
 					<div class="main-services-box hover-style wow fadeInUp delay-0-2s">
-					<div class="main-services-box hover-style wow fadeInUp delay-0-2s">
 						<div class="inner-border">
 							<div class="icon">
 								<img src="assets/images/icon/icon-2.svg" alt="Image">
@@ -492,12 +396,9 @@
 								<a href="#">Appointment Cancellation</a>
 							</h3>
 							<p>lease give us at least 12-hour notice if you are unable to attend your appointment so that others may be offered your appointment.</p>
-							<p>lease give us at least 12-hour notice if you are unable to attend your appointment so that others may be offered your appointment.</p>
 						</div>
-					<!-- </div> -->
+					</div>
 				</div>
-
-
 
 
 
@@ -527,7 +428,7 @@
 							<h3>
 								<a href="#">Oral Surgery</a>
 							</h3>
-							<p>Simple extraction to Pesky wisdom teeth removal, dental implants, and more. The Doctors at Witte Dental care provide the best care for all your oral surgery needs. <br><br></p>
+							<p>Simple extraction to Pesky wisdom teeth removal, dental implants, and more. The Doctors at kirthika Dental care provide the best care for all your oral surgery needs. <br><br></p>
 
 						</div>
 					</div>
@@ -578,8 +479,6 @@
 					</div>
 				</div>
 
-				<div class="col-lg-3 col-sm-6">
-					<div class="main-services-box hover-style wow fadeInUp delay-0-6s">
 
 				<div class="col-lg-3 col-sm-6">
 					<div class="main-services-box main-box-p2 hover-style wow fadeInUp delay-0-4s">
@@ -605,7 +504,6 @@
 							<h3>
 								<a href="#">Fillings, Crowns, & Bridges</a>
 							</h3>
-							<p>We offer a full range of restorative services from fillings, veneers, inlays, on lays, dental jewels, precious restoration to crowns and bridges. Let our smile artists repair your damaged or missing teeth and get your smile back today.<br><br></p>
 							<p>We offer a full range of restorative services from fillings, veneers, inlays, on lays, dental jewels, precious restoration to crowns and bridges. Let our smile artists repair your damaged or missing teeth and get your smile back today.<br><br></p>
 
 						</div>
@@ -642,7 +540,7 @@
 							<h3>
 								<a href="#">Dental <br> implants</a>
 							</h3>
-							<p>Dental implants made simple If you’ve lost a tooth, schedule an implant consult at Witte dental care our experienced and well equipped implantologist Assess the health of your teeth, gums, and jaw bone Discuss options for replacing missing teeth.</p>
+							<p>Dental implants made simple If you’ve lost a tooth, schedule an implant consult at kirthika dental care our experienced and well equipped implantologist Assess the health of your teeth, gums, and jaw bone Discuss options for replacing missing teeth.</p>
 
 						</div>
 					</div>
@@ -726,7 +624,6 @@
 				</div>
 				<div class="col-lg-6">
 					<div class="about-content ms-15">
-
 
 						<h2 class="wow fadeInUp delay-0-4s">Why Choose US?</h2>
 						<p class="wow fadeInUp delay-0-6s">We use latest treatment techniques, procedures & dental materials that enable us to deliver a wide range of options to suit your needs. We use a wide variety of cosmetic dentistry options and treatments to transform your regular smile into a million dollar one. We offer all your treatments in the same place, whichever specialist you may need to see, you will find them available here.</p>
@@ -928,7 +825,6 @@
 
 	<!-- Footer Start -->
 	<?php include 'footer.php'; ?>
-	<?php include 'footer.php'; ?>
 
 	<!-- Footer End -->
 	<!--=== Start Copy Right Section ===-->
@@ -936,7 +832,7 @@
 		<div class="container">
 			<div class="row">
 				<div class="col-lg-8 col-md-7">
-					<p>Copyright © <span>Dental Care</span> All RIghts Reserved <a href="https://macincode.com/" target="_blank">Macincode</a></p>
+					<p>Copyright © <span>Kirthika Dental Care</span> All RIghts Reserved <a href="https://macincode.com/" target="_blank">Macincode</a></p>
 				</div>
 				<div class="col-lg-4 col-md-5">
 					<ul>
@@ -972,18 +868,5 @@
 	<script src="assets/js/waypoints.min.js"></script>
 	<script src="assets/js/custom.js"></script>
 </body>
-<script>
-    // Your AJAX code to submit the form and handle the response
-    // After receiving a successful response
-    if (response.status === 'success') {
-        // Display success message
-        alert(response.message);
-        // Redirect to index.php
-        window.location.href = 'index.php';
-    } else {
-        // Display error message
-        alert(response.message);
-    }
-</script>
 
 </html>

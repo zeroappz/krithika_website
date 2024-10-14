@@ -1,5 +1,6 @@
 <!doctype html>
-<html lang="zxx">
+<html lang="en">
+
 
 
 <head>
@@ -20,7 +21,7 @@
     <link rel="stylesheet" href="assets/css/responsive.css">
 
     <!--=== Favicon ===-->
-    <link rel="icon" type="image/png" href="assets/images/favicon.png">
+    <link rel="icon" type="image/png" href="assets/images/kirthika.png" style="width:80px; height:107px !important;">
     <!--=== Title ===-->
     <title>Kirthika Dental Care</title>
     <style>
@@ -121,17 +122,22 @@
                                     </div>
                                 </div>
 
-                                <div class="row">
+                                <div class="row">                                  
                                     <div class="col-md-6">
                                         <div class="form-floating form-floating-outline mb-4">
                                             <div class="d-flex">
                                                 <div class="input-group-prepend">
-                                                    <span class="input-group-text" style="font-size: 40px; background-color: rgba(255, 255, 255, 0); border: none;"><i class="fa fa-calendar-check-o" style="height: 40px; width: 40px; color: purple;"></i></span>
+                                                    <span class="input-group-text" style="font-size: 40px; background-color: rgba(255, 255, 255, 0); border: none;">
+                                                        <i class="fa fa-calendar-check-o" style="height: 40px; width: 40px; color: purple;"></i>
+                                                    </span>
                                                 </div>
-                                                <input type="text" name="appointment_time" id="appointment_time" class="form-control" style="border: none;  border-bottom: 1px solid black; width: 400px; background-color: transparent;" placeholder="Appointment Time">
+                                                <input type="time" name="appointment_time" id="appointment_time" class="form-control"
+                                                    style="border: none; border-bottom: 1px solid black; width: 400px; background-color: transparent;"
+                                                    placeholder="Appointment Time">
                                             </div>
                                         </div>
                                     </div>
+
                                     <div class="col-md-6">
                                         <div class="form-floating form-floating-outline mb-4">
                                             <div class="d-flex">
@@ -226,8 +232,8 @@
         var textareas = document.querySelectorAll('.auto-resize');
         textareas.forEach(function(textarea) {
             textarea.addEventListener('input', function() {
-                this.style.height = 'auto'; // Reset height to auto to recalculate height
-                this.style.height = this.scrollHeight + 'px'; // Set the height to the scrollHeight
+                this.style.height = 'auto';
+                this.style.height = this.scrollHeight + 'px';
             });
         });
     });
@@ -238,16 +244,16 @@
         flatpickr(appointmentDateInput, {
             enableTime: false,
             dateFormat: "Y-m-d",
-            // minDate: "today"
+            minDate: "today"
         });
     });
     document.addEventListener('DOMContentLoaded', function() {
         var appointmentTimeInput = document.getElementById('appointment_time');
         flatpickr(appointmentTimeInput, {
-            enableTime: true, // Enable time selection
-            noCalendar: true, // Hide calendar
-            dateFormat: "H:i", // Format for displaying time
-            time_24hr: true // Use 24-hour time format
+            enableTime: true,
+            noCalendar: true,
+            dateFormat: "h:i K",
+            time_24hr: false
         });
     });
 </script>

@@ -20,9 +20,9 @@
 	<link rel="stylesheet" href="assets/css/responsive.css">
 
 	<!--=== Favicon ===-->
-	<link rel="icon" type="image/png" href="assets/images/favicon.png">
+	<link rel="icon" type="image/png" href="assets/images/kirthika.png" style="width:80px; height:107px !important;">
 	<!--=== Title ===-->
-	<title>Witte Dental Care</title>
+	<title>Kirthika Dental Care</title>
 </head>
 
 <body>
@@ -64,19 +64,19 @@
 
 			<div class="row">
 				<div class="col-lg-3 col-sm-6">
-					<div class="main-contact-info-item hover-style wow fadeInUp delay-0-2s contact3">
+					<div class="main-contact-info-item hover-style wow fadeInUp delay-0-2s">
 						<div class="inner-border">
 							<div class="icon">
 								<img src="assets/images/icon/icon-17.svg" alt="Image">
 							</div>
 							<h3>Address</h3>
-							<p>281, Vasantham Complex II Floor, Bangalore Main Road, Salem(TN), 04</p>
+							<p>52/103, Tamil Sangam Rd, behind Anna Park, Sankar Nagar, Salem, Tamil Nadu 636007</p>
 						</div>
 					</div>
 				</div>
 
 				<div class="col-lg-3 col-sm-6">
-					<div class="main-contact-info-item hover-style wow fadeInUp delay-0-4s contact">
+					<div class="main-contact-info-item hover-style wow fadeInUp delay-0-4s">
 						<div class="inner-border">
 							<div class="icon">
 								<img src="assets/images/icon/icon-18.svg" alt="Image">
@@ -98,7 +98,7 @@
 				</div>
 
 				<div class="col-lg-3 col-sm-6">
-					<div class="main-contact-info-item hover-style wow fadeInUp delay-0-6s contact4">
+					<div class="main-contact-info-item hover-style wow fadeInUp delay-0-6s">
 						<div class="inner-border">
 							<div class="icon">
 								<img src="assets/images/icon/icon-19.svg" alt="Image">
@@ -115,7 +115,7 @@
 				</div>
 
 				<div class="col-lg-3 col-sm-6">
-					<div class="main-contact-info-item hover-style wow fadeInUp delay-0-8s contact1">
+					<div class="main-contact-info-item hover-style wow fadeInUp delay-0-8s">
 						<div class="inner-border">
 							<div class="icon">
 								<img src="assets/images/icon/icon-20.svg" alt="Image">
@@ -123,7 +123,7 @@
 							<h3>Email Address</h3>
 							<ul>
 								<li>
-									<a href="mailto:Wittedentalcare@gmail.com" class="g_size">Wittedentalcare@gmail.com</a>
+									<a href="mailto:kirthikadentalcare@gmail.com">kirthikadentalcare@gmail.com</a>
 								</li>
 
 							</ul>
@@ -200,7 +200,7 @@
 							<h3>Visit Our Clinic</h3>
 						</div>
 
-						<iframe src="" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+						<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d7814.815244545656!2d78.1406885650607!3d11.665497153978965!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3babf030502284c1%3A0x531c2e31564c33ea!2sKirthika%20Dental%20Care!5e0!3m2!1sen!2sin!4v1687966836494!5m2!1sen!2sin" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 					</div>
 				</div>
 			</div>
@@ -245,7 +245,7 @@
 		<div class="container">
 			<div class="row">
 				<div class="col-lg-8 col-md-7">
-					<p>Copyright © <span>Witte Dental Care</span> All RIghts Reserved <a href="https://macincode.com/" target="_blank">Macincode</a></p>
+					<p>Copyright © <span>Kirthika Dental Care</span> All RIghts Reserved <a href="https://macincode.com/" target="_blank">Macincode</a></p>
 				</div>
 				<div class="col-lg-4 col-md-5">
 					<ul>

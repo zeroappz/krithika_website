@@ -1,8 +1,6 @@
 <?php
-// database.php
 class Database
 {
-    // specify your own database credentials
     private $host = "localhost";
     private $db_name = "zeroappz_kdc";
     private $username = "root";
@@ -12,6 +10,7 @@ class Database
     // get the database connection
     public function getConnection()
     {
+
         $this->conn = null;
 
         try {
@@ -24,4 +23,3 @@ class Database
         return $this->conn;
     }
 }
-?>

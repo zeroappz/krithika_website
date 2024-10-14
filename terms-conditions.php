@@ -19,9 +19,9 @@
 		<link rel="stylesheet" href="assets/css/responsive.css">
 
 		<!--=== Favicon ===-->
-		<link rel="icon" type="image/png" href="assets/images/favicon.png">
+		<link rel="icon" type="image/png" href="assets/images/kirthika.png" style="width:80px; height:107px !important;">
 		<!--=== Title ===-->
-		<title>Witte Dental Care</title>
+		<title>Kirthika Dental Care</title>
     </head>
 
     <body data-bs-spy="scroll" data-bs-target="#list-example">
@@ -77,13 +77,13 @@
 								<div class="pt-100" id="terms">
 									<div class="privacy-and-conditions-item services-details-content">
 										<h3>Terms & Conditions</h3>
-										<p>These terms may be changed from time to time without further notice, at the discretion of the Witte Dental care. Your continued use of the Site after any such changes constitutes your acceptance of the new terms. If you do not agree to abide by these or any future terms, please do not use the Site or download content from it.</p>
+										<p>These terms may be changed from time to time without further notice, at the discretion of the Kirthika Dental care. Your continued use of the Site after any such changes constitutes your acceptance of the new terms. If you do not agree to abide by these or any future terms, please do not use the Site or download content from it.</p>
 
 										<ul>
 								
 									<li>
 									<span class="bulletPoints"></span>
-									<p>The Website provide you the ability to pay online through a third-party payment gateway for some of the Services available on the Website.If you choose to pay online, you may be directed to a third-party payment gateway to enable the processing of the payment. This transaction will be governed by the terms and conditions and privacy policy of the third-party payment gateway. Witte Dental care shall not be liable for any loss or damage arising directly or indirectly arising out of the usage, decline, or acceptance of authorization for any transaction, for any reason whatsoever.</p>
+									<p>The Website provide you the ability to pay online through a third-party payment gateway for some of the Services available on the Website.If you choose to pay online, you may be directed to a third-party payment gateway to enable the processing of the payment. This transaction will be governed by the terms and conditions and privacy policy of the third-party payment gateway. Kirthika Dental care shall not be liable for any loss or damage arising directly or indirectly arising out of the usage, decline, or acceptance of authorization for any transaction, for any reason whatsoever.</p>
 								</li>
 								<li>
 									<span class="bulletPoints"></span>
@@ -96,39 +96,39 @@
 								
 									<li>
 									<span class="bulletPoints"></span>
-									<p>Some of the content, text, data, graphics, images, information, suggestions, guidance and other material (collectively, “Information”) that may be available on the Website (including information provided in direct response to your questions or postings) may be provided by individuals in the medical profession. The provision of such Information does not create a licensed medical professional/patient relationship, between Witte Dental care and you and does not constitute an opinion, medical advice, or diagnosis or treatment of any particular condition, but is only provided to assist you with locating appropriate medical care from a qualified practitioner. In case of a medical emergency (either on your or another person’s behalf), please contact an ambulance service, hospital, doctor, or appropriate medical professional directly.</p>
+									<p>Some of the content, text, data, graphics, images, information, suggestions, guidance and other material (collectively, “Information”) that may be available on the Website (including information provided in direct response to your questions or postings) may be provided by individuals in the medical profession. The provision of such Information does not create a licensed medical professional/patient relationship, between Kirthika Dental care and you and does not constitute an opinion, medical advice, or diagnosis or treatment of any particular condition, but is only provided to assist you with locating appropriate medical care from a qualified practitioner. In case of a medical emergency (either on your or another person’s behalf), please contact an ambulance service, hospital, doctor, or appropriate medical professional directly.</p>
 								</li>
 								<li>
 									<span class="bulletPoints"></span>
-									<p>By using this Website, you agree that any information shared by you with Witte Dental care or with any other person, medical service provider, or anyone else using the Website or Services will be subject to our Privacy Policy.</p>
+									<p>By using this Website, you agree that any information shared by you with Kirthika Dental care or with any other person, medical service provider, or anyone else using the Website or Services will be subject to our Privacy Policy.</p>
 								</li>
 								
 									<li>
 									<span class="bulletPoints"></span>
-									<p>You are solely responsible for the content that you choose to submit for publication on the Website, including any feedback, ratings, or reviews. Witte Dental care disclaims all responsibility with respect to the content of which you post on the Website and Witte Dental care shall be entitled to re-publishing any content across any of its or its Partners platforms. </p>
+									<p>You are solely responsible for the content that you choose to submit for publication on the Website, including any feedback, ratings, or reviews. Kirthika Dental care disclaims all responsibility with respect to the content of which you post on the Website and Kirthika Dental care shall be entitled to re-publishing any content across any of its or its Partners platforms. </p>
 								</li>
 								<li>
 									<span class="bulletPoints"></span>
-									<p>You agree that Witte Dental care may contact you through telephone, email, SMS, or any other electronic means of communication for the purpose of obtaining feedback in relation to its Website or services</p>
+									<p>You agree that Kirthika Dental care may contact you through telephone, email, SMS, or any other electronic means of communication for the purpose of obtaining feedback in relation to its Website or services</p>
 								</li>
 								
 									<li>
 									<span class="bulletPoints"></span>
-									<p>If a User has any questions concerning the Company, the Website or App, this Agreement, the Services, or anything related to any of the foregoing, please write to us at: Wittedentalcare@gmail.com</p>
+									<p>If a User has any questions concerning the Company, the Website or App, this Agreement, the Services, or anything related to any of the foregoing, please write to us at: Kirthikadentalcare@gmail.com</p>
 								</li>
 								<!-- <li>
 									<span class="bulletPoints"></span>
-									<p>If User has any grievance with respect to the Website or App or the Service, including any discrepancies and grievances with respect to the processing of information, you can contact our Grievance Officer at: GrievanceOfficer@Witte Dental carehospitals.com</p>
+									<p>If User has any grievance with respect to the Website or App or the Service, including any discrepancies and grievances with respect to the processing of information, you can contact our Grievance Officer at: GrievanceOfficer@Kirthika Dental carehospitals.com</p>
 								</li> -->
 								
 									<li>
 									<span class="bulletPoints"></span>
-									<p>Any appointment, health checkups, health schemes, diagnostic tests, a medical facility may terminate, change, suspend or discontinue at any time. Witte Dental care may remove, modify or otherwise change any content, including that of third parties, on or from this Site. Witte Dental care may impose limits on certain features and services or restrict your access to parts or the entire Site without notice or liability. Witte Dental care may terminate your use of the Site at any time at its sole discretion.</p>
+									<p>Any appointment, health checkups, health schemes, diagnostic tests, a medical facility may terminate, change, suspend or discontinue at any time. Kirthika Dental care may remove, modify or otherwise change any content, including that of third parties, on or from this Site. Kirthika Dental care may impose limits on certain features and services or restrict your access to parts or the entire Site without notice or liability. Kirthika Dental care may terminate your use of the Site at any time at its sole discretion.</p>
 								</li>
 							
 									<li>
 									<span class="bulletPoints"></span>
-									<p> These terms apply exclusively to your access to and use of the Website or services and do not alter the terms or conditions of any other agreement you may have with Witte Dental care or its parents, subsidiaries or affiliates. </p>
+									<p> These terms apply exclusively to your access to and use of the Website or services and do not alter the terms or conditions of any other agreement you may have with Kirthika Dental care or its parents, subsidiaries or affiliates. </p>
 								</li>
 								<li>
 							</ul>
@@ -319,7 +319,7 @@
 			<div class="container">
 				<div class="row">
 					<div class="col-lg-8 col-md-7">
-						<p>Copyright © <span>Witte Dental Care</span> Is Proudly Owned by <a href="https://www.macincode.com/" target="_blank">Macincode</a></p>
+						<p>Copyright © <span>Kirthika Dental Care</span> Is Proudly Owned by <a href="https://www.macincode.com/" target="_blank">Macincode</a></p>
 					</div>
 					<div class="col-lg-4 col-md-5">
 						<ul>
@@ -344,7 +344,7 @@
 
 		<!-- <ul class="rtl-buy">
 			<li>
-				<a href="https://www.macincode.com/Witte Dental Care/Witte Dental Care-rtl/">RTL</a>
+				<a href="https://www.macincode.com/Kirthika Dental Care/Kirthika Dental Care-rtl/">RTL</a>
 			</li>
 			<li>
 				<a href="https://themeforest.net/item/blad-ai-blood-donation-activism-campaign-html-template/41923002" target="_blank" class="bg-color">BUY</a>

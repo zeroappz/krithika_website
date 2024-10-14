@@ -18,9 +18,9 @@
 		<link rel="stylesheet" href="assets/css/responsive.css">
 
 		<!--=== Favicon ===-->
-		<link rel="icon" type="image/png" href="assets/images/favicon.png">
+		<link rel="icon" type="image/png" href="assets/images/kirthika.png" style="width:80px; height:107px !important;">
 		<!--=== Title ===-->
-		<title>Witte Dental Care</title>
+		<title>Kirthika Dental Care</title>
     </head>
 
     <body>
@@ -248,46 +248,53 @@
 							<p><b>The steps followed in endodontic treatment (also known as root canal treatment) typically include the following:</b><br></p>
 							<ul>
 								<li>
-									
-									<p><b><span class="bulletPoints"></span>Initial examination: </b><br></p>
-									
+									<p><b>Initial examination: </b><br></p>
+									<span>1</span>
 									The dentist examines the tooth and takes X-rays to assess the condition of the tooth and surrounding structures.
 								</li>
 								<li>
-									<p><b><span class="bulletPoints"></span>Anesthesia: </b><br></p>
-								
+									<p><b>Anesthesia: </b><br></p>
+									<span>2</span>
 									Local anesthesia is administered to numb the area around the tooth, ensuring a painless procedure.
 								</li>
 								<li>
-									<p><b><span class="bulletPoints"></span>Isolation: </b><br></p>
+									<p><b>Isolation: </b><br></p>
+									<span>3</span>
 									A rubber dam is placed around the tooth to keep it clean and dry during the procedure.
 								</li>
 								<li>
-									<p><b><span class="bulletPoints"></span>Access opening: </b><br></p>
+									<p><b>Access opening: </b><br></p>
+									<span>4</span>
 									The dentist creates an opening in the tooth to gain access to the pulp chamber and root canals.
 								</li>
 								<li>
-									<p><b><span class="bulletPoints"></span>Pulp removal: </b><br></p>
+									<p><b>Pulp removal: </b><br></p>
+									<span>5</span>
 									 The infected or damaged pulp tissue is carefully removed from the pulp chamber and root canals using specialized instruments.
 								</li>
 								<li>
-									<p><b><span class="bulletPoints"></span>Cleaning and shaping: </b><br></p>
+									<p><b>Cleaning and shaping: </b><br></p>
+									<span>6</span>
 									 The dentist uses small files to clean and shape the root canals, removing any remaining infected tissue and preparing them for filling.
 								</li>
 								<li>
-									<p><b><span class="bulletPoints"></span>Irrigation: </b><br></p>
+									<p><b>Irrigation: </b><br></p>
+									<span>7</span>
 									 The root canals are flushed with a disinfecting solution to remove debris and disinfect the area.
 								</li>
 								<li>
-									<p><b><span class="bulletPoints"></span>Obturation: </b><br></p>
+									<p><b>Obturation: </b><br></p>
+									<span>8</span>
 									 The cleaned and shaped root canals are filled with a biocompatible material called gutta-percha and a dental sealer to seal the canals and prevent re-infection.
 								</li>
 								<li>
-									<p><b><span class="bulletPoints"></span>Final restoration: </b><br></p>
+									<p><b>Final restoration: </b><br></p>
+									<span>9</span>
 									 After the root canal treatment, the access opening in the tooth is filled and sealed with a temporary or permanent filling. In some cases, a dental crown may be necessary to protect and strengthen the treated tooth.
 								</li>
 								<li>
-									<p><b><span class="bulletPoints"></span>Follow-up: </b><br></p>
+									<p><b>Follow-up: </b><br></p>
+									<span>10</span>
 									 The patient is typically advised to schedule a follow-up appointment to monitor the healing process and ensure the success of the treatment.
 								</li>
 							</ul>
@@ -389,7 +396,7 @@
 			<div class="container">
 				<div class="row">
 					<div class="col-lg-8 col-md-7">
-						<p>Copyright © <span>Witte Dental Care</span> Is Proudly Owned by <a href="https://www.macincode.com/" target="_blank">Macincode</a></p>
+						<p>Copyright © <span>Kirthika Dental Care</span> Is Proudly Owned by <a href="https://www.macincode.com/" target="_blank">Macincode</a></p>
 					</div>
 					<div class="col-lg-4 col-md-5">
 						<ul>
@@ -414,7 +421,7 @@
 <!--
 		<ul class="rtl-buy">
 			<li>
-				<a href="https://www.macincode.com/Witte Dental Care/Witte Dental Care-rtl/">RTL</a>
+				<a href="https://www.macincode.com/Kirthika Dental Care/Kirthika Dental Care-rtl/">RTL</a>
 			</li>
 			<li>
 				<a href="https://themeforest.net/item/blad-ai-blood-donation-activism-campaign-html-template/41923002" target="_blank" class="bg-color">BUY</a>
