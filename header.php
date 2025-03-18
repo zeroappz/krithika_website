@@ -116,7 +116,7 @@
 									</ul> -->
 								</li>
 								<li class="nav-item">
-									<a href="oralandmaxillofacial.php" class="nav-link">Oral and maxillo facial surgery</a>
+									<a href="oralandmaxillofacial.php" class="nav-link">Oral and maxilla facial surgery</a>
 								</li>
 								<li class="nav-item">
 									<a href="prosthodontics.php" class="nav-link dropdown-toggle">
@@ -162,34 +162,19 @@
 						</li>
 
 						<li class="nav-item">
+								<a href="events.php" class="nav-link ff">Events</a>
+							</li>
+
+						<li class="nav-item">
 							<a href="contact-us.php" class="nav-link">Contact Us</a>
 						</li>
-						<!-- <li class="nav-item">
-								<a href=" https://admin.kirthikadentalcare.in/register" class="nav-link">Register</a>
-							</li> -->
-							<!-- <li class="nav-item">
-								<a href="https://admin.kirthikadentalcare.in/login" class="nav-link">Login</a>
-							</li> -->
-							<li class="nav-item">
-							<a href="https://app.kirthikadentalcare.in" class="nav-link">
+						<li class="nav-item">
+							<a href="enquiry.php" class="nav-link">Enquiry</a>
+						</li>
+						<li class="nav-item">
+							<a href="https://app.kirthikadentalcare.in/" class="nav-link">
 								Login
 							</a>
-							<!-- <a href="https://app.kirthikadentalcare.in" class="nav-link dropdown-toggle">
-								Login
-							</a> -->
- 
-							<!-- <ul class="dropdown-menu">
-								<li class="nav-item">
-									<a href="https://app.kirthikadentalcare.in" class="nav-link">Patient Login</a>
-								</li>
-								<li class="nav-item">
-									<a href="https://app.kirthikadentalcare.in" class="nav-link">Staff Login</a>
-								</li>
-
-								
-
-
-							</ul> -->
 						</li>
 						<!-- <li class="nav-item">
 							<a href="#" class="nav-link dropdown-toggle">Login</a>

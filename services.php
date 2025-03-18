@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="zxx">
+<html lang="en">
 
 <head>
 	<!--=== Required meta tags ===-->
@@ -18,7 +18,7 @@
 	<link rel="stylesheet" href="assets/css/responsive.css">
 
 	<!--=== Favicon ===-->
-	<link rel="icon" type="image/png" href="assets/images/favicon.png">
+	<link rel="icon" type="image/png" href="assets/images/kirthika.png" style="width:80px; height:107px !important;">
 	<!--=== Title ===-->
 	<title>Kirthika Dental Care</title>
 </head>
@@ -175,16 +175,17 @@
 	<!--=== Start Services Section ===-->
 	<section class="services-section pt-100 pb-70">
 		<div class="container">
-			<!-- <div class="main-section-title wow fadeInUp delay-0-2s">
+			<div class="main-section-title wow fadeInUp delay-0-2s">
 				<h2 class="up-title">Our Services</h2>
 				<span>From general dentistry wellness, to perfecting cosmetic imperfections, to restoring implants and
 					filings, to those
 					painful oral emergencies—we have you covered.</span>
-			</div> -->
+			</div>
+
 
 			<div class="row d-flex justify-content-center">
-			<div class="col-lg-3 col-sm-6">
-					<div class="main-services-box main-box hover-style wow fadeInUp delay-0-8s" >
+				<div class="col-lg-3 col-sm-6">
+					<div class="main-services-box main-box hover-style wow fadeInUp delay-0-8s">
 						<div class="inner-border">
 							<div class="icon">
 								<img src="assets/images/icon/icon-4.svg" alt="Image">
@@ -198,7 +199,7 @@
 					</div>
 				</div>
 				<div class="col-lg-3 col-sm-6">
-					<div class="main-services-box main-box-p hover-style wow fadeInUp delay-0-2s " >
+					<div class="main-services-box main-box-p hover-style wow fadeInUp delay-0-2s ">
 						<div class="inner-border">
 							<div class="icon">
 								<img src="assets/images/icon/icon-1.svg" alt="Image">
@@ -213,7 +214,7 @@
 
 
 				<div class="col-lg-3 col-sm-6 ">
-					<div class="main-services-box main-box-p1 hover-style wow fadeInUp delay-0-8s" >
+					<div class="main-services-box main-box-p1 hover-style wow fadeInUp delay-0-8s">
 						<div class="inner-border">
 							<div class="icon">
 								<img src="assets/images/icon/icon-4.svg" alt="Image">
@@ -245,7 +246,7 @@
 
 
 				<div class="col-lg-3 col-sm-6">
-					<div class="main-services-box main-box-p2 hover-style wow fadeInUp delay-0-4s" >
+					<div class="main-services-box main-box-p2 hover-style wow fadeInUp delay-0-4s">
 						<div class="inner-border">
 							<div class="icon">
 								<img src="assets/images/icon/icon-2.svg" alt="Image">
@@ -258,7 +259,7 @@
 					</div>
 				</div>
 
-				
+
 				<div class="col-lg-3 col-sm-6">
 					<div class="main-services-box main-box-p3 hover-style wow fadeInUp delay-0-8s">
 						<div class="inner-border">
@@ -268,7 +269,7 @@
 							<h3>
 								<a href="#">Fillings, Crowns, & Bridges</a>
 							</h3>
-							<p>We offer a full range of restorative services from fillings, veneers, inlays, on lays,  dental jewels, precious restoration to crowns and bridges. Let our smile artists repair your damaged or missing teeth and get your smile back today.<br><br></p>
+							<p>We offer a full range of restorative services from fillings, veneers, inlays, on lays, dental jewels, precious restoration to crowns and bridges. Let our smile artists repair your damaged or missing teeth and get your smile back today.<br><br></p>
 
 						</div>
 					</div>
@@ -291,7 +292,7 @@
 					</div>
 				</div>
 
-				
+
 
 
 
@@ -311,7 +312,7 @@
 				</div>
 
 				<div class="col-lg-3 col-sm-6">
-					<div class="main-services-box main-box-p7 hover-style wow fadeInUp delay-0-8s" >
+					<div class="main-services-box main-box-p7 hover-style wow fadeInUp delay-0-8s">
 						<div class="inner-border">
 							<div class="icon">
 								<img src="assets/images/icon/icon-4.svg" alt="Image">
@@ -325,9 +326,9 @@
 					</div>
 				</div>
 
-				
+
 				<div class="col-lg-3 col-sm-6">
-					<div class="main-services-box main-box-p8 hover-style wow fadeInUp delay-0-6s" >
+					<div class="main-services-box main-box-p8 hover-style wow fadeInUp delay-0-6s">
 						<div class="inner-border">
 							<div class="icon">
 								<img src="assets/images/icon/icon-3.svg" alt="Image">
@@ -336,14 +337,14 @@
 								<a href="#">Preventive <br> Cleaning</a>
 							</h3>
 							<p>We advise patients to undergo preventive cleaning once in 6 months based on their oral hygiene status. It differs for patient to patient and it is an essential part of maintaining optimal oral health. Regular visits to your dentist, along with consistent oral hygiene practices at home is necessary for healthy oral cavity.</p>
-							
+
 						</div>
 					</div>
 				</div>
 
 
 				<div class="col-lg-3 col-sm-6">
-					<div class="main-services-box main-box-p6 hover-style wow fadeInUp delay-0-8s" >
+					<div class="main-services-box main-box-p6 hover-style wow fadeInUp delay-0-8s">
 						<div class="inner-border">
 							<div class="icon">
 								<img src="assets/images/icon/icon-4.svg" alt="Image">
@@ -357,7 +358,7 @@
 					</div>
 				</div>
 
-				<div class="col-lg-3 col-sm-6" >
+				<div class="col-lg-3 col-sm-6">
 					<div class="main-services-box main-box-p5 hover-style wow fadeInUp delay-0-6s">
 						<div class="inner-border">
 							<div class="icon">
@@ -367,7 +368,7 @@
 								<a href="#">Children <br>Dentistry</a>
 							</h3>
 							<p>Children's dentistry plays a vital role in promoting lifelong oral health and establishing positive dental experiences for children. Regular dental visits and early intervention can help prevent dental problems. Your child should see a dentist by their first birthday or when their first tooth appears, whichever comes first. Our first dental appointments are quick, gentle, and designed to be a positive experience.<br><br></p>
-							
+
 						</div>
 					</div>
 				</div>

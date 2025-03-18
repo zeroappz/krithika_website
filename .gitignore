@@ -1,3 +1,5 @@
 /documentation/
 .htaccess
 *.zip
+/tools
+.php-cs-fixer.cache

@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="zxx">
+<html lang="en">
 
 
 <head>
@@ -19,7 +19,7 @@
 	<link rel="stylesheet" href="assets/css/responsive.css">
 
 	<!--=== Favicon ===-->
-	<link rel="icon" type="image/png" href="assets/images/favicon.png">
+	<link rel="icon" type="image/png" href="assets/images/kirthika.png" style="width:80px; height:107px !important;">
 	<!--=== Title ===-->
 	<title>Kirthika Dental Care</title>
 </head>
@@ -376,17 +376,16 @@
 					</div>
 				</div>
 			</div>
-		</div>
 
-		<!--=== Start back To Top Section ===-->
-		<div class="back-to-top">
-			<i class="icofont-simple-up"></i>
+			<!--=== Start back To Top Section ===-->
+			<div class="back-to-top">
+				<i class="icofont-simple-up"></i>
+			</div>
+			<!--=== End Back To Top Section ===-->
 		</div>
-		<!--=== End Back To Top Section ===-->
-	</div>
 	<!--=== End Copy Right Section ===-->
 
-	<!-- <ul class="rtl-buy">
+	<!-- <ul class="rtl-buy">aa
 			<li>
 				<a href="https://www.macincode.com/Kirthika Dental Care/Kirthika Dental Care-rtl/">RTL</a>
 			</li>

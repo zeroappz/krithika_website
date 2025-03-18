@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="zxx">
+<html lang="en">
 
 <head>
 		<!--=== Required meta tags ===-->
@@ -18,7 +18,7 @@
 		<link rel="stylesheet" href="assets/css/responsive.css">
 
 		<!--=== Favicon ===-->
-		<link rel="icon" type="image/png" href="assets/images/favicon.png">
+		<link rel="icon" type="image/png" href="assets/images/kirthika.png" style="width:80px; height:107px !important;">
 		<!--=== Title ===-->
 		<title>Kirthika Dental Care</title>
     </head>
@@ -270,14 +270,13 @@
 										</li>
 
 							</ul>
-							<br>
 							<!-- <h4>Watch The Sealants Image</h4> -->
 
 							<div class="services-img-1">
 								<img src="assets/images/services/oral-and-maxillofacial-surgery-section-2.png" alt="Image">
 
 							</div>
-							<h4>What are the advantages of Oral and maxillo facial surgery</h4>
+							<h4>What are the advantages of Oral and maxilla facial surgery</h4>
 							<!-- <p>There are many advantages to choosing periodontal therapy, your health and wellness being the most important. However, there are other benefits to consider:</p> -->
 
 							<ul>

@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="zxx">
+<html lang="en">
 
 
 <head>
@@ -19,7 +19,7 @@
 		<link rel="stylesheet" href="assets/css/responsive.css">
 
 		<!--=== Favicon ===-->
-		<link rel="icon" type="image/png" href="assets/images/favicon.png">
+		<link rel="icon" type="image/png" href="assets/images/kirthika.png" style="width:80px; height:107px !important;">
 		<!--=== Title ===-->
 		<title>Kirthika Dental Care</title>
     </head>

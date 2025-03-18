@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="zxx">
+<html lang="en">
 
 <head>
 	<!--=== Required meta tags ===-->
@@ -151,7 +151,7 @@
 									</ul> -->
 									</li>
 									<li class="nav-item">
-										<a href="oralandmaxillofacial.php" class="nav-link">Oral and maxillo facial surgery</a>
+										<a href="oralandmaxillofacial.php" class="nav-link">Oral and maxilla facial surgery</a>
 									</li>
 									<li class="nav-item">
 										<a href="prosthodontics.php" class="nav-link dropdown-toggle">
@@ -195,6 +195,9 @@
 							<li class="nav-item">
 								<a href="doctors.php" class="nav-link ff">Doctors</a>
 							</li>
+							<li class="nav-item">
+								<a href="events.php" class="nav-link ff">Events</a>
+							</li>
 
 							<li class="nav-item">
 								<a href="contact-us.php" class="nav-link ff">Contact Us</a>
@@ -209,21 +212,14 @@
 								<a href="https://admin.kirthikadentalcare.in/login" class="nav-link">Login</a>
 							</li> -->
 							<li class="nav-item">
-								<a href="https://app.kirthikadentalcare.in" class="nav-link">
+								<a href="enquiry.php" class="nav-link ff">Enquiry</a>
+							</li>
+
+							<li class="nav-item">
+								<a href="https://app.kirthikadentalcare.in/" class="nav-link">
 									Login
 								</a>
-								<!-- <a href="https://app.kirthikadentalcare.in" class="nav-link dropdown-toggle">
-								Login
-							</a> -->
 
-								<!-- <ul class="dropdown-menu">
-								<li class="nav-item">
-									<a href="https://app.kirthikadentalcare.in" class="nav-link">Patient Login</a>
-								</li>
-								<li class="nav-item">
-									<a href="https://app.kirthikadentalcare.in" class="nav-link">Staff Login</a>
-								</li>
-							</ul> -->
 							</li>
 							<!-- <li class="nav-item">
 							<a href="#" class="nav-link dropdown-toggle">Login</a>
@@ -385,7 +381,7 @@
 
 			<div class="row d-flex justify-content-center">
 				<div class="col-lg-3 col-sm-6">
-					<div class="main-services-box main-service hover-style wow fadeInUp delay-0-2s">
+					<div class="main-services-box hover-style wow fadeInUp delay-0-2s">
 						<div class="inner-border">
 							<div class="icon">
 								<img src="assets/images/icon/icon-1.svg" alt="Image">
@@ -394,7 +390,7 @@
 								<a href="#">Appointment Booking</a>
 							</h3>
 							<p>You can book your personalized appointments at the comfortable time to visit the dentist on your registered login page.</p>
-
+							<br>
 						</div>
 					</div>
 				</div>

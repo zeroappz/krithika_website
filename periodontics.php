@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="zxx">
+<html lang="en">
 
 <head>
 		<!--=== Required meta tags ===-->
@@ -18,7 +18,7 @@
 		<link rel="stylesheet" href="assets/css/responsive.css">
 
 		<!--=== Favicon ===-->
-		<link rel="icon" type="image/png" href="assets/images/favicon.png">
+		<link rel="icon" type="image/png" href="assets/images/kirthika.png" style="width:80px; height:107px !important;">
 		<!--=== Title ===-->
 		<title>Kirthika Dental Care</title>
     </head>
@@ -264,7 +264,8 @@
 							<!-- <h4>Watch The Sealants Image</h4> -->
 
 							<div class="services-img-1">
-								<img src="assets/images/services/restorativedentistry_sec-2.png" alt="Image">
+								<img src="assets/images/services/periodontitis.jpeg" alt="Image">
+
 							</div>
 
 							<h3>What steps are followed in periodontics treatment?</h3>
