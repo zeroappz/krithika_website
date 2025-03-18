@@ -199,6 +199,9 @@
 							<li class="nav-item">
 								<a href="contact-us.php" class="nav-link ff">Contact Us</a>
 							</li>
+							<li class="nav-item">
+								<a href="enquiry.php" class="nav-link ff">Enquiry</a>
+							</li>
 							<!-- <li class="nav-item">
 								<a href=" https://admin.kirthikadentalcare.in/register" class="nav-link">Register</a>
 							</li> -->
@@ -878,5 +881,18 @@
 	<script src="assets/js/waypoints.min.js"></script>
 	<script src="assets/js/custom.js"></script>
 </body>
+<script>
+    // Your AJAX code to submit the form and handle the response
+    // After receiving a successful response
+    if (response.status === 'success') {
+        // Display success message
+        alert(response.message);
+        // Redirect to index.php
+        window.location.href = 'index.php';
+    } else {
+        // Display error message
+        alert(response.message);
+    }
+</script>
 
 </html>
