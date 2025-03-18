@@ -114,7 +114,7 @@ curl_close($ch);
                 </div>
             <?php endforeach; ?>
         <?php else : ?>
-            <p>No events found.</p>
+            <p>No gallery found.</p>
         <?php endif; ?>
 			
 					<!-- <div class="col-lg-4 col-sm-6">

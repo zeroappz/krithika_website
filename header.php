@@ -162,14 +162,14 @@
 						</li>
 
 						<li class="nav-item">
-								<a href="events.php" class="nav-link ff">Events</a>
+								<a href="events.php" class="nav-link ff">Gallery</a>
 							</li>
 
 						<li class="nav-item">
 							<a href="contact-us.php" class="nav-link">Contact Us</a>
 						</li>
 						<li class="nav-item">
-							<a href="enquiry.php" class="nav-link">Enquiry</a>
+							<a href="enquiry.php" class="nav-link">Book Appointment</a>
 						</li>
 						<li class="nav-item">
 							<a href="https://app.kirthikadentalcare.in/" class="nav-link">

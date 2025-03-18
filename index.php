@@ -196,23 +196,14 @@
 								<a href="doctors.php" class="nav-link ff">Doctors</a>
 							</li>
 							<li class="nav-item">
-								<a href="events.php" class="nav-link ff">Events</a>
+								<a href="events.php" class="nav-link ff">Gallery</a>
 							</li>
 
 							<li class="nav-item">
 								<a href="contact-us.php" class="nav-link ff">Contact Us</a>
 							</li>
 							<li class="nav-item">
-								<a href="enquiry.php" class="nav-link ff">Enquiry</a>
-							</li>
-							<!-- <li class="nav-item">
-								<a href=" https://admin.kirthikadentalcare.in/register" class="nav-link">Register</a>
-							</li> -->
-							<!-- <li class="nav-item">
-								<a href="https://admin.kirthikadentalcare.in/login" class="nav-link">Login</a>
-							</li> -->
-							<li class="nav-item">
-								<a href="enquiry.php" class="nav-link ff">Enquiry</a>
+								<a href="enquiry.php" class="nav-link ff">Book Appointment</a>
 							</li>
 
 							<li class="nav-item">
@@ -877,18 +868,5 @@
 	<script src="assets/js/waypoints.min.js"></script>
 	<script src="assets/js/custom.js"></script>
 </body>
-<script>
-    // Your AJAX code to submit the form and handle the response
-    // After receiving a successful response
-    if (response.status === 'success') {
-        // Display success message
-        alert(response.message);
-        // Redirect to index.php
-        window.location.href = 'index.php';
-    } else {
-        // Display error message
-        alert(response.message);
-    }
-</script>
 
 </html>

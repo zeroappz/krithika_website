@@ -1,6 +1,0 @@
-{
-    "require": {
-        "firebase/php-jwt": "^6.10",
-        "phpmailer/phpmailer": "^v6.9.1"
-    }
-}

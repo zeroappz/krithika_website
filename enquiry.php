@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="zxx">
+<html lang="en">
 
 
 
@@ -9,8 +9,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
     <!--=== CSS Link ===-->
-    <link rel="stylesheet" href=
-"https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
     <link rel="stylesheet" href="assets/css/bootstrap.min.css">
     <link rel="stylesheet" href="assets/css/owl.theme.default.min.css">
     <link rel="stylesheet" href="assets/css/owl.carousel.min.css">
@@ -22,12 +21,27 @@
     <link rel="stylesheet" href="assets/css/responsive.css">
 
     <!--=== Favicon ===-->
-    <link rel="icon" type="image/png" href="assets/images/favicon.png">
+    <link rel="icon" type="image/png" href="assets/images/kirthika.png" style="width:80px; height:107px !important;">
     <!--=== Title ===-->
     <title>Kirthika Dental Care</title>
-   
+    <style>
+        /* Add this CSS to your stylesheet */
+        textarea.auto-resize {
+            resize: vertical;
+            /* Allow vertical resizing */
+            min-height: 100px;
+            /* Set a minimum height */
+        }
+
+        /* Add this CSS to your stylesheet */
+        /* Add this CSS to your stylesheet */
+        .btn-hover:hover {
+            transform: translateY(-3px);
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+        }
+    </style>
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/flatpickr/dist/flatpickr.min.css">
-<link rel="stylesheet" href="assets/css/enquiry_style.css">
+
 </head>
 
 <body>
@@ -48,66 +62,100 @@
                     <form action="api/store_enquiry.php" method="POST" enctype="multipart/form-data">
                         <div class="main-contact-info-item hover-style wow fadeInUp delay-0-2s contact3">
                             <div class="inner-border">
-                          
 
-                                <!-- <div class="form-floating form-floating-outline mb-4">
-                                    <input type="text" name="patient_name" class="form-control" required placeholder="Patient Name">
-                                    <label for="patient_name">Enter Your Name</label>
-                                </div> -->
-                                <div class="form-floating form-floating-outline mb-4">
-                                    <div class="d-flex">
-                                        <div class="input-group-prepend">
-                                            <span class="input-group-text"><i class="fa fa-user"></i></span>
+
+                                <div class="row">
+                                    <div class="col-md-6">
+                                        <div class="form-floating form-floating-outline mb-4">
+                                            <div class="d-flex">
+                                                <div class="input-group-prepend">
+                                                    <span class="input-group-text" style="font-size: 40px; border-bottom-color: lightgray; background-color: rgba(255, 255, 255, 0); border: none;"><i class="fa fa-user" style="height: 40px; width: 40px; color: blue;"></i></span>
+                                                </div>
+                                                <input type="text" name="patient_name" class="form-control" style="border: none; border-bottom: 1px solid black; width: 400px;  background-color: transparent;" required placeholder="Enter Your Name">
+                                            </div>
                                         </div>
-                                        <input type="text" name="patient_name" class="form-control" required placeholder="Enter Your Name">
+                                    </div>
+                                    <div class="col-md-6">
+                                        <div class="form-floating form-floating-outline mb-4">
+                                            <div class="d-flex">
+                                                <div class="input-group-prepend">
+                                                    <span class="input-group-text" style="font-size: 40px; border-radius: 0.25rem; background-color: rgba(255, 255, 255, 0); border: none;"><i class="fa fa-cogs" style="height: 40px; width: 40px; color: green;"></i></span>
+                                                </div>
+                                                <select name="service_name" class="form-control" style="border: none; border-bottom: 1px solid black; width: 400px;  background-color: transparent;" required placeholder="Select Your Services">
+                                                    <option value="">-Select Your Services-</option>
+                                                    <option value="Oral Medicine and Pathology">Oral Medicine and Pathology</option>
+                                                    <option value="Restorative Dentistry">Restorative Dentistry</option>
+                                                    <option value="Endodontics">Endodontics</option>
+                                                    <option value="Periodontics">Periodontics</option>
+                                                    <option value="Oral and maxillo facial surgery">Oral and maxillo facial surgery</option>
+                                                    <option value="Prosthodontics">Prosthodontics</option>
+                                                    <option value="Orthodontics">Orthodontics</option>
+                                                    <option value="Implant Dentistry">Implant Dentistry</option>
+                                                    <option value="Laser Dentistry">Laser Dentistry</option>
+                                                    <option value="Pediatric Dentistry">Pediatric Dentistry</option>
+                                                </select>
+                                            </div>
+                                        </div>
                                     </div>
                                 </div>
 
-
-                                <div class="form-floating form-floating-outline mb-4">
-                                    <select name="service_name" class="form-control" required placeholder="Select Your Services">
-                                        <option value="">-Select-</option>
-                                        <option value="Oral Medicine and Pathology">Oral Medicine and Pathology</option>
-                                        <option value="Restorative Dentistry">Restorative Dentistry</option>
-                                        <option value="Endodontics">Endodontics</option>
-                                        <option value="Periodontics">Periodontics</option>
-                                        <option value="Oral and maxillo facial surgery">Oral and maxillo facial surgery</option>
-                                        <option value="Prosthodontics">Prosthodontics</option>
-                                        <option value="Orthodontics">Orthodontics</option>
-                                        <option value="Implant Dentistry">Implant Dentistry</option>
-                                        <option value="Laser Dentistry">Laser Dentistry</option>
-                                        <option value="Pediatric Dentistry">Pediatric Dentistry</option>
-                                    </select>
-                                    <label for="exampleFormControlInput1">Select Your Services</label>
-                                </div>
-                                <div class="form-floating form-floating-outline mb-4">
-                                    <input type="text" name="mobile_number" id="mobile_number" pattern="[789][0-9]{9}" class="form-control" required placeholder="Mobile Number">
-                                    <label for="mobile_number">Your Phone</label>
-                                    <div id="mobile_number_error" class="text-danger"></div>
-                                </div>
-                                <div class="form-floating form-floating-outline mb-4">
-                                    <input type="text" name="appointment_date" id="appointment_date" class="form-control" placeholder="Appointment Date">
-                                    <label for="appointment_date">Appointment Date</label>
-                                </div>
-                                <div class="form-floating form-floating-outline mb-4">
-                                    <input type="text" name="appointment_time" id="appointment_time" class="form-control flatpickr-datetime" placeholder="Appointment Date">
-                                    <label for="appointment_date">Appointment Time</label>
+                                <div class="row">
+                                    <div class="col-md-6">
+                                        <div class="form-floating form-floating-outline mb-4">
+                                            <div class="d-flex">
+                                                <div class="input-group-prepend">
+                                                    <span class="input-group-text" style="font-size: 50px; background-color: rgba(255, 255, 255, 0); border: none;"><i class="fa fa-mobile" style="height: 40px; width: 40px; color: red;"></i></span>
+                                                </div>
+                                                <input type="tel" name="mobile_number" class="form-control" style="border: none; border-bottom: 1px solid black; width: 400px;  background-color: transparent;" required placeholder="Enter Your Mobile Number">
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="col-md-6">
+                                        <div class="form-floating form-floating-outline mb-4">
+                                            <div class="d-flex">
+                                                <div class="input-group-prepend">
+                                                    <span class="input-group-text" style="font-size: 40px; background-color: rgba(255, 255, 255, 0); border: none;"><i class="fa fa-calendar" style="height: 40px; width: 40px; color: orange;"></i></span>
+                                                </div>
+                                                <input type="text" name="appointment_date" id="appointment_date" class="form-control" style="border: none; border-bottom: 1px solid black; width: 400px;  background-color: transparent;" placeholder="Appointment Date">
+                                            </div>
+                                        </div>
+                                    </div>
                                 </div>
 
-                                <div class="form-floating form-floating-outline mb-4">
-                                    <textarea name="enquiry" class="form-control auto-resize" required placeholder="Enquiry"></textarea>
-                                    <label for="enquiry">Special Request</label>
+                                <div class="row">                                  
+                                    <div class="col-md-6">
+                                        <div class="form-floating form-floating-outline mb-4">
+                                            <div class="d-flex">
+                                                <div class="input-group-prepend">
+                                                    <span class="input-group-text" style="font-size: 40px; background-color: rgba(255, 255, 255, 0); border: none;">
+                                                        <i class="fa fa-calendar-check-o" style="height: 40px; width: 40px; color: purple;"></i>
+                                                    </span>
+                                                </div>
+                                                <input type="time" name="appointment_time" id="appointment_time" class="form-control"
+                                                    style="border: none; border-bottom: 1px solid black; width: 400px; background-color: transparent;"
+                                                    placeholder="Appointment Time">
+                                            </div>
+                                        </div>
+                                    </div>
+
+                                    <div class="col-md-6">
+                                        <div class="form-floating form-floating-outline mb-4">
+                                            <div class="d-flex">
+                                                <div class="input-group-prepend">
+                                                    <span class="input-group-text" style="font-size: 40px; background-color: rgba(255, 255, 255, 0); border: none;"><i class="fa fa-comment" style="height: 40px; width: 40px; color: brown;"></i></span>
+                                                </div>
+                                                <textarea name="enquiry" style="height: 55px; border: none; background-color: transparent; border-bottom: 1px solid black; width: 400px; " class="form-control" required placeholder="Enter Special Request"></textarea>
+                                            </div>
+                                        </div>
+                                    </div>
                                 </div>
-
-
-
                                 <ul class="d-flex flex-wrap align-items-center">
                                     <li class="nav-item">
-                                        <a href="https://app.kirthikadentalcare.in" class="nav-link">Already have an account?</a>
+                                        <a href="https://app.kirthikadentalcare.in/" class="nav-link">Already have an account?</a>
                                     </li>
                                     <li class="nav-item ms-auto">
                                         <div class="form-floating form-floating-outline mb-0">
-                                            <button type="submit" name="submit" class="btn btn-primary btn-hover me-2">Inquiry</button>
+                                            <button type="submit" name="submit" class="btn btn-primary btn-hover me-2">Book</button>
                                             <button type="reset" name="reset" class="btn btn-danger btn-hover">Cancel</button>
                                         </div>
                                     </li>
@@ -184,8 +232,8 @@
         var textareas = document.querySelectorAll('.auto-resize');
         textareas.forEach(function(textarea) {
             textarea.addEventListener('input', function() {
-                this.style.height = 'auto'; // Reset height to auto to recalculate height
-                this.style.height = this.scrollHeight + 'px'; // Set the height to the scrollHeight
+                this.style.height = 'auto';
+                this.style.height = this.scrollHeight + 'px';
             });
         });
     });
@@ -196,40 +244,20 @@
         flatpickr(appointmentDateInput, {
             enableTime: false,
             dateFormat: "Y-m-d",
-            // minDate: "today"
+            minDate: "today"
         });
     });
     document.addEventListener('DOMContentLoaded', function() {
         var appointmentTimeInput = document.getElementById('appointment_time');
         flatpickr(appointmentTimeInput, {
-            enableTime: true, // Enable time selection
-            noCalendar: true, // Hide calendar
-            dateFormat: "H:i:s", // Format for displaying time
-            time_24hr: true // Use 24-hour time format
+            enableTime: true,
+            noCalendar: true,
+            dateFormat: "h:i K",
+            time_24hr: false
         });
     });
 </script>
-<script>
-    const mobileNumberInput = document.getElementById('mobile_number');
-    const mobileNumberError = document.getElementById('mobile_number_error');
 
-    mobileNumberInput.addEventListener('keyup', function() {
-        const mobileNumber = mobileNumberInput.value.trim();
-        const mobileNumberPattern = /^[6789][0-9]{0,9}$/; // Limit to maximum of 10 digits
-
-        if (mobileNumberPattern.test(mobileNumber)) {
-            // Valid mobile number format
-            mobileNumberError.textContent = '';
-        } else {
-            // Invalid mobile number format
-            if (mobileNumber.length > 10) {
-                mobileNumberError.textContent = 'Mobile number cannot exceed 10 digits';
-            } else {
-                mobileNumberError.textContent = 'Please enter a valid 10-digit mobile number starting with 6, 7, 8, or 9';
-            }
-        }
-    });
-</script>
 
 
 

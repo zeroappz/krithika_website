@@ -1,0 +1,215 @@
+[20-Aug-2024 13:16:18 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'users.employment_id' in 'order clause' in /home1/kirthfmw/public_html/doctors.php:91
+Stack trace:
+#0 /home1/kirthfmw/public_html/doctors.php(91): PDOStatement->execute()
+#1 {main}
+  thrown in /home1/kirthfmw/public_html/doctors.php on line 91
+[20-Aug-2024 13:19:32 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'users.employment_id' in 'order clause' in /home1/kirthfmw/public_html/doctors.php:91
+Stack trace:
+#0 /home1/kirthfmw/public_html/doctors.php(91): PDOStatement->execute()
+#1 {main}
+  thrown in /home1/kirthfmw/public_html/doctors.php on line 91
+[20-Aug-2024 13:38:15 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'users.employment_id' in 'order clause' in /home1/kirthfmw/public_html/doctors.php:91
+Stack trace:
+#0 /home1/kirthfmw/public_html/doctors.php(91): PDOStatement->execute()
+#1 {main}
+  thrown in /home1/kirthfmw/public_html/doctors.php on line 91
+[20-Aug-2024 13:40:01 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'users.employment_id' in 'order clause' in /home1/kirthfmw/public_html/doctors.php:91
+Stack trace:
+#0 /home1/kirthfmw/public_html/doctors.php(91): PDOStatement->execute()
+#1 {main}
+  thrown in /home1/kirthfmw/public_html/doctors.php on line 91
+[20-Aug-2024 13:40:09 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'users.employment_id' in 'order clause' in /home1/kirthfmw/public_html/doctors.php:91
+Stack trace:
+#0 /home1/kirthfmw/public_html/doctors.php(91): PDOStatement->execute()
+#1 {main}
+  thrown in /home1/kirthfmw/public_html/doctors.php on line 91
+[20-Aug-2024 13:40:13 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'users.employment_id' in 'order clause' in /home1/kirthfmw/public_html/doctors.php:91
+Stack trace:
+#0 /home1/kirthfmw/public_html/doctors.php(91): PDOStatement->execute()
+#1 {main}
+  thrown in /home1/kirthfmw/public_html/doctors.php on line 91
+[21-Aug-2024 04:44:59 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'users.employment_id' in 'order clause' in /home1/kirthfmw/public_html/doctors.php:91
+Stack trace:
+#0 /home1/kirthfmw/public_html/doctors.php(91): PDOStatement->execute()
+#1 {main}
+  thrown in /home1/kirthfmw/public_html/doctors.php on line 91
+[21-Aug-2024 04:55:50 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'users.employment_id' in 'order clause' in /home1/kirthfmw/public_html/doctors.php:91
+Stack trace:
+#0 /home1/kirthfmw/public_html/doctors.php(91): PDOStatement->execute()
+#1 {main}
+  thrown in /home1/kirthfmw/public_html/doctors.php on line 91
+[21-Aug-2024 05:21:07 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'users.employment_id' in 'order clause' in /home1/kirthfmw/public_html/doctors.php:91
+Stack trace:
+#0 /home1/kirthfmw/public_html/doctors.php(91): PDOStatement->execute()
+#1 {main}
+  thrown in /home1/kirthfmw/public_html/doctors.php on line 91
+[21-Aug-2024 05:22:11 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'users.employment_id' in 'order clause' in /home1/kirthfmw/public_html/doctors.php:91
+Stack trace:
+#0 /home1/kirthfmw/public_html/doctors.php(91): PDOStatement->execute()
+#1 {main}
+  thrown in /home1/kirthfmw/public_html/doctors.php on line 91
+[21-Aug-2024 05:22:16 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'users.employment_id' in 'order clause' in /home1/kirthfmw/public_html/doctors.php:91
+Stack trace:
+#0 /home1/kirthfmw/public_html/doctors.php(91): PDOStatement->execute()
+#1 {main}
+  thrown in /home1/kirthfmw/public_html/doctors.php on line 91
+[21-Aug-2024 05:23:38 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'users.employment_id' in 'order clause' in /home1/kirthfmw/public_html/doctors.php:91
+Stack trace:
+#0 /home1/kirthfmw/public_html/doctors.php(91): PDOStatement->execute()
+#1 {main}
+  thrown in /home1/kirthfmw/public_html/doctors.php on line 91
+[21-Aug-2024 05:23:41 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'users.employment_id' in 'order clause' in /home1/kirthfmw/public_html/doctors.php:91
+Stack trace:
+#0 /home1/kirthfmw/public_html/doctors.php(91): PDOStatement->execute()
+#1 {main}
+  thrown in /home1/kirthfmw/public_html/doctors.php on line 91
+[21-Aug-2024 05:23:56 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'users.employment_id' in 'order clause' in /home1/kirthfmw/public_html/doctors.php:91
+Stack trace:
+#0 /home1/kirthfmw/public_html/doctors.php(91): PDOStatement->execute()
+#1 {main}
+  thrown in /home1/kirthfmw/public_html/doctors.php on line 91
+[21-Aug-2024 05:35:13 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'users.employment_id' in 'order clause' in /home1/kirthfmw/public_html/doctors.php:91
+Stack trace:
+#0 /home1/kirthfmw/public_html/doctors.php(91): PDOStatement->execute()
+#1 {main}
+  thrown in /home1/kirthfmw/public_html/doctors.php on line 91
+[21-Aug-2024 05:35:22 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'users.employment_id' in 'order clause' in /home1/kirthfmw/public_html/doctors.php:91
+Stack trace:
+#0 /home1/kirthfmw/public_html/doctors.php(91): PDOStatement->execute()
+#1 {main}
+  thrown in /home1/kirthfmw/public_html/doctors.php on line 91
+[22-Aug-2024 03:34:41 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'users.employment_id' in 'order clause' in /home1/kirthfmw/public_html/doctors.php:91
+Stack trace:
+#0 /home1/kirthfmw/public_html/doctors.php(91): PDOStatement->execute()
+#1 {main}
+  thrown in /home1/kirthfmw/public_html/doctors.php on line 91
+[22-Aug-2024 03:34:41 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'users.employment_id' in 'order clause' in /home1/kirthfmw/public_html/doctors.php:91
+Stack trace:
+#0 /home1/kirthfmw/public_html/doctors.php(91): PDOStatement->execute()
+#1 {main}
+  thrown in /home1/kirthfmw/public_html/doctors.php on line 91
+[23-Aug-2024 11:47:41 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'users.employment_id' in 'order clause' in /home1/kirthfmw/public_html/doctors.php:91
+Stack trace:
+#0 /home1/kirthfmw/public_html/doctors.php(91): PDOStatement->execute()
+#1 {main}
+  thrown in /home1/kirthfmw/public_html/doctors.php on line 91
+[24-Aug-2024 09:45:05 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'users.employment_id' in 'order clause' in /home1/kirthfmw/public_html/doctors.php:91
+Stack trace:
+#0 /home1/kirthfmw/public_html/doctors.php(91): PDOStatement->execute()
+#1 {main}
+  thrown in /home1/kirthfmw/public_html/doctors.php on line 91
+[27-Aug-2024 13:59:21 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'users.employment_id' in 'order clause' in /home1/kirthfmw/public_html/doctors.php:91
+Stack trace:
+#0 /home1/kirthfmw/public_html/doctors.php(91): PDOStatement->execute()
+#1 {main}
+  thrown in /home1/kirthfmw/public_html/doctors.php on line 91
+[27-Aug-2024 13:59:35 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'users.employment_id' in 'order clause' in /home1/kirthfmw/public_html/doctors.php:91
+Stack trace:
+#0 /home1/kirthfmw/public_html/doctors.php(91): PDOStatement->execute()
+#1 {main}
+  thrown in /home1/kirthfmw/public_html/doctors.php on line 91
+[27-Aug-2024 15:48:54 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'users.employment_id' in 'order clause' in /home1/kirthfmw/public_html/doctors.php:91
+Stack trace:
+#0 /home1/kirthfmw/public_html/doctors.php(91): PDOStatement->execute()
+#1 {main}
+  thrown in /home1/kirthfmw/public_html/doctors.php on line 91
+[27-Aug-2024 15:59:22 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'users.employment_id' in 'order clause' in /home1/kirthfmw/public_html/doctors.php:91
+Stack trace:
+#0 /home1/kirthfmw/public_html/doctors.php(91): PDOStatement->execute()
+#1 {main}
+  thrown in /home1/kirthfmw/public_html/doctors.php on line 91
+[28-Aug-2024 13:16:02 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'users.employment_id' in 'order clause' in /home1/kirthfmw/public_html/doctors.php:91
+Stack trace:
+#0 /home1/kirthfmw/public_html/doctors.php(91): PDOStatement->execute()
+#1 {main}
+  thrown in /home1/kirthfmw/public_html/doctors.php on line 91
+[29-Aug-2024 04:18:08 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'users.employment_id' in 'order clause' in /home1/kirthfmw/public_html/doctors.php:91
+Stack trace:
+#0 /home1/kirthfmw/public_html/doctors.php(91): PDOStatement->execute()
+#1 {main}
+  thrown in /home1/kirthfmw/public_html/doctors.php on line 91
+[29-Aug-2024 06:04:05 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'users.employment_id' in 'order clause' in /home1/kirthfmw/public_html/doctors.php:91
+Stack trace:
+#0 /home1/kirthfmw/public_html/doctors.php(91): PDOStatement->execute()
+#1 {main}
+  thrown in /home1/kirthfmw/public_html/doctors.php on line 91
+[29-Aug-2024 16:52:44 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'users.employment_id' in 'order clause' in /home1/kirthfmw/public_html/doctors.php:91
+Stack trace:
+#0 /home1/kirthfmw/public_html/doctors.php(91): PDOStatement->execute()
+#1 {main}
+  thrown in /home1/kirthfmw/public_html/doctors.php on line 91
+[29-Aug-2024 17:04:39 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'users.employment_id' in 'order clause' in /home1/kirthfmw/public_html/doctors.php:91
+Stack trace:
+#0 /home1/kirthfmw/public_html/doctors.php(91): PDOStatement->execute()
+#1 {main}
+  thrown in /home1/kirthfmw/public_html/doctors.php on line 91
+[29-Aug-2024 17:05:08 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'users.employment_id' in 'order clause' in /home1/kirthfmw/public_html/doctors.php:91
+Stack trace:
+#0 /home1/kirthfmw/public_html/doctors.php(91): PDOStatement->execute()
+#1 {main}
+  thrown in /home1/kirthfmw/public_html/doctors.php on line 91
+[29-Aug-2024 17:39:41 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'users.employment_id' in 'order clause' in /home1/kirthfmw/public_html/doctors.php:91
+Stack trace:
+#0 /home1/kirthfmw/public_html/doctors.php(91): PDOStatement->execute()
+#1 {main}
+  thrown in /home1/kirthfmw/public_html/doctors.php on line 91
+[29-Aug-2024 17:40:19 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'users.employment_id' in 'order clause' in /home1/kirthfmw/public_html/doctors.php:91
+Stack trace:
+#0 /home1/kirthfmw/public_html/doctors.php(91): PDOStatement->execute()
+#1 {main}
+  thrown in /home1/kirthfmw/public_html/doctors.php on line 91
+[31-Aug-2024 09:13:50 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'users.employment_id' in 'order clause' in /home1/kirthfmw/public_html/doctors.php:91
+Stack trace:
+#0 /home1/kirthfmw/public_html/doctors.php(91): PDOStatement->execute()
+#1 {main}
+  thrown in /home1/kirthfmw/public_html/doctors.php on line 91
+[02-Sep-2024 03:30:16 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'users.employment_id' in 'order clause' in /home1/kirthfmw/public_html/doctors.php:91
+Stack trace:
+#0 /home1/kirthfmw/public_html/doctors.php(91): PDOStatement->execute()
+#1 {main}
+  thrown in /home1/kirthfmw/public_html/doctors.php on line 91
+[02-Sep-2024 03:30:39 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'users.employment_id' in 'order clause' in /home1/kirthfmw/public_html/doctors.php:91
+Stack trace:
+#0 /home1/kirthfmw/public_html/doctors.php(91): PDOStatement->execute()
+#1 {main}
+  thrown in /home1/kirthfmw/public_html/doctors.php on line 91
+[02-Sep-2024 03:31:04 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'users.employment_id' in 'order clause' in /home1/kirthfmw/public_html/doctors.php:91
+Stack trace:
+#0 /home1/kirthfmw/public_html/doctors.php(91): PDOStatement->execute()
+#1 {main}
+  thrown in /home1/kirthfmw/public_html/doctors.php on line 91
+[02-Sep-2024 03:32:53 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'users.employment_id' in 'order clause' in /home1/kirthfmw/public_html/doctors.php:91
+Stack trace:
+#0 /home1/kirthfmw/public_html/doctors.php(91): PDOStatement->execute()
+#1 {main}
+  thrown in /home1/kirthfmw/public_html/doctors.php on line 91
+[02-Sep-2024 05:01:31 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'users.employment_id' in 'order clause' in /home1/kirthfmw/public_html/doctors.php:91
+Stack trace:
+#0 /home1/kirthfmw/public_html/doctors.php(91): PDOStatement->execute()
+#1 {main}
+  thrown in /home1/kirthfmw/public_html/doctors.php on line 91
+[02-Sep-2024 20:28:29 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'users.employment_id' in 'order clause' in /home1/kirthfmw/public_html/doctors.php:91
+Stack trace:
+#0 /home1/kirthfmw/public_html/doctors.php(91): PDOStatement->execute()
+#1 {main}
+  thrown in /home1/kirthfmw/public_html/doctors.php on line 91
+[03-Sep-2024 13:56:27 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'users.employment_id' in 'order clause' in /home1/kirthfmw/public_html/doctors.php:91
+Stack trace:
+#0 /home1/kirthfmw/public_html/doctors.php(91): PDOStatement->execute()
+#1 {main}
+  thrown in /home1/kirthfmw/public_html/doctors.php on line 91
+[03-Sep-2024 13:57:00 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'users.employment_id' in 'order clause' in /home1/kirthfmw/public_html/doctors.php:91
+Stack trace:
+#0 /home1/kirthfmw/public_html/doctors.php(91): PDOStatement->execute()
+#1 {main}
+  thrown in /home1/kirthfmw/public_html/doctors.php on line 91
+[04-Sep-2024 03:52:02 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'users.employment_id' in 'order clause' in /home1/kirthfmw/public_html/doctors.php:91
+Stack trace:
+#0 /home1/kirthfmw/public_html/doctors.php(91): PDOStatement->execute()
+#1 {main}
+  thrown in /home1/kirthfmw/public_html/doctors.php on line 91
+[04-Sep-2024 05:48:54 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'users.employment_id' in 'order clause' in /home1/kirthfmw/public_html/doctors.php:91
+Stack trace:
+#0 /home1/kirthfmw/public_html/doctors.php(91): PDOStatement->execute()
+#1 {main}
+  thrown in /home1/kirthfmw/public_html/doctors.php on line 91

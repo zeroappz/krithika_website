@@ -12,7 +12,8 @@ class Enquiry
     public $mobile_number;
     public $appointment_date;
     public $enquiry;
-    public $feed_back;
+    public $appointment_time;
+    public $service_name;
     public $doctor_status;
     public $staff_status;
     public $admin_status;
@@ -34,7 +35,8 @@ class Enquiry
                     mobile_number=:mobile_number, 
                     appointment_date=:appointment_date, 
                     enquiry=:enquiry, 
-                    feed_back=:feed_back, 
+                    service_name=:service_name, 
+                    appointment_time=:appointment_time, 
                     doctor_status=:doctor_status, 
                     staff_status=:staff_status, 
                     admin_status=:admin_status, 
@@ -48,7 +50,8 @@ class Enquiry
         $stmt->bindParam(":mobile_number", $this->mobile_number);
         $stmt->bindParam(":appointment_date", $this->appointment_date);
         $stmt->bindParam(":enquiry", $this->enquiry);
-        $stmt->bindParam(":feed_back", $this->feed_back);
+        $stmt->bindParam(":service_name", $this->service_name);
+        $stmt->bindParam(":appointment_time", $this->appointment_time);
         $stmt->bindParam(":doctor_status", $this->doctor_status);
         $stmt->bindParam(":staff_status", $this->staff_status);
         $stmt->bindParam(":admin_status", $this->admin_status);
