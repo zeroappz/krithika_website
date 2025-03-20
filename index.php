@@ -395,7 +395,7 @@
 							<h3>
 								<a href="#">Appointment Cancellation</a>
 							</h3>
-							<p>lease give us at least 12-hour notice if you are unable to attend your appointment so that others may be offered your appointment.</p>
+							<p>Please give us at least 12-hour notice if you are unable to attend your appointment so that others may be offered your appointment.</p>
 						</div>
 					</div>
 				</div>

@@ -3,127 +3,145 @@
 
 
 <head>
-		<!--=== Required meta tags ===-->
-		<meta charset="utf-8">
-		<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+	<!--=== Required meta tags ===-->
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
-		<!--=== CSS Link ===-->
-		<link rel="stylesheet" href="assets/css/bootstrap.min.css">
-		<link rel="stylesheet" href="assets/css/owl.theme.default.min.css">
-		<link rel="stylesheet" href="assets/css/owl.carousel.min.css">
-		<link rel="stylesheet" href="assets/css/icofont.min.css">
-		<link rel="stylesheet" href="assets/css/meanmenu.css">
-		<link rel="stylesheet" href="assets/css/animate.min.css">
-		<link rel="stylesheet" href="assets/css/magnific-popup.min.css">
-		<link rel="stylesheet" href="assets/css/style.css">
-		<link rel="stylesheet" href="assets/css/responsive.css">
+	<!--=== CSS Link ===-->
+	<link rel="stylesheet" href="assets/css/bootstrap.min.css">
+	<link rel="stylesheet" href="assets/css/owl.theme.default.min.css">
+	<link rel="stylesheet" href="assets/css/owl.carousel.min.css">
+	<link rel="stylesheet" href="assets/css/icofont.min.css">
+	<link rel="stylesheet" href="assets/css/meanmenu.css">
+	<link rel="stylesheet" href="assets/css/animate.min.css">
+	<link rel="stylesheet" href="assets/css/magnific-popup.min.css">
+	<link rel="stylesheet" href="assets/css/style.css">
+	<link rel="stylesheet" href="assets/css/responsive.css">
 
-		<!--=== Favicon ===-->
-		<link rel="icon" type="image/png" href="assets/images/kirthika.png" style="width:80px; height:107px !important;">
-		<!--=== Title ===-->
-		<title>Kirthika Dental Care</title>
-    </head>
+	<!--=== Favicon ===-->
+	<link rel="icon" type="image/png" href="assets/images/kirthika.png" style="width:80px; height:107px !important;">
+	<!--=== Title ===-->
+	<title>Kirthika Dental Care</title>
+</head>
 
-    <body>
-		<!-- Header Start -->
-<?php include 'header.php';?>
+<body>
+	<!-- Header Start -->
+	<?php include 'header.php'; ?>
 
-<!-- Header End -->
-		<!--=== Start Page Banner Section ===-->
-		<section class="page-banner-section bg-color-ebeef5 ptb-100">
-			<div class="container">
-				<div class="page-banner-content">
-					<h2>Events</h2>
-					<ul>
-						<li>
-							<a href="index.php">Home</a>
-						</li>
-						<li>
-							<span class="active">Events</span>
-						</li>
-					</ul>
-				</div>
+	<!-- Header End -->
+	<!--=== Start Page Banner Section ===-->
+	<section class="page-banner-section bg-color-ebeef5 ptb-100">
+		<div class="container">
+			<div class="page-banner-content">
+				<h2>Events</h2>
+				<ul>
+					<li>
+						<a href="index.php">Home</a>
+					</li>
+					<li>
+						<span class="active">Events</span>
+					</li>
+				</ul>
 			</div>
-			<div class="page-banner-shape-1 shape">
-				<!-- <img src="assets/images/banner/banner-shape-1.png" alt="Image"> -->
-			</div>
-			<div class="page-banner-shape-2 shape">
-				<!-- <img src="assets/images/banner/banner-shape-1.png" alt="Image"> -->
-			</div>
-		</section>
-		<!--=== End Page Banner Section ===-->
+		</div>
+		<div class="page-banner-shape-1 shape">
+			<!-- <img src="assets/images/banner/banner-shape-1.png" alt="Image"> -->
+		</div>
+		<div class="page-banner-shape-2 shape">
+			<!-- <img src="assets/images/banner/banner-shape-1.png" alt="Image"> -->
+		</div>
+	</section>
+	<!--=== End Page Banner Section ===-->
 
-		<!--=== Start Doctors Section ===-->
-		<section class="our-doctors-section mt-4 ptb-100">
-			<div class="container">
-				<!-- <div class="main-section-title wow fadeInUp delay-0-2s">
+	<!--=== Start Doctors Section ===-->
+	<section class="our-doctors-section mt-4 ptb-100">
+		<div class="container">
+			<!-- <div class="main-section-title wow fadeInUp delay-0-2s">
 					<span class="up-title">Our Doctors</span>
 					<h2>Our Experienced Dentists Strive For Improved Services</h2>
 				</div> -->
 
-                <?php
-// API endpoint URL
-$apiUrl = 'https://api.kirthikadentalcare.in/api/getEvent';
+			<?php
+			// API endpoint URL
+			$apiUrl = 'https://api.kirthikadentalcare.in/api/getEvent';
 
-// Initialize cURL session
-$ch = curl_init();
+			// Initialize cURL session
+			$ch = curl_init();
 
-// Set the cURL options
-curl_setopt($ch, CURLOPT_URL, $apiUrl);
-curl_setopt($ch, CURLOPT_RETURNTRANSFER, true);
-curl_setopt($ch, CURLOPT_HTTPHEADER, array('Content-Type: application/json'));
+			// Set the cURL options
+			curl_setopt($ch, CURLOPT_URL, $apiUrl);
+			curl_setopt($ch, CURLOPT_RETURNTRANSFER, true);
+			curl_setopt($ch, CURLOPT_HTTPHEADER, array('Content-Type: application/json'));
 
-// Execute the cURL request
-$response = curl_exec($ch);
+			// Execute the cURL request
+			$response = curl_exec($ch);
 
-// Check for cURL errors
-if (curl_errno($ch)) {
-    echo 'cURL error: ' . curl_error($ch);
-} else {
-    // Decode the JSON response
-    $events = json_decode($response, true);
-}
+			// Check for cURL errors
+			if (curl_errno($ch)) {
+				echo 'cURL error: ' . curl_error($ch);
+			} else {
+				// Decode the JSON response
+				$events = json_decode($response, true);
+			}
 
-// Close the cURL session
-curl_close($ch);
+			// Close the cURL session
+			curl_close($ch);
 
-// Print the fetched data for debugging
-// echo '<pre>';
-// print_r($events);
-// echo '</pre>';
-?>
+			// Print the fetched data for debugging
+			// echo '<pre>';
+			// print_r($events);
+			// echo '</pre>';
+			?>
 
-				<div class="row justify-content-center">
+			<div class="row justify-content-center">
 
-                <?php if (isset($events['data']) && is_array($events['data'])) : ?>
-            <?php foreach ($events['data'] as $event) : ?>
-                <div class="col-lg-4 col-sm-6">
-                    <div class="main-doctors-item hover-style wow fadeInUp delay-0-4s doctor-p1">
-                        <div class="inner-border">
-                            <div class="doctor-img">
-                                <?php
-                                // Define the event's image path
-                                $eventImage = !empty($event['image']) ? $event['image'] : 'assets/images/default-event.jpg';
-                                ?>
-                                <img src="<?php echo htmlspecialchars($eventImage); ?>" style="height: 450px; width: 450px;" alt="Event Image">
-                            </div>
-                            <h3><?php echo htmlspecialchars($event['title']); ?></h3>
-                            <span><?php echo htmlspecialchars($event['date']); ?></span><br>
-                        </div>
-                    </div>
-                </div>
-            <?php endforeach; ?>
-        <?php else : ?>
-            <p>No gallery found.</p>
-        <?php endif; ?>
-			
-					<!-- <div class="col-lg-4 col-sm-6">
+				<?php if (isset($events['data']) && is_array($events['data'])) : ?>
+					<?php foreach ($events['data'] as $event) : ?>
+						<div class="col-lg-4 col-sm-6">
+							<div class="main-doctors-item hover-style wow fadeInUp delay-0-4s doctor-p1">
+								<div class="inner-border">
+									<div class="doctor-img">
+										<?php
+										$eventImage = !empty($event['image']) ? $event['image'] : 'assets/images/default-event.jpg';
+
+										// Get the file extension
+										$fileExtension = strtolower(pathinfo($eventImage, PATHINFO_EXTENSION));
+										
+										// Check if it's an image, GIF, or video
+										if (in_array($fileExtension, ['jpg', 'jpeg', 'png', 'webp'])) {
+											echo '<img src="' . htmlspecialchars($eventImage) . '" style="height: 450px; width: 450px;" alt="Event Image">';
+										} elseif ($fileExtension === 'gif') {
+											echo '<img src="' . htmlspecialchars($eventImage) . '" style="height: 450px; width: 450px;" alt="Event GIF">';
+										} elseif (in_array($fileExtension, ['mp4', 'webm', 'ogg'])) {
+											echo '<video style="height: 450px; width: 450px;" controls>
+													<source src="' . htmlspecialchars($eventImage) . '" type="video/' . $fileExtension . '">
+													Your browser does not support the video tag.
+												  </video>';
+										} else {
+											echo '<img src="assets/images/default-event.jpg" style="height: 450px; width: 450px;" alt="Default Event">';
+										}
+										// Define the event's image path
+										// $eventImage = !empty($event['image']) ? $event['image'] : 'assets/images/default-event.jpg';
+										?>
+										<!-- <img src="<?php echo htmlspecialchars($eventImage); ?>" style="height: 450px; width: 450px;" alt="Event Image"> -->
+									</div>
+									<h3><?php echo htmlspecialchars($event['title']); ?></h3>
+									<span><?php echo htmlspecialchars($event['date']); ?></span><br>
+								</div>
+							</div>
+						</div>
+					<?php endforeach; ?>
+				<?php else : ?>
+					<p>No gallery found.</p>
+				<?php endif; ?>
+
+				<!-- <div class="col-lg-4 col-sm-6">
 						<div class="main-doctors-item doctor-p hover-style wow fadeInUp delay-0-2s ">
 							<div class="inner-border">
 								<div class="doctor-img">
 									<img src="assets/images/doctors/rajkumar.jpeg" alt="Image"> -->
 
-									<!--  <ul>
+				<!--  <ul>
 										<li>
 											<a href="https://www.facebook.com/" target="_blank">
 												<i class="icofont-facebook"></i>
@@ -145,7 +163,7 @@ curl_close($ch);
 											</a>
 										</li>
 									</ul> -->
-								<!-- </div>
+				<!-- </div>
 								<h3>Dr. G. Rajkumar </h3>
 								<span>M.D.S., (Perio), MFDS RCPS., (Glasgow)</span><br>
 								<span>Periodontics and Oral Implantology</span>
@@ -153,10 +171,10 @@ curl_close($ch);
 						</div>
 					</div> -->
 
-		
-					<div class="col-lg-4 col-sm-6">
-						<!-- <div class="main-doctors-item hover-style wow fadeInUp delay-0-4s"> -->
-							<!-- <div class="inner-border">
+
+				<div class="col-lg-4 col-sm-6">
+					<!-- <div class="main-doctors-item hover-style wow fadeInUp delay-0-4s"> -->
+					<!-- <div class="inner-border">
 								<div class="doctor-img">
 									<img src="assets/images/doctors/doctor-7.png" alt="Image"style="width:329px; height:293px;">
 
@@ -182,17 +200,17 @@ curl_close($ch);
 											</a>
 										</li>
 									</ul> -->
-								</div>
-								<!-- <h3>Dr Vasanthan</h3>
+				</div>
+				<!-- <h3>Dr Vasanthan</h3>
 								<span>MDS (Orthodontics)</span> -->
-							</div> 
-						<!-- </div> -->
-					</div>
+			</div>
+			<!-- </div> -->
+		</div>
 
-					<div class="col-lg-4 col-sm-6">
-						<!-- <div class="main-doctors-item hover-style wow fadeInUp delay-0-6s"> -->
-							<!-- <div class="inner-border"> -->
-								<!-- <div class="doctor-img">
+		<div class="col-lg-4 col-sm-6">
+			<!-- <div class="main-doctors-item hover-style wow fadeInUp delay-0-6s"> -->
+			<!-- <div class="inner-border"> -->
+			<!-- <div class="doctor-img">
 									<img src="assets/images/doctors/doctor-8.png" alt="Image"style="width:329px; height:293px;">
 
 									<!-- <ul>
@@ -217,14 +235,14 @@ curl_close($ch);
 											</a>
 										</li>
 									</ul> -->
-								</div>
-								<!-- <h3>Dr Arun selva</h3>
+		</div>
+		<!-- <h3>Dr Arun selva</h3>
 								<span>MDS (Conservative and endodontics)</span>  -->
-							<!-- </div> -->
-						<!-- </div> -->
-					</div>
+		<!-- </div> -->
+		<!-- </div> -->
+		</div>
 
-					<!-- <div class="col-lg-12">
+		<!-- <div class="col-lg-12">
 						<div class="pagination">
 							<a href="#" class="next page-count hover-style">
 								<div class="inner-border">
@@ -251,15 +269,15 @@ curl_close($ch);
 							</a>
 						</div>
 					</div> -->
-				</div>
-			</div>
+		</div>
+		</div>
 
-			<!-- <img src="assets/images/doctor-shape.png" class="doctor-shape shape" alt="Image"> -->
-		</section>
-		<!--=== End Doctors Section ===-->
+		<!-- <img src="assets/images/doctor-shape.png" class="doctor-shape shape" alt="Image"> -->
+	</section>
+	<!--=== End Doctors Section ===-->
 
-		<!--=== Start Subscribe Section ===-->
-		<!-- <section class="subscribe-section bg-color-2668f5 ptb-100">
+	<!--=== Start Subscribe Section ===-->
+	<!-- <section class="subscribe-section bg-color-2668f5 ptb-100">
 			<div class="container">
 				<div class="row align-items-center">
 					<div class="col-lg-6">
@@ -282,42 +300,42 @@ curl_close($ch);
 				</div>
 			</div>
 		</section> -->
-		<!--=== End Subscribe Section ===-->
+	<!--=== End Subscribe Section ===-->
 
-		<!-- Footer Start -->
-<?php include 'footer.php';?>
+	<!-- Footer Start -->
+	<?php include 'footer.php'; ?>
 
-<!-- Footer End -->
+	<!-- Footer End -->
 
-		<!--=== Start Copy Right Section ===-->
-		<div class="copy-right-section">
-			<div class="container">
-				<div class="row">
-					<div class="col-lg-8 col-md-7">
-						<p>Copyright © <span>Kirthika Dental Care</span> Is Proudly Owned by <a href="https://www.macincode.com/" target="_blank">Macincode</a></p>
-					</div>
-					<div class="col-lg-4 col-md-5">
-						<ul>
-							<li>
-								<a href="terms-conditions.php">Terms & Condition</a>
-							</li>
-							<li>
-								<a href="privacy-policy.php">Privacy Policy</a>
-							</li>
-						</ul>
-					</div>
+	<!--=== Start Copy Right Section ===-->
+	<div class="copy-right-section">
+		<div class="container">
+			<div class="row">
+				<div class="col-lg-8 col-md-7">
+					<p>Copyright © <span>Kirthika Dental Care</span> Is Proudly Owned by <a href="https://www.macincode.com/" target="_blank">Macincode</a></p>
+				</div>
+				<div class="col-lg-4 col-md-5">
+					<ul>
+						<li>
+							<a href="terms-conditions.php">Terms & Condition</a>
+						</li>
+						<li>
+							<a href="privacy-policy.php">Privacy Policy</a>
+						</li>
+					</ul>
 				</div>
 			</div>
-
-			<!--=== Start back To Top Section ===-->
-			<div class="back-to-top">
-				<i class="icofont-simple-up"></i>
-			</div>
-			<!--=== End Back To Top Section ===-->
 		</div>
-		<!--=== End Copy Right Section ===-->
 
-		<!-- <ul class="rtl-buy">
+		<!--=== Start back To Top Section ===-->
+		<div class="back-to-top">
+			<i class="icofont-simple-up"></i>
+		</div>
+		<!--=== End Back To Top Section ===-->
+	</div>
+	<!--=== End Copy Right Section ===-->
+
+	<!-- <ul class="rtl-buy">
 			<li>
 				<a href="https://www.macincode.com/Kirthika Dental Care/Kirthika Dental Care-rtl/">RTL</a>
 			</li>
@@ -326,18 +344,18 @@ curl_close($ch);
 			</li>
 		</ul> -->
 
-        <!--=== JS Link ===-->
-        <script src="assets/js/jquery.min.js"></script>
-        <script src="assets/js/bootstrap.bundle.min.js"></script>
-		<script src="assets/js/jquery.meanmenu.js"></script>
-		<script src="assets/js/owl.carousel.min.js"></script>
-		<script src="assets/js/carousel-thumbs.min.js"></script>
-        <script src="assets/js/wow.min.js"></script>
-        <script src="assets/js/magnific-popup.min.js"></script>
-        <script src="assets/js/counterup.min.js"></script>
-        <script src="assets/js/waypoints.min.js"></script>
-		<script src="assets/js/custom.js"></script>
-    </body>
+	<!--=== JS Link ===-->
+	<script src="assets/js/jquery.min.js"></script>
+	<script src="assets/js/bootstrap.bundle.min.js"></script>
+	<script src="assets/js/jquery.meanmenu.js"></script>
+	<script src="assets/js/owl.carousel.min.js"></script>
+	<script src="assets/js/carousel-thumbs.min.js"></script>
+	<script src="assets/js/wow.min.js"></script>
+	<script src="assets/js/magnific-popup.min.js"></script>
+	<script src="assets/js/counterup.min.js"></script>
+	<script src="assets/js/waypoints.min.js"></script>
+	<script src="assets/js/custom.js"></script>
+</body>
 
 
 </html>
