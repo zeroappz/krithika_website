@@ -102,26 +102,21 @@
 								<div class="inner-border">
 									<div class="doctor-img">
 										<?php
+									
 										$eventImage = !empty($event['image']) ? $event['image'] : 'assets/images/default-event.jpg';
-
-										// Get the file extension
 										$fileExtension = strtolower(pathinfo($eventImage, PATHINFO_EXTENSION));
-										
-										// Check if it's an image, GIF, or video
 										if (in_array($fileExtension, ['jpg', 'jpeg', 'png', 'webp'])) {
-											echo '<img src="' . htmlspecialchars($eventImage) . '" style="height: 450px; width: 450px;" alt="Event Image">';
+											echo '<img src="' . htmlspecialchars($eventImage) . '" style="height: 450px; width: -webkit-fill-available;" alt="Event Image">';
 										} elseif ($fileExtension === 'gif') {
-											echo '<img src="' . htmlspecialchars($eventImage) . '" style="height: 450px; width: 450px;" alt="Event GIF">';
+											echo '<img src="' . htmlspecialchars($eventImage) . '" style="height: 450px; width: -webkit-fill-available;" alt="Event GIF">';
 										} elseif (in_array($fileExtension, ['mp4', 'webm', 'ogg'])) {
-											echo '<video style="height: 450px; width: 450px;" controls>
+											echo '<video style="height: 450px; width: -webkit-fill-available;" controls>
 													<source src="' . htmlspecialchars($eventImage) . '" type="video/' . $fileExtension . '">
 													Your browser does not support the video tag.
 												  </video>';
 										} else {
-											echo '<img src="assets/images/default-event.jpg" style="height: 450px; width: 450px;" alt="Default Event">';
+											echo '<img src="assets/images/default-event.jpg" style="height: 450px; width: -webkit-fill-available;" alt="Default Event">';
 										}
-										// Define the event's image path
-										// $eventImage = !empty($event['image']) ? $event['image'] : 'assets/images/default-event.jpg';
 										?>
 										<!-- <img src="<?php echo htmlspecialchars($eventImage); ?>" style="height: 450px; width: 450px;" alt="Event Image"> -->
 									</div>
