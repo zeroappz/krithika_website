@@ -121,7 +121,7 @@
 										<!-- <img src="<?php echo htmlspecialchars($eventImage); ?>" style="height: 450px; width: 450px;" alt="Event Image"> -->
 									</div>
 									<h3><?php echo htmlspecialchars($event['title']); ?></h3>
-									<span><?php echo htmlspecialchars($event['date']); ?></span><br>
+									<span><?php echo htmlspecialchars(date('d-m-Y', strtotime($event['date']))); ?></span><br>
 								</div>
 							</div>
 						</div>
