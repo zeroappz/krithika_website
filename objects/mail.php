@@ -18,10 +18,13 @@ class EmailSender
 
         // Server settings
         $this->mailer->isSMTP();
+        // $this->mailer->Host       = 'smtp.gmail.com';
         $this->mailer->Host       = 'mail.macincode.com';
         $this->mailer->SMTPAuth   = true;
         $this->mailer->Username   = 'dev@macincode.com';
-        $this->mailer->Password   = 'xy-I&Ee~Ad[N'; //'jeginmaccollab';
+        $this->mailer->Password   = 'xy-I&Ee~Ad[N';
+        // $this->mailer->Username   = 'jeginrvp@gmail.com';
+        // $this->mailer->Password   = 'quxh lqbx baej awqt'; 
         $this->mailer->SMTPSecure = 'tls';
         $this->mailer->Port       = 587;
 
@@ -50,9 +53,9 @@ class EmailSender
             if ($this->mailer->send()) {
                 // echo 'Email sent successfully';
                 return true;
-            } else {              
+            } else {
                 return false;
-            }           
+            }
         } catch (Exception $e) {
             return false;
         }
