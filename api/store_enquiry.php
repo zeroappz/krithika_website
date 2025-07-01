@@ -56,7 +56,6 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
         // $message = str_replace('{feed_back}', $feed_back, $message);
     
         $mailSuccess = $emailSender->sendEmail($to, $subject, $message);
-    
         if ($mailSuccess) {
             $response = array('status' => 'success', 'message' => 'Enquiry was created. Email sent successfully');
             echo json_encode($response);

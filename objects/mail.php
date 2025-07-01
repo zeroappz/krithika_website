@@ -18,15 +18,16 @@ class EmailSender
 
         // Server settings
         $this->mailer->isSMTP();
-        $this->mailer->Host       = 'smtp.gmail.com';
+        $this->mailer->Host       = 'mail.macincode.com';
         $this->mailer->SMTPAuth   = true;
-        $this->mailer->Username   = 'jeginrvp@gmail.com';
-        $this->mailer->Password   = 'quxh lqbx baej awqt'; //'jeginmaccollab';
+        $this->mailer->Username   = 'dev@macincode.com';
+        $this->mailer->Password   = 'xy-I&Ee~Ad[N'; //'jeginmaccollab';
         $this->mailer->SMTPSecure = 'tls';
         $this->mailer->Port       = 587;
 
         // Additional settings if needed
-        // $this->mailer->SMTPDebug  = 3; // Enable verbose debug output
+        // $this->mailer->Timeout = 5; // seconds
+        // $this->mailer->SMTPDebug  = 2; // Enable verbose debug output
         //$this->mailer->CharSet    = 'UTF-8';
         //$this->mailer->setLanguage('en', 'path/to/PHPMailer/language/');
     }
@@ -37,7 +38,7 @@ class EmailSender
         try {
 
             // Recipients
-            $this->mailer->setFrom('jeginrvp@gmail.com', 'Kirthika Dental Care');
+            $this->mailer->setFrom('dev@macincode.com', 'Kirthika Dental Care');
             $this->mailer->addAddress($to);
 
             // Content
@@ -49,8 +50,7 @@ class EmailSender
             if ($this->mailer->send()) {
                 // echo 'Email sent successfully';
                 return true;
-            } else {
-                // echo 'Error: ' . $this->mailer->ErrorInfo;
+            } else {              
                 return false;
             }           
         } catch (Exception $e) {
