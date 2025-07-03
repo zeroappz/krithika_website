@@ -20,6 +20,18 @@
     <link rel="stylesheet" href="assets/css/style.css">
     <link rel="stylesheet" href="assets/css/responsive.css">
 
+    <!-- Flatpickr CSS -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/flatpickr/dist/flatpickr.min.css">
+    <!-- Font Awesome -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <!-- Font Awesome -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+
+    <!-- Optional Flatpickr Theme -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/flatpickr/dist/themes/material_orange.css">
+
+
+
     <!--=== Favicon ===-->
     <link rel="icon" type="image/png" href="assets/images/favicon.png">
     <!--=== Title ===-->
@@ -40,6 +52,136 @@
             box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
         }
     </style>
+    <style>
+        /* Style the input field (unchanged) */
+        .flatpickr-time input.flatpickr-minute {
+            font-weight: bold !important;
+            background-color: #f0c64682 !important;
+            color: #000000de !important;
+            border-radius: 10px;
+        }
+
+        .flatpickr-time input.flatpickr-minute:hover {
+            font-weight: bold !important;
+            background-color: #f0c64682 !important;
+            color: #000000de !important;
+            border-radius: 10px;
+        }
+
+        .flatpickr-time input.flatpickr-hour {
+            font-weight: bold !important;
+            background-color: #f0c64682 !important;
+            color: #000000de !important;
+            border-radius: 10px;
+        }
+
+        .flatpickr-time input.flatpickr-hour:hover {
+            font-weight: bold !important;
+            background-color: #f0c64682 !important;
+            color: #000000de !important;
+            border-radius: 10px;
+        }
+
+        .flatpickr-calendar.timeOnly .flatpickr-time {
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: center;
+            gap: 9px;
+            padding: 5px;
+            max-height: 62px;
+            /* overflow-y: auto; */
+            text-align: center;
+            line-height: 26px;
+        }
+
+        /* Time input boxes */
+        .flatpickr-time input,
+        .flatpickr-am-pm {
+            font-size: 14px;
+            font-weight: bold;
+            border-radius: 6px;
+            /* border: 1px solid #ccc; */
+            padding: 6px 8px;
+            text-align: center;
+            background-color: #f0c64682 !important;
+            color: #000000de !important;
+            font-weight: bold !important;
+        }
+
+
+
+        .numInputWrapper span {
+            position: absolute;
+            right: 0;
+            width: 14px;
+            padding: 0 4px 0 2px;
+            height: 50%;
+            line-height: 50%;
+            opacity: 0;
+            cursor: pointer;
+            border: 1px solid rgba(57, 57, 57, 0.15);
+            -webkit-box-sizing: border-box;
+            box-sizing: border-box;
+            border: none !important;
+            background-color: transparent !important;
+
+        }
+
+        /* Fade in animation */
+        @keyframes fadeIn {
+            from {
+                opacity: 0;
+                transform: translateY(-10px);
+            }
+
+            to {
+                opacity: 1;
+                transform: translateY(0);
+            }
+        }
+    </style>
+    <style>
+        /* Custom flatpickr styling */
+        .flatpickr-calendar {
+            background-color: #fff9e6 !important;
+            border: 1px solid #f0c64682 !important;
+        }
+
+        .flatpickr-day.selected,
+        .flatpickr-day.startRange,
+        .flatpickr-day.endRange {
+            background: #f0c64682 !important;
+            color: black !important;
+            border: none !important;
+        }
+
+        .flatpickr-day:hover {
+            background: #f0c64682 !important;
+            color: black !important;
+        }
+
+        .flatpickr-months .flatpickr-month {
+            color: #a37400 !important;
+        }
+
+        /* Optional: Better spacing */
+        .d-flex {
+            display: flex;
+            align-items: center;
+            gap: 10px;
+            max-width: 500px;
+            margin: 40px auto;
+        }
+
+        .form-control {
+            flex: 1;
+        }
+
+        .flatpickr-day.today {
+            color: #a37400 !important;
+        }
+    </style>
+
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/flatpickr/dist/flatpickr.min.css">
 
 </head>
@@ -69,7 +211,7 @@
                                         <div class="form-floating form-floating-outline mb-4">
                                             <div class="d-flex">
                                                 <div class="input-group-prepend">
-                                                    <span class="input-group-text" style="font-size: 40px; border-bottom-color: lightgray; background-color: rgba(255, 255, 255, 0); border: none;"><i class="fa fa-user" style="height: 40px; width: 40px; color: blue;"></i></span>
+                                                    <span class="input-group-text" style="font-size: 40px; border-bottom-color: lightgray; background-color: rgba(255, 255, 255, 0); border: none;"><i class="fa fa-user" style="height: 40px; width: 40px; color: #f0c64682;"></i></span>
                                                 </div>
                                                 <input type="text" name="patient_name" class="form-control" style="border: none; border-bottom: 1px solid black; width: 400px;  background-color: transparent;" required placeholder="Enter Your Name">
                                             </div>
@@ -79,7 +221,7 @@
                                         <div class="form-floating form-floating-outline mb-4">
                                             <div class="d-flex">
                                                 <div class="input-group-prepend">
-                                                    <span class="input-group-text" style="font-size: 40px; border-radius: 0.25rem; background-color: rgba(255, 255, 255, 0); border: none;"><i class="fa fa-cogs" style="height: 40px; width: 40px; color: green;"></i></span>
+                                                    <span class="input-group-text" style="font-size: 40px; border-radius: 0.25rem; background-color: rgba(255, 255, 255, 0); border: none;"><i class="fa fa-cogs" style="height: 40px; width: 40px; color: #f0c64682;"></i></span>
                                                 </div>
                                                 <select name="service_name" class="form-control" style="border: none; border-bottom: 1px solid black; width: 400px;  background-color: transparent;" required placeholder="Select Your Services">
                                                     <option value="">-Select Your Services-</option>
@@ -104,7 +246,7 @@
                                         <div class="form-floating form-floating-outline mb-4">
                                             <div class="d-flex">
                                                 <div class="input-group-prepend">
-                                                    <span class="input-group-text" style="font-size: 50px; background-color: rgba(255, 255, 255, 0); border: none;"><i class="fa fa-mobile" style="height: 40px; width: 40px; color: red;"></i></span>
+                                                    <span class="input-group-text" style="font-size: 50px; background-color: rgba(255, 255, 255, 0); border: none;"><i class="fa fa-mobile" style="height: 40px; width: 40px; color: #f0c64682;"></i></span>
                                                 </div>
                                                 <input type="tel" name="mobile_number" class="form-control" style="border: none; border-bottom: 1px solid black; width: 400px;  background-color: transparent;" required placeholder="Enter Your Mobile Number">
                                             </div>
@@ -114,9 +256,13 @@
                                         <div class="form-floating form-floating-outline mb-4">
                                             <div class="d-flex">
                                                 <div class="input-group-prepend">
-                                                    <span class="input-group-text" style="font-size: 40px; background-color: rgba(255, 255, 255, 0); border: none;"><i class="fa fa-calendar" style="height: 40px; width: 40px; color: orange;"></i></span>
+                                                    <span class="input-group-text" style="font-size: 40px; background-color: transparent; border: none;">
+                                                        <i class="fa fa-calendar" style="height: 40px; width: 40px; color: #f0c64682;"></i>
+                                                    </span>
                                                 </div>
-                                                <input type="text" name="appointment_date" id="appointment_date" class="form-control" style="border: none; border-bottom: 1px solid black; width: 400px;  background-color: transparent;" placeholder="Appointment Date">
+                                                <input type="text" name="appointment_date" id="appointment_date" class="form-control"
+                                                    style="border: none; border-bottom: 1px solid black; background-color: transparent;"
+                                                    placeholder="Appointment Date">
                                             </div>
                                         </div>
                                     </div>
@@ -127,9 +273,13 @@
                                         <div class="form-floating form-floating-outline mb-4">
                                             <div class="d-flex">
                                                 <div class="input-group-prepend">
-                                                    <span class="input-group-text" style="font-size: 40px; background-color: rgba(255, 255, 255, 0); border: none;"><i class="fa fa-calendar-check-o" style="height: 40px; width: 40px; color: purple;"></i></span>
+                                                    <span class="input-group-text" style="font-size: 40px; background-color: rgba(255, 255, 255, 0); border: none;">
+                                                        <i class="fa fa-calendar-check-o" style="height: 40px; width: 40px; color: #f0c64682;"></i>
+                                                    </span>
                                                 </div>
-                                                <input type="text" name="appointment_time" id="appointment_time" class="form-control" style="border: none;  border-bottom: 1px solid black; width: 400px; background-color: transparent;" placeholder="Appointment Time">
+                                                <input type="text" name="appointment_time" id="appointment_time" class="form-control"
+                                                    style="border: none; border-bottom: 1px solid black; width: 400px; background-color: transparent;"
+                                                    placeholder="Appointment Time">
                                             </div>
                                         </div>
                                     </div>
@@ -137,7 +287,7 @@
                                         <div class="form-floating form-floating-outline mb-4">
                                             <div class="d-flex">
                                                 <div class="input-group-prepend">
-                                                    <span class="input-group-text" style="font-size: 40px; background-color: rgba(255, 255, 255, 0); border: none;"><i class="fa fa-comment" style="height: 40px; width: 40px; color: brown;"></i></span>
+                                                    <span class="input-group-text" style="font-size: 40px; background-color: rgba(255, 255, 255, 0); border: none;"><i class="fa fa-comment" style="height: 40px; width: 40px; color: #f0c64682;"></i></span>
                                                 </div>
                                                 <textarea name="enquiry" style="height: 55px; border: none; background-color: transparent; border-bottom: 1px solid black; width: 400px; " class="form-control" required placeholder="Enter Special Request"></textarea>
                                             </div>
@@ -233,26 +383,33 @@
         });
     });
 </script>
+<!-- time picker  -->
+<script src="https://cdn.jsdelivr.net/npm/flatpickr"></script>
 <script>
-    document.addEventListener('DOMContentLoaded', function() {
-        var appointmentDateInput = document.getElementById('appointment_date');
-        flatpickr(appointmentDateInput, {
-            enableTime: false,
-            dateFormat: "Y-m-d",
-            // minDate: "today"
-        });
-    });
-    document.addEventListener('DOMContentLoaded', function() {
-        var appointmentTimeInput = document.getElementById('appointment_time');
-        flatpickr(appointmentTimeInput, {
-            enableTime: true, // Enable time selection
-            noCalendar: true, // Hide calendar
-            dateFormat: "H:i", // Format for displaying time
-            time_24hr: true // Use 24-hour time format
-        });
+    flatpickr("#appointment_time", {
+        enableTime: true,
+        noCalendar: true,
+        dateFormat: "h:i K",
+        time_24hr: false,
+        minuteIncrement: 5,
+        disableMobile: true,
+        allowInput: true,
+        onReady: function(selectedDates, dateStr, instance) {
+            instance.calendarContainer.classList.add("timeOnly");
+        }
     });
 </script>
 
+
+<!-- Flatpickr JS -->
+<script src="https://cdn.jsdelivr.net/npm/flatpickr"></script>
+<script>
+    flatpickr("#appointment_date", {
+        dateFormat: "Y-m-d",
+        allowInput: true,
+        defaultDate: "today"
+    });
+</script>
 
 
 
